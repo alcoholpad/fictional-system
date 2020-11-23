@@ -55,14 +55,22 @@ jobs:
         
         continue-on-error: true
 
-        run: cd subDomainsBrute && cat ../target.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i $line -o output.txt && cat output.txt|cut -d " " -f 1 >> ../tmp.txt || true; done
+        run: cd subDomainsBrute && echo "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../target.txt |while IFS= read -r line; do python3 subDomainsBrute.py --full -i -w $line -o output.txt && cat output.txt|cut -d " " -f 1 >> ../tmp.txt || true; done
 
 
-      - name: Uniq
+      - name: Uniq A
+        
+        continue-on-error: true
+
+        run: cat domains.txt >> tmp.txt
+
+
+      - name: Uniq B
         
         continue-on-error: true
 
         run: cat tmp.txt | sort -u > domains.txt && rm tmp.txt
+
 
       - name: Add & Commit
         
