@@ -55,7 +55,7 @@ jobs:
         
         continue-on-error: true
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../target.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt|cut -d " " -f 1 >> ../tmp.txt || true; done
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../target.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | tr -s " " | cut -d " " -f 1 >> ../tmp.txt || true; done
 
 
       - name: Uniq A
