@@ -1,0 +1,909 @@
+# This is a basic workflow to help you get started with Actions
+
+
+
+name: RUNFULL
+
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+
+# events but only for the master branch
+
+on:
+
+  workflow_dispatch:
+
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+
+jobs:
+
+  # This workflow contains a single job called "build"
+
+
+  runcmd1:
+    continue-on-error: true
+    
+
+
+    # The type of runner that the job will run on
+
+
+    runs-on: ubuntu-18.04
+
+
+
+
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+      - uses: actions/checkout@v2
+        with:
+
+          ref: 'main'
+
+      - name: Download Tools
+        
+        continue-on-error: true
+
+        run: git clone https://github.com/lijiejie/subDomainsBrute.git
+
+
+      - name: Install Dep
+        
+        continue-on-error: true
+
+        run:  python3 -m pip install -U pip setuptools && python3 -m pip install aiodns
+
+
+      - name: Prep Queue
+        
+        continue-on-error: true
+
+        run: cat target.txt > queue.txt && echo "" > done.txt
+        
+
+      - name: Run Tools
+        
+        continue-on-error: true
+
+        timeout-minutes: 300
+
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py --full -i $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt || true; done
+
+
+      - name: Uniq A
+        
+        continue-on-error: true
+
+        run: cat domains.txt >> tmp.txt
+
+
+      - name: Uniq B
+        
+        continue-on-error: true
+
+        run: cat tmp.txt | sort -u > domains.txt && rm tmp.txt
+
+
+      - name: Add & Commit
+        
+        continue-on-error: true
+
+        uses: EndBug/add-and-commit@v4.4.0
+
+  runcmd2:
+    needs: [runcmd1]
+    continue-on-error: true
+
+
+    # The type of runner that the job will run on
+
+
+    runs-on: ubuntu-18.04
+
+
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+
+
+
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+      - uses: actions/checkout@v2
+        with:
+
+          ref: 'main'
+
+      - name: Download Tools
+        
+        continue-on-error: true
+
+        run: git clone https://github.com/lijiejie/subDomainsBrute.git
+
+
+      - name: Install Dep
+        
+        continue-on-error: true
+
+        run:  python3 -m pip install -U pip setuptools && python3 -m pip install aiodns
+
+
+      - name: Prep Queue
+        
+        continue-on-error: true
+
+        run: cat target.txt | grep -v -x -f done.txt > queue.txt
+        
+
+
+      - name: Run Tools
+        
+        continue-on-error: true
+
+        timeout-minutes: 300
+
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py --full -i $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
+
+
+      - name: Uniq A
+        
+        continue-on-error: true
+
+        run: cat domains.txt >> tmp.txt
+
+
+      - name: Uniq B
+        
+        continue-on-error: true
+
+        run: cat tmp.txt | sort -u > domains.txt && rm tmp.txt
+
+
+      - name: Add & Commit
+        
+        continue-on-error: true
+
+        uses: EndBug/add-and-commit@v4.4.0
+
+  runcmd3:
+    needs: [runcmd2]
+    continue-on-error: true
+
+
+    # The type of runner that the job will run on
+
+
+    runs-on: ubuntu-18.04
+
+
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+
+
+    steps:
+
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+
+ 
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+      - uses: actions/checkout@v2
+        with:
+
+          ref: 'main'
+
+      - name: Download Tools
+        
+        continue-on-error: true
+
+        run: git clone https://github.com/lijiejie/subDomainsBrute.git
+
+
+      - name: Install Dep
+        
+        continue-on-error: true
+
+        run:  python3 -m pip install -U pip setuptools && python3 -m pip install aiodns
+
+      - name: Prep Queue
+        
+        continue-on-error: true
+
+        run: cat target.txt | grep -v -x -f done.txt > queue.txt        
+
+      - name: Run Tools
+        
+        continue-on-error: true
+
+        timeout-minutes: 300
+
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py --full -i $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
+
+
+      - name: Uniq A
+        
+        continue-on-error: true
+
+        run: cat domains.txt >> tmp.txt
+
+
+      - name: Uniq B
+        
+        continue-on-error: true
+
+        run: cat tmp.txt | sort -u > domains.txt && rm tmp.txt
+
+
+      - name: Add & Commit
+        
+        continue-on-error: true
+
+        uses: EndBug/add-and-commit@v4.4.0
+
+
+  runcmd4:
+    needs: [runcmd3]
+    continue-on-error: true
+
+
+    # The type of runner that the job will run on
+
+
+    runs-on: ubuntu-18.04
+
+
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+
+
+  
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+      - uses: actions/checkout@v2
+        with:
+
+          ref: 'main'
+
+      - name: Download Tools
+        
+        continue-on-error: true
+
+        run: git clone https://github.com/lijiejie/subDomainsBrute.git
+
+
+      - name: Install Dep
+        
+        continue-on-error: true
+
+        run:  python3 -m pip install -U pip setuptools && python3 -m pip install aiodns
+
+      - name: Prep Queue
+        
+        continue-on-error: true
+
+        run: cat target.txt | grep -v -x -f done.txt > queue.txt        
+
+      - name: Run Tools
+        
+        continue-on-error: true
+
+        timeout-minutes: 300
+
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py --full -i $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
+
+
+      - name: Uniq A
+        
+        continue-on-error: true
+
+        run: cat domains.txt >> tmp.txt
+
+
+      - name: Uniq B
+        
+        continue-on-error: true
+
+        run: cat tmp.txt | sort -u > domains.txt && rm tmp.txt
+
+
+      - name: Add & Commit
+        
+        continue-on-error: true
+
+        uses: EndBug/add-and-commit@v4.4.0
+
+  runcmd5:
+    needs: [runcmd4]
+    continue-on-error: true
+
+
+    # The type of runner that the job will run on
+
+
+    runs-on: ubuntu-18.04
+
+
+
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+      - uses: actions/checkout@v2
+        with:
+
+          ref: 'main'
+
+      - name: Download Tools
+        
+        continue-on-error: true
+
+        run: git clone https://github.com/lijiejie/subDomainsBrute.git
+
+
+      - name: Install Dep
+        
+        continue-on-error: true
+
+        run:  python3 -m pip install -U pip setuptools && python3 -m pip install aiodns
+
+      - name: Prep Queue
+        
+        continue-on-error: true
+
+        run: cat target.txt | grep -v -x -f done.txt > queue.txt        
+
+      - name: Run Tools
+        
+        continue-on-error: true
+
+        timeout-minutes: 300
+
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py --full -i $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
+
+
+      - name: Uniq A
+        
+        continue-on-error: true
+
+        run: cat domains.txt >> tmp.txt
+
+
+      - name: Uniq B
+        
+        continue-on-error: true
+
+        run: cat tmp.txt | sort -u > domains.txt && rm tmp.txt
+
+
+      - name: Add & Commit
+        
+        continue-on-error: true
+
+        uses: EndBug/add-and-commit@v4.4.0
+
+  runcmd6:
+    needs: [runcmd5]
+    continue-on-error: true
+
+
+    # The type of runner that the job will run on
+
+
+    runs-on: ubuntu-18.04
+
+
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+
+
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+      - uses: actions/checkout@v2
+        with:
+
+          ref: 'main'
+
+      - name: Download Tools
+        
+        continue-on-error: true
+
+        run: git clone https://github.com/lijiejie/subDomainsBrute.git
+
+
+      - name: Install Dep
+        
+        continue-on-error: true
+
+        run:  python3 -m pip install -U pip setuptools && python3 -m pip install aiodns
+
+      - name: Prep Queue
+        
+        continue-on-error: true
+
+        run: cat target.txt | grep -v -x -f done.txt > queue.txt        
+
+      - name: Run Tools
+        
+        continue-on-error: true
+
+        timeout-minutes: 300
+
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py --full -i $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
+
+
+      - name: Uniq A
+        
+        continue-on-error: true
+
+        run: cat domains.txt >> tmp.txt
+
+
+      - name: Uniq B
+        
+        continue-on-error: true
+
+        run: cat tmp.txt | sort -u > domains.txt && rm tmp.txt
+
+
+      - name: Add & Commit
+        
+        continue-on-error: true
+
+        uses: EndBug/add-and-commit@v4.4.0
+
+  runcmd7:
+    needs: [runcmd6]
+    continue-on-error: true
+
+
+    # The type of runner that the job will run on
+
+
+    runs-on: ubuntu-18.04
+
+
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+
+
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+      - uses: actions/checkout@v2
+        with:
+
+          ref: 'main'
+
+      - name: Download Tools
+        
+        continue-on-error: true
+
+        run: git clone https://github.com/lijiejie/subDomainsBrute.git
+
+
+      - name: Install Dep
+        
+        continue-on-error: true
+
+        run:  python3 -m pip install -U pip setuptools && python3 -m pip install aiodns
+
+      - name: Prep Queue
+        
+        continue-on-error: true
+
+        run: cat target.txt | grep -v -x -f done.txt > queue.txt        
+
+      - name: Run Tools
+        
+        continue-on-error: true
+
+        timeout-minutes: 300
+
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py --full -i $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
+
+
+      - name: Uniq A
+        
+        continue-on-error: true
+
+        run: cat domains.txt >> tmp.txt
+
+
+      - name: Uniq B
+        
+        continue-on-error: true
+
+        run: cat tmp.txt | sort -u > domains.txt && rm tmp.txt
+
+
+      - name: Add & Commit
+        
+        continue-on-error: true
+
+        uses: EndBug/add-and-commit@v4.4.0
+
+  runcmd8:
+    needs: [runcmd7]
+    continue-on-error: true
+
+
+    # The type of runner that the job will run on
+
+
+    runs-on: ubuntu-18.04
+
+
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+
+
+
+
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+      - uses: actions/checkout@v2
+        with:
+
+          ref: 'main'
+
+      - name: Download Tools
+        
+        continue-on-error: true
+
+        run: git clone https://github.com/lijiejie/subDomainsBrute.git
+
+
+      - name: Install Dep
+        
+        continue-on-error: true
+
+        run:  python3 -m pip install -U pip setuptools && python3 -m pip install aiodns
+
+      - name: Prep Queue
+        
+        continue-on-error: true
+
+        run: cat target.txt | grep -v -x -f done.txt > queue.txt        
+
+      - name: Run Tools
+        
+        continue-on-error: true
+
+        timeout-minutes: 300
+
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py --full -i $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
+
+
+      - name: Uniq A
+        
+        continue-on-error: true
+
+        run: cat domains.txt >> tmp.txt
+
+
+      - name: Uniq B
+        
+        continue-on-error: true
+
+        run: cat tmp.txt | sort -u > domains.txt && rm tmp.txt
+
+
+      - name: Add & Commit
+        
+        continue-on-error: true
+
+        uses: EndBug/add-and-commit@v4.4.0
+
+  runcmd9:
+    needs: [runcmd8]
+    continue-on-error: true
+
+
+    # The type of runner that the job will run on
+
+
+    runs-on: ubuntu-18.04
+
+
+
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+
+
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+      - uses: actions/checkout@v2
+        with:
+
+          ref: 'main'
+
+      - name: Download Tools
+        
+        continue-on-error: true
+
+        run: git clone https://github.com/lijiejie/subDomainsBrute.git
+
+
+      - name: Install Dep
+        
+        continue-on-error: true
+
+        run:  python3 -m pip install -U pip setuptools && python3 -m pip install aiodns
+
+      - name: Prep Queue
+        
+        continue-on-error: true
+
+        run: cat target.txt | grep -v -x -f done.txt > queue.txt        
+
+      - name: Run Tools
+        
+        continue-on-error: true
+
+        timeout-minutes: 300
+
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py --full -i $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
+
+
+      - name: Uniq A
+        
+        continue-on-error: true
+
+        run: cat domains.txt >> tmp.txt
+
+
+      - name: Uniq B
+        
+        continue-on-error: true
+
+        run: cat tmp.txt | sort -u > domains.txt && rm tmp.txt
+
+
+      - name: Add & Commit
+        
+        continue-on-error: true
+
+        uses: EndBug/add-and-commit@v4.4.0
+
+  runcmd10:
+    needs: [runcmd9]
+    continue-on-error: true
+
+
+    # The type of runner that the job will run on
+
+
+    runs-on: ubuntu-18.04
+
+
+
+
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+
+
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+      - uses: actions/checkout@v2
+        with:
+
+          ref: 'main'
+
+      - name: Download Tools
+        
+        continue-on-error: true
+
+        run: git clone https://github.com/lijiejie/subDomainsBrute.git
+
+
+      - name: Install Dep
+        
+        continue-on-error: true
+
+        run:  python3 -m pip install -U pip setuptools && python3 -m pip install aiodns
+
+      - name: Prep Queue
+        
+        continue-on-error: true
+
+        run: cat target.txt | grep -v -x -f done.txt > queue.txt        
+
+      - name: Run Tools
+        
+        continue-on-error: true
+
+        timeout-minutes: 300
+
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py --full -i $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
+
+
+      - name: Uniq A
+        
+        continue-on-error: true
+
+        run: cat domains.txt >> tmp.txt
+
+
+      - name: Uniq B
+        
+        continue-on-error: true
+
+        run: cat tmp.txt | sort -u > domains.txt && rm tmp.txt
+
+
+      - name: Add & Commit
+        
+        continue-on-error: true
+
+        uses: EndBug/add-and-commit@v4.4.0
+
+  runcmd11:
+    needs: [runcmd10]
+    continue-on-error: true
+
+
+
+    # The type of runner that the job will run on
+
+
+    runs-on: ubuntu-18.04
+
+
+
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+
+
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+      - uses: actions/checkout@v2
+        with:
+
+          ref: 'main'
+
+      - name: Download Tools
+        
+        continue-on-error: true
+
+        run: git clone https://github.com/lijiejie/subDomainsBrute.git
+
+
+      - name: Install Dep
+        
+        continue-on-error: true
+
+        run:  python3 -m pip install -U pip setuptools && python3 -m pip install aiodns
+
+      - name: Prep Queue
+        
+        continue-on-error: true
+
+        run: cat target.txt | grep -v -x -f done.txt > queue.txt        
+
+      - name: Run Tools
+        
+        continue-on-error: true
+
+        timeout-minutes: 300
+
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py --full -i $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
+
+
+      - name: Uniq A
+        
+        continue-on-error: true
+
+        run: cat domains.txt >> tmp.txt
+
+
+      - name: Uniq B
+        
+        continue-on-error: true
+
+        run: cat tmp.txt | sort -u > domains.txt && rm tmp.txt
+
+
+      - name: Add & Commit
+        
+        continue-on-error: true
+
+        uses: EndBug/add-and-commit@v4.4.0
+
+  runcmd12:
+    needs: [runcmd11]
+    continue-on-error: true
+
+
+
+    # The type of runner that the job will run on
+
+
+    runs-on: ubuntu-18.04
+
+
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+
+
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+      - uses: actions/checkout@v2
+        with:
+
+          ref: 'main'
+
+      - name: Download Tools
+        
+        continue-on-error: true
+
+        run: git clone https://github.com/lijiejie/subDomainsBrute.git
+
+
+      - name: Install Dep
+        
+        continue-on-error: true
+
+        run:  python3 -m pip install -U pip setuptools && python3 -m pip install aiodns
+
+      - name: Prep Queue
+        
+        continue-on-error: true
+
+        run: cat target.txt | grep -v -x -f done.txt > queue.txt        
+
+      - name: Run Tools
+        
+        continue-on-error: true
+
+        timeout-minutes: 300
+
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py --full -i $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
+
+
+      - name: Uniq A
+        
+        continue-on-error: true
+
+        run: cat domains.txt >> tmp.txt
+
+
+      - name: Uniq B
+        
+        continue-on-error: true
+
+        run: cat tmp.txt | sort -u > domains.txt && rm tmp.txt
+
+
+      - name: Add & Commit
+        
+        continue-on-error: true
+
+        uses: EndBug/add-and-commit@v4.4.0
