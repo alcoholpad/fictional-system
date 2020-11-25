@@ -11,6 +11,10 @@ name: CHECKALIVE
 
 on:
 
+
+  schedule:
+    - cron: '0 10 */2 * *'
+
   workflow_dispatch:
 
 
@@ -48,8 +52,20 @@ jobs:
         
         continue-on-error: true
 
-        run: /home/runner/go/bin/httpx -l domains.txt -o alives.txt
+        run: /home/runner/go/bin/httpx -l domains.txt -o alives_tmp.txt
 
+
+      - name: Unique A
+        
+        continue-on-error: true
+
+        run: cat alives.txt >> alives_tmp.txt
+
+      - name: Unique B
+        
+        continue-on-error: true
+
+        run: cat alives_tmp.txt | sort -u > alives.txt
 
       - name: Add & Commit
         
