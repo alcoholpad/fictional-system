@@ -11,6 +11,10 @@ name: RUN
 
 on:
 
+
+  schedule:
+    - cron: '0 5 */2 * *'
+      
   workflow_dispatch:
 
 
