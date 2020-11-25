@@ -70,7 +70,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt || true; done
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt || true; done
 
 
       - name: Uniq A
@@ -146,7 +146,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
 
 
       - name: Uniq A
@@ -220,7 +220,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
 
 
       - name: Uniq A
@@ -294,7 +294,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
 
 
       - name: Uniq A
@@ -363,7 +363,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
 
 
       - name: Uniq A
@@ -435,7 +435,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
 
 
       - name: Uniq A
@@ -508,7 +508,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
 
 
       - name: Uniq A
@@ -582,7 +582,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
 
 
       - name: Uniq A
@@ -656,7 +656,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
 
 
       - name: Uniq A
@@ -731,7 +731,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
 
 
       - name: Uniq A
@@ -806,7 +806,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
 
 
       - name: Uniq A
@@ -880,7 +880,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
+        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
 
 
       - name: Uniq A
