@@ -10,6 +10,7 @@ pipedrive.com
 kurbo.com
 lyft.net
 battlenet.com.cn
+newrelic.com
 lyft.com
 baywheels.com
 worldofwarcraft.com
