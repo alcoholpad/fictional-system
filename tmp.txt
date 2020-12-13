@@ -1,4 +1,0 @@
-stage.rockstarnorth.com
-owa.rockstarnorth.com
-www.rockstarnorth.com
-sip.rockstarnorth.com
