@@ -59,7 +59,7 @@ jobs:
         
         continue-on-error: true
 
-        run: cat alives.txt >> alives_tmp.txt
+        run: echo "" > alives.txt
 
       - name: Unique B
         
