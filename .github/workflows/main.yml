@@ -14,7 +14,8 @@ on:
 
   schedule:
     - cron: '0 5 */2 * *'
-      
+
+
   workflow_dispatch:
 
 
@@ -51,21 +52,21 @@ jobs:
         
         continue-on-error: true
 
-        run: git clone https://github.com/lijiejie/subDomainsBrute.git
+        run: GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
 
 
       - name: Install Dep
         
         continue-on-error: true
 
-        run:  python3 -m pip install -U pip setuptools && python3 -m pip install aiodns
+        run:  /home/runner/go/bin/subfinder -h
 
 
       - name: Prep Queue
         
         continue-on-error: true
 
-        run: cat target.txt > queue.txt && echo "" > done.txt
+        run: cat target.txt > queue.txt && echo "" > done.txt && echo "" > domains.txt
         
 
       - name: Run Tools
@@ -74,7 +75,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt || true; done
+        run:  cat queue.txt |while IFS= read -r line; do /home/runner/go/bin/subfinder -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
 
 
       - name: Uniq A
@@ -126,14 +127,14 @@ jobs:
         
         continue-on-error: true
 
-        run: git clone https://github.com/lijiejie/subDomainsBrute.git
+        run: GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
 
 
       - name: Install Dep
         
         continue-on-error: true
 
-        run:  python3 -m pip install -U pip setuptools && python3 -m pip install aiodns
+        run:  /home/runner/go/bin/subfinder -h
 
 
       - name: Prep Queue
@@ -150,8 +151,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
-
+        run:  cat queue.txt |while IFS= read -r line; do /home/runner/go/bin/subfinder -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
 
       - name: Uniq A
         
@@ -203,14 +203,14 @@ jobs:
         
         continue-on-error: true
 
-        run: git clone https://github.com/lijiejie/subDomainsBrute.git
+        run: GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
 
 
       - name: Install Dep
         
         continue-on-error: true
 
-        run:  python3 -m pip install -U pip setuptools && python3 -m pip install aiodns
+        run:  /home/runner/go/bin/subfinder -h
 
       - name: Prep Queue
         
@@ -224,8 +224,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
-
+        run:  cat queue.txt |while IFS= read -r line; do /home/runner/go/bin/subfinder -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
 
       - name: Uniq A
         
@@ -277,14 +276,14 @@ jobs:
         
         continue-on-error: true
 
-        run: git clone https://github.com/lijiejie/subDomainsBrute.git
+        run: GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
 
 
       - name: Install Dep
         
         continue-on-error: true
 
-        run:  python3 -m pip install -U pip setuptools && python3 -m pip install aiodns
+        run:  /home/runner/go/bin/subfinder -h
 
       - name: Prep Queue
         
@@ -298,8 +297,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
-
+        run:  cat queue.txt |while IFS= read -r line; do /home/runner/go/bin/subfinder -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
 
       - name: Uniq A
         
@@ -346,14 +344,14 @@ jobs:
         
         continue-on-error: true
 
-        run: git clone https://github.com/lijiejie/subDomainsBrute.git
+        run: GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
 
 
       - name: Install Dep
         
         continue-on-error: true
 
-        run:  python3 -m pip install -U pip setuptools && python3 -m pip install aiodns
+        run:  /home/runner/go/bin/subfinder -h
 
       - name: Prep Queue
         
@@ -367,8 +365,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
-
+        run:  cat queue.txt |while IFS= read -r line; do /home/runner/go/bin/subfinder -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
 
       - name: Uniq A
         
@@ -418,14 +415,14 @@ jobs:
         
         continue-on-error: true
 
-        run: git clone https://github.com/lijiejie/subDomainsBrute.git
+        run: GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
 
 
       - name: Install Dep
         
         continue-on-error: true
 
-        run:  python3 -m pip install -U pip setuptools && python3 -m pip install aiodns
+        run:  /home/runner/go/bin/subfinder -h
 
       - name: Prep Queue
         
@@ -439,8 +436,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
-
+        run:  cat queue.txt |while IFS= read -r line; do /home/runner/go/bin/subfinder -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
 
       - name: Uniq A
         
@@ -491,14 +487,14 @@ jobs:
         
         continue-on-error: true
 
-        run: git clone https://github.com/lijiejie/subDomainsBrute.git
+        run: GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
 
 
       - name: Install Dep
         
         continue-on-error: true
 
-        run:  python3 -m pip install -U pip setuptools && python3 -m pip install aiodns
+        run:  /home/runner/go/bin/subfinder -h
 
       - name: Prep Queue
         
@@ -512,8 +508,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
-
+        run:  cat queue.txt |while IFS= read -r line; do /home/runner/go/bin/subfinder -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
 
       - name: Uniq A
         
@@ -565,14 +560,14 @@ jobs:
         
         continue-on-error: true
 
-        run: git clone https://github.com/lijiejie/subDomainsBrute.git
+        run: GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
 
 
       - name: Install Dep
         
         continue-on-error: true
 
-        run:  python3 -m pip install -U pip setuptools && python3 -m pip install aiodns
+        run:  /home/runner/go/bin/subfinder -h
 
       - name: Prep Queue
         
@@ -586,8 +581,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
-
+        run:  cat queue.txt |while IFS= read -r line; do /home/runner/go/bin/subfinder -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
 
       - name: Uniq A
         
@@ -639,14 +633,14 @@ jobs:
         
         continue-on-error: true
 
-        run: git clone https://github.com/lijiejie/subDomainsBrute.git
+        run: GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
 
 
       - name: Install Dep
         
         continue-on-error: true
 
-        run:  python3 -m pip install -U pip setuptools && python3 -m pip install aiodns
+        run:  /home/runner/go/bin/subfinder -h
 
       - name: Prep Queue
         
@@ -660,8 +654,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
-
+        run:  cat queue.txt |while IFS= read -r line; do /home/runner/go/bin/subfinder -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
 
       - name: Uniq A
         
@@ -714,14 +707,14 @@ jobs:
         
         continue-on-error: true
 
-        run: git clone https://github.com/lijiejie/subDomainsBrute.git
+        run: GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
 
 
       - name: Install Dep
         
         continue-on-error: true
 
-        run:  python3 -m pip install -U pip setuptools && python3 -m pip install aiodns
+        run:  /home/runner/go/bin/subfinder -h
 
       - name: Prep Queue
         
@@ -735,8 +728,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
-
+        run:  cat queue.txt |while IFS= read -r line; do /home/runner/go/bin/subfinder -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
 
       - name: Uniq A
         
@@ -789,14 +781,14 @@ jobs:
         
         continue-on-error: true
 
-        run: git clone https://github.com/lijiejie/subDomainsBrute.git
+        run: GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
 
 
       - name: Install Dep
         
         continue-on-error: true
 
-        run:  python3 -m pip install -U pip setuptools && python3 -m pip install aiodns
+        run:  /home/runner/go/bin/subfinder -h
 
       - name: Prep Queue
         
@@ -810,8 +802,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
-
+        run:  cat queue.txt |while IFS= read -r line; do /home/runner/go/bin/subfinder -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
 
       - name: Uniq A
         
@@ -863,14 +854,14 @@ jobs:
         
         continue-on-error: true
 
-        run: git clone https://github.com/lijiejie/subDomainsBrute.git
+        run: GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
 
 
       - name: Install Dep
         
         continue-on-error: true
 
-        run:  python3 -m pip install -U pip setuptools && python3 -m pip install aiodns
+        run:  /home/runner/go/bin/subfinder -h
 
       - name: Prep Queue
         
@@ -884,8 +875,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run: cd subDomainsBrute && printf "1.1.1.1\n1.0.0.1\n8.8.8.8\n8.8.4.4\n9.9.9.9\n" >> dict/dns_servers.txt && cat ../queue.txt |while IFS= read -r line; do python3 subDomainsBrute.py -i -w $line -o output.txt && cat output.txt | cut -f 1 | cut -d " " -f 1 >> ../tmp.txt && echo "$line" >> ../done.txt  || true; done
-
+        run:  cat queue.txt |while IFS= read -r line; do /home/runner/go/bin/subfinder -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
 
       - name: Uniq A
         
