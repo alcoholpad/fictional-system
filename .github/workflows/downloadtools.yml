@@ -40,13 +40,13 @@ jobs:
         
         continue-on-error: true
 
-        run: rm -f subfinder && git clone https://github.com/projectdiscovery/subfinder.git && cd subfinder/v2/cmd/subfinder && go build . && mv subfinder ~/ && chmod +x ~/subfinder
+        run: rm -f subfinder && git clone https://github.com/projectdiscovery/subfinder.git && cd subfinder/v2/cmd/subfinder && go build . && mv subfinder ~/subfinder_amd64 && chmod +x ~/subfinder_amd64
 
       - name: Run subfinder
         
         continue-on-error: true
 
-        run: ./subfinder
+        run: ./subfinder_amd64
 
         
 
@@ -54,14 +54,14 @@ jobs:
         
         continue-on-error: true
 
-        run: rm -f httpx && git clone https://github.com/projectdiscovery/httpx.git && cd httpx/cmd/httpx && go build . && mv httpx ~/ && chmod +x ~/httpx
+        run: rm -f httpx && git clone https://github.com/projectdiscovery/httpx.git && cd httpx/cmd/httpx && go build . && mv httpx ~/httpx_amd64 && chmod +x ~/httpx_amd64
 
 
       - name: Run httpx
         
         continue-on-error: true
 
-        run: ./httpx -version
+        run: ./httpx_amd64 -version
  
 
       - name: Add & Commit
