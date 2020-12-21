@@ -44,7 +44,7 @@ jobs:
         
         continue-on-error: true
 
-        run: GO111MODULE=auto go get -u -v github.com/projectdiscovery/httpx/cmd/httpx
+        run: ./httpx_amd64 -version
 
         
 
@@ -52,7 +52,7 @@ jobs:
         
         continue-on-error: true
 
-        run: /home/runner/go/bin/httpx -l domains.txt -o alives_tmp.txt
+        run: ./httpx_amd64 -l domains.txt -o alives_tmp.txt
 
 
       - name: Unique A
