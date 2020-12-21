@@ -52,14 +52,14 @@ jobs:
         
         continue-on-error: true
 
-        run: GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
+        run: ./subfinder_amd64
 
 
       - name: Install Dep
         
         continue-on-error: true
 
-        run:  /home/runner/go/bin/subfinder -h
+        run:  ./subfinder_amd64
 
 
       - name: Prep Queue
@@ -75,7 +75,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run:  cat queue.txt |while IFS= read -r line; do /home/runner/go/bin/subfinder -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
+        run:  cat queue.txt |while IFS= read -r line; do ./subfinder_amd64 -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
 
 
       - name: Uniq A
@@ -127,14 +127,14 @@ jobs:
         
         continue-on-error: true
 
-        run: GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
+        run: ./subfinder_amd64
 
 
       - name: Install Dep
         
         continue-on-error: true
 
-        run:  /home/runner/go/bin/subfinder -h
+        run:  ./subfinder_amd64
 
 
       - name: Prep Queue
@@ -151,7 +151,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run:  cat queue.txt |while IFS= read -r line; do /home/runner/go/bin/subfinder -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
+        run:  cat queue.txt |while IFS= read -r line; do ./subfinder_amd64 -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
 
       - name: Uniq A
         
@@ -203,14 +203,14 @@ jobs:
         
         continue-on-error: true
 
-        run: GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
+        run: ./subfinder_amd64
 
 
       - name: Install Dep
         
         continue-on-error: true
 
-        run:  /home/runner/go/bin/subfinder -h
+        run:  ./subfinder_amd64
 
       - name: Prep Queue
         
@@ -224,7 +224,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run:  cat queue.txt |while IFS= read -r line; do /home/runner/go/bin/subfinder -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
+        run:  cat queue.txt |while IFS= read -r line; do ./subfinder_amd64 -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
 
       - name: Uniq A
         
@@ -276,14 +276,14 @@ jobs:
         
         continue-on-error: true
 
-        run: GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
+        run: ./subfinder_amd64
 
 
       - name: Install Dep
         
         continue-on-error: true
 
-        run:  /home/runner/go/bin/subfinder -h
+        run:  ./subfinder_amd64
 
       - name: Prep Queue
         
@@ -297,7 +297,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run:  cat queue.txt |while IFS= read -r line; do /home/runner/go/bin/subfinder -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
+        run:  cat queue.txt |while IFS= read -r line; do ./subfinder_amd64 -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
 
       - name: Uniq A
         
@@ -344,14 +344,14 @@ jobs:
         
         continue-on-error: true
 
-        run: GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
+        run: ./subfinder_amd64
 
 
       - name: Install Dep
         
         continue-on-error: true
 
-        run:  /home/runner/go/bin/subfinder -h
+        run:  ./subfinder_amd64
 
       - name: Prep Queue
         
@@ -365,7 +365,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run:  cat queue.txt |while IFS= read -r line; do /home/runner/go/bin/subfinder -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
+        run:  cat queue.txt |while IFS= read -r line; do ./subfinder_amd64 -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
 
       - name: Uniq A
         
@@ -415,14 +415,14 @@ jobs:
         
         continue-on-error: true
 
-        run: GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
+        run: ./subfinder_amd64
 
 
       - name: Install Dep
         
         continue-on-error: true
 
-        run:  /home/runner/go/bin/subfinder -h
+        run:  ./subfinder_amd64
 
       - name: Prep Queue
         
@@ -436,7 +436,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run:  cat queue.txt |while IFS= read -r line; do /home/runner/go/bin/subfinder -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
+        run:  cat queue.txt |while IFS= read -r line; do ./subfinder_amd64 -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
 
       - name: Uniq A
         
@@ -487,14 +487,14 @@ jobs:
         
         continue-on-error: true
 
-        run: GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
+        run: ./subfinder_amd64
 
 
       - name: Install Dep
         
         continue-on-error: true
 
-        run:  /home/runner/go/bin/subfinder -h
+        run:  ./subfinder_amd64
 
       - name: Prep Queue
         
@@ -508,7 +508,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run:  cat queue.txt |while IFS= read -r line; do /home/runner/go/bin/subfinder -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
+        run:  cat queue.txt |while IFS= read -r line; do ./subfinder_amd64 -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
 
       - name: Uniq A
         
@@ -560,14 +560,14 @@ jobs:
         
         continue-on-error: true
 
-        run: GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
+        run: ./subfinder_amd64
 
 
       - name: Install Dep
         
         continue-on-error: true
 
-        run:  /home/runner/go/bin/subfinder -h
+        run:  ./subfinder_amd64
 
       - name: Prep Queue
         
@@ -581,7 +581,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run:  cat queue.txt |while IFS= read -r line; do /home/runner/go/bin/subfinder -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
+        run:  cat queue.txt |while IFS= read -r line; do ./subfinder_amd64 -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
 
       - name: Uniq A
         
@@ -633,14 +633,14 @@ jobs:
         
         continue-on-error: true
 
-        run: GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
+        run: ./subfinder_amd64
 
 
       - name: Install Dep
         
         continue-on-error: true
 
-        run:  /home/runner/go/bin/subfinder -h
+        run:  ./subfinder_amd64
 
       - name: Prep Queue
         
@@ -654,7 +654,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run:  cat queue.txt |while IFS= read -r line; do /home/runner/go/bin/subfinder -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
+        run:  cat queue.txt |while IFS= read -r line; do ./subfinder_amd64 -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
 
       - name: Uniq A
         
@@ -707,14 +707,14 @@ jobs:
         
         continue-on-error: true
 
-        run: GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
+        run: ./subfinder_amd64
 
 
       - name: Install Dep
         
         continue-on-error: true
 
-        run:  /home/runner/go/bin/subfinder -h
+        run:  ./subfinder_amd64
 
       - name: Prep Queue
         
@@ -728,7 +728,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run:  cat queue.txt |while IFS= read -r line; do /home/runner/go/bin/subfinder -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
+        run:  cat queue.txt |while IFS= read -r line; do ./subfinder_amd64 -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
 
       - name: Uniq A
         
@@ -781,14 +781,14 @@ jobs:
         
         continue-on-error: true
 
-        run: GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
+        run: ./subfinder_amd64
 
 
       - name: Install Dep
         
         continue-on-error: true
 
-        run:  /home/runner/go/bin/subfinder -h
+        run:  ./subfinder_amd64
 
       - name: Prep Queue
         
@@ -802,7 +802,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run:  cat queue.txt |while IFS= read -r line; do /home/runner/go/bin/subfinder -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
+        run:  cat queue.txt |while IFS= read -r line; do ./subfinder_amd64 -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
 
       - name: Uniq A
         
@@ -854,14 +854,14 @@ jobs:
         
         continue-on-error: true
 
-        run: GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
+        run: ./subfinder_amd64
 
 
       - name: Install Dep
         
         continue-on-error: true
 
-        run:  /home/runner/go/bin/subfinder -h
+        run:  ./subfinder_amd64
 
       - name: Prep Queue
         
@@ -875,7 +875,7 @@ jobs:
 
         timeout-minutes: 300
 
-        run:  cat queue.txt |while IFS= read -r line; do /home/runner/go/bin/subfinder -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
+        run:  cat queue.txt |while IFS= read -r line; do ./subfinder_amd64 -d $line -nW -o output.txt && cat output.txt >> tmp.txt && echo "$line" >> done.txt || true; done
 
       - name: Uniq A
         
