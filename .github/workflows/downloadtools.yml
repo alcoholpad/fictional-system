@@ -1,0 +1,71 @@
+# This is a basic workflow to help you get started with Actions
+
+
+
+name: DownloadTools
+
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+
+# events but only for the master branch
+
+on:
+
+  workflow_dispatch:
+
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+
+jobs:
+
+  # This workflow contains a single job called "build"
+
+  build:
+
+    # The type of runner that the job will run on
+
+    runs-on: ubuntu-18.04
+
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+      - uses: actions/checkout@v2
+
+
+      - name: Download subfinder
+        
+        continue-on-error: true
+
+        run: rm -f subfinder && git clone https://github.com/projectdiscovery/subfinder.git && cd subfinder/v2/cmd/subfinder && go build . && mv subfinder ~/ && chmod +x ~/subfinder
+
+      - name: Run subfinder
+        
+        continue-on-error: true
+
+        run: ./subfinder
+
+        
+
+      - name: Download httpx
+        
+        continue-on-error: true
+
+        run: rm -f httpx && git clone https://github.com/projectdiscovery/httpx.git && cd httpx/cmd/httpx && go build . && mv httpx ~/ && chmod +x ~/httpx
+
+
+      - name: Run httpx
+        
+        continue-on-error: true
+
+        run: ./httpx -version
+ 
+
+      - name: Add & Commit
+        
+        continue-on-error: true
+
+        uses: EndBug/add-and-commit@v4.4.0
