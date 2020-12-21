@@ -40,7 +40,7 @@ jobs:
         
         continue-on-error: true
 
-        run: rm -rf subfinder && rm -rf subfinder_amd64 && git clone https://github.com/projectdiscovery/subfinder.git && cd subfinder/v2/cmd/subfinder && go build . && mv subfinder ~/subfinder_amd64 && chmod +x ~/subfinder_amd64
+        run: rm -rf subfinder && rm -rf subfinder_amd64 && git clone https://github.com/projectdiscovery/subfinder.git && cd subfinder/v2/cmd/subfinder && go build . && ls && mv subfinder ~/subfinder_amd64 && chmod +x ~/subfinder_amd64
 
       - name: Run subfinder
         
