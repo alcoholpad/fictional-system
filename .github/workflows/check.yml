@@ -20,52 +20,875 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 
+
 jobs:
 
   # This workflow contains a single job called "build"
 
-  build:
+
+  runcmd1:
+    continue-on-error: true
+    
+
 
     # The type of runner that the job will run on
+
 
     runs-on: ubuntu-18.04
 
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
+
 
     steps:
 
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
 
       - uses: actions/checkout@v2
+        with:
 
+          ref: 'main'
 
       - name: Download Tools
         
         continue-on-error: true
 
-        run: ./httpx_amd64 -version
+        run: ./subfinder_amd64
 
+
+      - name: Install Dep
+        
+        continue-on-error: true
+
+        run:  echo "" > alives.txt
+
+
+      - name: Prep Queue
+        
+        continue-on-error: true
+
+        run: split -n l/12 -d domains.txt queue_alive
         
 
       - name: Run Tools
         
         continue-on-error: true
 
-        run: ./httpx_amd64 -l domains.txt -o alives_tmp.txt
+        timeout-minutes: 300
 
+        run:  ./httpx_amd64 -l queue_alive00 -o alives_tmp.txt
 
-      - name: Unique A
+      - name: Uniq A
         
         continue-on-error: true
 
-        run: echo "" > alives.txt
+        run: cat alives.txt >> alives_tmp.txt
 
-      - name: Unique B
+
+      - name: Uniq B
         
         continue-on-error: true
 
         run: cat alives_tmp.txt | sort -u > alives.txt
+
+
+      - name: Add & Commit
+        
+        continue-on-error: true
+
+        uses: EndBug/add-and-commit@v4.4.0
+
+  runcmd2:
+    needs: [runcmd1]
+    continue-on-error: true
+
+
+    # The type of runner that the job will run on
+
+
+    runs-on: ubuntu-18.04
+
+
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+
+
+
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+      - uses: actions/checkout@v2
+        with:
+
+          ref: 'main'
+
+      - name: Download Tools
+        
+        continue-on-error: true
+
+        run: ./subfinder_amd64
+
+
+      - name: Install Dep
+        
+        continue-on-error: true
+
+        run:  ./subfinder_amd64
+
+
+      - name: Prep Queue
+        
+        continue-on-error: true
+
+        run: split -n l/12 -d domains.txt queue_alive
+        
+
+
+      - name: Run Tools
+        
+        continue-on-error: true
+
+        timeout-minutes: 300
+
+        run:  ./httpx_amd64 -l queue_alive01 -o alives_tmp.txt
+
+      - name: Uniq A
+        
+        continue-on-error: true
+
+        run: cat alives.txt >> alives_tmp.txt
+
+
+      - name: Uniq B
+        
+        continue-on-error: true
+
+        run: cat alives_tmp.txt | sort -u > alives.txt
+
+
+      - name: Add & Commit
+        
+        continue-on-error: true
+
+        uses: EndBug/add-and-commit@v4.4.0
+
+  runcmd3:
+    needs: [runcmd2]
+    continue-on-error: true
+
+
+    # The type of runner that the job will run on
+
+
+    runs-on: ubuntu-18.04
+
+
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+
+
+
+ 
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+      - uses: actions/checkout@v2
+        with:
+
+          ref: 'main'
+
+      - name: Download Tools
+        
+        continue-on-error: true
+
+        run: ./subfinder_amd64
+
+
+      - name: Install Dep
+        
+        continue-on-error: true
+
+        run:  ./subfinder_amd64
+
+      - name: Prep Queue
+        
+        continue-on-error: true
+
+        run: split -n l/12 -d domains.txt queue_alive        
+
+      - name: Run Tools
+        
+        continue-on-error: true
+
+        timeout-minutes: 300
+
+        run:  ./httpx_amd64 -l queue_alive02 -o alives_tmp.txt
+
+      - name: Uniq A
+        
+        continue-on-error: true
+
+        run: cat alives.txt >> alives_tmp.txt
+
+
+      - name: Uniq B
+        
+        continue-on-error: true
+
+        run: cat alives_tmp.txt | sort -u > alives.txt
+
+
+      - name: Add & Commit
+        
+        continue-on-error: true
+
+        uses: EndBug/add-and-commit@v4.4.0
+
+
+  runcmd4:
+    needs: [runcmd3]
+    continue-on-error: true
+
+
+    # The type of runner that the job will run on
+
+
+    runs-on: ubuntu-18.04
+
+
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+
+
+  
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+      - uses: actions/checkout@v2
+        with:
+
+          ref: 'main'
+
+      - name: Download Tools
+        
+        continue-on-error: true
+
+        run: ./subfinder_amd64
+
+
+      - name: Install Dep
+        
+        continue-on-error: true
+
+        run:  ./subfinder_amd64
+
+      - name: Prep Queue
+        
+        continue-on-error: true
+
+        run: split -n l/12 -d domains.txt queue_alive        
+
+      - name: Run Tools
+        
+        continue-on-error: true
+
+        timeout-minutes: 300
+
+        run:  ./httpx_amd64 -l queue_alive03 -o alives_tmp.txt
+
+      - name: Uniq A
+        
+        continue-on-error: true
+
+        run: cat alives.txt >> alives_tmp.txt
+
+
+      - name: Uniq B
+        
+        continue-on-error: true
+
+        run: cat alives_tmp.txt | sort -u > alives.txt
+
+
+      - name: Add & Commit
+        
+        continue-on-error: true
+
+        uses: EndBug/add-and-commit@v4.4.0
+
+  runcmd5:
+    needs: [runcmd4]
+    continue-on-error: true
+
+
+    # The type of runner that the job will run on
+
+
+    runs-on: ubuntu-18.04
+
+
+
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+      - uses: actions/checkout@v2
+        with:
+
+          ref: 'main'
+
+      - name: Download Tools
+        
+        continue-on-error: true
+
+        run: ./subfinder_amd64
+
+
+      - name: Install Dep
+        
+        continue-on-error: true
+
+        run:  ./subfinder_amd64
+
+      - name: Prep Queue
+        
+        continue-on-error: true
+
+        run: split -n l/12 -d domains.txt queue_alive        
+
+      - name: Run Tools
+        
+        continue-on-error: true
+
+        timeout-minutes: 300
+
+        run:  ./httpx_amd64 -l queue_alive04 -o alives_tmp.txt
+
+      - name: Uniq A
+        
+        continue-on-error: true
+
+        run: cat alives.txt >> alives_tmp.txt
+
+
+      - name: Uniq B
+        
+        continue-on-error: true
+
+        run: cat alives_tmp.txt | sort -u > alives.txt
+
+
+      - name: Add & Commit
+        
+        continue-on-error: true
+
+        uses: EndBug/add-and-commit@v4.4.0
+
+  runcmd6:
+    needs: [runcmd5]
+    continue-on-error: true
+
+
+    # The type of runner that the job will run on
+
+
+    runs-on: ubuntu-18.04
+
+
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+
+
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+      - uses: actions/checkout@v2
+        with:
+
+          ref: 'main'
+
+      - name: Download Tools
+        
+        continue-on-error: true
+
+        run: ./subfinder_amd64
+
+
+      - name: Install Dep
+        
+        continue-on-error: true
+
+        run:  ./subfinder_amd64
+
+      - name: Prep Queue
+        
+        continue-on-error: true
+
+        run: split -n l/12 -d domains.txt queue_alive        
+
+      - name: Run Tools
+        
+        continue-on-error: true
+
+        timeout-minutes: 300
+
+        run:  ./httpx_amd64 -l queue_alive05 -o alives_tmp.txt
+
+      - name: Uniq A
+        
+        continue-on-error: true
+
+        run: cat alives.txt >> alives_tmp.txt
+
+
+      - name: Uniq B
+        
+        continue-on-error: true
+
+        run: cat alives_tmp.txt | sort -u > alives.txt
+
+
+      - name: Add & Commit
+        
+        continue-on-error: true
+
+        uses: EndBug/add-and-commit@v4.4.0
+
+  runcmd7:
+    needs: [runcmd6]
+    continue-on-error: true
+
+
+    # The type of runner that the job will run on
+
+
+    runs-on: ubuntu-18.04
+
+
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+
+
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+      - uses: actions/checkout@v2
+        with:
+
+          ref: 'main'
+
+      - name: Download Tools
+        
+        continue-on-error: true
+
+        run: ./subfinder_amd64
+
+
+      - name: Install Dep
+        
+        continue-on-error: true
+
+        run:  ./subfinder_amd64
+
+      - name: Prep Queue
+        
+        continue-on-error: true
+
+        run: split -n l/12 -d domains.txt queue_alive        
+
+      - name: Run Tools
+        
+        continue-on-error: true
+
+        timeout-minutes: 300
+
+        run:  ./httpx_amd64 -l queue_alive06 -o alives_tmp.txt
+
+      - name: Uniq A
+        
+        continue-on-error: true
+
+        run: cat alives.txt >> alives_tmp.txt
+
+
+      - name: Uniq B
+        
+        continue-on-error: true
+
+        run: cat alives_tmp.txt | sort -u > alives.txt
+
+
+      - name: Add & Commit
+        
+        continue-on-error: true
+
+        uses: EndBug/add-and-commit@v4.4.0
+
+  runcmd8:
+    needs: [runcmd7]
+    continue-on-error: true
+
+
+    # The type of runner that the job will run on
+
+
+    runs-on: ubuntu-18.04
+
+
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+
+
+
+
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+      - uses: actions/checkout@v2
+        with:
+
+          ref: 'main'
+
+      - name: Download Tools
+        
+        continue-on-error: true
+
+        run: ./subfinder_amd64
+
+
+      - name: Install Dep
+        
+        continue-on-error: true
+
+        run:  ./subfinder_amd64
+
+      - name: Prep Queue
+        
+        continue-on-error: true
+
+        run: split -n l/12 -d domains.txt queue_alive        
+
+      - name: Run Tools
+        
+        continue-on-error: true
+
+        timeout-minutes: 300
+
+        run:  ./httpx_amd64 -l queue_alive07 -o alives_tmp.txt
+
+      - name: Uniq A
+        
+        continue-on-error: true
+
+        run: cat alives.txt >> alives_tmp.txt
+
+
+      - name: Uniq B
+        
+        continue-on-error: true
+
+        run: cat alives_tmp.txt | sort -u > alives.txt
+
+
+      - name: Add & Commit
+        
+        continue-on-error: true
+
+        uses: EndBug/add-and-commit@v4.4.0
+
+  runcmd9:
+    needs: [runcmd8]
+    continue-on-error: true
+
+
+    # The type of runner that the job will run on
+
+
+    runs-on: ubuntu-18.04
+
+
+
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+
+
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+      - uses: actions/checkout@v2
+        with:
+
+          ref: 'main'
+
+      - name: Download Tools
+        
+        continue-on-error: true
+
+        run: ./subfinder_amd64
+
+
+      - name: Install Dep
+        
+        continue-on-error: true
+
+        run:  ./subfinder_amd64
+
+      - name: Prep Queue
+        
+        continue-on-error: true
+
+        run: split -n l/12 -d domains.txt queue_alive        
+
+      - name: Run Tools
+        
+        continue-on-error: true
+
+        timeout-minutes: 300
+
+        run:  ./httpx_amd64 -l queue_alive08 -o alives_tmp.txt
+
+      - name: Uniq A
+        
+        continue-on-error: true
+
+        run: cat alives.txt >> alives_tmp.txt
+
+
+      - name: Uniq B
+        
+        continue-on-error: true
+
+        run: cat alives_tmp.txt | sort -u > alives.txt
+
+
+      - name: Add & Commit
+        
+        continue-on-error: true
+
+        uses: EndBug/add-and-commit@v4.4.0
+
+  runcmd10:
+    needs: [runcmd9]
+    continue-on-error: true
+
+
+    # The type of runner that the job will run on
+
+
+    runs-on: ubuntu-18.04
+
+
+
+
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+
+
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+      - uses: actions/checkout@v2
+        with:
+
+          ref: 'main'
+
+      - name: Download Tools
+        
+        continue-on-error: true
+
+        run: ./subfinder_amd64
+
+
+      - name: Install Dep
+        
+        continue-on-error: true
+
+        run:  ./subfinder_amd64
+
+      - name: Prep Queue
+        
+        continue-on-error: true
+
+        run: split -n l/12 -d domains.txt queue_alive        
+
+      - name: Run Tools
+        
+        continue-on-error: true
+
+        timeout-minutes: 300
+
+        run:  ./httpx_amd64 -l queue_alive09 -o alives_tmp.txt
+
+      - name: Uniq A
+        
+        continue-on-error: true
+
+        run: cat alives.txt >> alives_tmp.txt
+
+
+      - name: Uniq B
+        
+        continue-on-error: true
+
+        run: cat alives_tmp.txt | sort -u > alives.txt
+
+
+      - name: Add & Commit
+        
+        continue-on-error: true
+
+        uses: EndBug/add-and-commit@v4.4.0
+
+  runcmd11:
+    needs: [runcmd10]
+    continue-on-error: true
+
+
+
+    # The type of runner that the job will run on
+
+
+    runs-on: ubuntu-18.04
+
+
+
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+
+
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+      - uses: actions/checkout@v2
+        with:
+
+          ref: 'main'
+
+      - name: Download Tools
+        
+        continue-on-error: true
+
+        run: ./subfinder_amd64
+
+
+      - name: Install Dep
+        
+        continue-on-error: true
+
+        run:  ./subfinder_amd64
+
+      - name: Prep Queue
+        
+        continue-on-error: true
+
+        run: split -n l/12 -d domains.txt queue_alive        
+
+      - name: Run Tools
+        
+        continue-on-error: true
+
+        timeout-minutes: 300
+
+        run:  ./httpx_amd64 -l queue_alive10 -o alives_tmp.txt
+
+      - name: Uniq A
+        
+        continue-on-error: true
+
+        run: cat alives.txt >> alives_tmp.txt
+
+
+      - name: Uniq B
+        
+        continue-on-error: true
+
+        run: cat alives_tmp.txt | sort -u > alives.txt
+
+
+      - name: Add & Commit
+        
+        continue-on-error: true
+
+        uses: EndBug/add-and-commit@v4.4.0
+
+  runcmd12:
+    needs: [runcmd11]
+    continue-on-error: true
+
+
+
+    # The type of runner that the job will run on
+
+
+    runs-on: ubuntu-18.04
+
+
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+
+
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+      - uses: actions/checkout@v2
+        with:
+
+          ref: 'main'
+
+      - name: Download Tools
+        
+        continue-on-error: true
+
+        run: ./subfinder_amd64
+
+
+      - name: Install Dep
+        
+        continue-on-error: true
+
+        run:  ./subfinder_amd64
+
+      - name: Prep Queue
+        
+        continue-on-error: true
+
+        run: split -n l/12 -d domains.txt queue_alive        
+
+      - name: Run Tools
+        
+        continue-on-error: true
+
+        timeout-minutes: 300
+
+        run:  ./httpx_amd64 -l queue_alive11 -o alives_tmp.txt
+
+      - name: Uniq A
+        
+        continue-on-error: true
+
+        run: cat alives.txt >> alives_tmp.txt
+
+
+      - name: Uniq B
+        
+        continue-on-error: true
+
+        run: cat alives_tmp.txt | sort -u > alives.txt
+
 
       - name: Add & Commit
         
