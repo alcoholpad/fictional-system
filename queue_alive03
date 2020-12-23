@@ -1,11 +1,3 @@
-dhcp-64-100-95-132.cisco.com
-dhcp-64-100-95-133.cisco.com
-dhcp-64-100-95-134.cisco.com
-dhcp-64-100-95-135.cisco.com
-dhcp-64-100-95-136.cisco.com
-dhcp-64-100-95-137.cisco.com
-dhcp-64-100-95-138.cisco.com
-dhcp-64-100-95-139.cisco.com
 dhcp-64-100-95-14.cisco.com
 dhcp-64-100-95-140.cisco.com
 dhcp-64-100-95-141.cisco.com
@@ -30607,6 +30599,7 @@ dialin.claritynvtsfb.test.att.com
 dialin.claritysfb.labs.att.com
 dialin.dyson.com
 dialin.github.com
+dialin.htc.com
 dialin.labs.att.com
 dialin.lync.bluejeans.com
 dialin.lync.com
@@ -36895,6 +36888,7 @@ dl4wd.en.alibaba.com
 dl5.github.com
 dl5.net.mail.ru
 dl5.slack.com
+dl6.htc.com
 dl6.net.mail.ru
 dl6.vk.com
 dl600j4t.stanford.edu
@@ -63307,6 +63301,7 @@ dns.cdn.optimizely.com
 dns.chaturbate.com
 dns.chi.shopify.com
 dns.class.github.com
+dns.classroom.github.com
 dns.cloudflare.com
 dns.cloudinary.com
 dns.console.aliyun.com
@@ -72758,6 +72753,7 @@ dsjdqi.1688.com
 dsjewelry.en.alibaba.com
 dsjixie1688.1688.com
 dsjyfw.tmall.com
+dsjz020.1688.com
 dsk.ke.qq.com
 dsk3ufaxut-1.algolianet.com
 dsk3ufaxut-2.algolianet.com
@@ -76175,6 +76171,7 @@ dyn.bugcrowdninja2.invisionapp.com
 dyn.cdn-pci.optimizely.com
 dyn.cdn.optimizely.com
 dyn.chaturbate.com
+dyn.classroom.github.com
 dyn.cloudinary.com
 dyn.directly.com
 dyn.dns.facebook.com
@@ -76185,6 +76182,7 @@ dyn.flocktory.com
 dyn.footballrecruiting.rivals.com
 dyn.foxycart-demo.foxycart.com
 dyn.foxycart.com
+dyn.gist.github.com
 dyn.github.com
 dyn.gold.goodrx.com
 dyn.greenhouse.io
@@ -77698,6 +77696,7 @@ e2e.test.fc.aliyun-inc.com
 e2e.tnm.teams.microsoft.com
 e2eappdev.mp.microsoft.com
 e2easiaws1.htc.com
+e2easiaws2.htc.com
 e2eb2b.sixdots.base.be
 e2eenterprisereferenceportal.mp.microsoft.com
 e2eenterprisereferenceportalweb.mp.microsoft.com
@@ -77712,6 +77711,7 @@ e2eresources2.sharepoint.com
 e2escenariovalidation.mp.microsoft.com
 e2escenariovalidationui.mp.microsoft.com
 e2ews1.htc.com
+e2ews2.htc.com
 e2f50115-b475-42d2-9b87-847225c61e5f.probe.performance.dropbox.com
 e2fsprogs.sf.net
 e2g.r.mailjet.com
@@ -79203,6 +79203,7 @@ eandicoop-my.sharepoint.com
 eandicoop.sharepoint.com
 eando.etsy.com
 eands.en.alibaba.com
+eanegotiationguide.amazon.com
 eanmar.es.aliexpress.com
 eanner.etsy.com
 eannexiaxia.spaces.live.com
@@ -82711,6 +82712,7 @@ ecps.sharepoint.com
 ecqmpmhi51m5l2dqtfrql7rn12fyklel.waf.aliyun.com
 ecr.github.com
 ecr.sharepoint.com
+ecra.challonge.com
 ecraft.sharepoint.com
 ecraftic.etsy.com
 ecraftingextra.etsy.com
@@ -83213,6 +83215,7 @@ edencovetreasures-www1.etsy.com
 edencovetreasures.1017.etsy.com
 edencovetreasures.app.etsy.com
 edencovetreasures.bbs.etsy.com
+edencovetreasures.dev.etsy.com
 edencovetreasures.dns2.etsy.com
 edencovetreasures.etsy.com
 edencovetreasures.host.etsy.com
@@ -83839,6 +83842,7 @@ edge-fblite-tcp-mini-shv-01-zrh1.facebook.com
 edge-fblite-tcp-mini-shv-02-arn2.facebook.com
 edge-fblite-tcp-mini-shv-02-atl3.facebook.com
 edge-fblite-tcp-mini-shv-02-bom1.facebook.com
+edge-fblite-tcp-mini-shv-02-cgk1.facebook.com
 edge-fblite-tcp-mini-shv-02-dfw5.facebook.com
 edge-fblite-tcp-mini-shv-02-frt3.facebook.com
 edge-fblite-tcp-mini-shv-02-gru2.facebook.com
@@ -86754,6 +86758,7 @@ edge.cdn.optimizely.com
 edge.ce.microsoft.com
 edge.centrify.com
 edge.chaturbate.com
+edge.classroom.github.com
 edge.clouddev.centrify.com
 edge.cloudinary.com
 edge.cnames.video.twimg.com
@@ -94609,6 +94614,7 @@ email.gcloud.tencent.com
 email.geico.com
 email.gentilsvirus.slack.com
 email.gimletmedia.com
+email.gist.github.com
 email.github.com
 email.gitlab.com
 email.go.mail.ru
@@ -103548,6 +103554,7 @@ esaparis.sharepoint.com
 esapi.samsung.com
 esappliancerepair.quora.com
 esar.sharepoint.com
+esarlington.challonge.com
 esart.etsy.com
 esasd.edmodo.com
 esatnet.sharepoint.com
@@ -103704,6 +103711,7 @@ escentedcandle.foxycart.com
 escentualcreations.etsy.com
 escf8.sharepoint.com
 escha.innocraft.cloud
+eschamp.challonge.com
 eschem6168.1688.com
 eschem6168.cn.alibaba.com
 eschenbachso.tmall.com
@@ -116442,6 +116450,7 @@ event-web.line.me
 event-webhook-handler.hoteltonight-test.com
 event-wms.cainiao.com
 event.alibaba-inc.com
+event.alibaba.com
 event.aliyun.com
 event.api.e1-np.km.playstation.net
 event.api.mgmt.km.playstation.net
@@ -118664,3 +118673,28 @@ exorigoupos.sharepoint.com
 exos.stanford.edu
 exosite-garage.github.com
 exosite.atlassian.net
+exoskeletoncabaret.etsy.com
+exosomatic.sharepoint.com
+exostar.atlassian.net
+exotc-my.sharepoint.com
+exotc.sharepoint.com
+exothermicapril.etsy.com
+exotica.chaturbate.com
+exoticaplants.mail.ru
+exoticcams.chaturbate.com
+exoticdesign.etsy.com
+exoticearthporn.imgur.com
+exoticflavours.etsy.com
+exoticpearindustries.etsy.com
+exoticsoapsncandles.etsy.com
+exoticwoodjewelryand.etsy.com
+exotika.etsy.com
+exotikflora.mail.ru
+exotli.imgur.com
+exouinc.atlassian.net
+exovirtual.stanford.edu
+exowipp01.slac.stanford.edu
+exowipp02.slac.stanford.edu
+exp-ats1.l7.search.vip.bf1.yahoo.com
+exp-ats1.l7.search.vip.gq1.yahoo.com
+exp-ats1.l7.search.vip.ir2.yahoo.com
