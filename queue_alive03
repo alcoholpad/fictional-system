@@ -1,3 +1,8 @@
+dhcp-64-100-88-60.cisco.com
+dhcp-64-100-88-61.cisco.com
+dhcp-64-100-88-62.cisco.com
+dhcp-64-100-88-63.cisco.com
+dhcp-64-100-88-64.cisco.com
 dhcp-64-100-88-65.cisco.com
 dhcp-64-100-88-66.cisco.com
 dhcp-64-100-88-67.cisco.com
@@ -36760,6 +36765,7 @@ display-holder.en.alibaba.com
 display-rack.en.alibaba.com
 display.api.mina.mi.com
 display.github.com
+display.his.huawei.com
 display.qq.com
 display.slack.com
 display.sna.samsung.com
@@ -77716,6 +77722,7 @@ dyn.imgur.com
 dyn.innogames.com
 dyn.jobs.github.com
 dyn.jss.greenhouse.io
+dyn.lab.github.com
 dyn.lastpass.com
 dyn.live.com
 dyn.m.yelp.com
@@ -83136,6 +83143,7 @@ eclll.en.alibaba.com
 ecln.taobao.com
 eclock.sharepoint.com
 ecloud.b.qq.com
+ecloud.coreops.huaweicloud.com
 ecloudservice-cn.huawei.com
 ecls.sf.net
 eclu.etsy.com
@@ -88341,6 +88349,7 @@ edge.icq.net
 edge.imgur.com
 edge.innogames.com
 edge.itunes.apple.com
+edge.jobs.github.com
 edge.jss.greenhouse.io
 edge.lab.github.com
 edge.lastpass.com
@@ -118726,4 +118735,3 @@ evgorfurniture.trustpass.alibaba.com
 evgr-a-net.stanford.edu
 evgr-a-wireless-net.stanford.edu
 evgr-b-net.stanford.edu
-evgr-b-wireless-net.stanford.edu

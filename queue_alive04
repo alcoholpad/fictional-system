@@ -1,3 +1,4 @@
+evgr-b-wireless-net.stanford.edu
 evgr-c-net.stanford.edu
 evgr-c-wireless-net.stanford.edu
 evgr-d-net.stanford.edu
@@ -8515,6 +8516,7 @@ fc-stowportal-nrt.amazon.com
 fc-volgograd.mail.ru
 fc-work-exec-dash-alpha.na.integ.aftx.amazon.com
 fc-work-exec-dash-beta.na.integ.aftx.amazon.com
+fc-work-exec-dash.eu.aftx.amazon.com
 fc.alibaba-inc.com
 fc.aliexpress.com
 fc.badoo.com
@@ -33465,6 +33467,7 @@ gac-rds-external-readonly-preprod.bugcrowdninja2.invisionapp.com
 gac-rds-external-readonly-preprod.cdn-pci.optimizely.com
 gac-rds-external-readonly-preprod.cdn.optimizely.com
 gac-rds-external-readonly-preprod.chaturbate.com
+gac-rds-external-readonly-preprod.classroom.github.com
 gac-rds-external-readonly-preprod.cloudinary.com
 gac-rds-external-readonly-preprod.directly.com
 gac-rds-external-readonly-preprod.dns.facebook.com
@@ -68286,6 +68289,7 @@ gws-api-sandbox.cloudinary.com
 gws-api-sandbox.delivery-club.ru
 gws-api-sandbox.directly.com
 gws-api-sandbox.dns.facebook.com
+gws-api-sandbox.education.github.com
 gws-api-sandbox.fbjs.facebook.com
 gws-api-sandbox.flocktory.com
 gws-api-sandbox.foxycart-demo.foxycart.com
@@ -68301,6 +68305,7 @@ gws-api-sandbox.icq.com
 gws-api-sandbox.icq.net
 gws-api-sandbox.imgur.com
 gws-api-sandbox.innogames.com
+gws-api-sandbox.jobs.github.com
 gws-api-sandbox.jss.greenhouse.io
 gws-api-sandbox.lab.github.com
 gws-api-sandbox.lastpass.com
@@ -107541,6 +107546,7 @@ homeartschina.en.alibaba.com
 homease.en.alibaba.com
 homeawaystatus.statuspage.io
 homebaby.en.alibaba.com
+homebase.antivirus.slmail.load.dhcp.biz.mail.alibaba.com
 homebase.bluejeans.com
 homebase.ksr.io
 homebase610.myshopify.com
@@ -109767,6 +109773,7 @@ host.invisionapp.com
 host.itslearning.com
 host.jobs.github.com
 host.jss.greenhouse.io
+host.lab.github.com
 host.lastpass.com
 host.live.com
 host.m.yelp.com
@@ -110032,6 +110039,7 @@ hostmaster.icq.com
 hostmaster.icq.net
 hostmaster.imgur.com
 hostmaster.innogames.com
+hostmaster.jobs.github.com
 hostmaster.jss.greenhouse.io
 hostmaster.lab.github.com
 hostmaster.lastpass.com
@@ -122187,4 +122195,3 @@ hybrid1724-1.fr.ns.planethoster.net
 hybrid1724.fr.ns.planethoster.net
 hybrid1725-1.fr.ns.planethoster.net
 hybrid1725.fr.ns.planethoster.net
-hybrid1726-1.fr.ns.planethoster.net

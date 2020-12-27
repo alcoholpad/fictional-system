@@ -1,3 +1,5 @@
+ciaspshdev02.stanford.edu
+ciaspshdev07.stanford.edu
 ciaspshprd01.stanford.edu
 ciaspshprd02.stanford.edu
 ciaspshprd03.stanford.edu
@@ -12345,6 +12347,7 @@ cim-api-dev.fbjs.facebook.com
 cim-api-dev.flocktory.com
 cim-api-dev.foxycart-demo.foxycart.com
 cim-api-dev.foxycart.com
+cim-api-dev.gist.github.com
 cim-api-dev.github.com
 cim-api-dev.gold.goodrx.com
 cim-api-dev.greenhouse.io
@@ -12444,6 +12447,7 @@ cim-api-qa.imgur.com
 cim-api-qa.innogames.com
 cim-api-qa.jobs.github.com
 cim-api-qa.jss.greenhouse.io
+cim-api-qa.lab.github.com
 cim-api-qa.lastpass.com
 cim-api-qa.live.com
 cim-api-qa.m.yelp.com
@@ -12686,6 +12690,7 @@ cim-data-quality-qa.bugcrowdninja2.invisionapp.com
 cim-data-quality-qa.cdn-pci.optimizely.com
 cim-data-quality-qa.cdn.optimizely.com
 cim-data-quality-qa.chaturbate.com
+cim-data-quality-qa.classroom.github.com
 cim-data-quality-qa.cloudinary.com
 cim-data-quality-qa.delivery-club.ru
 cim-data-quality-qa.directly.com
@@ -18412,6 +18417,7 @@ cloud.e.etsy.com
 cloud.e.zoom.us
 cloud.edencovetreasures.etsy.com
 cloud.edmodo.com
+cloud.education.github.com
 cloud.email.seek.com.au
 cloud.email.slack.com
 cloud.etsy.com
@@ -26981,6 +26987,7 @@ code.bugcrowdninja2.invisionapp.com
 code.cdn-pci.optimizely.com
 code.cdn.optimizely.com
 code.chaturbate.com
+code.classroom.github.com
 code.cloudinary.com
 code.consulting.visma.com
 code.delivery-club.ru
@@ -33496,6 +33503,7 @@ connect-us-east-2.lightsail-preprod.aws.amazon.com
 connect-us-east-2.lightsail.aws.amazon.com
 connect-us-west-2.lightsail-preprod.aws.amazon.com
 connect-us-west-2.lightsail.aws.amazon.com
+connect-watersight.bentley.com
 connect-watersightinfluxdb.bentley.com
 connect-weatherservice-aue.bentley.com
 connect-weatherservice-eus.bentley.com
@@ -34931,6 +34939,7 @@ content-ic4.icloud.com
 content-insights-revenue.snapchat.com
 content-internal-beta.huffingtonpost.com
 content-internal.huffingtonpost.com
+content-ops.atspotify.com
 content-origin.steampowered.com
 content-ppe.community.support.microsoft.com
 content-preprod.gsaadvantage.fas.gsa.gov
@@ -35544,6 +35553,7 @@ controlincolor.foxycart.com
 controljogl-covid-19.slack.com
 controller-prod.vespahosted.corp.bf1.yahoo.com
 controller.eu.int-ucmgmt.cisco.com
+controller.eu.ucmgmt.cisco.com
 controller.github.com
 controller.india.xiaomi.com
 controller.int-ucmgmt.cisco.com
@@ -45127,6 +45137,7 @@ cp.imgur.com
 cp.innogames.com
 cp.jobs.github.com
 cp.jss.greenhouse.io
+cp.lab.github.com
 cp.lastpass.com
 cp.live.com
 cp.live.mi.com
@@ -57418,6 +57429,7 @@ csr.11-smtpsigmavirus.github.com
 csr.alibaba.com
 csr.cisco.com
 csr.github.com
+csr.htc.com
 csr.one.microsoft.com
 csr.samsung.com
 csr.sharepoint.com
@@ -64229,6 +64241,7 @@ d02.spc.starbucks.com
 d020.fma.fb.me
 d021.fma.fb.me
 d022.fma.fb.me
+d02201247.chaturbate.com
 d023.fma.fb.me
 d028.fma.fb.me
 d03-1-ag.productioncontroller.starbucks.com
@@ -118975,8 +118988,3 @@ dhcp-64-100-88-56.cisco.com
 dhcp-64-100-88-57.cisco.com
 dhcp-64-100-88-58.cisco.com
 dhcp-64-100-88-59.cisco.com
-dhcp-64-100-88-60.cisco.com
-dhcp-64-100-88-61.cisco.com
-dhcp-64-100-88-62.cisco.com
-dhcp-64-100-88-63.cisco.com
-dhcp-64-100-88-64.cisco.com

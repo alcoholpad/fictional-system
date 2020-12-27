@@ -1,3 +1,4 @@
+antivirus.www.devops.dentalplans.goodrx.com
 antivirus.www.docker.dentalplans.goodrx.com
 antivirus.www.docsdentalplans.goodrx.com
 antivirus.www.drop-dentalplans.goodrx.com
@@ -7387,6 +7388,7 @@ api.test.cloud.datastax.com
 api.test.creativecloud.tencent.com
 api.test.cve.int.test.visma.com
 api.test.feedback.ing.com
+api.test.github.com
 api.test.mc.ing.nl
 api.test.mobile.ing.com
 api.test.mobile.ing.nl
@@ -11262,6 +11264,7 @@ aps-eu-master.amazon.com
 aps-eu.amazon.com
 aps-fe-master.amazon.com
 aps-fe.amazon.com
+aps-lab-gw.cisco.com
 aps-master.amazon.com
 aps-stage.info.apple.com
 aps.amazon.co.jp
@@ -20277,6 +20280,7 @@ assets.jobs.github.com
 assets.jss.greenhouse.io
 assets.kiwi.com
 assets.kraken.com
+assets.lab.github.com
 assets.lastpass.com
 assets.lb.paddypower.com
 assets.lh.co.th.san.cloudinary.com
@@ -40472,6 +40476,7 @@ basic.imgur.com
 basic.innogames.com
 basic.jobs.github.com
 basic.jss.greenhouse.io
+basic.lab.github.com
 basic.lastpass.com
 basic.live.com
 basic.m.yelp.com
@@ -41567,6 +41572,7 @@ bb500khz-online.myshopify.com
 bb60fad857c59c5952371549856a7b9ca8026cea.console.dev.twilio.com
 bb715f9843b542b29fb5cd77fa7affd7.waf.huaweicloud.com
 bb8.aliyun.com
+bb8.crowdstrike.com
 bb8.deribit.com
 bb84s1r5a.quora.com
 bb850303.spaces.live.com
@@ -86895,6 +86901,7 @@ c-en.rivals.com
 c-euno-api.callrecorder.skype.com
 c-euno.plat.teams.microsoft.com
 c-euwe-api.callrecorder.skype.com
+c-falcon-network.crowdstrike.com
 c-fastly.glb.paypal.com
 c-fu.spaces.live.com
 c-gameautocdn.jiasu.qq.com
@@ -99169,6 +99176,7 @@ care-about-people.slack.com
 care-antivirus.tracking.kiwi.com
 care-aware.spaces.live.com
 care-connect.atlassian.net
+care-pw.amazon.com
 care-vc.stage.att.com
 care-vc.wireless.att.com
 care.callvantage.att.com
@@ -107194,6 +107202,7 @@ cdn.jenkins-antivirus.goodrx.com
 cdn.jenkins.antivirus.goodrx.com
 cdn.jia.qq.com
 cdn.jinx.antivirus.goodrx.com
+cdn.jobs.github.com
 cdn.jogl-covid-19.slack.com
 cdn.joymis.qq.com
 cdn.joymis.qq.com.cloud.tc.qq.com
@@ -107208,6 +107217,7 @@ cdn.korea.antivirus.goodrx.com
 cdn.koreaantivirus.goodrx.com
 cdn.kr.antivirus.goodrx.com
 cdn.krantivirus.goodrx.com
+cdn.lab.github.com
 cdn.lan-antivirus.goodrx.com
 cdn.las-antivirus.goodrx.com
 cdn.lasantivirus.goodrx.com
@@ -110493,6 +110503,7 @@ cert.bugcrowdninja.invisionapp.com
 cert.bugcrowdninja2.invisionapp.com
 cert.cdn-pci.optimizely.com
 cert.cdn.optimizely.com
+cert.classroom.github.com
 cert.cloud.rockstargames.com
 cert.cloudinary.com
 cert.delivery-club.ru
@@ -125238,5 +125249,3 @@ ciaspidxprd06.stanford.edu
 ciasplicdev01.stanford.edu
 ciasplicprd01.stanford.edu
 ciaspshdev01.stanford.edu
-ciaspshdev02.stanford.edu
-ciaspshdev07.stanford.edu

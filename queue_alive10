@@ -1,5 +1,3 @@
-studio90-web.sharepoint.com
-studio90.sharepoint.com
 studio909.sharepoint.com
 studio912.etsy.com
 studio9art.etsy.com
@@ -28619,6 +28617,7 @@ telemetry-dev.do.tesla.services
 telemetry-eng.ap.tesla.services
 telemetry-eng.vn.tesla.services
 telemetry-mgmt.eu.int-ucmgmt.cisco.com
+telemetry-mgmt.eu.ucmgmt.cisco.com
 telemetry-mgmt.int-ucmgmt.cisco.com
 telemetry-mgmt.na.int-ucmgmt.cisco.com
 telemetry-mgmt.na.ucmgmt.cisco.com
@@ -43216,6 +43215,7 @@ timelines-pdx.ec2.amazon.com
 timelines-sfo.ec2.amazon.com
 timelines-sin.ec2.amazon.com
 timelines-syd.ec2.amazon.com
+timelines.corp.amazon.com
 timelysnow.en.alibaba.com
 timemachine.amazon.com
 timemachine.github.com
@@ -54588,6 +54588,7 @@ trials-jp.amazon.com
 trials-na.amazon.com
 trials-web.amazon.com
 trials.github.com
+trials.int-ucmgmt.cisco.com
 trials.messaging.microsoft.com
 trials.slack.com
 trialsars-cov-2covid-19.slack.com
@@ -66260,6 +66261,7 @@ uk.cdn-pci.optimizely.com
 uk.cdn.optimizely.com
 uk.celebrity.yahoo.com
 uk.chaturbate.com
+uk.classroom.github.com
 uk.cloudflare.com
 uk.cloudinary.com
 uk.company.trustpilot.com
@@ -71734,6 +71736,7 @@ upgrade.battlenet.com.cn
 upgrade.bitdefender.com
 upgrade.cisco.com
 upgrade.eu.int-ucmgmt.cisco.com
+upgrade.eu.ucmgmt.cisco.com
 upgrade.github.com
 upgrade.int-ucmgmt.cisco.com
 upgrade.magento.cloud
@@ -76489,6 +76492,7 @@ usw-o2.virus.k.ppmail1.paddypower.it
 usw.dex.k8s.ikarem.io
 usw.nt.dev.ikarem.io
 usw.nt.meraki.com
+usw.nt.review.ikarem.io
 usw.nt.sandbox.meraki.com
 usw1-1-apx.kr3.yahoo.com
 usw1-1-cld.kr3.yahoo.com
@@ -80930,6 +80934,7 @@ vault.api-sandbox.foxycart.com
 vault.api.binance.com
 vault.api.cloudinary.com
 vault.api.foxycart.com
+vault.api.github.com
 vault.api.greenhouse.io
 vault.api.robinhood.com
 vault.api.showmax.com
@@ -81550,6 +81555,10 @@ vce-sng-2.cisco.com
 vce-sng-201.cisco.com
 vce-sng-202.cisco.com
 vce-stld1-1.cisco.com
+vce-stld1-101.cisco.com
+vce-stld1-102.cisco.com
+vce-stld1-103.cisco.com
+vce-stld1-104.cisco.com
 vce-syd-1.cisco.com
 vce.mail.ru
 vcellbattery.en.alibaba.com
@@ -86197,6 +86206,7 @@ view.id.mkt.grab.com
 view.inews.qq.com
 view.info.telekom.de
 view.innogames.com
+view.jobs.github.com
 view.jss.greenhouse.io
 view.kh.mkt.grab.com
 view.lab.github.com
@@ -88012,6 +88022,7 @@ virtualstudio.yahoo.com
 virtualstudyhall.spaces.live.com
 virtualtag.atlassian.net
 virtualteam1.quora.com
+virtualtours.huawei.com
 virtualvcr.sf.net
 virtualworlds.quora.com
 virtubella.etsy.com
@@ -109182,6 +109193,7 @@ wap.delivery-club.ru
 wap.directly.com
 wap.dns.facebook.com
 wap.edmodo.com
+wap.education.github.com
 wap.en.alibaba.com
 wap.fbjs.facebook.com
 wap.filezilla-project.org
@@ -128261,7 +128273,3 @@ whimsynest.etsy.com
 whimsyones.etsy.com
 whimsypotpourri.etsy.com
 whimsyribbonshop.etsy.com
-whimsyspotdesigns.etsy.com
-whimsysupply.etsy.com
-whimsytots.etsy.com
-whimsytwo.etsy.com
