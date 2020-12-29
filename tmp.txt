@@ -1,6 +1,0 @@
-mona.co
-ops.mona.co
-data.mona.co
-app.mona.co
-www.mona.co
-get.mona.co
