@@ -1,3 +1,8 @@
+antivirus.www.dentalplanslas.goodrx.com
+antivirus.www.dentalplanslatin.goodrx.com
+antivirus.www.dentalplansmachine.goodrx.com
+antivirus.www.dentalplansmirror.goodrx.com
+antivirus.www.dentalplansna.goodrx.com
 antivirus.www.dentalplansnautilus.goodrx.com
 antivirus.www.dentalplansnet.goodrx.com
 antivirus.www.dentalplansnl.goodrx.com
@@ -5889,6 +5894,7 @@ api.druid-dev-us-east1-1.dev.druid.shopifykloud.com
 api.druid-mdm-us-central1-1.mdm.druid.shopifykloud.com
 api.druid-mdm-us-east1-1.mdm.druid.shopifykloud.com
 api.dsm.eastus.microsoft.com
+api.dsm.microsoft.com
 api.dsm.westus.microsoft.com
 api.dtmnebula.microsoft.com
 api.dvp.telenet.be
@@ -9430,6 +9436,7 @@ app.innogames.com
 app.intercom.io
 app.intl.miui.com
 app.invisionapp.com
+app.iris.testing.forescoutcloud.net
 app.jae.taobao.com
 app.jkyx.qq.com
 app.jobs.github.com
@@ -18603,6 +18610,7 @@ ash-fbagreements-ext.thefacebook.com
 ash-fs.sales.fb.com
 ash-fs.thefacebook.com
 ash-fsoutpost.fb.com
+ash-ldc201.fbdevlab.fb.com
 ash-mx80-01.ash.shopify.com
 ash-mx80-02.ash.shopify.com
 ash-opdc201.outpost.fb.com
@@ -125334,9 +125342,3 @@ ciatej.sharepoint.com
 ciatorg-my.sharepoint.com
 ciatorg-public.sharepoint.com
 ciatorg.sharepoint.com
-ciatsd-my.sharepoint.com
-ciatsd.sharepoint.com
-ciavata.spaces.live.com
-ciavatapipa.spaces.live.com
-ciawincld01.stanford.edu
-ciaywf.tdum.alibaba.com
