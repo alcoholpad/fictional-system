@@ -1,3 +1,30 @@
+events.photos.live.com
+events.playstation.com
+events.qq.com
+events.rabobank.com
+events.rabobank.nl
+events.rbx.com
+events.roblox.com
+events.rocketbank.ru
+events.sars-cov-2covid-19.slack.com
+events.segment.com
+events.semrush.com
+events.shopify.com
+events.sigmavirus24.github.com
+events.skydrive.live.com
+events.slack.com
+events.snapchat.com
+events.snappublisher.snapchat.com
+events.sophos.com
+events.stanford.edu
+events.telekom.de
+events.telenet.be
+events.tesla.cn
+events.tesla.com
+events.tpum.skype.com
+events.twitter.com
+events.uber.com
+events.ucd-covid19.slack.com
 events.udemy.com
 events.virus.github.com
 events.yahoo.com
@@ -1307,6 +1334,7 @@ example.github.com
 example.harvestapp.com
 example.id.dev.outfra.xyz
 example.id.prod.outfra.xyz
+example.innocraft.cloud
 example.microsoft.com
 example.my.centrify.com
 example.optimizely.com
@@ -1575,6 +1603,7 @@ exchange.icq.com
 exchange.icq.net
 exchange.imgur.com
 exchange.indeed.com
+exchange.innocraft.cloud
 exchange.innogames.com
 exchange.innogames.de
 exchange.jobs.github.com
@@ -1742,6 +1771,7 @@ execplanningnew.partners.extranet.microsoft.com
 execplanninguat.partners.extranet.microsoft.com
 execplanninguatnew.partners.extranet.microsoft.com
 execupay.zoom.us
+execure.innocraft.cloud
 executesolucoes.atlassian.net
 executionservices.partners.extranet.microsoft.com
 executionstyle.etsy.com
@@ -18274,6 +18304,7 @@ fleetmatics-support-io.invisionapp.com
 fleetmatics-support.invisionapp.com
 fleetmatics-v7.invisionapp.com
 fleetmatics.invisionapp.com
+fleets-us-west-2.pscp.tv
 fleetsso.gsa.gov
 fleetssob.gsa.gov
 fleetsu.atlassian.net
@@ -21590,6 +21621,7 @@ forceshock.live.com
 forcetrade45.mail.ru
 forchance.en.alibaba.com
 forcharity.etsy.com
+forche.innocraft.cloud
 forcheer.aliexpress.com
 forcheng.en.alibaba.com
 forcura.atlassian.net
@@ -25182,6 +25214,7 @@ franchecomtice.itslearning.com
 franchise.aliexpress.com
 franchise.github.com
 franchise.indeed.com
+franchise.innocraft.cloud
 franchise.yatra.com
 franchisornews.quora.com
 franci2207.spaces.live.com
@@ -33729,6 +33762,7 @@ ga.harvestapp.com
 ga.heydoctor.goodrx.com
 ga.icq.com
 ga.icq.net
+ga.innocraft.cloud
 ga.innogames.com
 ga.itslearning.com
 ga.jobs.github.com
@@ -33995,6 +34029,7 @@ gac-rds-external-readonly-preprod.i.imgur.com
 gac-rds-external-readonly-preprod.icq.com
 gac-rds-external-readonly-preprod.icq.net
 gac-rds-external-readonly-preprod.imgur.com
+gac-rds-external-readonly-preprod.innocraft.cloud
 gac-rds-external-readonly-preprod.innogames.com
 gac-rds-external-readonly-preprod.jobs.github.com
 gac-rds-external-readonly-preprod.jss.greenhouse.io
@@ -38337,6 +38372,7 @@ gcom-product-find-qa.heydoctor.goodrx.com
 gcom-product-find-qa.i.imgur.com
 gcom-product-find-qa.icq.com
 gcom-product-find-qa.imgur.com
+gcom-product-find-qa.innocraft.cloud
 gcom-product-find-qa.innogames.com
 gcom-product-find-qa.jss.greenhouse.io
 gcom-product-find-qa.lab.github.com
@@ -45803,6 +45839,7 @@ gimaletdinovoleg.mail.ru
 gimara.zoom.us
 gimarat_trz.mail.ru
 gimatex.trustpass.alibaba.com
+gimbal-training.innocraft.cloud
 gimbel-my.sharepoint.com
 gimbel.sharepoint.com
 gimc-my.sharepoint.com
@@ -47018,6 +47055,7 @@ gitlab.i.imgur.com
 gitlab.icq.com
 gitlab.ikarem.io
 gitlab.imgur.com
+gitlab.innocraft.cloud
 gitlab.innogames.com
 gitlab.innogames.de
 gitlab.jobapi.io
@@ -47859,6 +47897,7 @@ glasspollart.trustpass.alibaba.com
 glasspoppies.etsy.com
 glassprimitif.etsy.com
 glassredux.etsy.com
+glassroom-mozilla.innocraft.cloud
 glasssculptureorg.etsy.com
 glassslipperdesign.etsy.com
 glasssmarts.etsy.com
@@ -65861,6 +65900,7 @@ gst-control.innogames.de
 gst-foundation.atlassian.net
 gst-jenkins.innogames.de
 gst-pgbadger.innogames.de
+gst-sentry-events.innogames.de
 gst-sonar.innogames.de
 gst-ts-lnx.cisco.com
 gst-unitycache.innogames.de
@@ -67704,6 +67744,7 @@ gunjan.quora.com
 gunjong.spaces.live.com
 gunk.tmall.com
 gunluva.imgur.com
+gunmagwarehouse.innocraft.cloud
 gunnarhx.tmall.com
 gunnarolla.bigcartel.com
 gunnarproject.sharepoint.com
@@ -68421,6 +68462,8 @@ gw-alpha.telemetry.int-ucmgmt.cisco.com
 gw-apac.skyscanner.net
 gw-bsvc.mydesktop.usaa.com
 gw-ciw.stanford.edu
+gw-dev-hydra-eu-west-1.pscp.tv
+gw-dev-hydra-us-west-2.pscp.tv
 gw-diensten.devolksbank.nl
 gw-emea.skyscanner.net
 gw-game.analytics.innogames.de
@@ -68458,8 +68501,10 @@ gw-ntcrm.analytics.innogames.de
 gw-pandemic.150.my.com
 gw-pp.devolksbank.nl
 gw-pro-prod.wickr.com
+gw-prod-hydra-ap-south-1.pscp.tv
 gw-prod-hydra-eu-central-1.pscp.tv
 gw-prod-hydra-eu-west-3.pscp.tv
+gw-prod-hydra-us-west-1.pscp.tv
 gw-prod-hydra-us-west-2.pscp.tv
 gw-qfx.devolksbank.nl
 gw-r1.devolksbank.nl
@@ -69032,6 +69077,7 @@ gws-qa.heydoctor.goodrx.com
 gws-qa.i.imgur.com
 gws-qa.icq.net
 gws-qa.imgur.com
+gws-qa.innocraft.cloud
 gws-qa.innogames.com
 gws-qa.jobs.github.com
 gws-qa.jss.greenhouse.io
@@ -106003,6 +106049,7 @@ hlslive-l3cg4.med1.m.lv.twimg.com
 hlslive-l3cg5.med1.m.lv.twimg.com
 hlslive-l3cg5.med2.m.lv.twimg.com
 hlsps.p2p.qq.com
+hlspull.pscp.tv
 hlstx.tmall.com
 hlsusan.1688.com
 hlsw86j755hv.statuspage.io
@@ -108007,6 +108054,7 @@ home.ibotta.com
 home.icq.com
 home.icq.net
 home.imgur.com
+home.innocraft.cloud
 home.innogames.com
 home.jobs.github.com
 home.jss.greenhouse.io
@@ -121440,6 +121488,7 @@ hwcreations-my.sharepoint.com
 hwcreations.sharepoint.com
 hwcservicesit.partners.extranet.microsoft.com
 hwd-owa-beta.huawei.com
+hwd.innocraft.cloud
 hwd1.tcdn.qq.com
 hwd2rx6.quora.com
 hwd9.cn.alibaba.com
@@ -122476,20 +122525,3 @@ hybrid1514.fr.ns.planethoster.net
 hybrid1515-1.fr.ns.planethoster.net
 hybrid1515.fr.ns.planethoster.net
 hybrid1516-1.fr.ns.planethoster.net
-hybrid1516.fr.ns.planethoster.net
-hybrid1517.fr.ns.planethoster.net
-hybrid1518-1.fr.ns.planethoster.net
-hybrid1518.fr.ns.planethoster.net
-hybrid1519.fr.ns.planethoster.net
-hybrid1520.fr.ns.planethoster.net
-hybrid1521-1.fr.ns.planethoster.net
-hybrid1521.fr.ns.planethoster.net
-hybrid1522-1.fr.ns.planethoster.net
-hybrid1522.fr.ns.planethoster.net
-hybrid1523.fr.ns.planethoster.net
-hybrid1524-1.fr.ns.planethoster.net
-hybrid1524.fr.ns.planethoster.net
-hybrid1525-1.fr.ns.planethoster.net
-hybrid1525.fr.ns.planethoster.net
-hybrid1530.fr.ns.planethoster.net
-hybrid1531-1.fr.ns.planethoster.net
