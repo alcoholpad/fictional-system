@@ -1,3 +1,12 @@
+dhcp-64-100-87-2.cisco.com
+dhcp-64-100-87-20.cisco.com
+dhcp-64-100-87-201.cisco.com
+dhcp-64-100-87-202.cisco.com
+dhcp-64-100-87-203.cisco.com
+dhcp-64-100-87-204.cisco.com
+dhcp-64-100-87-205.cisco.com
+dhcp-64-100-87-206.cisco.com
+dhcp-64-100-87-207.cisco.com
 dhcp-64-100-87-208.cisco.com
 dhcp-64-100-87-209.cisco.com
 dhcp-64-100-87-21.cisco.com
@@ -40234,6 +40243,7 @@ dms-360.aka.amazon.com
 dms-360.integ.amazon.com
 dms-aln-005-p.cisco.com
 dms-aln-01x-p.cisco.com
+dms-ap-south-1.aliyun.com
 dms-app-core.aliyun.com
 dms-cn-north-2-gov-1.aliyun.com
 dms-data-prod.stanford.edu
@@ -67192,6 +67202,7 @@ docker.api.greenhouse.io
 docker.api.robinhood.com
 docker.api.showmax.com
 docker.api.slack.com
+docker.app.acorns.com
 docker.app.files.com
 docker.app.greenhouse.io
 docker.app.optimizely.com
@@ -67576,6 +67587,7 @@ docs.gs.com
 docs.gsmarkets-qa.gs.com
 docs.gsmarkets.gs.com
 docs.hackerone.com
+docs.helium.com
 docs.helloworks.com
 docs.huffingtonpost.com
 docs.idqqimg.com.cloud.tc.qq.com
@@ -78910,6 +78922,7 @@ e.ww.svcs.weightwatchers.ca
 e.ww.svcs.weightwatchers.de
 e.ww.svcs.weightwatchers.fr
 e.yelp.com
+e0-us-ash-1.algolia.net
 e0-us-chi-1.algolia.net
 e0-us-pdx-1.algolia.net
 e0.algolia.net
@@ -100396,6 +100409,7 @@ engine-valve.en.alibaba.com
 engine-virus.github.com
 engine-yvcji0l1mm.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.antivirus-edu.goodrx.com
 engine-zone.en.alibaba.com
+engine.alibaba-inc.com
 engine.antivirus-edu.goodrx.com
 engine.antivirus-smartrx.goodrx.com
 engine.antivirus.goodrx.com
@@ -118886,7 +118900,3 @@ events.tpum.skype.com
 events.twitter.com
 events.uber.com
 events.ucd-covid19.slack.com
-events.udemy.com
-events.virus.github.com
-events.yahoo.com
-events.yvcji0l1mm.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.antivirus-edu.goodrx.com
