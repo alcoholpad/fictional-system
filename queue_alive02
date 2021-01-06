@@ -1,11 +1,3 @@
-ci-antivirus.apfm.goodrx.com
-ci-antivirus.dentalplans.goodrx.com
-ci-antivirus.goodrx.com
-ci-antivirus.test.staging.pyszne.pl
-ci-antivirus.www-test.alumni.dev.soundtrap.com
-ci-antivirus.www.dentalplans.goodrx.com
-ci-api.dev.mail.ru
-ci-api2.dev.mail.ru
 ci-approval.telekom.de
 ci-assets.nextcloud.com
 ci-avira-free-antivirus.ko.rivals.com
@@ -12784,6 +12776,7 @@ cim-api-qa.tmall.com
 cim-api-qa.twilio.com
 cim-api-qa.venmo.com
 cim-api-qa.vhx.tv
+cim-api-qa.vivy.com
 cim-api-qa.widget.cloudinary.com
 cim-api-qa.www.files.com
 cim-api-qa.www.goodrx.com
@@ -13049,6 +13042,7 @@ cim-data-quality-qa.tmall.com
 cim-data-quality-qa.twilio.com
 cim-data-quality-qa.venmo.com
 cim-data-quality-qa.vhx.tv
+cim-data-quality-qa.vivy.com
 cim-data-quality-qa.widget.cloudinary.com
 cim-data-quality-qa.www.files.com
 cim-data-quality-qa.www.goodrx.com
@@ -18877,6 +18871,7 @@ cloud.video.taobao.com
 cloud.viruset.etsy.com
 cloud.virusman.mail.ru
 cloud.visma.com
+cloud.vivy.com
 cloud.vk.cc
 cloud.vn.mkt.grab.com
 cloud.wangwang.taobao.com
@@ -24229,6 +24224,7 @@ cname.twilio.com
 cname.udemy.com
 cname.venmo.com
 cname.vhx.tv
+cname.vivy.com
 cname.vk.cc
 cname.whitelabel.chaturbate.com
 cname.whitelable.chaturbate.com
@@ -27386,6 +27382,7 @@ code.twilio.com
 code.venmo.com
 code.vhx.tv
 code.videolan.org
+code.vivy.com
 code.widget.cloudinary.com
 code.www.files.com
 code.www.goodrx.com
@@ -29355,6 +29352,7 @@ collab.tmall.com
 collab.twilio.com
 collab.venmo.com
 collab.vhx.tv
+collab.vivy.com
 collab.widget.cloudinary.com
 collab.www.files.com
 collab.www.goodrx.com
@@ -52755,6 +52753,7 @@ cs10348.vk.me
 cs10349.vk.me
 cs1034v4.vk.me
 cs1035.vk.me
+cs10350.vk.com
 cs10350.vk.me
 cs10351.vk.me
 cs10352.vk.me
@@ -53976,6 +53975,7 @@ cs322.vk.com
 cs322120.vk.me
 cs322220.vk.me
 cs322229.vk.me
+cs322320.vk.me
 cs322330.vk.me
 cs322420.vk.me
 cs322520.vk.me
@@ -53994,6 +53994,7 @@ cs323620.vk.me
 cs323720.vk.me
 cs32377.vk.me
 cs323820.vk.me
+cs323920.vk.me
 cs324.vk.com
 cs325.vk.com
 cs326.vk.com
@@ -54221,6 +54222,7 @@ cs413520.vk.me
 cs413620.vk.me
 cs413720.vk.me
 cs413820.vk.me
+cs413920.vk.me
 cs414130.vk.me
 cs414219.vk.me
 cs414226.vk.me
@@ -54722,6 +54724,7 @@ cs523400.vk.me
 cs523401.vk.com
 cs523415.vk.com
 cs523419.vk.com
+cs523420.vk.me
 cs523500.vk.me
 cs523600.vk.me
 cs523606.vk.com
@@ -54748,6 +54751,7 @@ cs525513.vk.com
 cs525600.vk.me
 cs525610.vk.me
 cs526110.vk.me
+cs526120.vk.me
 cs5263.vk.me
 cs526300.vk.me
 cs526316.vk.me
@@ -54971,6 +54975,7 @@ cs6039.vk.me
 cs604320.vk.com
 cs604324.vk.me
 cs604330.vk.com
+cs604420.vk.me
 cs604530.vk.com
 cs604531.vk.com
 cs604619.vk.me
@@ -55681,6 +55686,7 @@ cs623720.vk.com
 cs623720.vk.me
 cs623820.vk.me
 cs623917.vk.me
+cs623920.vk.me
 cs623925.vk.me
 cs62393.vk.me
 cs62399.vk.me
@@ -77294,6 +77300,7 @@ db.twilio.com
 db.udemy.com
 db.venmo.com
 db.vhx.tv
+db.vivy.com
 db.vk.com
 db.vpn.saw.microsoft.com
 db.web2.fb.me
@@ -79356,6 +79363,7 @@ dc.tmall.com
 dc.twilio.com
 dc.venmo.com
 dc.vhx.tv
+dc.vivy.com
 dc.weiapp.qq.com
 dc.widget.cloudinary.com
 dc.wii.qq.com
@@ -81937,6 +81945,7 @@ de.unibet.com
 de.venmo.com
 de.vhx.tv
 de.video.search.yahoo.com
+de.vivy.com
 de.vk.cc
 de.vpn.att.com
 de.warofdragons.my.games
@@ -91891,6 +91900,7 @@ dev.buffer.com
 dev.bugcrowdninja.invisionapp.com
 dev.bugcrowdninja2.invisionapp.com
 dev.bugstar.rockstargames.com
+dev.c.search.yahoo.com
 dev.cabincovedesigns.etsy.com
 dev.cards.marcus.com
 dev.career.dyson.com
@@ -119348,3 +119358,8 @@ dhcp-64-100-87-170.cisco.com
 dhcp-64-100-87-171.cisco.com
 dhcp-64-100-87-172.cisco.com
 dhcp-64-100-87-173.cisco.com
+dhcp-64-100-87-174.cisco.com
+dhcp-64-100-87-175.cisco.com
+dhcp-64-100-87-176.cisco.com
+dhcp-64-100-87-177.cisco.com
+dhcp-64-100-87-178.cisco.com

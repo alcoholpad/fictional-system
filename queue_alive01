@@ -1,7 +1,3 @@
-antivirus.www.abs.admin.dev.soundtrap.com
-antivirus.www.acc-dentalplans.goodrx.com
-antivirus.www.admin-dentalplans.goodrx.com
-antivirus.www.admin1-dentalplans.goodrx.com
 antivirus.www.admindentalplans.goodrx.com
 antivirus.www.akamaidentalplans.goodrx.com
 antivirus.www.alpha.dentalplans.goodrx.com
@@ -26345,6 +26341,7 @@ auth.upwork.com
 auth.us-gov.amp.cisco.com
 auth.venmo.com
 auth.vhx.tv
+auth.visma.com
 auth.vivy.com
 auth.web.roku.com
 auth.weightwatchers.ca
@@ -27363,6 +27360,7 @@ autoconfig.vhx.tv
 autoconfig.video.github.com
 autoconfig.videos.github.com
 autoconfig.videos.slack.com
+autoconfig.vivy.com
 autoconfig.vk.cc
 autoconfig.vpn.indeed.com
 autoconfig.web.bugpoc.ninja
@@ -31838,6 +31836,7 @@ awsdashboard.tmall.com
 awsdashboard.twilio.com
 awsdashboard.venmo.com
 awsdashboard.vhx.tv
+awsdashboard.vivy.com
 awsdashboard.widget.cloudinary.com
 awsdashboard.www.files.com
 awsdashboard.www.goodrx.com
@@ -40808,6 +40807,7 @@ basic.tmall.com
 basic.twilio.com
 basic.venmo.com
 basic.vhx.tv
+basic.vivy.com
 basic.widget.cloudinary.com
 basic.www.files.com
 basic.www.goodrx.com
@@ -50395,6 +50395,7 @@ beta.venmo.com
 beta.vhx.tv
 beta.virus.github.com
 beta.visma.com
+beta.vivy.com
 beta.vk.cc
 beta.w.apprep.smartscreen.microsoft.com
 beta.web.skype.com
@@ -87639,6 +87640,7 @@ c.v.qq.com
 c.v3re6rkahxrve.dev.ent.magento.cloud
 c.venmo.com
 c.vhx.tv
+c.vivy.com
 c.vk.cc
 c.vk.com
 c.vvf6jzpnlqmae.ent.magento.cloud
@@ -111089,6 +111091,7 @@ certificate.tmall.com
 certificate.twilio.com
 certificate.venmo.com
 certificate.vhx.tv
+certificate.vivy.com
 certificate.widget.cloudinary.com
 certificate.www.files.com
 certificate.www.goodrx.com
@@ -125329,3 +125332,11 @@ chzw.en.alibaba.com
 chzy.zhan.qq.com
 ci-abn-01.dev.sophos.com
 ci-abn-01.sophos.com
+ci-antivirus.apfm.goodrx.com
+ci-antivirus.dentalplans.goodrx.com
+ci-antivirus.goodrx.com
+ci-antivirus.test.staging.pyszne.pl
+ci-antivirus.www-test.alumni.dev.soundtrap.com
+ci-antivirus.www.dentalplans.goodrx.com
+ci-api.dev.mail.ru
+ci-api2.dev.mail.ru

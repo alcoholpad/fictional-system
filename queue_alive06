@@ -1,9 +1,3 @@
-lo0.tor90-152-pdc.ne1.yahoo.com
-lo0.tor90-166-pda.bf2.yahoo.com
-lo0.tor90-170-pdc.gq1.yahoo.com
-lo0.tor90-185-pda.ne1.yahoo.com
-lo0.tor90-87-pda.gq1.yahoo.com
-lo0.tor90-94-gra.gq1.yahoo.com
 lo0.tor91-106-pdb.gq1.yahoo.com
 lo0.tor91-107-pdd.bf1.yahoo.com
 lo0.tor91-107-vzb.gq2.yahoo.com
@@ -41446,6 +41440,7 @@ mail1.uk.marcus.co.uk
 mail1.urbancover.etsy.com
 mail1.venmo.com
 mail1.vhx.tv
+mail1.vivy.com
 mail1.vk.cc
 mail1.vk.com
 mail1.voltvirus.imgur.com
@@ -45215,6 +45210,7 @@ mail2.urbancover.etsy.com
 mail2.venmo.com
 mail2.vhx.tv
 mail2.viruset.etsy.com
+mail2.vivy.com
 mail2.vk.cc
 mail2.vk.com
 mail2.wfp.microsoft.com
@@ -60734,6 +60730,9 @@ media-dr.geico.com
 media-editor.cloudinary.com
 media-explorer.github.com
 media-golos.mail.ru
+media-hkg4-1.cdn.whatsapp.net
+media-hkg4-2.cdn.whatsapp.net
+media-hkt1-2.cdn.whatsapp.net
 media-igor.mail.ru
 media-library.cloudinary.com
 media-limg-z1-dev.arlo.com
@@ -61297,6 +61296,7 @@ media.us1.twilio.com
 media.venmo.com
 media.vhx.tv
 media.video.qq.com
+media.vivy.com
 media.vk.cc
 media.widget.cloudinary.com
 media.wii.qq.com
@@ -79032,6 +79032,7 @@ mongodb.udemy.com
 mongodb.vanillacommunities.com
 mongodb.venmo.com
 mongodb.vhx.tv
+mongodb.vivy.com
 mongodb.vk.cc
 mongodb.widget.cloudinary.com
 mongodb.www.files.com
@@ -85555,6 +85556,7 @@ msg.netflix.com
 msg.qq.com
 msg.sharepoint.com
 msg.skype.live.com
+msg.uat.cmtprod.westernunion.com
 msg.weixiao.qq.com
 msgacs-m.lazada.co.id
 msgacs-m.lazada.co.th
@@ -87557,6 +87559,7 @@ mta2.e.netgear.com
 mta2.e.therealreal.com
 mta2.e.tripadvisor.com
 mta2.e.twitter.com
+mta2.e.westernunion.com
 mta2.em.blizzard.com
 mta2.email.boozt.com
 mta2.email.booztlet.com
@@ -87814,6 +87817,7 @@ mta3.e.fitbit.com
 mta3.e.therealreal.com
 mta3.e.tripadvisor.com
 mta3.e.twitter.com
+mta3.e.westernunion.com
 mta3.em.blizzard.com
 mta3.email.canva.com
 mta3.email.office.com
@@ -87899,6 +87903,7 @@ mta4.e.fitbit.com
 mta4.e.therealreal.com
 mta4.e.tripadvisor.com
 mta4.e.twitter.com
+mta4.e.westernunion.com
 mta4.em.blizzard.com
 mta4.email.office.com
 mta4.email.roku.com
@@ -93147,6 +93152,7 @@ mx01.udemy.com
 mx01.venmo.com
 mx01.vhx.tv
 mx01.virusman.mail.ru
+mx01.vivy.com
 mx01.vk.cc
 mx01.vk.com
 mx01.widget.cloudinary.com
@@ -93439,6 +93445,7 @@ mx1.urbancover.etsy.com
 mx1.venmo.com
 mx1.vhx.tv
 mx1.viator.com
+mx1.vivy.com
 mx1.vk.cc
 mx1.vk.com
 mx1.widget.cloudinary.com
@@ -93837,6 +93844,7 @@ mx2.vhx.tv
 mx2.viator.com
 mx2.viruset.etsy.com
 mx2.virusman.mail.ru
+mx2.vivy.com
 mx2.vk.cc
 mx2.vk.com
 mx2.widget.cloudinary.com
@@ -121537,3 +121545,4 @@ neuro-spartap-9010.stanford.edu
 neuro-srp-1010.stanford.edu
 neuro-steinman-imac.stanford.edu
 neuro-steinmanlab-imac.stanford.edu
+neuro-stharinlab-imac.stanford.edu

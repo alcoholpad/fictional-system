@@ -1,15 +1,3 @@
-events.photos.live.com
-events.playstation.com
-events.qq.com
-events.rabobank.com
-events.rabobank.nl
-events.rbx.com
-events.roblox.com
-events.rocketbank.ru
-events.sars-cov-2covid-19.slack.com
-events.segment.com
-events.semrush.com
-events.shopify.com
 events.sigmavirus24.github.com
 events.skydrive.live.com
 events.slack.com
@@ -1652,6 +1640,7 @@ exchange.us-locovideo.betfair.com
 exchange.us.betfair.com
 exchange.venmo.com
 exchange.vhx.tv
+exchange.vivy.com
 exchange.vk.cc
 exchange.widget.cloudinary.com
 exchange.www.files.com
@@ -33802,6 +33791,7 @@ ga.tmall.com
 ga.twilio.com
 ga.venmo.com
 ga.vhx.tv
+ga.vivy.com
 ga.widget.cloudinary.com
 ga.www.files.com
 ga.www.goodrx.com
@@ -33894,6 +33884,7 @@ gabmacon-my.sharepoint.com
 gabmacon.sharepoint.com
 gaboalt.spaces.live.com
 gabobranstetter.spaces.live.com
+gabon.westernunion.com
 gabona.trustpass.alibaba.com
 gabor.tmall.com
 gaborfari.spaces.live.com
@@ -34063,6 +34054,7 @@ gac-rds-external-readonly-preprod.tmall.com
 gac-rds-external-readonly-preprod.twilio.com
 gac-rds-external-readonly-preprod.venmo.com
 gac-rds-external-readonly-preprod.vhx.tv
+gac-rds-external-readonly-preprod.vivy.com
 gac-rds-external-readonly-preprod.widget.cloudinary.com
 gac-rds-external-readonly-preprod.www.files.com
 gac-rds-external-readonly-preprod.www.goodrx.com
@@ -38406,6 +38398,7 @@ gcom-product-find-qa.tmall.com
 gcom-product-find-qa.twilio.com
 gcom-product-find-qa.venmo.com
 gcom-product-find-qa.vhx.tv
+gcom-product-find-qa.vivy.com
 gcom-product-find-qa.widget.cloudinary.com
 gcom-product-find-qa.www.files.com
 gcom-product-find-qa.www.goodrx.com
@@ -47115,6 +47108,7 @@ gitlab.usaa.com
 gitlab.venmo.com
 gitlab.vhx.tv
 gitlab.visma.com
+gitlab.vivy.com
 gitlab.vk.cc
 gitlab.widget.cloudinary.com
 gitlab.www.files.com
@@ -60390,6 +60384,9 @@ grapgh.fb.me
 graph-0-77.accountkit.com
 graph-2-5-8.accountkit.com
 graph-266.accountkit.com
+graph-api.connect.identity.stagaws.visma.com
+graph-api.connect.int.identity.testaws.visma.com
+graph-api.connect.visma.com
 graph-mobile.quora.com
 graph-ppe.teams.microsoft.com
 graph-uncover.dev.lieferando.de
@@ -69111,6 +69108,7 @@ gws-qa.tmall.com
 gws-qa.twilio.com
 gws-qa.venmo.com
 gws-qa.vhx.tv
+gws-qa.vivy.com
 gws-qa.widget.cloudinary.com
 gws-qa.www.files.com
 gws-qa.www.goodrx.com
@@ -122525,3 +122523,8 @@ hybrid1514.fr.ns.planethoster.net
 hybrid1515-1.fr.ns.planethoster.net
 hybrid1515.fr.ns.planethoster.net
 hybrid1516-1.fr.ns.planethoster.net
+hybrid1516.fr.ns.planethoster.net
+hybrid1517.fr.ns.planethoster.net
+hybrid1518-1.fr.ns.planethoster.net
+hybrid1518.fr.ns.planethoster.net
+hybrid1519.fr.ns.planethoster.net
