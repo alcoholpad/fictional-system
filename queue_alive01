@@ -1,4 +1,3 @@
-antivirus.www.admindentalplans.goodrx.com
 antivirus.www.akamaidentalplans.goodrx.com
 antivirus.www.alpha.dentalplans.goodrx.com
 antivirus.www.alt-dentalplans.goodrx.com
@@ -31778,6 +31777,7 @@ awsdashboard.app.optimizely.com
 awsdashboard.app.sandbox.directly.com
 awsdashboard.app.slack.com
 awsdashboard.atlassian.net
+awsdashboard.binance.com
 awsdashboard.biz.yelp.com
 awsdashboard.boards.greenhouse.io
 awsdashboard.bugcrowdninja.invisionapp.com
@@ -33417,6 +33417,7 @@ b.app.sandbox.directly.com
 b.app.slack.com
 b.atlassian.net
 b.badoo.com
+b.binance.com
 b.biz.yelp.com
 b.blaylock.live.com
 b.blog.venmo.com
@@ -40531,6 +40532,7 @@ basecamp.stanford.edu
 basecamp.tmall.com
 basecloud.base.be
 basecompany.slack.com
+basedaisk.challonge.com
 basefish.imgur.com
 basefount.atlassian.net
 basel.github.com
@@ -40739,6 +40741,7 @@ basic.app.optimizely.com
 basic.app.sandbox.directly.com
 basic.app.slack.com
 basic.atlassian.net
+basic.binance.com
 basic.biz.yelp.com
 basic.boards.greenhouse.io
 basic.bugcrowdninja.invisionapp.com
@@ -74333,6 +74336,7 @@ botkszles.mail.ru
 botleking.mail.ru
 botlibre.slack.com
 botlite-new-ui-stage-external.cisco.com
+botlite-new-ui-stage.cisco.com
 botlite-new-ui.cisco.com
 botlite.cisco.com
 botlmovie.vhx.tv
@@ -87351,6 +87355,7 @@ c.atlassian.net
 c.automall.qq.com
 c.badoo.com
 c.bbk3lvknero4c.ent.magento.cloud
+c.binance.com
 c.biz.yelp.com
 c.bn43ib6amczeo.ent.magento.cloud
 c.bugcrowdninja.invisionapp.com
@@ -92562,6 +92567,7 @@ cabinet.preview-editor-staging.staging.flocktory.com
 cabinet.push-email-hint-staging.staging.flocktory.com
 cabinet.r-staging.staging.flocktory.com
 cabinet.react-staging.staging.flocktory.com
+cabinet.request-staging.staging.flocktory.com
 cabinet.sequence-templates-staging.staging.flocktory.com
 cabinet.spn-staging.staging.flocktory.com
 cabinet.sponsored-emails-workflow-staging.staging-virus0316.flocktory.com
@@ -116790,6 +116796,7 @@ challex.mail.ru
 challisbaby.etsy.com
 challonershigh-my.sharepoint.com
 challonershigh.sharepoint.com
+challonge.challonge.com
 challonge.com
 chally.en.alibaba.com
 chalmers.zoom.us
@@ -118237,6 +118244,7 @@ charon-elb.airbnb.com
 charon-shared-development.airbnb-aws.com
 charon-test.aws.airbnb.com
 charon-test.realself.com
+charon-themis.airbnb-aws.com
 charon.54.live.com
 charon.airbnb.com
 charon.github.com
@@ -125340,3 +125348,6 @@ ci-antivirus.www-test.alumni.dev.soundtrap.com
 ci-antivirus.www.dentalplans.goodrx.com
 ci-api.dev.mail.ru
 ci-api2.dev.mail.ru
+ci-approval.telekom.de
+ci-assets.nextcloud.com
+ci-avira-free-antivirus.ko.rivals.com

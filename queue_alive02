@@ -1,6 +1,3 @@
-ci-approval.telekom.de
-ci-assets.nextcloud.com
-ci-avira-free-antivirus.ko.rivals.com
 ci-biobank.stanford.edu
 ci-blackvirus.udemy.com
 ci-bos-01.dev.sophos.com
@@ -12713,6 +12710,7 @@ cim-api-qa.app.optimizely.com
 cim-api-qa.app.sandbox.directly.com
 cim-api-qa.app.slack.com
 cim-api-qa.atlassian.net
+cim-api-qa.binance.com
 cim-api-qa.biz.yelp.com
 cim-api-qa.boards.greenhouse.io
 cim-api-qa.bugcrowdninja.invisionapp.com
@@ -12981,6 +12979,7 @@ cim-data-quality-qa.app.optimizely.com
 cim-data-quality-qa.app.sandbox.directly.com
 cim-data-quality-qa.app.slack.com
 cim-data-quality-qa.atlassian.net
+cim-data-quality-qa.binance.com
 cim-data-quality-qa.biz.yelp.com
 cim-data-quality-qa.boards.greenhouse.io
 cim-data-quality-qa.bugcrowdninja.invisionapp.com
@@ -24140,6 +24139,7 @@ cname.asianadiesdating.chaturbate.com
 cname.atlassian.net
 cname.b.qq.com
 cname.badoo.com
+cname.binance.com
 cname.biz.yelp.com
 cname.boards.greenhouse.io
 cname.bugcrowdninja.invisionapp.com
@@ -27292,6 +27292,7 @@ code.app.sandbox.directly.com
 code.app.slack.com
 code.atlassian.net
 code.beta.si.bingads.microsoft.com
+code.binance.com
 code.biz.yelp.com
 code.bk.tencent.com
 code.blogger.com
@@ -29293,6 +29294,7 @@ collab.app.greenhouse.io
 collab.app.optimizely.com
 collab.app.sandbox.directly.com
 collab.app.slack.com
+collab.binance.com
 collab.biz.yelp.com
 collab.boards.greenhouse.io
 collab.bswe.apple.com
@@ -32100,6 +32102,7 @@ compo.tmall.com
 compocopride.etsy.com
 component-cdn.cs.roku.com
 component-ota-fs-f.coloros.com
+component-ota-in.coloros.com
 component.github.com
 components.designsystem.digital.gov.external-domains-production.cloud.gov
 components.standards.usa.gov
@@ -33599,6 +33602,7 @@ connect-designvalidationrulemanagement-uks.bentley.com
 connect-designvalidationrulemanagement.bentley.com
 connect-diautilities.bentley.com
 connect-document-registry-api-aue.bentley.com
+connect-document-registry-api-eus-staging.bentley.com
 connect-document-registry-api-eus.bentley.com
 connect-document-registry-api-sea.bentley.com
 connect-document-registry-api-uks.bentley.com
@@ -76888,6 +76892,7 @@ db.app.optimizely.com
 db.app.sandbox.directly.com
 db.app.slack.com
 db.atlassian.net
+db.binance.com
 db.biz.yelp.com
 db.blog.vip.kr3.yahoo.com
 db.boards.greenhouse.io
@@ -77994,6 +77999,7 @@ dbfit.github.com
 dbflute.slack.com
 dbflyroom.stanford.edu
 dbfree.alibaba-inc.com
+dbfz-wtjp.challonge.com
 dbfzeudiscord.challonge.com
 dbg.qq.com
 dbg.sf.net
@@ -78970,6 +78976,7 @@ dc.app.slack.com
 dc.applicationinsights.microsoft.com
 dc.atlassian.net
 dc.att.com
+dc.binance.com
 dc.biz.yelp.com
 dc.bluejeans.com
 dc.boards.greenhouse.io
@@ -81444,6 +81451,7 @@ de.atlassian.net
 de.babelfish.yahoo.com
 de.badoo.com
 de.betfair.com
+de.binance.com
 de.biz.yelp.com
 de.blog.360.yahoo.com
 de.blog.elvenar.com
@@ -90891,6 +90899,7 @@ dev-connect-diautilities.bentley.com
 dev-connect-document-registry-api-eus.bentley.com
 dev-connect-document-registry-api.bentley.com
 dev-connect-eifs.bentley.com
+dev-connect-entitlementinternalutil-staging.bentley.com
 dev-connect-entitlementinternalutil.bentley.com
 dev-connect-entitlementmanagement.bentley.com
 dev-connect-evaluationentitlementservice-eus.bentley.com
@@ -93878,6 +93887,7 @@ developer-vpn.antivirus.goodrx.com
 developer-workforcemanager.att.com
 developer-yvcji0l1mm.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.antivirus-edu.goodrx.com
 developer.1688.com
+developer.a.bluejeans.com
 developer.airbnb.com
 developer.alibaba.com
 developer.alibabacloud.com
