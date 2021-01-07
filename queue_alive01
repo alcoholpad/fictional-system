@@ -27438,6 +27438,9 @@ autodiscover.antivirus.banner.www-test.alumni.dev.soundtrap.com
 autodiscover.antivirus.www-dev.admin.alumni.dev.soundtrap.com
 autodiscover.antivirus.www-test.alumni.dev.soundtrap.com
 autodiscover.antiviruslists.admin.dev.soundtrap.com
+autodiscover.ap.email.gs.com
+autodiscover.ap.gir.email.gs.com
+autodiscover.ap.ibd.email.gs.com
 autodiscover.apac.acomponeocovid19.sa.showmax.com
 autodiscover.api-sandbox.foxycart.com
 autodiscover.api.binance.com
@@ -27887,6 +27890,7 @@ autodiscover.xiaomi.com
 autodiscover.xoom.com
 autodiscover.yelp.com
 autodiscover.your-assigned-subdomain.files.com
+autodiscover.zh.email.gs.com
 autodiscovercoronado.vivy.com
 autodiscovesyncovh.tweakers.net
 autodisputest-2.antivirusupportblog.venmo.com
@@ -83381,6 +83385,7 @@ burrobranch.etsy.com
 burromtnarts.etsy.com
 burroviejowoodworking.sharepoint.com
 burrow-io.slack.com
+burrow.helium.systems
 burrowandbloom.etsy.com
 burrowsmotorcompany-my.sharepoint.com
 burrowsmotorcompany.sharepoint.com
@@ -118761,6 +118766,7 @@ chatws-41.stream.highwebmedia.com
 chatws-42.stream.highwebmedia.com
 chatws-43.stream.highwebmedia.com
 chatws-44.stream.highwebmedia.com
+chatws-45.stream.highwebmedia.com
 chatws-50.stream.highwebmedia.com
 chatws-51.stream.highwebmedia.com
 chatws-52.stream.highwebmedia.com
@@ -125349,5 +125355,3 @@ ci-antivirus.www.dentalplans.goodrx.com
 ci-api.dev.mail.ru
 ci-api2.dev.mail.ru
 ci-approval.telekom.de
-ci-assets.nextcloud.com
-ci-avira-free-antivirus.ko.rivals.com

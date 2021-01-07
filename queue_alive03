@@ -1,3 +1,4 @@
+dhcp-64-100-87-178.cisco.com
 dhcp-64-100-87-179.cisco.com
 dhcp-64-100-87-18.cisco.com
 dhcp-64-100-87-180.cisco.com
@@ -36214,6 +36215,7 @@ directory-api.pingone.com
 directory-int.teams.microsoft.com
 directory-lb.stanford.edu
 directory-stage.cisco.com
+directory.apps.dev.jupiterone.io
 directory.beta.starleaf.com
 directory.bigcartel.com
 directory.byspotify.com
@@ -118940,3 +118942,4 @@ events.sigmavirus24.github.com
 events.skydrive.live.com
 events.slack.com
 events.snapchat.com
+events.snappublisher.snapchat.com

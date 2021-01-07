@@ -1,4 +1,3 @@
-events.snappublisher.snapchat.com
 events.sophos.com
 events.stanford.edu
 events.telekom.de
@@ -1193,6 +1192,7 @@ ews-stg5.cisco.com
 ews-sydney.cisco.com
 ews-tactical.atlassian.net
 ews-tokyo.cisco.com
+ews.ap.email.gs.com
 ews.apps.cb.vip.gq1.yahoo.com
 ews.console.aliyun.com
 ews.corp.priceline.com
@@ -1212,6 +1212,7 @@ ews.si.email.gs.com
 ews.starbucks.com
 ews.t-mobile.cz
 ews.tmall.com
+ews.zh.email.gs.com
 ews1.hl.vip.gq1.yahoo.com
 ews1.sigmavirus-wiki.github.com
 ews2.apps.cb.vip.gq1.yahoo.com
@@ -3693,6 +3694,7 @@ f132.i.mail.ru
 f133.i.mail.ru
 f134.i.mail.ru
 f135.i.mail.ru
+f135e4b2c8424617957bb3fe9425be1a.waf.huaweicloud.com
 f136.i.mail.ru
 f137.i.mail.ru
 f1370.mail.vip.in.yahoo.com
@@ -30185,6 +30187,7 @@ ftp.m.github.com
 ftp.m.ppmail1.paddypower.it
 ftp.m.qq.com
 ftp.m.yelp.com
+ftp.magisto.com
 ftp.mail.lyris.antivirus.bo.webproxy.idc.tencent.com
 ftp.mail.ru
 ftp.mail.vpn.agent.antivirus.bo.webproxy.idc.tencent.com
@@ -48556,6 +48559,7 @@ global.video.intl.xiaomi.com
 global.virus.github.com
 global.web.b.mi.com
 global01.binance.com
+global02.apps.dev.lifeomic.com
 global2.github.com
 global2.slack.com
 global2019-ncov-hackathon.slack.com
@@ -61883,6 +61887,8 @@ greyedout.etsy.com
 greyelephantjewelry.etsy.com
 greyetal.etsy.com
 greyeyedesigns.etsy.com
+greyforum-de.c.huawei.com
+greyforum-ru.c.huawei.com
 greyfoxfelting.etsy.com
 greyfriarschurch.sharepoint.com
 greygoat.etsy.com
@@ -69447,6 +69453,7 @@ gwzft.en.alibaba.com
 gx-bicycle.en.alibaba.com
 gx-metal.en.alibaba.com
 gx-scorecard.corp.amazon.com
+gx.cwrcloud.huawei.com
 gx.github.com
 gx.qq.com
 gx.sharepoint.com
@@ -117514,6 +117521,7 @@ hu67.grepolis.com
 hu68.grepolis.com
 hu69.grepolis.com
 hu7.grepolis.com
+hu70.grepolis.com
 hu88.cn.alibaba.com
 hua-dun.en.alibaba.com
 hua-yin.en.alibaba.com
@@ -122535,5 +122543,3 @@ hybrid1516-1.fr.ns.planethoster.net
 hybrid1516.fr.ns.planethoster.net
 hybrid1517.fr.ns.planethoster.net
 hybrid1518-1.fr.ns.planethoster.net
-hybrid1518.fr.ns.planethoster.net
-hybrid1519.fr.ns.planethoster.net
