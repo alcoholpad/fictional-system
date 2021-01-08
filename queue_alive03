@@ -1,3 +1,21 @@
+dhcp-64-100-87-161.cisco.com
+dhcp-64-100-87-162.cisco.com
+dhcp-64-100-87-163.cisco.com
+dhcp-64-100-87-164.cisco.com
+dhcp-64-100-87-165.cisco.com
+dhcp-64-100-87-166.cisco.com
+dhcp-64-100-87-167.cisco.com
+dhcp-64-100-87-168.cisco.com
+dhcp-64-100-87-169.cisco.com
+dhcp-64-100-87-17.cisco.com
+dhcp-64-100-87-170.cisco.com
+dhcp-64-100-87-171.cisco.com
+dhcp-64-100-87-172.cisco.com
+dhcp-64-100-87-173.cisco.com
+dhcp-64-100-87-174.cisco.com
+dhcp-64-100-87-175.cisco.com
+dhcp-64-100-87-176.cisco.com
+dhcp-64-100-87-177.cisco.com
 dhcp-64-100-87-178.cisco.com
 dhcp-64-100-87-179.cisco.com
 dhcp-64-100-87-18.cisco.com
@@ -64879,6 +64897,7 @@ dnm.simple.com
 dnm.skydrive.live.com
 dnm.slack.com
 dnm.snappublisher.snapchat.com
+dnm.spotify.xxx
 dnm.status.slack.com
 dnm.statuspage.io
 dnm.support.greenhouse.io
@@ -65244,6 +65263,7 @@ dns.sip.sjc1.squareup.com
 dns.skydrive.live.com
 dns.slack.com
 dns.snappublisher.snapchat.com
+dns.spotify.xxx
 dns.status.slack.com
 dns.statuspage.io
 dns.support.greenhouse.io
@@ -65490,6 +65510,8 @@ dns1.skydrive.live.com
 dns1.slack.com
 dns1.snappublisher.snapchat.com
 dns1.spaces.live.com
+dns1.spotify.xxx
+dns1.staging-airtableblocks.com
 dns1.starbucks.com.cn
 dns1.status.slack.com
 dns1.statuspage.io
@@ -65684,10 +65706,13 @@ dns2.sexycyborg.imgur.com
 dns2.sharepoint.com
 dns2.shopify.com
 dns2.showcase.dropbox.com
+dns2.showmax.com
 dns2.simple.com
 dns2.skydrive.live.com
 dns2.slack.com
 dns2.snappublisher.snapchat.com
+dns2.spotify.xxx
+dns2.staging-airtableblocks.com
 dns2.status.slack.com
 dns2.statuspage.io
 dns2.support.greenhouse.io
@@ -67349,6 +67374,7 @@ docker.skydrive.live.com
 docker.slac.stanford.edu
 docker.slack.com
 docker.snappublisher.snapchat.com
+docker.spotify.xxx
 docker.status.slack.com
 docker.statuspage.io
 docker.syd.artifactory.ikarem.io
@@ -68232,6 +68258,7 @@ dogfood-dev.showmax.com
 dogfood-dev.simple.com
 dogfood-dev.slack.com
 dogfood-dev.snappublisher.snapchat.com
+dogfood-dev.spotify.xxx
 dogfood-dev.status.slack.com
 dogfood-dev.statuspage.io
 dogfood-dev.support.greenhouse.io
@@ -71077,6 +71104,8 @@ download.skype.com
 download.slack.com
 download.snappublisher.snapchat.com
 download.spotify.com
+download.spotify.xxx
+download.staging-airtableblocks.com
 download.status.slack.com
 download.statuspage.io
 download.support.greenhouse.io
@@ -77943,6 +77972,8 @@ dyetrying.etsy.com
 dyetyarns.etsy.com
 dyetyke.etsy.com
 dyextra2.stanford.edu
+dyf.starbucks.co.jp
+dyf2.starbucks.co.jp
 dyfa.taobao.com
 dyfc.slack.com
 dyfddj.1688.com
@@ -78144,6 +78175,7 @@ dyn.simple.com
 dyn.skydrive.live.com
 dyn.slack.com
 dyn.snappublisher.snapchat.com
+dyn.spotify.xxx
 dyn.status.slack.com
 dyn.statuspage.io
 dyn.support.greenhouse.io
@@ -84066,6 +84098,7 @@ ecommerce.amazon.com
 ecommerce.apple.com
 ecommerce.base.be
 ecommerce.cisco.com
+ecommerce.dev.soundtrap.com
 ecommerce.github.com
 ecommerce.onedeploy.microsoft.com
 ecommerce.paypal.com
@@ -88803,6 +88836,8 @@ edge.skype.com
 edge.slac.stanford.edu
 edge.slack.com
 edge.snappublisher.snapchat.com
+edge.spotify.xxx
+edge.staging-airtableblocks.com
 edge.starbucks.com
 edge.status.slack.com
 edge.statuspage.io
@@ -93766,6 +93801,8 @@ elastic.simple.com
 elastic.skydrive.live.com
 elastic.slack.com
 elastic.snappublisher.snapchat.com
+elastic.spotify.xxx
+elastic.staging-airtableblocks.com
 elastic.staging.pmatrem.telekom.net
 elastic.status.slack.com
 elastic.statuspage.io
@@ -96743,6 +96780,7 @@ email.slack.com
 email.snappublisher.snapchat.com
 email.sonyentertainmentnetwork.com
 email.spokeo.com
+email.spotify.xxx
 email.starbucks.com.cn
 email.starbucks.fr
 email.status.slack.com
@@ -97603,6 +97641,7 @@ emetrix.atlassian.net
 emex.mail.ru
 emex116.mail.ru
 emeyeme19.spaces.live.com
+emf-ics6000.stanford.edu
 emf-lpr477.stanford.edu
 emf2010.mail.ru
 emfalconbridge.etsy.com
@@ -98820,6 +98859,7 @@ en.slack.com
 en.smartsheet.com
 en.snappublisher.snapchat.com
 en.solutions.starbucks.ca
+en.spotify.xxx
 en.spring.rivals.com
 en.staging.dota2.com
 en.staging.vivy.com
@@ -103609,6 +103649,7 @@ eps-tyo1-1-l.cisco.com
 eps.alibaba-inc.com
 eps.apple.com
 eps.cisco.com
+eps.dm.taobao.com
 eps.edmodo.com
 eps.github.com
 eps.gs.com
@@ -118943,3 +118984,17 @@ events.skydrive.live.com
 events.slack.com
 events.snapchat.com
 events.snappublisher.snapchat.com
+events.sophos.com
+events.stanford.edu
+events.telekom.de
+events.telenet.be
+events.tesla.cn
+events.tesla.com
+events.tpum.skype.com
+events.twitter.com
+events.uber.com
+events.ucd-covid19.slack.com
+events.udemy.com
+events.virus.github.com
+events.yahoo.com
+events.yvcji0l1mm.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.antivirus-edu.goodrx.com

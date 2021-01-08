@@ -1,3 +1,8 @@
+antivirus.www.abs.admin.dev.soundtrap.com
+antivirus.www.acc-dentalplans.goodrx.com
+antivirus.www.admin-dentalplans.goodrx.com
+antivirus.www.admin1-dentalplans.goodrx.com
+antivirus.www.admindentalplans.goodrx.com
 antivirus.www.akamaidentalplans.goodrx.com
 antivirus.www.alpha.dentalplans.goodrx.com
 antivirus.www.alt-dentalplans.goodrx.com
@@ -3561,6 +3566,7 @@ apac-canary.messagingthread.skype.com
 apac-client-ss.msg.skype.com
 apac-gtm1.htc.com
 apac-login.gs.com
+apac-rs.corp.smartsheet.com
 apac-server-ss.msg.skype.com
 apac-settings.teams.microsoft.com
 apac-sso.tesla.com
@@ -4744,6 +4750,7 @@ api-docs-gentilsvirus.slack.com
 api-docs-hackathoncovid19.slack.com
 api-docs-hihc.antivirus.goodrx.com
 api-docs-jogl-covid-19.slack.com
+api-docs-legacy.transferwise.com
 api-docs-m.antivirus-smartrx.goodrx.com
 api-docs-makervsvirus.slack.com
 api-docs-rheumcovid-19registry.slack.com
@@ -5153,6 +5160,7 @@ api-origin-prod-singapore.arkoselabs.com
 api-origin-prod.arkoselabs.com
 api-origin-uatcat-sydney.arkoselabs.com
 api-origin.arkoselabs.com
+api-origin.c1-np.sonyentertainmentnetwork.com
 api-origin.cloudflare.com
 api-origin.creditkarma.com
 api-origin.d1-np.sonyentertainmentnetwork.com
@@ -7070,6 +7078,8 @@ api.speed.miwifi.com
 api.spokeo.com
 api.sports.microsoft.com
 api.spotify.com
+api.spotify.xxx
+api.spotifyforbrands.com
 api.squareup.com
 api.sr.roku.com
 api.stack.imgur.com
@@ -7542,6 +7552,7 @@ api.stage2std090.stage.paypal.com
 api.stage2vps21.stage.paypal.com
 api.stage2vps24.stage.paypal.com
 api.stagef.fortmatic.com
+api.staging-airtableblocks.com
 api.staging.blockchain.info
 api.staging.braintreepayments.com
 api.staging.cloudflare.com
@@ -7550,6 +7561,7 @@ api.staging.cs.roku.com
 api.staging.fitstar.com
 api.staging.gbutil.liquidweb.com
 api.staging.github.com
+api.staging.global.druid.shopifykloud.com
 api.staging.ibops.net
 api.staging.incidents.liquidweb.com
 api.staging.kiwi.com
@@ -9744,6 +9756,7 @@ app.snapchat.com
 app.snappublisher.snapchat.com
 app.spaces.live.com
 app.sports.qq.com
+app.spotify.xxx
 app.squareup.com
 app.stage2.nova.cp.vip.gq1.yahoo.com
 app.staging.fitstar.com
@@ -14150,6 +14163,7 @@ argus.github.com
 argus.myshopify.com
 argus.rbx.com
 argus.sharepoint.com
+argus.stanford.edu
 argus.tmall.com
 argus.tweakers.net
 argusauto.sharepoint.com
@@ -15923,6 +15937,7 @@ art-c02np10ug3qt.stanford.edu
 art-c02rj48eg8wp.stanford.edu
 art-c02xr3b6jg5h.stanford.edu
 art-c02y836njhd2.stanford.edu
+art-canon-ip1000.stanford.edu
 art-cl-01-imi4.stanford.edu
 art-cl-02-imi4.stanford.edu
 art-cold-s.nflximg.net
@@ -16455,6 +16470,7 @@ arthub-storage-test.qq.com
 arthub-storage.qq.com
 arthub-test.qq.com
 arthub.qq.com
+arthur-alumni.dev.soundtrap.com
 arthur-antivirus.www-test.alumni.dev.soundtrap.com
 arthur-e.github.com
 arthur.dev.soundtrap.com
@@ -20615,6 +20631,7 @@ assets.snapchance.no.san.cloudinary.com
 assets.snappublisher.snapchat.com
 assets.software.eu.playstation.com
 assets.spotify.com
+assets.spotify.xxx
 assets.sr.roku.com
 assets.staging.braintreepayments.com
 assets.staging.fitstar.com
@@ -21747,6 +21764,7 @@ atake.tmall.com
 atakeontheworld.quora.com
 atal1.slack.com
 atalante-4.stanford.edu
+atalante.stanford.edu
 atalantoo.imgur.com
 atalayborbala.sharepoint.com
 ataleikis.dev.ikarem.io
@@ -26312,8 +26330,10 @@ auth.snapchat.com
 auth.snappublisher.snapchat.com
 auth.software.eu.playstation.com
 auth.sp-int.ac.playstation.net
+auth.spotify.xxx
 auth.sso.paddypower.com
 auth.ssod.skinfra.xyz
+auth.staging-airtableblocks.com
 auth.staging.gitlab.com
 auth.staging.roku.com
 auth.stanford.edu
@@ -27326,8 +27346,10 @@ autoconfig.snappublisher.snapchat.com
 autoconfig.soporte.github.com
 autoconfig.sports.github.com
 autoconfig.sports.slack.com
+autoconfig.spotify.xxx
 autoconfig.stage.github.com
 autoconfig.stage.slack.com
+autoconfig.staging-airtableblocks.com
 autoconfig.staging.cloudflare.com
 autoconfig.staging.github.com
 autoconfig.staging.kiwi.com
@@ -27789,6 +27811,7 @@ autodiscover.sophos.com
 autodiscover.soporte.github.com
 autodiscover.sports.github.com
 autodiscover.sports.slack.com
+autodiscover.spotify.xxx
 autodiscover.staff.telenet.be
 autodiscover.stage.cisco.com
 autodiscover.stage.github.com
@@ -28943,6 +28966,7 @@ avalemert.etsy.com
 avalentino.github.com
 avalia.atlassian.net
 avallone-4.stanford.edu
+avallone.stanford.edu
 avallp.sharepoint.com
 avalon-pens.myshopify.com
 avalon-vm0.scs.stanford.edu
@@ -29573,6 +29597,7 @@ aviosim.sharepoint.com
 aviplakos.mail.ru
 aviplay.sf.net
 aviquedou.live.com
+avira-anti-virus-11-1-2.api.taobao.com
 avira-free-antivirus-10.ko.rivals.com
 avira-free-antivirus-18.ar.rivals.com
 avira-free-antivirus-2013.it.rivals.com
@@ -31831,8 +31856,11 @@ awsdashboard.semrush.com
 awsdashboard.shopify.com
 awsdashboard.showcase.dropbox.com
 awsdashboard.showmax.com
+awsdashboard.simple.com
 awsdashboard.slack.com
 awsdashboard.snappublisher.snapchat.com
+awsdashboard.spotify.xxx
+awsdashboard.staging-airtableblocks.com
 awsdashboard.status.slack.com
 awsdashboard.statuspage.io
 awsdashboard.support.greenhouse.io
@@ -33779,8 +33807,10 @@ b.skydrive.live.com
 b.slack.com
 b.smtp.chaturbate.com
 b.snappublisher.snapchat.com
+b.spotify.xxx
 b.ssl.shopify.com
 b.stage.auvik.com
+b.staging-airtableblocks.com
 b.stats.paypal.com
 b.status.slack.com
 b.statuspage.io
@@ -36771,6 +36801,7 @@ backwoodstoys.etsy.com
 backyard-app6-ip2.corp.bf1.yahoo.com
 backyard-retreats.myshopify.com
 backyard.github.com
+backyard.seraph.taobao.com
 backyard.sharepoint.com
 backyard.slack.com
 backyard1-new.corp.yahoo.com
@@ -40711,6 +40742,7 @@ basic-nodejs-dev.showmax.com
 basic-nodejs-dev.simple.com
 basic-nodejs-dev.slack.com
 basic-nodejs-dev.snappublisher.snapchat.com
+basic-nodejs-dev.spotify.xxx
 basic-nodejs-dev.status.slack.com
 basic-nodejs-dev.statuspage.io
 basic-nodejs-dev.support.greenhouse.io
@@ -40807,6 +40839,8 @@ basic.sigmavirus.github.com
 basic.simple.com
 basic.slack.com
 basic.snappublisher.snapchat.com
+basic.spotify.xxx
+basic.staging-airtableblocks.com
 basic.status.slack.com
 basic.statuspage.io
 basic.support.greenhouse.io
@@ -42498,6 +42532,7 @@ bbs.slack.com
 bbs.slg.qq.com
 bbs.snappublisher.snapchat.com
 bbs.soc.qq.com
+bbs.spotify.xxx
 bbs.starbucks.com.cn
 bbs.status.slack.com
 bbs.statuspage.io
@@ -50354,6 +50389,8 @@ beta.snappublisher.snapchat.com
 beta.sngapm.qq.com
 beta.software.eu.playstation.com
 beta.spotify.com
+beta.spotify.xxx
+beta.staging-airtableblocks.com
 beta.starbucks.com
 beta.static.zhan.qq.com
 beta.status.slack.com
@@ -65506,6 +65543,7 @@ blog.sexycyborg.imgur.com
 blog.shopify.com
 blog.showcase.dropbox.com
 blog.showmax.com
+blog.simba.taobao.com
 blog.simple.com
 blog.simplify.com
 blog.skydrive.live.com
@@ -65516,7 +65554,9 @@ blog.soundcloud.com
 blog.spaces.live.com
 blog.spokeo.com
 blog.spotify.com
+blog.spotify.xxx
 blog.squareup.com
+blog.staging-airtableblocks.com
 blog.starbucks.com
 blog.status.slack.com
 blog.statuspage.io
@@ -65821,6 +65861,7 @@ blogs.skype.com
 blogs.slack.com
 blogs.snappublisher.snapchat.com
 blogs.sophos.com
+blogs.spotify.xxx
 blogs.starbucks.com
 blogs.status.slack.com
 blogs.statuspage.io
@@ -72220,6 +72261,7 @@ book.qq.com
 book.reader.qq.com
 book.sharepoint.com
 book.stanford.edu
+book.taobao.com
 book.telekom.com
 book.tmall.com
 book.zomato.com
@@ -73880,6 +73922,7 @@ boscoh.github.com
 boscoin.slack.com
 bosd.en.alibaba.com
 bose-dev.vanilladevelopment.com
+bose-segments-staging.spotifyforbrands.com
 bose-segments.spotifyforbrands.com
 bose.tmall.com
 bose.vanillacommunities.com
@@ -82253,6 +82296,7 @@ builder.simple.com
 builder.skydrive.live.com
 builder.slack.com
 builder.snappublisher.snapchat.com
+builder.spotify.xxx
 builder.status.slack.com
 builder.statuspage.io
 builder.support.greenhouse.io
@@ -87515,9 +87559,11 @@ c.mx.b.e.hyatt.com
 c.mx.b.e.starbucks.com
 c.mx.b.e.usaa.com
 c.mx.e.hyatt.com
+c.mx.e.starbucks.co.uk
 c.mx.e.usaa.com
 c.mx.e2.usaa.com
 c.mx.email.sonyentertainmentnetwork.com
+c.mx.email.starbucks.fr
 c.mx.emails.westernunion.com
 c.mx.m.email.sonyentertainmentnetwork.com
 c.mx.mail.yahoo.com
@@ -87620,7 +87666,9 @@ c.smtp.chaturbate.com
 c.snappublisher.snapchat.com
 c.softmgr.qq.com
 c.spotify.com
+c.spotify.xxx
 c.ssl.shopify.com
+c.staging-airtableblocks.com
 c.stat.nearme.com.cn
 c.static.a.bluejeans.com
 c.static.bluejeans.com
@@ -88168,6 +88216,7 @@ c010.waw001.ix.nflxvideo.net
 c010.yeg001.telus.isp.nflxvideo.net
 c010.yyc001.telus.isp.nflxvideo.net
 c010.zrh001.ix.nflxvideo.net
+c0101t2.apollo.smartsheet.com
 c011.atl003.ix.nflxvideo.net
 c011.ber001.ix.nflxvideo.net
 c011.bru001.ix.nflxvideo.net
@@ -89708,6 +89757,7 @@ c1ph04store.myshopify.com
 c1pher.spaces.live.com
 c1sit.microsoft.com
 c1t6pm8vrjmsl1iproe4at20650rv6no.waf.aliyun.com
+c1t6pm8vrjmsl1iproe4at20650rv6no.waf.taobao.com
 c1uat.microsoft.com
 c2-au-1.algolia.net
 c2-au-1.algolianet.com
@@ -99765,6 +99815,7 @@ careers.smartcontract.com
 careers.smartecwww.antivirus.showmax.com
 careers.snappublisher.snapchat.com
 careers.sophos.com
+careers.spotify.xxx
 careers.squareup.com
 careers.starbucks.co.uk
 careers.status.slack.com
@@ -107778,6 +107829,7 @@ cdn.snappublisher.snapchat.com
 cdn.sonyentertainmentnetwork.com
 cdn.sovest.ru
 cdn.sp-int.ac.playstation.net
+cdn.spotify.xxx
 cdn.st.comm.miui.com
 cdn.stage-antivirus.goodrx.com
 cdn.staging-airtableblocks.com
@@ -108379,6 +108431,8 @@ cdq-api.showmax.com
 cdq-api.simple.com
 cdq-api.slack.com
 cdq-api.snappublisher.snapchat.com
+cdq-api.spotify.xxx
+cdq-api.staging-airtableblocks.com
 cdq-api.status.slack.com
 cdq-api.statuspage.io
 cdq-api.support.greenhouse.io
@@ -110952,6 +111006,7 @@ cert.simple.com
 cert.sirencatalog.starbucksreserve.com
 cert.slack.com
 cert.snappublisher.snapchat.com
+cert.spotify.xxx
 cert.stage.blogin.att.com
 cert.stanford.edu
 cert.starbucks.co.uk
@@ -111094,6 +111149,8 @@ certificate.showmax.com
 certificate.simple.com
 certificate.slack.com
 certificate.snappublisher.snapchat.com
+certificate.spotify.xxx
+certificate.staging-airtableblocks.com
 certificate.stanford.edu
 certificate.status.slack.com
 certificate.statuspage.io
@@ -119117,6 +119174,8 @@ check.showmax.com
 check.simple.com
 check.slack.com
 check.snappublisher.snapchat.com
+check.spotify.xxx
+check.staging-airtableblocks.com
 check.status.slack.com
 check.statuspage.io
 check.support.greenhouse.io
@@ -125343,15 +125402,3 @@ chzm.world.tmall.com
 chzqd.cn.alibaba.com
 chzsxt.mail.ru
 chzw.en.alibaba.com
-chzy.zhan.qq.com
-ci-abn-01.dev.sophos.com
-ci-abn-01.sophos.com
-ci-antivirus.apfm.goodrx.com
-ci-antivirus.dentalplans.goodrx.com
-ci-antivirus.goodrx.com
-ci-antivirus.test.staging.pyszne.pl
-ci-antivirus.www-test.alumni.dev.soundtrap.com
-ci-antivirus.www.dentalplans.goodrx.com
-ci-api.dev.mail.ru
-ci-api2.dev.mail.ru
-ci-approval.telekom.de

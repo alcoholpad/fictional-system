@@ -1,3 +1,15 @@
+chzy.zhan.qq.com
+ci-abn-01.dev.sophos.com
+ci-abn-01.sophos.com
+ci-antivirus.apfm.goodrx.com
+ci-antivirus.dentalplans.goodrx.com
+ci-antivirus.goodrx.com
+ci-antivirus.test.staging.pyszne.pl
+ci-antivirus.www-test.alumni.dev.soundtrap.com
+ci-antivirus.www.dentalplans.goodrx.com
+ci-api.dev.mail.ru
+ci-api2.dev.mail.ru
+ci-approval.telekom.de
 ci-assets.nextcloud.com
 ci-avira-free-antivirus.ko.rivals.com
 ci-biobank.stanford.edu
@@ -12678,6 +12690,7 @@ cim-api-dev.showmax.com
 cim-api-dev.simple.com
 cim-api-dev.slack.com
 cim-api-dev.snappublisher.snapchat.com
+cim-api-dev.spotify.xxx
 cim-api-dev.status.slack.com
 cim-api-dev.statuspage.io
 cim-api-dev.support.greenhouse.io
@@ -12769,6 +12782,8 @@ cim-api-qa.showmax.com
 cim-api-qa.simple.com
 cim-api-qa.slack.com
 cim-api-qa.snappublisher.snapchat.com
+cim-api-qa.spotify.xxx
+cim-api-qa.staging-airtableblocks.com
 cim-api-qa.status.slack.com
 cim-api-qa.statuspage.io
 cim-api-qa.support.greenhouse.io
@@ -12858,6 +12873,7 @@ cim-api-uat.showmax.com
 cim-api-uat.simple.com
 cim-api-uat.slack.com
 cim-api-uat.snappublisher.snapchat.com
+cim-api-uat.spotify.xxx
 cim-api-uat.status.slack.com
 cim-api-uat.statuspage.io
 cim-api-uat.support.greenhouse.io
@@ -12946,6 +12962,8 @@ cim-api.showmax.com
 cim-api.simple.com
 cim-api.slack.com
 cim-api.snappublisher.snapchat.com
+cim-api.spotify.xxx
+cim-api.staging-airtableblocks.com
 cim-api.status.slack.com
 cim-api.statuspage.io
 cim-api.support.greenhouse.io
@@ -13036,6 +13054,8 @@ cim-data-quality-qa.showmax.com
 cim-data-quality-qa.simple.com
 cim-data-quality-qa.slack.com
 cim-data-quality-qa.snappublisher.snapchat.com
+cim-data-quality-qa.spotify.xxx
+cim-data-quality-qa.staging-airtableblocks.com
 cim-data-quality-qa.status.slack.com
 cim-data-quality-qa.statuspage.io
 cim-data-quality-qa.support.greenhouse.io
@@ -13124,6 +13144,7 @@ cim-dev.showmax.com
 cim-dev.simple.com
 cim-dev.slack.com
 cim-dev.snappublisher.snapchat.com
+cim-dev.spotify.xxx
 cim-dev.status.slack.com
 cim-dev.statuspage.io
 cim-dev.support.greenhouse.io
@@ -13213,6 +13234,7 @@ cim-geo-dev.showmax.com
 cim-geo-dev.simple.com
 cim-geo-dev.slack.com
 cim-geo-dev.snappublisher.snapchat.com
+cim-geo-dev.spotify.xxx
 cim-geo-dev.status.slack.com
 cim-geo-dev.statuspage.io
 cim-geo-dev.support.greenhouse.io
@@ -14719,6 +14741,7 @@ citrix.skydrive.live.com
 citrix.slac.stanford.edu
 citrix.slack.com
 citrix.snappublisher.snapchat.com
+citrix.spotify.xxx
 citrix.status.slack.com
 citrix.statuspage.io
 citrix.support.greenhouse.io
@@ -16117,6 +16140,7 @@ clark-minoue2-t7910.stanford.edu
 clark-mri-linux.stanford.edu
 clark-nalinr-desktop.stanford.edu
 clark-nanodrop-deisseroth.stanford.edu
+clark-nap-pr-0.stanford.edu
 clark-nap-un-34.stanford.edu
 clark-nel-tr-86.stanford.edu
 clark-oil-7050.stanford.edu
@@ -17298,6 +17322,7 @@ click.simple.com
 click.slack.com
 click.snapchat.com
 click.snappublisher.snapchat.com
+click.spotify.xxx
 click.status.slack.com
 click.statuspage.io
 click.subscriptions.gs.com
@@ -18834,6 +18859,8 @@ cloud.smartkit-toolbox.huawei.com
 cloud.snappublisher.snapchat.com
 cloud.sophos.com
 cloud.sparta.corp.magento.com
+cloud.spotify.xxx
+cloud.staging-airtableblocks.com
 cloud.status.slack.com
 cloud.statuspage.io
 cloud.support.greenhouse.io
@@ -23354,6 +23381,7 @@ cn-jogl-covid-19.slack.com
 cn-jxdz.en.alibaba.com
 cn-kprm-prod-alln.cisco.com
 cn-kprm-prod-rcdn.cisco.com
+cn-lazada-sg-acs.m.taobao.com
 cn-learn-prod-alln.cisco.com
 cn-learn-prod-rcdn.cisco.com
 cn-learn-prod-rtp.cisco.com
@@ -24217,6 +24245,8 @@ cname.simple.com
 cname.skydrive.live.com
 cname.slack.com
 cname.snappublisher.snapchat.com
+cname.spotify.xxx
+cname.staging-airtableblocks.com
 cname.status.slack.com
 cname.statuspage.io
 cname.support.greenhouse.io
@@ -26406,6 +26436,7 @@ co-ks-mo-ok-ar-yg.slack.com
 co-lab-participants.slack.com
 co-livi.spaces.live.com
 co-llector.vhx.tv
+co-md3000.stanford.edu
 co-mens.en.alibaba.com
 co-mg4.mail.yahoo.com
 co-pc-10506.stanford.edu
@@ -26421,6 +26452,7 @@ co-pc-20752.stanford.edu
 co-pc-20852.stanford.edu
 co-ras.gsa.gov
 co-stnet-01.gsa.gov
+co-tl2000.stanford.edu
 co-vpn.gsa.gov
 co-world.en.alibaba.com
 co.bid.vip.tcv.yahoo.com
@@ -27217,6 +27249,7 @@ coda.live.mi.com
 coda.vanillacommunities.com
 coda.vanillastaging.com
 codacus.slack.com
+codacy-test.platform-sandbox.skypicker.com
 codage.atlassian.net
 codalab-dev.stanford.edu
 codalab.slack.com
@@ -27373,6 +27406,8 @@ code.showmax.com
 code.simple.com
 code.slack.com
 code.snappublisher.snapchat.com
+code.spotify.xxx
+code.staging-airtableblocks.com
 code.staging.kiwi.com
 code.stanford.edu
 code.status.slack.com
@@ -29349,6 +29384,8 @@ collab.showmax.com
 collab.simple.com
 collab.slack.com
 collab.snappublisher.snapchat.com
+collab.spotify.xxx
+collab.staging-airtableblocks.com
 collab.status.slack.com
 collab.statuspage.io
 collab.support.greenhouse.io
@@ -34780,6 +34817,7 @@ consul.showmax.com
 consul.simple.com
 consul.slack.com
 consul.snappublisher.snapchat.com
+consul.spotify.xxx
 consul.staging.blockchain.info
 consul.stanford.edu
 consul.status.slack.com
@@ -36555,6 +36593,7 @@ cooyear.en.alibaba.com
 cooyo.oyorooms.com
 coozee.taiwan.tmall.com
 coozee.tmall.com
+coozoe.we.app.jae.m.taobao.com
 cop-uat.datastax.com
 cop.truaxis.mastercard.com
 cop21.stanford.edu
@@ -45568,6 +45607,7 @@ cp.skydrive.live.com
 cp.slack.com
 cp.smartscreen.microsoft.com
 cp.snappublisher.snapchat.com
+cp.spotify.xxx
 cp.starbucks.com.br
 cp.status.slack.com
 cp.statuspage.io
@@ -45765,6 +45805,7 @@ cpanel.simple.com
 cpanel.skydrive.live.com
 cpanel.slack.com
 cpanel.snappublisher.snapchat.com
+cpanel.spotify.xxx
 cpanel.status.slack.com
 cpanel.statuspage.io
 cpanel.support.greenhouse.io
@@ -49883,6 +49924,7 @@ creativepeptalk.etsy.com
 creativephotoproducts.etsy.com
 creativepixel.sharepoint.com
 creativeportal.spotifyforbrands.com
+creativeportfolio-staging.spotifyforbrands.com
 creativeportfolio.spotifyforbrands.com
 creativepotential.etsy.com
 creativeproductivity.quora.com
@@ -50883,6 +50925,7 @@ crm.skydrive.live.com
 crm.slack.com
 crm.sovest.ru
 crm.sports.qq.com
+crm.spotify.xxx
 crm.stage-secure.fair.engineering
 crm.status.slack.com
 crm.statuspage.io
@@ -61491,6 +61534,8 @@ cveapi.showmax.com
 cveapi.simple.com
 cveapi.slack.com
 cveapi.snappublisher.snapchat.com
+cveapi.spotify.xxx
+cveapi.staging-airtableblocks.com
 cveapi.status.slack.com
 cveapi.statuspage.io
 cveapi.support.greenhouse.io
@@ -64245,6 +64290,7 @@ d.mx.e.starbucks.co.uk
 d.mx.e.usaa.com
 d.mx.e2.usaa.com
 d.mx.email.sonyentertainmentnetwork.com
+d.mx.email.starbucks.fr
 d.mx.emails.westernunion.com
 d.mx.m.e.starbucks.com
 d.mx.m.email.sonyentertainmentnetwork.com
@@ -64661,6 +64707,7 @@ d021.fma.fb.me
 d022.fma.fb.me
 d02201247.chaturbate.com
 d023.fma.fb.me
+d026-hplj4000.stanford.edu
 d028.fma.fb.me
 d03-1-ag.productioncontroller.starbucks.com
 d03-2-ag.productioncontroller.starbucks.com
@@ -72346,6 +72393,7 @@ damqa.microsoft.com
 damrani-lnx.cisco.com
 damrock.etsy.com
 dams.github.com
+dams.stanford.edu
 damsearch-beta.corp.amazon.com
 damsearch.corp.amazon.com
 damseldesigns.etsy.com
@@ -72847,6 +72895,7 @@ danieapp.showmax.com
 danieapp.simple.com
 danieapp.slack.com
 danieapp.snappublisher.snapchat.com
+danieapp.spotify.xxx
 danieapp.status.slack.com
 danieapp.statuspage.io
 danieapp.support.greenhouse.io
@@ -77298,6 +77347,8 @@ db.showmax.com
 db.simple.com
 db.slack.com
 db.snappublisher.snapchat.com
+db.spotify.xxx
+db.staging-airtableblocks.com
 db.staging.liveberater.telekom.net
 db.status.slack.com
 db.statuspage.io
@@ -79363,11 +79414,14 @@ dc.showmax.com
 dc.simple.com
 dc.slack.com
 dc.snappublisher.snapchat.com
+dc.spotify.xxx
+dc.staging-airtableblocks.com
 dc.stat.nearme.com.cn
 dc.status.slack.com
 dc.statuspage.io
 dc.support.greenhouse.io
 dc.t-mobile.cz
+dc.tamtam.chat
 dc.taobao.com
 dc.tech.qq.com
 dc.tmall.com
@@ -81938,6 +81992,8 @@ de.smartsheet.com
 de.snappublisher.snapchat.com
 de.socialclub.rockstargames.com
 de.sophos.com
+de.spotify.xxx
+de.staging-airtableblocks.com
 de.stars.yahoo.com
 de.status.slack.com
 de.statuspage.io
@@ -83675,6 +83731,7 @@ defan.en.alibaba.com
 defarious.vhx.tv
 defasi.tmall.com
 default-digitalocean-kraken.plaid.com
+default-et2.waf.taobao.com
 default-io.invisionapp.com
 default-nat-kraken.plaid.com
 default-site.uber.com
@@ -85820,6 +85877,7 @@ delivery-35-159-27-181-eu-central-1.prod.hydra.sophos.com
 delivery-35-159-27-182-eu-central-1.prod.hydra.sophos.com
 delivery-35-159-27-183-eu-central-1.prod.hydra.sophos.com
 delivery-35-159-27-184-eu-central-1.prod.hydra.sophos.com
+delivery-35-159-27-185-eu-central-1.prod.hydra.sophos.com
 delivery-35-159-27-186-eu-central-1.prod.hydra.sophos.com
 delivery-35-159-27-187-eu-central-1.prod.hydra.sophos.com
 delivery-35-159-27-188-eu-central-1.prod.hydra.sophos.com
@@ -85851,6 +85909,7 @@ delivery-35-159-27-21-eu-central-1.prod.hydra.sophos.com
 delivery-35-159-27-210-eu-central-1.prod.hydra.sophos.com
 delivery-35-159-27-211-eu-central-1.prod.hydra.sophos.com
 delivery-35-159-27-212-eu-central-1.prod.hydra.sophos.com
+delivery-35-159-27-213-eu-central-1.prod.hydra.sophos.com
 delivery-35-159-27-214-eu-central-1.prod.hydra.sophos.com
 delivery-35-159-27-215-eu-central-1.prod.hydra.sophos.com
 delivery-35-159-27-216-eu-central-1.prod.hydra.sophos.com
@@ -85952,6 +86011,7 @@ delivery-35-159-27-72-eu-central-1.prod.hydra.sophos.com
 delivery-35-159-27-73-eu-central-1.prod.hydra.sophos.com
 delivery-35-159-27-74-eu-central-1.prod.hydra.sophos.com
 delivery-35-159-27-75-eu-central-1.prod.hydra.sophos.com
+delivery-35-159-27-76-eu-central-1.prod.hydra.sophos.com
 delivery-35-159-27-77-eu-central-1.prod.hydra.sophos.com
 delivery-35-159-27-78-eu-central-1.prod.hydra.sophos.com
 delivery-35-159-27-79-eu-central-1.prod.hydra.sophos.com
@@ -86682,6 +86742,7 @@ demo-webservices.globalpay.westernunion.com
 demo.10x.gsa.gov
 demo.1688.com
 demo.admin.foxycart.com
+demo.admin.smartsheet.com
 demo.algolia.com
 demo.alibaba-inc.com
 demo.aliexpress.com
@@ -86859,6 +86920,8 @@ demo.smartdata.mastercard.com
 demo.smartdatamanager.mastercard.com
 demo.snappublisher.snapchat.com
 demo.sophos.com
+demo.spotify-library.com
+demo.spotify.xxx
 demo.spotifyforbrands.com
 demo.stage.twilio.com
 demo.starbucks.com.cn
@@ -87238,6 +87301,7 @@ demobox.github.com
 demoboxtde.sharepoint.com
 demobugstore.myshopify.com
 demobuilder-staging.spotifyforbrands.com
+demobuilder.spotifyforbrands.com
 democloud.huawei.com
 democop.att.com
 democovid-atlas.slack.com
@@ -92248,6 +92312,7 @@ dev.social.technet.microsoft.com
 dev.soundcloud.com
 dev.sportsipad.qq.com
 dev.spotify.com
+dev.spotify.xxx
 dev.spr-frontend.speech.microsoft.com
 dev.spring.goodrx.com
 dev.sr-frontend.speech.microsoft.com
@@ -92297,6 +92362,7 @@ dev.testing.goodrx.com
 dev.tgd.qq.com
 dev.thezvirus.vhx.tv
 dev.thuisbezorgd.nl
+dev.thumbnail.smartsheet.com
 dev.tiktok.com
 dev.tizen.samsung.com
 dev.tmall.com
@@ -94149,6 +94215,7 @@ developerberkeley.antivirus-edu.goodrx.com
 developercdn.antivirus.goodrx.com
 developercenter.telekom.com
 developercentral.amazon.com
+developerclub.taobao.com
 developercodevscovid19.slack.com
 developercommunity.statuspage.io
 developercovid-19volunteersuk.slack.com
@@ -119361,21 +119428,3 @@ dhcp-64-100-87-158.cisco.com
 dhcp-64-100-87-159.cisco.com
 dhcp-64-100-87-16.cisco.com
 dhcp-64-100-87-160.cisco.com
-dhcp-64-100-87-161.cisco.com
-dhcp-64-100-87-162.cisco.com
-dhcp-64-100-87-163.cisco.com
-dhcp-64-100-87-164.cisco.com
-dhcp-64-100-87-165.cisco.com
-dhcp-64-100-87-166.cisco.com
-dhcp-64-100-87-167.cisco.com
-dhcp-64-100-87-168.cisco.com
-dhcp-64-100-87-169.cisco.com
-dhcp-64-100-87-17.cisco.com
-dhcp-64-100-87-170.cisco.com
-dhcp-64-100-87-171.cisco.com
-dhcp-64-100-87-172.cisco.com
-dhcp-64-100-87-173.cisco.com
-dhcp-64-100-87-174.cisco.com
-dhcp-64-100-87-175.cisco.com
-dhcp-64-100-87-176.cisco.com
-dhcp-64-100-87-177.cisco.com

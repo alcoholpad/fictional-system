@@ -1,11 +1,3 @@
-hybrid1518.fr.ns.planethoster.net
-hybrid1519.fr.ns.planethoster.net
-hybrid1520.fr.ns.planethoster.net
-hybrid1521-1.fr.ns.planethoster.net
-hybrid1521.fr.ns.planethoster.net
-hybrid1522-1.fr.ns.planethoster.net
-hybrid1522.fr.ns.planethoster.net
-hybrid1523.fr.ns.planethoster.net
 hybrid1524-1.fr.ns.planethoster.net
 hybrid1524.fr.ns.planethoster.net
 hybrid1525-1.fr.ns.planethoster.net
@@ -4166,6 +4158,7 @@ i.qianbao.qq.com.cloud.tc.qq.com
 i.qq.com
 i.quora.com
 i.r2-antibot.skypicker.com
+i.r2-conveyancedev.skypicker.com
 i.r2-conveyanceprod.skypicker.com
 i.r2-dataacq.skypicker.com
 i.r2-mvtest-sbx.skypicker.com
@@ -5309,6 +5302,7 @@ iam.showmax.com
 iam.simple.com
 iam.slack.com
 iam.snappublisher.snapchat.com
+iam.spotify.xxx
 iam.stage.fair.engineering
 iam.staging.pyszne.pl
 iam.statuspage.io
@@ -14353,6 +14347,7 @@ images.slack.com
 images.smartbusiness.samsung.com
 images.snappublisher.snapchat.com
 images.spotify.com
+images.spotify.xxx
 images.squareup.com
 images.sr.roku.com
 images.status.slack.com
@@ -14790,6 +14785,7 @@ imap.skydrive.live.com
 imap.slack.com
 imap.smartsheet.com
 imap.snappublisher.snapchat.com
+imap.spotify.xxx
 imap.srv194-139-240-87.vk.com
 imap.srv224-182-240-87.vk.com
 imap.srv67-190-240-87.srv67-190-240-87.srv67-190-240-87.srv67-190-240-87.vk.com
@@ -15498,8 +15494,10 @@ img.slack.com
 img.snappublisher.snapchat.com
 img.spokeo.com
 img.sports.vip.kr3.yahoo.com
+img.spotify.xxx
 img.ssl.msdk.qq.com
 img.ssl.msdk.qq.com.cloud.tc.qq.com
+img.staging-airtableblocks.com
 img.staging.huffingtonpost.com
 img.stanford.edu
 img.static.operator.mail.ru
@@ -18584,6 +18582,8 @@ inbound.simple.com
 inbound.skydrive.live.com
 inbound.slack.com
 inbound.snappublisher.snapchat.com
+inbound.spotify.xxx
+inbound.staging-airtableblocks.com
 inbound.status.slack.com
 inbound.statuspage.io
 inbound.support.greenhouse.io
@@ -20180,6 +20180,7 @@ info.simple.com
 info.skydrive.live.com
 info.slack.com
 info.snappublisher.snapchat.com
+info.spotify.xxx
 info.stage.att.com
 info.staging.cloud.seek.com.au
 info.starleaf.com
@@ -20203,6 +20204,7 @@ info.venmo.com
 info.vhx.tv
 info.visma.com
 info.vk.cc
+info.wapa.taobao.com
 info.wdc1.slr.mx.bitdefender.com
 info.weightwatchers.ca
 info.weightwatchers.de
@@ -23524,6 +23526,7 @@ inter-parquet.mail.ru
 inter-ves.mail.ru
 inter-zakaz.mail.ru
 inter.github.com
+inter.search.taobao.com
 inter_source.mail.ru
 interabrasive365-my.sharepoint.com
 interabrasive365.sharepoint.com
@@ -26388,6 +26391,7 @@ ip.simple.com
 ip.skydrive.live.com
 ip.slack.com
 ip.snappublisher.snapchat.com
+ip.spotify.xxx
 ip.status.slack.com
 ip.statuspage.io
 ip.support.greenhouse.io
@@ -38812,6 +38816,8 @@ ipv6.simple.com
 ipv6.skydrive.live.com
 ipv6.slack.com
 ipv6.snappublisher.snapchat.com
+ipv6.spotify.xxx
+ipv6.staging-airtableblocks.com
 ipv6.status.slack.com
 ipv6.statuspage.io
 ipv6.support.greenhouse.io
@@ -40310,6 +40316,8 @@ irt-backup-02-vlan224.stanford.edu
 irt-backup-02-vlan3206.stanford.edu
 irt-backup-02-vlan64.stanford.edu
 irt-backup-02.stanford.edu
+irt-backup-vlan205-0.stanford.edu
+irt-backup-vlan65-0.stanford.edu
 irt-bastion-01.stanford.edu
 irt-bastion-02.stanford.edu
 irt-bastion.stanford.edu
@@ -40640,6 +40648,8 @@ irt-security-somscan-vlan3043.stanford.edu
 irt-security-somscan-vlan3044.stanford.edu
 irt-security-somscan-vlan3046.stanford.edu
 irt-security-somscan-vlan3047.stanford.edu
+irt-security-somscan-vlan3054-0.stanford.edu
+irt-security-somscan-vlan3055-0.stanford.edu
 irt-security-somscan-vlan3070.stanford.edu
 irt-security-somscan-vlan3072.stanford.edu
 irt-security-somscan-vlan3075.stanford.edu
@@ -40650,6 +40660,7 @@ irt-security-somscan-vlan3124.stanford.edu
 irt-security-somscan-vlan3200.stanford.edu
 irt-security-somscan-vlan3202.stanford.edu
 irt-security-somscan-vlan3241.stanford.edu
+irt-security-somscan-vlan3268-0.stanford.edu
 irt-security-somscan-vlan3268-1.stanford.edu
 irt-security-somscan.stanford.edu
 irt-security-swcollector.stanford.edu
@@ -50840,6 +50851,7 @@ jentanhoist.en.alibaba.com
 jentapler.etsy.com
 jentech.1688.com
 jentectech.fm.alibaba.com
+jentest.box.lab.smartsheet.com
 jentinsun-light.aliexpress.com
 jenuin.etsy.com
 jenuinebakery.etsy.com
@@ -58651,6 +58663,8 @@ job.simple.com
 job.slack.com
 job.snappublisher.snapchat.com
 job.sovest.ru
+job.spotify.xxx
+job.staging-airtableblocks.com
 job.status.slack.com
 job.statuspage.io
 job.support.greenhouse.io
@@ -58890,6 +58904,7 @@ jobs.slack.com
 jobs.snappublisher.snapchat.com
 jobs.soundcloud.com
 jobs.soundtrap.com
+jobs.spotify.xxx
 jobs.squareup.com
 jobs.starbucks.com
 jobs.starleaf.com
@@ -59286,6 +59301,7 @@ jogjauncover.com.global.prod.http1.netflix.com
 jogjauncover.csg.venmo.com
 jogjauncover.my.com
 jogjauncover.onedrive.live.com
+jogjauncover.sit-sandbox.skypicker.com
 jogjauncover.staging.http1.netflix.com
 jogjauncover.tmall.com
 jogjauncover.weideyazhouyulechengxianshangbocai.venmo.com
@@ -63935,6 +63951,7 @@ jtsboutique.etsy.com
 jtsdq.tmall.com
 jtsdxl.tmall.com
 jtsftongzhuang.taobao.com
+jtsh4rvgr4hf6ur6xiyc1esooq8yp946.waf.taobao.com
 jtsh6tjd694n5v79xzuietw9um0rbjp0.waf.aliyun.com
 jtsh9g2d6zouytbp0mjfwa4324iu55ba.waf.aliyun.com
 jtshckaq1wxrzu9psdtktf1wgfevc42h.waf.aliyun.com
@@ -63946,6 +63963,7 @@ jtshipbr.cn.alibaba.com
 jtshj4gjgalt6skc52dgjcwyl3wv76ee.waf.aliyun.com
 jtshmn7n83qizpusaz7bm6nk4ch14ghg.waf.aliyun.com
 jtshocghvjuylussbo5b707y2txjr6w9.waf.aliyun.com
+jtshocghvjuylussbo5b707y2txjr6w9.waf.taobao.com
 jtshoo7qlvboh5f78n7nlcogh4owv070.waf.aliyun.com
 jtshpt3z7l52fs1ytsytzc279mrdxj5p.waf.aliyun.com
 jtshqmw54jjlvubcmz1q8w95ggplqn8a.waf.aliyun.com
@@ -63954,6 +63972,7 @@ jtshv0vkbmv0kzxty9hydeagg9rfsl57.waf.aliyun.com
 jtshwogru0ps95mqq9rihj4j26a810yw.waf.aliyun.com
 jtshx02o4mwh7ru29lghc33h3hp2f2bv.waf.aliyun.com
 jtshxb951ugbhm5wuphyachauhxt9eys.waf.aliyun.com
+jtshxb951ugbhm5wuphyachauhxt9eys.waf.taobao.com
 jtshxng2qey3o7je6kf62qj6eo4s7wt0.waf.aliyun.com
 jtshyzmwaqiqo5jb234wovieybwyzaa0.waf.aliyun.com
 jtshzhcs19ggt7p6g8b22sb70w6fji3k.waf.aliyun.com
@@ -65670,6 +65689,7 @@ jupyter-ciw.stanford.edu
 jupyter.farmlab.roku.com
 jupyter.poseidon.qq.com
 jupyter.slac.stanford.edu
+jupyterhub-jupyterhub-data-notebooks-canada-na-ne-1.notebooks-canada.shopifykloud.com
 jupyterhub-jupyterhub-data-notebooks-production.notebooks.shopifykloud.com
 jupyterhub-jupyterhub-data-notebooks-staging.notebooks.shopifykloud.com
 jupyterhub.farmshare.stanford.edu
@@ -67975,6 +67995,7 @@ k8s.simple.com
 k8s.skydrive.live.com
 k8s.slack.com
 k8s.snappublisher.snapchat.com
+k8s.spotify.xxx
 k8s.status.slack.com
 k8s.statuspage.io
 k8s.support.greenhouse.io
@@ -70508,6 +70529,7 @@ kardamena-uncovered.sagaris.dyson.com
 kardamena-uncovered.security.datastax.com
 kardamena-uncovered.slack.com
 kardamena-uncovered.smtp.dyson.com
+kardamena-uncovered.staging-airtableblocks.com
 kardamena-uncovered.tmall.com
 kardamena-uncovered.world.tmall.com
 kardamena-uncovered.www.cms.obiwan.netflix.com
@@ -78326,6 +78348,7 @@ kitchenhelper.en.alibaba.com
 kitchenklutter.etsy.com
 kitchenklutter.shopify.com
 kitchenlife.quora.com
+kitchenmachine000.stanford.edu
 kitchenmadonna.etsy.com
 kitchenremodelingarlingtonva.quora.com
 kitchenscience.flocktory.com
@@ -80359,6 +80382,7 @@ knowledgemanagement.showmax.com
 knowledgemanagement.simple.com
 knowledgemanagement.slack.com
 knowledgemanagement.snappublisher.snapchat.com
+knowledgemanagement.spotify.xxx
 knowledgemanagement.status.slack.com
 knowledgemanagement.statuspage.io
 knowledgemanagement.support.greenhouse.io
@@ -84315,6 +84339,8 @@ ks-inventory-api.showmax.com
 ks-inventory-api.simple.com
 ks-inventory-api.slack.com
 ks-inventory-api.snappublisher.snapchat.com
+ks-inventory-api.spotify.xxx
+ks-inventory-api.staging-airtableblocks.com
 ks-inventory-api.status.slack.com
 ks-inventory-api.statuspage.io
 ks-inventory-api.support.greenhouse.io
@@ -84403,6 +84429,8 @@ ks-invoice-api.showmax.com
 ks-invoice-api.simple.com
 ks-invoice-api.slack.com
 ks-invoice-api.snappublisher.snapchat.com
+ks-invoice-api.spotify.xxx
+ks-invoice-api.staging-airtableblocks.com
 ks-invoice-api.status.slack.com
 ks-invoice-api.statuspage.io
 ks-invoice-api.support.greenhouse.io
@@ -84491,6 +84519,8 @@ ks-limits-api.showmax.com
 ks-limits-api.simple.com
 ks-limits-api.slack.com
 ks-limits-api.snappublisher.snapchat.com
+ks-limits-api.spotify.xxx
+ks-limits-api.staging-airtableblocks.com
 ks-limits-api.status.slack.com
 ks-limits-api.statuspage.io
 ks-limits-api.support.greenhouse.io
@@ -84575,6 +84605,8 @@ ks-order-api.showmax.com
 ks-order-api.simple.com
 ks-order-api.slack.com
 ks-order-api.snappublisher.snapchat.com
+ks-order-api.spotify.xxx
+ks-order-api.staging-airtableblocks.com
 ks-order-api.status.slack.com
 ks-order-api.statuspage.io
 ks-order-api.support.greenhouse.io
@@ -84664,6 +84696,8 @@ ks-program-api.showmax.com
 ks-program-api.simple.com
 ks-program-api.slack.com
 ks-program-api.snappublisher.snapchat.com
+ks-program-api.spotify.xxx
+ks-program-api.staging-airtableblocks.com
 ks-program-api.status.slack.com
 ks-program-api.statuspage.io
 ks-program-api.support.greenhouse.io
@@ -84755,6 +84789,8 @@ ks-vendingtransactions-mq0.showmax.com
 ks-vendingtransactions-mq0.simple.com
 ks-vendingtransactions-mq0.slack.com
 ks-vendingtransactions-mq0.snappublisher.snapchat.com
+ks-vendingtransactions-mq0.spotify.xxx
+ks-vendingtransactions-mq0.staging-airtableblocks.com
 ks-vendingtransactions-mq0.status.slack.com
 ks-vendingtransactions-mq0.statuspage.io
 ks-vendingtransactions-mq0.support.greenhouse.io
@@ -84846,6 +84882,8 @@ ks-vendingtransactions-mq1.showmax.com
 ks-vendingtransactions-mq1.simple.com
 ks-vendingtransactions-mq1.slack.com
 ks-vendingtransactions-mq1.snappublisher.snapchat.com
+ks-vendingtransactions-mq1.spotify.xxx
+ks-vendingtransactions-mq1.staging-airtableblocks.com
 ks-vendingtransactions-mq1.status.slack.com
 ks-vendingtransactions-mq1.statuspage.io
 ks-vendingtransactions-mq1.support.greenhouse.io
@@ -84938,6 +84976,8 @@ ks-vendingtransactions-mq2.showmax.com
 ks-vendingtransactions-mq2.simple.com
 ks-vendingtransactions-mq2.slack.com
 ks-vendingtransactions-mq2.snappublisher.snapchat.com
+ks-vendingtransactions-mq2.spotify.xxx
+ks-vendingtransactions-mq2.staging-airtableblocks.com
 ks-vendingtransactions-mq2.status.slack.com
 ks-vendingtransactions-mq2.statuspage.io
 ks-vendingtransactions-mq2.support.greenhouse.io
@@ -85029,6 +85069,8 @@ ks-vendingtransactions-mq3.showmax.com
 ks-vendingtransactions-mq3.simple.com
 ks-vendingtransactions-mq3.slack.com
 ks-vendingtransactions-mq3.snappublisher.snapchat.com
+ks-vendingtransactions-mq3.spotify.xxx
+ks-vendingtransactions-mq3.staging-airtableblocks.com
 ks-vendingtransactions-mq3.status.slack.com
 ks-vendingtransactions-mq3.statuspage.io
 ks-vendingtransactions-mq3.support.greenhouse.io
@@ -85117,6 +85159,8 @@ ks-vendingtransactions-mq4.showmax.com
 ks-vendingtransactions-mq4.simple.com
 ks-vendingtransactions-mq4.slack.com
 ks-vendingtransactions-mq4.snappublisher.snapchat.com
+ks-vendingtransactions-mq4.spotify.xxx
+ks-vendingtransactions-mq4.staging-airtableblocks.com
 ks-vendingtransactions-mq4.status.slack.com
 ks-vendingtransactions-mq4.statuspage.io
 ks-vendingtransactions-mq4.support.greenhouse.io
@@ -86400,6 +86444,7 @@ kubernetes.simple.com
 kubernetes.skydrive.live.com
 kubernetes.slack.com
 kubernetes.snappublisher.snapchat.com
+kubernetes.spotify.xxx
 kubernetes.status.slack.com
 kubernetes.statuspage.io
 kubernetes.support.greenhouse.io
@@ -90276,6 +90321,7 @@ laizydaisydesigns.etsy.com
 lajateam.atlassian.net
 lajegroup.slack.com
 lajewelrydesigns.etsy.com
+lajindeng1.dian.taobao.com
 lajinengyuan.1688.com
 lajinhong.en.alibaba.com
 lajoliebelleboutique.etsy.com
@@ -95512,6 +95558,7 @@ lcbengineers.sharepoint.com
 lcbg.tmall.com
 lcbgyp.tmall.com
 lcbjtzb314wlixbxwcvyoelo2k7zvxs2.waf.aliyun.com
+lcbjtzb314wlixbxwcvyoelo2k7zvxs2.waf.taobao.com
 lcbmotorcycle.aliexpress.com
 lcboe-my.sharepoint.com
 lcboe.sharepoint.com
@@ -101130,6 +101177,7 @@ lg32-lt-04-mbac.stanford.edu
 lg32-lt-05-mbac.stanford.edu
 lg32-sm-01-imcc.stanford.edu
 lg32-sm-02-imcc.stanford.edu
+lg36-pr-01-p8000.stanford.edu
 lg360.sharepoint.com
 lg602.my-kibble.centrify.com
 lg65-pr-01-5250.stanford.edu
@@ -102231,6 +102279,7 @@ li-ts-7190-2615.stanford.edu
 li-ts-7244-8c93.stanford.edu
 li-ts-7351-5c29.stanford.edu
 li-ts-7352-4eb5.stanford.edu
+li-ts-7809-2d36.stanford.edu
 li-ts-9003-f6e7.stanford.edu
 li-ts-9004-f8f8.stanford.edu
 li-ts-9033-fa02.stanford.edu
@@ -103485,6 +103534,7 @@ life.github.com
 life.html5.qq.com
 life.icq.com
 life.itslearning.com
+life.m.taobao.com
 life.mail.ru
 life.qq.com
 life.taobao.com
@@ -106006,6 +106056,7 @@ linkprx-m01.orange.icq.com
 linkprx-m02.orange.icq.com
 linkreal.tmall.com
 linkrealty.yelp.com
+linkrunner-at2000.stanford.edu
 links-cfi.data.yahoo.com
 links-notifications-kmgcardmasterproduction-737oia-dot-gov.app.acorns.com
 links.ab.fanduel.com
@@ -106505,6 +106556,7 @@ lionco-my.sharepoint.com
 lionco.sharepoint.com
 lioncollection.en.alibaba.com
 lioncover-sandbox.aliexpress.com
+lioncover.api.taobao.com
 liondeflandre59.spaces.live.com
 liondemand.atlassian.net
 lioneducation.sharepoint.com
@@ -107005,6 +107057,7 @@ list-eco.nrd.netflix.com
 list-limits.trello.services
 list.3c.tmall.com
 list.alibaba-inc.com
+list.beta.taobao.com
 list.chess.g.mi.com
 list.github.com
 list.mail.ru
@@ -107190,6 +107243,7 @@ lists.slack.com
 lists.slimdevices.com
 lists.snappublisher.snapchat.com
 lists.sophos.com
+lists.spotify.xxx
 lists.stanford.edu
 lists.status.slack.com
 lists.statuspage.io
@@ -109969,6 +110023,8 @@ liveupdate.simple.com
 liveupdate.skydrive.live.com
 liveupdate.slack.com
 liveupdate.snappublisher.snapchat.com
+liveupdate.spotify.xxx
+liveupdate.staging-airtableblocks.com
 liveupdate.status.slack.com
 liveupdate.statuspage.io
 liveupdate.support.greenhouse.io
@@ -123983,21 +124039,3 @@ lo0.tor9-67-pda.sg3.yahoo.com
 lo0.tor9-7-pda.tp2.yahoo.com
 lo0.tor9-70-pdb.ne1.yahoo.com
 lo0.tor9-73-pdb.bf1.yahoo.com
-lo0.tor9-73-pdc.ne1.yahoo.com
-lo0.tor9-8-coa.corp.gq1.yahoo.com
-lo0.tor90-105-pdb.gq1.yahoo.com
-lo0.tor90-106-pdd.bf1.yahoo.com
-lo0.tor90-106-vzb.gq2.yahoo.com
-lo0.tor90-108-pda.ir2.yahoo.com
-lo0.tor90-110-grb.gq1.yahoo.com
-lo0.tor90-119-pda.sg3.yahoo.com
-lo0.tor90-120-gra.ne1.yahoo.com
-lo0.tor90-120-pdb.ir2.yahoo.com
-lo0.tor90-121-pda.tw1.yahoo.com
-lo0.tor90-121-pdb.ne1.yahoo.com
-lo0.tor90-122-grc.gq1.yahoo.com
-lo0.tor90-122-pda.bf1.yahoo.com
-lo0.tor90-127-gra.bf2.yahoo.com
-lo0.tor90-133-pdc.bf1.yahoo.com
-lo0.tor90-139-gra.bf1.yahoo.com
-lo0.tor90-148-pdb.bf1.yahoo.com

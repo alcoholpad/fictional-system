@@ -6855,6 +6855,7 @@
 10k-bremerton.fss.gsa.gov
 10k-its.fss.gsa.gov
 10kft.atrostle.box.lab.smartsheet.com
+10kft.datadog.box.lab.smartsheet.com
 10kft.integration.box.lab.smartsheet.com
 10kft.largeorg.box.lab.smartsheet.com
 10kft.mamiller.box.lab.smartsheet.com
@@ -32791,6 +32792,7 @@
 24.sharepoint.com
 24.shopify.com
 24.slack.com
+24.taobao.com
 24.vk.me
 24.xb.sf.net
 240-113.twilio.com
@@ -33943,6 +33945,7 @@
 253aa2m.bluejeans.com
 253aaccounts.shopify.com
 253aadmin.foxycart.com
+253aadmin.smartsheet.com
 253aapi-sandbox.foxycart.com
 253aapi.binance.com
 253aapi.bluejeans.com
@@ -33954,6 +33957,7 @@
 253aapi.robinhood.com
 253aapi.showmax.com
 253aapi.slack.com
+253aapi.smartsheet.com
 253aapi.twilio.com
 253aapi.vhx.tv
 253aapi.yelp.com
@@ -33970,6 +33974,7 @@
 253abugcrowdninja.invisionapp.com
 253abugcrowdninja2.invisionapp.com
 253abuild.twilio.com
+253acards.swipely.com
 253aclassroom.github.com
 253acommunity.etsy.com
 253aconsul.dev.blockchain.info
@@ -33995,6 +34000,7 @@
 253aonboarding.greenhouse.io
 253apartners.shopify.com
 253aplatform.cloudways.com
+253apos.swipely.com
 253aprimetime.bluejeans.com
 253ares.cloudinary.com
 253arestaurants.yelp.com
@@ -38587,6 +38593,7 @@
 35154791.innocraft.cloud
 3515500456.log.optimizely.com
 3516105580.imgur.com
+351660.dian.taobao.com
 351694341283comet.paper.dropbox.com
 351696132.qzone.qq.com
 351799291.qzone.qq.com
@@ -39801,6 +39808,7 @@
 3aa2m.bluejeans.com
 3aaccounts.shopify.com
 3aadmin.foxycart.com
+3aadmin.smartsheet.com
 3aapi-sandbox.foxycart.com
 3aapi.binance.com
 3aapi.bluejeans.com
@@ -39812,6 +39820,7 @@
 3aapi.robinhood.com
 3aapi.showmax.com
 3aapi.slack.com
+3aapi.smartsheet.com
 3aapi.twilio.com
 3aapi.vhx.tv
 3aapi.yelp.com
@@ -39831,6 +39840,7 @@
 3abuild.twilio.com
 3ac05fb4e2772b06ae7bcaab574a0430.fp.measure.office.com
 3ac4543bd6564365adc08f4e156214e6.waf.huaweicloud.com
+3acards.swipely.com
 3aclassroom.github.com
 3acom.mail.ru
 3acommunity.etsy.com
@@ -39879,6 +39889,7 @@
 3aonboarding.greenhouse.io
 3apartners.shopify.com
 3aplatform.cloudways.com
+3apos.swipely.com
 3applesonline.etsy.com
 3aprimetime.bluejeans.com
 3ares.cloudinary.com
@@ -56007,6 +56018,7 @@
 6gxhiitphhd3o.ent.magento.cloud
 6gy25tdb0r64.statuspage.io
 6gzs5wsjlav20cybjb5y8bx8b106ehyr.waf.aliyun.com
+6gzs5wsjlav20cybjb5y8bx8b106ehyr.waf.taobao.com
 6h2s5ci6ax9fldyvax1nw00y6vvzqt5e.waf.aliyun.com
 6h7c6654.quora.com
 6hackcovid19.slack.com
@@ -61942,6 +61954,7 @@
 8qq6mw.quora.com
 8qsq6isy.quora.com
 8quu0uesiu.quora.com
+8qxj7s2.apollo.smartsheet.com
 8qxndogk.cloudstation.us-west-2.qa.hydra.sophos.com
 8qxx4-7-0.twilio.com
 8qyklny75425w0v0t9rwc215ob6df25p.waf.aliyun.com
@@ -63407,6 +63420,7 @@
 9654748491.mail.ru
 965479795.qzone.qq.com
 965578436153comet.paper.dropbox.com
+965nnf2.apollo.smartsheet.com
 966-ipv4e.clump.prod.aa-rt.sharepoint.com
 9660190535.mail.ru
 9661311.mail.ru
@@ -64546,6 +64560,7 @@ _cisco-uds._tcp.showmax.com
 _cisco-uds._tcp.simple.com
 _cisco-uds._tcp.slack.com
 _cisco-uds._tcp.snappublisher.snapchat.com
+_cisco-uds._tcp.spotify.xxx
 _cisco-uds._tcp.status.slack.com
 _cisco-uds._tcp.statuspage.io
 _cisco-uds._tcp.support.greenhouse.io
@@ -64623,6 +64638,7 @@ _cisco-uds.showmax.com
 _cisco-uds.simple.com
 _cisco-uds.slack.com
 _cisco-uds.snappublisher.snapchat.com
+_cisco-uds.spotify.xxx
 _cisco-uds.status.slack.com
 _cisco-uds.statuspage.io
 _cisco-uds.support.greenhouse.io
@@ -64704,6 +64720,7 @@ _collab-edge._tls.showmax.com
 _collab-edge._tls.simple.com
 _collab-edge._tls.slack.com
 _collab-edge._tls.snappublisher.snapchat.com
+_collab-edge._tls.spotify.xxx
 _collab-edge._tls.status.slack.com
 _collab-edge._tls.statuspage.io
 _collab-edge._tls.support.greenhouse.io
@@ -64788,6 +64805,8 @@ _collab-edge.showmax.com
 _collab-edge.simple.com
 _collab-edge.slack.com
 _collab-edge.snappublisher.snapchat.com
+_collab-edge.spotify.xxx
+_collab-edge.staging-airtableblocks.com
 _collab-edge.status.slack.com
 _collab-edge.statuspage.io
 _collab-edge.support.greenhouse.io
@@ -64864,6 +64883,7 @@ _cuplogin._tcp.showmax.com
 _cuplogin._tcp.simple.com
 _cuplogin._tcp.slack.com
 _cuplogin._tcp.snappublisher.snapchat.com
+_cuplogin._tcp.spotify.xxx
 _cuplogin._tcp.status.slack.com
 _cuplogin._tcp.statuspage.io
 _cuplogin._tcp.support.greenhouse.io
@@ -64938,6 +64958,7 @@ _cuplogin.showmax.com
 _cuplogin.simple.com
 _cuplogin.slack.com
 _cuplogin.snappublisher.snapchat.com
+_cuplogin.spotify.xxx
 _cuplogin.status.slack.com
 _cuplogin.statuspage.io
 _cuplogin.support.greenhouse.io
@@ -65028,6 +65049,8 @@ _dmarc.sexycyborg.imgur.com
 _dmarc.showcase.dropbox.com
 _dmarc.skydrive.live.com
 _dmarc.snappublisher.snapchat.com
+_dmarc.spotify.xxx
+_dmarc.staging-airtableblocks.com
 _dmarc.status.slack.com
 _dmarc.support.greenhouse.io
 _dmarc.tencent.com
@@ -65063,6 +65086,7 @@ _domainkey.secure.showmax.com
 _domainkey.sexycyborg.imgur.com
 _domainkey.showmax.com
 _domainkey.slack.com
+_domainkey.spotify.xxx
 _domainkey.starbucks.com.cn
 _domainkey.support.greenhouse.io
 _domainkey.swirlsofcreativity.etsy.com
@@ -65141,6 +65165,7 @@ _etcd-server-ssl.showmax.com
 _etcd-server-ssl.simple.com
 _etcd-server-ssl.slack.com
 _etcd-server-ssl.snappublisher.snapchat.com
+_etcd-server-ssl.spotify.xxx
 _etcd-server-ssl.status.slack.com
 _etcd-server-ssl.statuspage.io
 _etcd-server-ssl.support.greenhouse.io
@@ -65432,6 +65457,7 @@ _mta-sts.simple.com
 _mta-sts.skydrive.live.com
 _mta-sts.slack.com
 _mta-sts.snappublisher.snapchat.com
+_mta-sts.spotify.xxx
 _mta-sts.status.slack.com
 _mta-sts.statuspage.io
 _mta-sts.support.greenhouse.io
@@ -65514,6 +65540,7 @@ _sip._sctp.webmail.r02.antivirus.bo.webproxy.idc.tencent.com
 _sip._tcp.lyris.antivirus.bo.webproxy.idc.tencent.com
 _sip._tcp.online.antivirus.gamma.sqlserver.feeds.ssl.dhcp.biz.mail.alibaba.com
 _sip._tcp.testasp.antivirus.bo.webproxy.idc.tencent.com
+_sip._udp.certificates.antivirus.bo.webproxy.idc.tencent.com
 _sip._udp.online.ns1.antivirus.wap.m.3h.com.book.qq.com
 _sip._udp.webmail.ns1.smtp.webserver.ns1.prod.vpn02.antivirus.bo.webproxy.idc.tencent.com
 _sip._udp.webserver.ns1.webmail.webserver.vpn.vpn.agent.antivirus.bo.webproxy.idc.tencent.com
@@ -65678,8 +65705,10 @@ _tcp.secure.showmax.com
 _tcp.semrush.com
 _tcp.showcase.dropbox.com
 _tcp.showmax.com
+_tcp.simple.com
 _tcp.slack.com
 _tcp.snappublisher.snapchat.com
+_tcp.spotify.xxx
 _tcp.status.slack.com
 _tcp.statuspage.io
 _tcp.support.greenhouse.io
@@ -65755,6 +65784,7 @@ _tls.showmax.com
 _tls.simple.com
 _tls.slack.com
 _tls.snappublisher.snapchat.com
+_tls.spotify.xxx
 _tls.status.slack.com
 _tls.statuspage.io
 _tls.support.greenhouse.io
@@ -66419,8 +66449,10 @@ a.smash.mail.ru
 a.smtp.chaturbate.com
 a.snappublisher.snapchat.com
 a.spatterson.dev.auvik.com
+a.spotify.xxx
 a.springer.live.com
 a.stage.auvik.com
+a.staging-airtableblocks.com
 a.staging.airtable.com
 a.starbucks.com
 a.stat.xiaomi.com
@@ -66520,6 +66552,7 @@ a04.cdn.update.playstation.net
 a0410g.quora.com
 a041b6a18670fee572e2a5f7d2ed1ba8.cloudflareworkers.com
 a0521a00-8dea-4e29-ab7a-894ae3837092.probe.performance.dropbox.com
+a056-sensaphone-4000.stanford.edu
 a05e9cf5fad2b0c9e03eaa3cb0076658e51a63bb.console.dev.twilio.com
 a06687c51c3b862b832fa0a9dd8b036e.cloudflareworkers.com
 a07.cdn.update.playstation.net
@@ -69739,6 +69772,7 @@ a698.phobos.apple.com
 a699.phobos.apple.com
 a6b8.github.com
 a6bacs2epw7fzt8y2c7bgyedcy54dy0v.waf.aliyun.com
+a6bacs2epw7fzt8y2c7bgyedcy54dy0v.waf.taobao.com
 a6df0d5a642a20038fafc194c9d49a52b58e6f12.console.dev.twilio.com
 a6f34503e255d58551c0ed4b4211606517e844de.console.dev.twilio.com
 a6fb6b1.imgur.com
@@ -70490,6 +70524,7 @@ aa-barrows-laptop2.stanford.edu
 aa-bessel.stanford.edu
 aa-cantwell-2.stanford.edu
 aa-chang-printer.stanford.edu
+aa-creditor.smartcontract.com
 aa-dc1.wpe.stg.test.corp.yahoo.com
 aa-dc2.wpe.stg.test.corp.yahoo.com
 aa-debtor.smartcontract.com
@@ -73197,6 +73232,8 @@ acapi.showmax.com
 acapi.simple.com
 acapi.slack.com
 acapi.snappublisher.snapchat.com
+acapi.spotify.xxx
+acapi.staging-airtableblocks.com
 acapi.status.slack.com
 acapi.statuspage.io
 acapi.support.greenhouse.io
@@ -73946,9 +73983,11 @@ account-eidam-mas-c7wydt-antivirus.fe-cloudrun.skypicker.com
 account-eidam-mas-c7wydt.fe-cloudrun.skypicker.com
 account-eidam-mas-wccgh9.fe-cloudrun.skypicker.com
 account-fix-backg-xtm1gt.fe-cloudrun.skypicker.com
+account-fix-birth-721x7z.fe-cloudrun.skypicker.com
 account-fix-condi-antivirus.fe-cloudrun.skypicker.com
 account-fix-condi-whupga.fe-cloudrun.skypicker.com
 account-fix-heade-lkok21.fe-cloudrun.skypicker.com
+account-fix-no-tr-yb1cyy.fe-cloudrun.skypicker.com
 account-fix-price-hqc2o8.fe-cloudrun.skypicker.com
 account-gearbeta.amazon.com
 account-ie-grid-b-7ab306.fe-cloudrun.skypicker.com
@@ -73975,6 +74014,7 @@ account-master-qki4n3.fe-cloudrun.skypicker.com
 account-matus-add-kcl28s.fe-cloudrun.skypicker.com
 account-matus-pa-9e43v4.fe-cloudrun.skypicker.com
 account-matus-pa-bmsbpx.fe-cloudrun.skypicker.com
+account-matus-pa-j9dtzs.fe-cloudrun.skypicker.com
 account-matus-pa-thbffc.fe-cloudrun.skypicker.com
 account-matus-pa-vg5k8x.fe-cloudrun.skypicker.com
 account-matus-use-txzoi8.fe-cloudrun.skypicker.com
@@ -73996,6 +74036,7 @@ account-replace-u-antivirus.fe-cloudrun.skypicker.com
 account-replace-u-jzcqk0.antivirus.fe-cloudrun.skypicker.com
 account-replace-u-jzcqk0.fe-cloudrun.skypicker.com
 account-ru1.huaweicloud.com
+account-run-compi-zx4ruz.fe-cloudrun.skypicker.com
 account-safari-fi-h084qm.fe-cloudrun.skypicker.com
 account-stage-nc.apple.com
 account-stage-nwk.apple.com
@@ -75217,6 +75258,7 @@ acl-test.alibaba-inc.com
 acl.alibaba-inc.com
 acl.github.com
 acl.imgur.com
+acl.weightwatchers.de
 aclas.tmall.com
 aclavel.live.com
 aclbris14.challonge.com
@@ -78780,6 +78822,7 @@ admin.smartsheet.com
 admin.snappublisher.snapchat.com
 admin.soho.vip.kr3.yahoo.com
 admin.sonyentertainmentnetwork.com
+admin.spotify.xxx
 admin.sse.itd.cisco.com
 admin.stage.vismaonline.com
 admin.stage2.paypal.com
@@ -78851,6 +78894,7 @@ admin.vk.cc
 admin.vk.com
 admin.wework.qq.com
 admin.widget.cloudinary.com
+admin.wiki.teamfortress.com
 admin.world.tmall.com
 admin.www.antivirus.dentalplans.goodrx.com
 admin.www.dentalplans.antivirus.goodrx.com
@@ -87382,6 +87426,7 @@ airfind.atlassian.net
 airfinetwork.sharepoint.com
 airflow-airflow-webserver-ingress-airflow-dev-us-central1-1.dev.airflow.shopifykloud.com
 airflow-airflow-webserver-ingress-airflow-global-us-central1-1.global.airflow.shopifykloud.com
+airflow-airflow-webserver-ingress-airflow-na-ne1-1.canada.airflow.shopifykloud.com
 airflow-airflow-webserver-ingress-airflow-staging-us-central1-1.staging.airflow.shopifykloud.com
 airflow-ds-01-prod-gcp.data.ue1.snooguts.net
 airflow-ds-gcp.data.ue1.snooguts.net
@@ -88715,6 +88760,7 @@ akamai-test-origin.showmax.com
 akamai-test-origin.simple.com
 akamai-test-origin.slack.com
 akamai-test-origin.snappublisher.snapchat.com
+akamai-test-origin.spotify.xxx
 akamai-test-origin.status.slack.com
 akamai-test-origin.statuspage.io
 akamai-test-origin.support.greenhouse.io
@@ -88805,6 +88851,7 @@ akamai-test.showcase.dropbox.com
 akamai-test.showmax.com
 akamai-test.simple.com
 akamai-test.snappublisher.snapchat.com
+akamai-test.spotify.xxx
 akamai-test.stablevalue.gs.com
 akamai-test.status.slack.com
 akamai-test.statuspage.io
@@ -88942,6 +88989,8 @@ akamai.sigmavirus24.github.com
 akamai.simple.com
 akamai.slack.com
 akamai.snappublisher.snapchat.com
+akamai.spotify.xxx
+akamai.staging-airtableblocks.com
 akamai.status.slack.com
 akamai.statuspage.io
 akamai.support.greenhouse.io
@@ -95849,6 +95898,7 @@ alomrane.sharepoint.com
 alon.quora.com
 alon.tweakblogs.net
 alondes.tmall.com
+alondra-ap-100.stanford.edu
 alondrax.spaces.live.com
 alone.github.com
 alone_013.mail.ru
@@ -96605,6 +96655,7 @@ alt201.aspmx.l.google.com
 alt202.aspmx.l.google.com
 alt21.aspmx.l.google.com
 alt22.aspmx.l.google.com
+alt2943.youtube.com
 alt3-mtalk.google.com
 alt3-safebrowsing.google.com
 alt3.aspmx.l.google.com
@@ -102555,6 +102606,7 @@ anes-distcomp01.stanford.edu
 anes-distcomp02.stanford.edu
 anes-dwj5tw1.stanford.edu
 anes-emariano-e7270.stanford.edu
+anes-epson-scp9000.stanford.edu
 anes-f5km80ykf694.stanford.edu
 anes-f6ljjm2.stanford.edu
 anes-filesrv.stanford.edu
@@ -109744,8 +109796,3 @@ antivirus.www.2017dentalplans.goodrx.com
 antivirus.www.6.dentalplans.goodrx.com
 antivirus.www.8.dentalplans.goodrx.com
 antivirus.www.9dentalplans.goodrx.com
-antivirus.www.abs.admin.dev.soundtrap.com
-antivirus.www.acc-dentalplans.goodrx.com
-antivirus.www.admin-dentalplans.goodrx.com
-antivirus.www.admin1-dentalplans.goodrx.com
-antivirus.www.admindentalplans.goodrx.com

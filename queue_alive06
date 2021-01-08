@@ -1,3 +1,21 @@
+lo0.tor9-73-pdc.ne1.yahoo.com
+lo0.tor9-8-coa.corp.gq1.yahoo.com
+lo0.tor90-105-pdb.gq1.yahoo.com
+lo0.tor90-106-pdd.bf1.yahoo.com
+lo0.tor90-106-vzb.gq2.yahoo.com
+lo0.tor90-108-pda.ir2.yahoo.com
+lo0.tor90-110-grb.gq1.yahoo.com
+lo0.tor90-119-pda.sg3.yahoo.com
+lo0.tor90-120-gra.ne1.yahoo.com
+lo0.tor90-120-pdb.ir2.yahoo.com
+lo0.tor90-121-pda.tw1.yahoo.com
+lo0.tor90-121-pdb.ne1.yahoo.com
+lo0.tor90-122-grc.gq1.yahoo.com
+lo0.tor90-122-pda.bf1.yahoo.com
+lo0.tor90-127-gra.bf2.yahoo.com
+lo0.tor90-133-pdc.bf1.yahoo.com
+lo0.tor90-139-gra.bf1.yahoo.com
+lo0.tor90-148-pdb.bf1.yahoo.com
 lo0.tor90-152-pdc.ne1.yahoo.com
 lo0.tor90-166-pda.bf2.yahoo.com
 lo0.tor90-170-pdc.gq1.yahoo.com
@@ -1461,6 +1479,7 @@ localhost.simple.com
 localhost.skydrive.live.com
 localhost.slack.com
 localhost.snappublisher.snapchat.com
+localhost.spotify.xxx
 localhost.staging-api.venmo.com
 localhost.status.slack.com
 localhost.statuspage.io
@@ -2449,6 +2468,7 @@ login.snappublisher.snapchat.com
 login.sonos.music.microsoft.com
 login.sophos.com
 login.sp.connect.unibet.com
+login.spotify.xxx
 login.staging.braintreepayments.com
 login.staging.upserve.com
 login.stanford.edu
@@ -2884,6 +2904,7 @@ logstash-staging.innogames.de
 logstash-stg.internal-tools.myteksi.net
 logstash.ops.irccloud.com
 logstashuncover.dev.lieferando.de
+logstor-06-100.stanford.edu
 logsysengsupsrv-public.sharepoint.com
 logsysengsupsrv.sharepoint.com
 logtest.realself.com
@@ -15304,6 +15325,7 @@ m.sp-int.playstation.net
 m.spanish.alibaba.com
 m.sport.mail.ru
 m.spotify.com
+m.spotify.xxx
 m.spring.antivirus-applebees.goodrx.com
 m.springantivirushchrxduncan.goodrx.com
 m.sq-al.f1.fbjs.facebook.com
@@ -41016,6 +41038,7 @@ mail.spaces.live.com
 mail.spao.tmall.com
 mail.spokeo.com
 mail.spotify.com
+mail.spotify.xxx
 mail.spreadsheets.google.com
 mail.squareup.com
 mail.srv158-137-240-87.srv158-137-240-87.vk.com
@@ -41039,7 +41062,9 @@ mail.support.greenhouse.io
 mail.surfright.nl
 mail.swipely.com
 mail.t1mail.myoas.com
+mail.taobao.com
 mail.tapiola.fi
+mail.teambeyond.net
 mail.tech4covid19.slack.com
 mail.telekom.de
 mail.telekom.net
@@ -41435,6 +41460,8 @@ mail1.simple.com
 mail1.skydrive.live.com
 mail1.slack.com
 mail1.snappublisher.snapchat.com
+mail1.spotify.xxx
+mail1.staging-airtableblocks.com
 mail1.static.mg.upwork.com
 mail1.status.slack.com
 mail1.statuspage.io
@@ -45204,6 +45231,8 @@ mail2.simple.com
 mail2.skydrive.live.com
 mail2.slack.com
 mail2.snappublisher.snapchat.com
+mail2.spotify.xxx
+mail2.staging-airtableblocks.com
 mail2.static.mg.upwork.com
 mail2.status.slack.com
 mail2.statuspage.io
@@ -47754,6 +47783,7 @@ mailserver.simple.com
 mailserver.skydrive.live.com
 mailserver.slack.com
 mailserver.snappublisher.snapchat.com
+mailserver.spotify.xxx
 mailserver.status.slack.com
 mailserver.statuspage.io
 mailserver.support.greenhouse.io
@@ -50912,6 +50942,7 @@ manycams.etsy.com
 manyears.sf.net
 manyfaktor.mail.ru
 manyhandstrading.yelp.com
+manyi.taobao.com
 manyixuan.tmall.com
 manyme.atlassian.net
 manyoubaobao.tmall.com
@@ -57705,6 +57736,7 @@ mc.gamebbs.qq.com
 mc.github.com
 mc.ing.nl
 mc.mail.ru
+mc.mail.taobao.com
 mc.mail.tmall.com
 mc.mastercard.com
 mc.qq.com
@@ -58175,6 +58207,7 @@ mcf1.sharepoint.com
 mcf2.my.com
 mcfaelluce.1688.com
 mcfarfromhere.imgur.com
+mcfarland-ap-100.stanford.edu
 mcfarland-net.stanford.edu
 mcfarlanddesigns.etsy.com
 mcfarlandhouse.reservation.hyatt.com
@@ -59414,6 +59447,7 @@ mdm.simple.com
 mdm.skydrive.live.com
 mdm.slack.com
 mdm.snappublisher.snapchat.com
+mdm.spotify.xxx
 mdm.stanford.edu
 mdm.starbucks.com
 mdm.status.slack.com
@@ -60495,6 +60529,7 @@ med-p-hp-m426fdw-1.stanford.edu
 med-p-hp-m452dn.stanford.edu
 med-p-hp-m477fdn-3.stanford.edu
 med-p-hp-m479fdw-1.stanford.edu
+med-p-m477dn-1000.stanford.edu
 med-p-xerox-workcentre6605-1.stanford.edu
 med-p-zebra-zd420-1.stanford.edu
 med-p-zebra-zd620-1.stanford.edu
@@ -60504,6 +60539,7 @@ med-placeholder.stanford.edu
 med-psych.stanford.edu
 med-ricohspc440dn-sim1.stanford.edu
 med-security-grp.stanford.edu
+med-shc-sumcnet-hoover-13-100.stanford.edu
 med-shc-sumcnet-positivecare.stanford.edu
 med-shc-sumcnet-rtr.stanford.edu
 med-shc-sumcnet-som.stanford.edu
@@ -61281,7 +61317,9 @@ media.slac.stanford.edu
 media.slack.com
 media.snappublisher.snapchat.com
 media.social.glbdns2.microsoft.com
+media.spotify.xxx
 media.stage-us1.twilio.com
+media.staging-airtableblocks.com
 media.staging.liveberater.telekom.net
 media.status.slack.com
 media.statuspage.io
@@ -64323,6 +64361,7 @@ meowsweets.etsy.com
 meowx0.imgur.com
 meowy.etsy.com
 meowza.etsy.com
+mep-4000.stanford.edu
 mep-designs.spaces.live.com
 mep-ph.stanford.edu
 mep.irt-dr.med.stanford.edu
@@ -64340,6 +64379,7 @@ mepopular.my.com
 meps.atlassian.net
 mepspay.gateway.mastercard.com
 meqlgy9uzwl3ar2bwa1556490z0xw4o2.waf.aliyun.com
+meqlgy9uzwl3ar2bwa1556490z0xw4o2.waf.taobao.com
 mequcryp.tmall.com
 mequcryp.world.tmall.com
 mequedouno.yelp.com
@@ -64598,6 +64638,7 @@ merchandising-preview.showmax.com
 merchandising-preview.simple.com
 merchandising-preview.slack.com
 merchandising-preview.snappublisher.snapchat.com
+merchandising-preview.spotify.xxx
 merchandising-preview.status.slack.com
 merchandising-preview.statuspage.io
 merchandising-preview.support.greenhouse.io
@@ -66057,6 +66098,7 @@ metrics.showmax.com
 metrics.simple.com
 metrics.slack.com
 metrics.snappublisher.snapchat.com
+metrics.spotify.xxx
 metrics.status.slack.com
 metrics.statuspage.io
 metrics.support.greenhouse.io
@@ -74480,6 +74522,7 @@ ml.simple.com
 ml.skydrive.live.com
 ml.slack.com
 ml.snappublisher.snapchat.com
+ml.spotify.xxx
 ml.stanford.edu
 ml.status.slack.com
 ml.statuspage.io
@@ -75618,6 +75661,7 @@ mmxsrv-rtp-7.cisco.com
 mmxzhg.1688.com
 mmy.tmall.com
 mmyernjtqpjrjy4vn6mzzzfwu55agemn.waf.aliyun.com
+mmyernjtqpjrjy4vn6mzzzfwu55agemn.waf.taobao.com
 mmyfncp.1688.com
 mmykc0e170-dsn.algolia.net
 mmykd74vlz6w.statuspage.io
@@ -76363,6 +76407,7 @@ mobile-rest.showmax.com
 mobile-rest.simple.com
 mobile-rest.slack.com
 mobile-rest.snappublisher.snapchat.com
+mobile-rest.spotify.xxx
 mobile-rest.status.slack.com
 mobile-rest.statuspage.io
 mobile-rest.support.greenhouse.io
@@ -76622,7 +76667,9 @@ mobile.slack.com
 mobile.snappublisher.snapchat.com
 mobile.spaces.live.com
 mobile.spotify.net
+mobile.spotify.xxx
 mobile.stage2mobile01.paypal.com
+mobile.staging-airtableblocks.com
 mobile.staging.lieferando.de
 mobile.staging.pyszne.pl
 mobile.staging.snooguts.net
@@ -78932,6 +78979,7 @@ mongo.simple.com
 mongo.skydrive.live.com
 mongo.slack.com
 mongo.snappublisher.snapchat.com
+mongo.spotify.xxx
 mongo.status.slack.com
 mongo.statuspage.io
 mongo.support.greenhouse.io
@@ -79040,6 +79088,8 @@ mongodb.simple.com
 mongodb.skydrive.live.com
 mongodb.slack.com
 mongodb.snappublisher.snapchat.com
+mongodb.spotify.xxx
+mongodb.staging-airtableblocks.com
 mongodb.status.slack.com
 mongodb.statuspage.io
 mongodb.support.greenhouse.io
@@ -85576,6 +85626,7 @@ msg.sharepoint.com
 msg.skype.live.com
 msg.uat.cmtprod.westernunion.com
 msg.weixiao.qq.com
+msgacs-lazada.wapa.taobao.com
 msgacs-m.lazada.co.id
 msgacs-m.lazada.co.th
 msgacs-m.lazada.com.my
@@ -86438,6 +86489,7 @@ mssql.showmax.com
 mssql.simple.com
 mssql.slack.com
 mssql.snappublisher.snapchat.com
+mssql.spotify.xxx
 mssql.status.slack.com
 mssql.statuspage.io
 mssql.support.greenhouse.io
@@ -87042,6 +87094,7 @@ mta-sts.slack.com
 mta-sts.snappublisher.snapchat.com
 mta-sts.spf.atlassian.net
 mta-sts.spf.mail.qq.com
+mta-sts.spotify.xxx
 mta-sts.status.slack.com
 mta-sts.statuspage.io
 mta-sts.support.greenhouse.io
@@ -92845,6 +92898,7 @@ mx.livedudes.chaturbate.com
 mx.m.yelp.com
 mx.mackeeper.com
 mx.mail.ru
+mx.mail.taobao.com
 mx.mail02.huawei.com
 mx.mailer.my.com
 mx.mailerpandemic.my.com
@@ -92904,6 +92958,7 @@ mx.skypicker.com
 mx.slack.com
 mx.smtp.smtp._spf3.bluejeans.com
 mx.snappublisher.snapchat.com
+mx.spotify.xxx
 mx.srv67-190-240-87.vk.com
 mx.starbucks.com.cn
 mx.status.slack.com
@@ -93160,7 +93215,9 @@ mx01.skydrive.live.com
 mx01.slack.com
 mx01.snappublisher.snapchat.com
 mx01.spaces.live.com
+mx01.spotify.xxx
 mx01.sse.itd.cisco.com
+mx01.staging-airtableblocks.com
 mx01.status.slack.com
 mx01.statuspage.io
 mx01.support.greenhouse.io
@@ -93450,6 +93507,8 @@ mx1.slack.com
 mx1.slc.paypal.com
 mx1.snappublisher.snapchat.com
 mx1.sophos.com
+mx1.spotify.xxx
+mx1.staging-airtableblocks.com
 mx1.starbucks.com.cn
 mx1.status.slack.com
 mx1.statuspage.io
@@ -93848,6 +93907,8 @@ mx2.slack.com
 mx2.slc.paypal.com
 mx2.snappublisher.snapchat.com
 mx2.sophos.com
+mx2.spotify.xxx
+mx2.staging-airtableblocks.com
 mx2.starbucks.com.cn
 mx2.status.slack.com
 mx2.statuspage.io
@@ -94542,6 +94603,7 @@ mxm.tmall.com
 mxm.world.tmall.com
 mxmail.github.com
 mxmail.slack.com
+mxmc.mail.taobao.com
 mxmc.mail.tmall.com
 mxmdmmx02.dp.att.com
 mxmetals.en.alibaba.com
@@ -98658,6 +98720,7 @@ mysql.skydrive.live.com
 mysql.slack.com
 mysql.slave.ent.liquidweb.com
 mysql.snappublisher.snapchat.com
+mysql.spotify.xxx
 mysql.status.slack.com
 mysql.statuspage.io
 mysql.support.greenhouse.io
@@ -101534,6 +101597,7 @@ na5.visual.force.com.crm.cisco.com
 na5feraty.qzone.qq.com
 na6.content.force.com.crm.cisco.com
 na6.visual.force.com.crm.cisco.com
+na61-na62-bk.wagbridge.alibaba.taobao.com
 na61-na62.wagbridge.advertisement.1688.com
 na61-na62.wagbridge.advertisement.alibaba.com
 na61-na62.wagbridge.advertisement.tmall.com
@@ -121552,16 +121616,3 @@ neuro-prd-vm-10.cisco.com
 neuro-princelab1-9020.stanford.edu
 neuro-princelab4-9020.stanford.edu
 neuro-princelab6-9020.stanford.edu
-neuro-printer-h3160b.stanford.edu
-neuro-printer-mslsp224.stanford.edu
-neuro-r207-m602.stanford.edu
-neuro-r211-printer.stanford.edu
-neuro-r301jwrq.stanford.edu
-neuro-r9-0fa9ne.stanford.edu
-neuro-ricoh-c3004.stanford.edu
-neuro-rwa.stanford.edu
-neuro-sci-ogokce.stanford.edu
-neuro-sg7430058f.stanford.edu
-neuro-shamloo-p.stanford.edu
-neuro-sim1-g1034.stanford.edu
-neuro-spartap-9010.stanford.edu

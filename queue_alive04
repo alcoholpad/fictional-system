@@ -1,17 +1,3 @@
-events.sophos.com
-events.stanford.edu
-events.telekom.de
-events.telenet.be
-events.tesla.cn
-events.tesla.com
-events.tpum.skype.com
-events.twitter.com
-events.uber.com
-events.ucd-covid19.slack.com
-events.udemy.com
-events.virus.github.com
-events.yahoo.com
-events.yvcji0l1mm.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.antivirus-edu.goodrx.com
 events02.huawei.com
 events1.djicdn.com
 events2.djicdn.com
@@ -1625,6 +1611,8 @@ exchange.simple.com
 exchange.skydrive.live.com
 exchange.slack.com
 exchange.snappublisher.snapchat.com
+exchange.spotify.xxx
+exchange.staging-airtableblocks.com
 exchange.status.slack.com
 exchange.statuspage.io
 exchange.support.greenhouse.io
@@ -1794,6 +1782,7 @@ exedpm-0.stanford.edu
 exedpm-dev-0.stanford.edu
 exedpm-dev.stanford.edu
 exedpm-lb.stanford.edu
+exedpm-qa-0.stanford.edu
 exedpm-qa.stanford.edu
 exedpm.stanford.edu
 exedre.github.com
@@ -3543,6 +3532,7 @@ f.ns.e.usaa.com
 f.ns.e2.usaa.com
 f.ns.email.github.com
 f.ns.email.sonyentertainmentnetwork.com
+f.ns.email.starbucks.fr
 f.ns.email1.roku.com
 f.ns.emails.westernunion.com
 f.ns.emails.westernunion.ie
@@ -20033,6 +20023,7 @@ fmshobby.en.alibaba.com
 fmsmac-kevin128.stanford.edu
 fmspartnerapp.stg.starbucks.com.cn
 fmspc-10002.stanford.edu
+fmspc-25000.stanford.edu
 fmspc-30005.stanford.edu
 fmspc-30007.stanford.edu
 fmspc-30009.stanford.edu
@@ -22889,6 +22880,7 @@ forum.skyscanner.net
 forum.slack.com
 forum.snappublisher.snapchat.com
 forum.snsbank.nl
+forum.spotify.xxx
 forum.stage.dev.oroinc.com
 forum.stanford.edu
 forum.starbucks.com.cn
@@ -23107,6 +23099,7 @@ forums.simple.com
 forums.slack.com
 forums.slimdevices.com
 forums.snappublisher.snapchat.com
+forums.spotify.xxx
 forums.status.slack.com
 forums.statuspage.io
 forums.steamgames.com
@@ -23937,6 +23930,7 @@ fpg.zoom.us
 fpga-b84-rf01.slac.stanford.edu
 fpga-dev01.slac.stanford.edu
 fpga-netlist-tools.github.com
+fpga-verif-0.stanford.edu
 fpga1-u10.cisco.com
 fpga2-u10.cisco.com
 fpga3-u10.cisco.com
@@ -27877,6 +27871,7 @@ friend.gc.apple.com
 friend.github.com
 friend.sharepoint.com
 friend.slack.com
+friend.taobao.com
 friendcenter.etsy.com
 friendconnect.google.com
 friender.icq.com
@@ -30263,6 +30258,7 @@ ftp.smtp._spf3.bluejeans.com
 ftp.smtp.pop._spf3.bluejeans.com
 ftp.snappublisher.snapchat.com
 ftp.sophos.com
+ftp.spotify.xxx
 ftp.srv72-190-240-87.srv72-190-240-87.vk.com
 ftp.srv78-190-240-87.srv78-190-240-87.vk.com
 ftp.ssh.juegos.antivirus.bo.webproxy.idc.tencent.com
@@ -32582,6 +32578,7 @@ fw.simple.com
 fw.skydrive.live.com
 fw.slack.com
 fw.snappublisher.snapchat.com
+fw.spotify.xxx
 fw.status.slack.com
 fw.statuspage.io
 fw.support.greenhouse.io
@@ -33527,6 +33524,7 @@ g2000nz.tmall.com
 g2000nz.world.tmall.com
 g200c-5550can.stanford.edu
 g200kg.github.com
+g206hp4000.stanford.edu
 g206huzhoulaptop.stanford.edu
 g208byunglaptop.stanford.edu
 g212linaliulaptop.stanford.edu
@@ -33789,6 +33787,8 @@ ga.showmax.com
 ga.simple.com
 ga.slack.com
 ga.snappublisher.snapchat.com
+ga.spotify.xxx
+ga.staging-airtableblocks.com
 ga.status.slack.com
 ga.statuspage.io
 ga.support.greenhouse.io
@@ -34054,6 +34054,8 @@ gac-rds-external-readonly-preprod.showmax.com
 gac-rds-external-readonly-preprod.simple.com
 gac-rds-external-readonly-preprod.slack.com
 gac-rds-external-readonly-preprod.snappublisher.snapchat.com
+gac-rds-external-readonly-preprod.spotify.xxx
+gac-rds-external-readonly-preprod.staging-airtableblocks.com
 gac-rds-external-readonly-preprod.status.slack.com
 gac-rds-external-readonly-preprod.statuspage.io
 gac-rds-external-readonly-preprod.support.greenhouse.io
@@ -34142,6 +34144,7 @@ gac-rds-external-readonly.showmax.com
 gac-rds-external-readonly.simple.com
 gac-rds-external-readonly.slack.com
 gac-rds-external-readonly.snappublisher.snapchat.com
+gac-rds-external-readonly.spotify.xxx
 gac-rds-external-readonly.status.slack.com
 gac-rds-external-readonly.statuspage.io
 gac-rds-external-readonly.support.greenhouse.io
@@ -38311,6 +38314,7 @@ gcom-product-find-dev.showmax.com
 gcom-product-find-dev.simple.com
 gcom-product-find-dev.slack.com
 gcom-product-find-dev.snappublisher.snapchat.com
+gcom-product-find-dev.spotify.xxx
 gcom-product-find-dev.status.slack.com
 gcom-product-find-dev.statuspage.io
 gcom-product-find-dev.support.greenhouse.io
@@ -38399,6 +38403,8 @@ gcom-product-find-qa.showmax.com
 gcom-product-find-qa.simple.com
 gcom-product-find-qa.slack.com
 gcom-product-find-qa.snappublisher.snapchat.com
+gcom-product-find-qa.spotify.xxx
+gcom-product-find-qa.staging-airtableblocks.com
 gcom-product-find-qa.status.slack.com
 gcom-product-find-qa.statuspage.io
 gcom-product-find-qa.support.greenhouse.io
@@ -39534,6 +39540,7 @@ gdsns1.aliexpress.com
 gdsns1.alimama.com
 gdsns1.aliyun.com
 gdsns1.antivirus.aliexpress.com
+gdsns1.taobao.com
 gdsns1.tmall.com
 gdsns2.1688.com
 gdsns2.alibaba-inc.com
@@ -39541,6 +39548,7 @@ gdsns2.alibaba.com
 gdsns2.aliexpress.com
 gdsns2.alimama.com
 gdsns2.aliyun.com
+gdsns2.taobao.com
 gdsns2.tmall.com
 gdsongtian056.en.alibaba.com
 gdsouthfirst.1688.com
@@ -46745,6 +46753,7 @@ git.slack.com
 git.snappublisher.snapchat.com
 git.software.eu.playstation.com
 git.spotify.net
+git.spotify.xxx
 git.stanford.edu
 git.static.twilio.com
 git.status.slack.com
@@ -47103,6 +47112,8 @@ gitlab.skydrive.live.com
 gitlab.skypicker.com
 gitlab.slack.com
 gitlab.snappublisher.snapchat.com
+gitlab.spotify.xxx
+gitlab.staging-airtableblocks.com
 gitlab.staging.pyszne.pl
 gitlab.stanford.edu
 gitlab.status.slack.com
@@ -50421,6 +50432,7 @@ go.smartsheet.com
 go.snapchat.com
 go.snappublisher.snapchat.com
 go.sophos.com
+go.spotify.xxx
 go.status.slack.com
 go.statuspage.io
 go.support.greenhouse.io
@@ -62048,6 +62060,7 @@ gridironthoughts.quora.com
 gridless.live.com
 gridlogic-api-eng.sn.tesla.services
 gridlogic-api.sn.tesla.services
+gridlogic-eng.energy.tesla.com
 gridlogic-eng.sn.tesla.services
 gridlogic-provisioner.sn.tesla.services
 gridlogic.energy.tesla.com
@@ -64132,6 +64145,7 @@ gsb-9ycm6y2.stanford.edu
 gsb-alumni-dev.stanford.edu
 gsb-alumni-devs.stanford.edu
 gsb-alumni-test.stanford.edu
+gsb-av-audiaflex-cm-01579000.stanford.edu
 gsb-av-pearl-1.stanford.edu
 gsb-av-pearl-2.stanford.edu
 gsb-aws-komprise-0.stanford.edu
@@ -64555,6 +64569,7 @@ gsb-eeuat.stanford.edu
 gsb-ejzhang-booster.stanford.edu
 gsb-equitrac-14.stanford.edu
 gsb-equitrac-17.stanford.edu
+gsb-equitrac-knight-00.stanford.edu
 gsb-f0ngnv2.stanford.edu
 gsb-f118lc2.stanford.edu
 gsb-f13l0m2.stanford.edu
@@ -66270,6 +66285,7 @@ gtm.sf.net
 gtm.sharepoint.com
 gtm.slack.com
 gtm.starleaf.com
+gtm.transferwise.com
 gtm1.github.com
 gtm1.mail.ru
 gtm1.slack.com
@@ -67200,6 +67216,8 @@ gui.showmax.com
 gui.simple.com
 gui.slack.com
 gui.snappublisher.snapchat.com
+gui.spotify.xxx
+gui.staging-airtableblocks.com
 gui.status.slack.com
 gui.statuspage.io
 gui.support.greenhouse.io
@@ -67544,6 +67562,7 @@ gujrathandicrafts.trustpass.alibaba.com
 gujun.qzone.qq.com
 gujunmin.fm.alibaba.com
 gujwigygd8mpfbs0wdryqa476bfiaaeg.waf.aliyun.com
+gujwigygd8mpfbs0wdryqa476bfiaaeg.waf.taobao.com
 guk0ua6.quora.com
 guk1-arr.officeapps.live.com
 guk1-rtc.officeapps.live.com
@@ -68641,6 +68660,7 @@ gw.sk.grepolis.com
 gw.skydrive.live.com
 gw.slack.com
 gw.snappublisher.snapchat.com
+gw.spotify.xxx
 gw.staging.pyszne.pl
 gw.status.slack.com
 gw.statuspage.io
@@ -68942,6 +68962,7 @@ gws-api-sandbox.showmax.com
 gws-api-sandbox.simple.com
 gws-api-sandbox.slack.com
 gws-api-sandbox.snappublisher.snapchat.com
+gws-api-sandbox.spotify.xxx
 gws-api-sandbox.status.slack.com
 gws-api-sandbox.statuspage.io
 gws-api-sandbox.support.greenhouse.io
@@ -69028,6 +69049,7 @@ gws-dev.showmax.com
 gws-dev.simple.com
 gws-dev.slack.com
 gws-dev.snappublisher.snapchat.com
+gws-dev.spotify.xxx
 gws-dev.status.slack.com
 gws-dev.statuspage.io
 gws-dev.support.greenhouse.io
@@ -69115,6 +69137,8 @@ gws-qa.showmax.com
 gws-qa.simple.com
 gws-qa.slack.com
 gws-qa.snappublisher.snapchat.com
+gws-qa.spotify.xxx
+gws-qa.staging-airtableblocks.com
 gws-qa.status.slack.com
 gws-qa.statuspage.io
 gws-qa.support.greenhouse.io
@@ -69203,6 +69227,7 @@ gws-rds-external-readonly-uat.showmax.com
 gws-rds-external-readonly-uat.simple.com
 gws-rds-external-readonly-uat.slack.com
 gws-rds-external-readonly-uat.snappublisher.snapchat.com
+gws-rds-external-readonly-uat.spotify.xxx
 gws-rds-external-readonly-uat.status.slack.com
 gws-rds-external-readonly-uat.statuspage.io
 gws-rds-external-readonly-uat.support.greenhouse.io
@@ -69289,6 +69314,7 @@ gws-uat.showmax.com
 gws-uat.simple.com
 gws-uat.slack.com
 gws-uat.snappublisher.snapchat.com
+gws-uat.spotify.xxx
 gws-uat.status.slack.com
 gws-uat.statuspage.io
 gws-uat.support.greenhouse.io
@@ -69380,6 +69406,7 @@ gws.showmax.com
 gws.simple.com
 gws.slack.com
 gws.snappublisher.snapchat.com
+gws.spotify.xxx
 gws.status.slack.com
 gws.statuspage.io
 gws.support.greenhouse.io
@@ -98967,6 +98994,7 @@ help.snappublisher.snapchat.com
 help.soundcloud.com
 help.spokeo.com
 help.spotify.com
+help.spotify.xxx
 help.squareup.com
 help.stage.netflix.com
 help.staging.braintreepayments.com
@@ -104377,6 +104405,7 @@ hive-worker.buzzfeed.com
 hive.geico.com
 hive.github.com
 hive.integ.amazon.com
+hive.playground.shopifykloud.com
 hive.qq.com
 hive.sharepoint.com
 hive.stanford.edu
@@ -104792,6 +104821,7 @@ hk.user.auctions.yahoo.com
 hk.video.yahoo.com
 hk.viruswall.rch.line-apps.com
 hk.wagbridge.noncert.alibaba.com
+hk.wagbridge.taobao.com
 hk.westernunion.com
 hk.yahoo.com
 hk.yahoo.messenger.com
@@ -108123,8 +108153,10 @@ home.slack.com
 home.snappublisher.snapchat.com
 home.sophos.com
 home.spaces.live.com
+home.spotify.xxx
 home.stag.visma.com
 home.stage.github.com
+home.staging-airtableblocks.com
 home.staging.cloud.seek.com.au
 home.status.slack.com
 home.statuspage.io
@@ -110452,6 +110484,7 @@ host.simple.com
 host.skydrive.live.com
 host.slack.com
 host.snappublisher.snapchat.com
+host.spotify.xxx
 host.startup.stanford.edu
 host.status.slack.com
 host.statuspage.io
@@ -110711,6 +110744,7 @@ hostmaster.simple.com
 hostmaster.skydrive.live.com
 hostmaster.slack.com
 hostmaster.snappublisher.snapchat.com
+hostmaster.spotify.xxx
 hostmaster.stage.twilio.com
 hostmaster.status.slack.com
 hostmaster.statuspage.io
@@ -116605,6 +116639,7 @@ httpbin.showmax.com
 httpbin.simple.com
 httpbin.slack.com
 httpbin.snappublisher.snapchat.com
+httpbin.spotify.xxx
 httpbin.status.slack.com
 httpbin.statuspage.io
 httpbin.support.greenhouse.io
@@ -116849,6 +116884,7 @@ httpwwwcnnbnet.spaces.live.com
 httpwwwwatchtormentoflauriecom.vhx.tv
 httpxiaoming0324.spaces.live.com
 httpyahoo.messenger.com
+httpzhenzhihe.tmall.taobao.com
 httrolley.1688.com
 htts-india-dmp-cdn.cisco.com
 htts-india-dmp-lan1.cisco.com
@@ -122543,3 +122579,11 @@ hybrid1516-1.fr.ns.planethoster.net
 hybrid1516.fr.ns.planethoster.net
 hybrid1517.fr.ns.planethoster.net
 hybrid1518-1.fr.ns.planethoster.net
+hybrid1518.fr.ns.planethoster.net
+hybrid1519.fr.ns.planethoster.net
+hybrid1520.fr.ns.planethoster.net
+hybrid1521-1.fr.ns.planethoster.net
+hybrid1521.fr.ns.planethoster.net
+hybrid1522-1.fr.ns.planethoster.net
+hybrid1522.fr.ns.planethoster.net
+hybrid1523.fr.ns.planethoster.net
