@@ -1,3 +1,10 @@
+sjmfa-apc-pw3.cisco.com
+sjmfa-tg-sprt.cisco.com
+sjmfats2.cisco.com
+sjmgit1.cisco.com
+sjmhbondlap-lnx.cisco.com
+sjmkickcl1-cimc.cisco.com
+sjmkickcl1-lnx.cisco.com
 sjmkickcl10-lnx.cisco.com
 sjmkickcl16-lnx.cisco.com
 sjmkickcl4-lnx.cisco.com
@@ -36980,6 +36987,7 @@ social.att.com
 social.expression.microsoft.com
 social.facebook.com
 social.github.com
+social.htc.com
 social.hyatt.com
 social.mastercard.com
 social.microsoft.com
@@ -59115,6 +59123,7 @@ srchkafka3.mail.ru
 srchsession.yahoo.com
 srchsvctst-ux.microsoft.com
 srchsvctst.microsoft.com
+srchui-stage.cloudapps.cisco.com
 srchunyu.en.alibaba.com
 srclib.slack.com
 srclima.live.com
@@ -123949,6 +123958,7 @@ stream-10.ix7.dailymotion.com
 stream-11.dc3.dailymotion.com
 stream-11.ix7.dailymotion.com
 stream-12.dc3.dailymotion.com
+stream-2-1.binance.com
 stream-6-1.binance.com
 stream-6-4.binance.com
 stream-api.betfair.com
@@ -124000,7 +124010,9 @@ stream1.github.com
 stream1.qqmusic.qq.com
 stream1.sharepoint.com
 stream1.slack.com
+stream11.binance.com
 stream11.qqmusic.qq.com
+stream12.binance.com
 stream12.dev.lieferando.de
 stream12.qqmusic.qq.com
 stream13.qqmusic.qq.com
@@ -124010,15 +124022,18 @@ stream16.qqmusic.qq.com
 stream17.qqmusic.qq.com
 stream18.qqmusic.qq.com
 stream19.qqmusic.qq.com
+stream2-0-2.binance.com
 stream2-0-9.binance.com
 stream2-01.binance.com
 stream2-13.binance.com
+stream2-3.binance.com
 stream2.binance.com
 stream2.github.com
 stream2.qqmusic.qq.com
 stream2.sharepoint.com
 stream2.slack.com
 stream20.qqmusic.qq.com
+stream21.binance.com
 stream3.github.com
 stream3.slack.com
 stream32.binance.com
@@ -124026,6 +124041,8 @@ stream4.github.com
 stream4.slack.com
 stream5-3.binance.com
 stream5-9.binance.com
+stream61.binance.com
+stream7-1.binance.com
 stream7.qqmusic.qq.com
 streamads.yahoo.com
 streamalert.slack.com
@@ -125192,9 +125209,3 @@ studentsnewpaltzk12ny.sharepoint.com
 studentsnossalhsvicedu.sharepoint.com
 studentsolbridgeac.sharepoint.com
 studentsoldhamac-my.sharepoint.com
-studentsoldhamac.sharepoint.com
-studentsouththamesac.sharepoint.com
-studentspburu-my.sharepoint.com
-studentspburu.sharepoint.com
-studentspeedpolyuedu-my.sharepoint.com
-studentspeedpolyuedu.sharepoint.com

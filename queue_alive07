@@ -1,3 +1,8 @@
+neuro-prd-vm-09.cisco.com
+neuro-prd-vm-10.cisco.com
+neuro-princelab1-9020.stanford.edu
+neuro-princelab4-9020.stanford.edu
+neuro-princelab6-9020.stanford.edu
 neuro-printer-h3160b.stanford.edu
 neuro-printer-mslsp224.stanford.edu
 neuro-r207-m602.stanford.edu
@@ -41343,6 +41348,7 @@ opmanager.github.com
 opmanager.slack.com
 opmapi-vip.corpapps.vip.corp.gq1.yahoo.com
 opmapis.corp.yahoo.com
+opmgmt-stage.cloudapps.cisco.com
 opmprodapi001-ovm.corpapps.corp.gq1.yahoo.com
 opmprodapi002-ovm.corpapps.corp.gq1.yahoo.com
 opmpros-my.sharepoint.com
@@ -67375,6 +67381,7 @@ p105-fmipweb.icloud.com
 p105-geows.icloud.com
 p105-iwmb-china.icloud.com
 p105-iwmb.icloud.com
+p105-iwmb0.icloud.com
 p105-iwmb1-china.icloud.com
 p105-iwmb1.icloud.com
 p105-iwmb2-china.icloud.com
@@ -87622,6 +87629,7 @@ peg4s-public.sharepoint.com
 peg4s.sharepoint.com
 pega-dev.vanilladevelopment.com
 pega-lst.iris.rabobank.nl
+pegacloud.uat.base.be
 pegadel.spaces.live.com
 pegajenkins.linux.rabobank.nl
 peganders.etsy.com
@@ -97959,6 +97967,7 @@ platform1.earlywarning.com
 platform12-public.sharepoint.com
 platform12.sharepoint.com
 platform2.earlywarning.com
+platform45.invisionapp.com
 platformaskjpartners.cloudways.com
 platformcn.maps.glbdns2.microsoft.com
 platformcoop.slack.com
@@ -114793,8 +114802,10 @@ protostar.line.me
 protostarr.slack.com
 prototurk.slack.com
 prototype.admin-lite-next.airbnb.com
+prototype.admin-lite-staging.airbnb.com
 prototype.admin-lite.airbnb.com
 prototype.admin-next.airbnb.com
+prototype.admin-staging.airbnb.com
 prototype.admin.airbnb.com
 prototype.en.alibaba.com
 prototype.github.com
@@ -123252,6 +123263,7 @@ qa.truaxis2.mastercard.com
 qa.uk.checkout.mail.yahoo.com
 qa.uk.subscriptions.yahoo.com
 qa.uncovermobile.staging.lieferando.de
+qa.vector.datastax.com
 qa.venmo.com
 qa.wellness.ayco.com
 qa.widgets.services.microsoft.com
@@ -125293,11 +125305,3 @@ qiaodandezhigao.tmall.com
 qiaodandezhigao.world.tmall.com
 qiaodanhm.tmall.com
 qiaodankids.tmall.com
-qiaodanlm.tmall.com
-qiaodanmyc.tmall.com
-qiaodi.en.alibaba.com
-qiaoeryiaqzy.tmall.com
-qiaoeryiaqzy.world.tmall.com
-qiaofeijjry.tmall.com
-qiaofengbo2010.cn.alibaba.com
-qiaofengma.tmall.com
