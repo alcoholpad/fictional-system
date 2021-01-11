@@ -84942,6 +84942,7 @@ edartcoresit.parttest.extranettest.microsoft.com
 edas-beta.console.aliyun.com
 edas-gw.lazada.sg
 edas-internal.console.aliyun.com
+edas-ops.console.aliyun.com
 edas.aliyun-inc.com
 edas.console.alibabacloud.com
 edas.console.aliyun.com
@@ -119050,3 +119051,5 @@ events.franklincovey.slack.com
 events.fyc.netflix.com
 events.gentilsvirus.slack.com
 events.geschaeftskunden.telekom.de
+events.github.com
+events.glassdoor.com
