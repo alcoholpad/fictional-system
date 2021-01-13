@@ -1,6 +1,3 @@
-antivirus.www.bucket.dentalplans.goodrx.com
-antivirus.www.bucketdentalplans.goodrx.com
-antivirus.www.c.dentalplans.goodrx.com
 antivirus.www.cdn-dentalplans.goodrx.com
 antivirus.www.cf-dentalplans.goodrx.com
 antivirus.www.cf.dentalplans.goodrx.com
@@ -3512,6 +3509,7 @@ ap1.ks.vip.tw1.yahoo.com
 ap1.salesforce.com.crm.cisco.com
 ap1.sharepoint.com
 ap1.visual.force.com.crm.cisco.com
+ap11.binance.com
 ap15.slac.stanford.edu
 ap16.sharepoint.com
 ap1cj2.imgur.com
@@ -3546,6 +3544,7 @@ apa.betfair.com
 apa.nt.meraki.com
 apaas.tencent.com
 apac-04.binance.com
+apac-51.binance.com
 apac-52.binance.com
 apac-79.binance.com
 apac-canary.messagingthread.skype.com
@@ -3589,6 +3588,7 @@ apac1-4.binance.com
 apac1-login.gs.com
 apac2-login.gs.com
 apac3-login.gs.com
+apac8-4.binance.com
 apacacad-my.sharepoint.com
 apacacad.sharepoint.com
 apacadmin.uc.att.com
@@ -16604,6 +16604,7 @@ artifactory.datastax.com
 artifactory.delivery-club.ru
 artifactory.dev.devops.telekom.de
 artifactory.devops.telekom.de
+artifactory.exp.ikarem.io
 artifactory.grammarly.io
 artifactory.iad.aws.core.av.lyft.net
 artifactory.ikarem.io
@@ -20503,6 +20504,7 @@ assets.bugcrowdninja.invisionapp.com
 assets.bugcrowdninja2.invisionapp.com
 assets.builtbygirls.com
 assets.caffeine.tv
+assets.cainiao.com
 assets.cashforyourmac.com.san.cloudinary.com
 assets.cdn-pci.optimizely.com
 assets.cdn.optimizely.com
@@ -24388,6 +24390,8 @@ atvf1.1688.com
 atvi.zoom.us
 atvintage.etsy.com
 atvision.sharepoint.com
+atw-expe-cl1-2.att.com
+atw-expe-cl1-3.att.com
 atw-expe-cl2-1.att.com
 atw-expe-cl2-2.att.com
 atw-expe-cl2-3.att.com
@@ -35747,6 +35751,7 @@ b8ae798b-64b2-4e6b-b587-d3e5f47495ab.edge1-test.pingone.com
 b8b88f71542a493f8f90222ac30ebc55.apigw.cn-north-1.huaweicloud.com
 b8befdd026317b238457fa1e8602311a.cloudflareworkers.com
 b8bpqra32rob.quora.com
+b8c8-1-3.binance.com
 b8ch6347.quora.com
 b8fzsf8mmvv04zaf.vk.com
 b8gf9ty76g8fxilaa02o7mwu6ci2m4f8.waf.aliyun.com
@@ -35928,6 +35933,7 @@ babaochun.tmall.com
 babapacking.1688.com
 babar-bugz.slac.stanford.edu
 babar-hn.slac.stanford.edu
+babarara041.harvestapp.com
 babaria.tmall.com
 babarog.imgur.com
 babas2nddesign.etsy.com
@@ -39699,6 +39705,7 @@ bap1.ngd.vip.gq1.yahoo.com
 bap2-v6.ngd.vip.bf1.yahoo.com
 bap2.ngd.vip.gq1.yahoo.com
 baparsell.etsy.com
+bapcha.bigcartel.com
 bapcoal.fm.alibaba.com
 bapfm.goodrx.com
 bapi.ifood.com.br
@@ -42225,6 +42232,7 @@ bbolodya.mail.ru
 bbonetech-my.sharepoint.com
 bbonetech.sharepoint.com
 bbonline.challonge.com
+bboori1.harvestapp.com
 bboriginals.etsy.com
 bborisk.mail.ru
 bborn.github.com
@@ -57305,6 +57313,7 @@ bhfloweressences.etsy.com
 bhfriesen.live.com
 bhg-inc.zoom.us
 bhghc.tmall.com
+bhhanyang.harvestapp.com
 bhhc.zoom.us
 bhhc0.sharepoint.com
 bhhengtai.cn.alibaba.com
@@ -70318,6 +70327,7 @@ bo.slack.com
 bo.tianxia.taobao.com
 bo.znly.co
 bo15.shopify.com
+bo17.bigcartel.com
 bo3.antivirus-email.goodrx.com
 bo3.fb.me
 bo3.tmall.com
@@ -76650,6 +76660,7 @@ brainstorm.github.com
 brainstorm.sharepoint.com
 brainstorm.slack.com
 brainthrust.imgur.com
+braintrace.harvestapp.com
 braintraining.quora.com
 braintransmission.spaces.live.com
 braintree.place.hyatt.com
@@ -82020,6 +82031,7 @@ bugreport-shield.apple.com
 bugreport-test-old.apple.com
 bugreport-test2.apple.com
 bugreport-uat.apple.com
+bugreport.apple.com
 bugreport.qq.com
 bugreport.sf.net
 bugreporter.apple.com
@@ -93393,6 +93405,7 @@ cae-ccwpoc-pstage.cisco.com
 cae-ccwpoc-pstg-alln.cisco.com
 cae-ccwpoc-pstg-rcdn.cisco.com
 cae-ccwqpo-poe-alln.cisco.com
+cae-ccwqs-pblu.cisco.com
 cae-ccwqs-pgrn.cisco.com
 cae-cdcea-bluegreen-prod-alln.cisco.com
 cae-cdcea-bluegreen-prod-rcdn.cisco.com
@@ -94357,6 +94370,7 @@ cae-qltdom-prod-alln.cisco.com
 cae-qltdom-prod-rcdn.cisco.com
 cae-qltdom-prod-rtp.cisco.com
 cae-qorept-pblu.cisco.com
+cae-qorept-pgrn.cisco.com
 cae-qpt-prod-alln.cisco.com
 cae-qpt-prod-rcdn.cisco.com
 cae-quote-prod-alln.cisco.com
@@ -118680,6 +118694,7 @@ chat1.slack.com
 chat101.chaturbate.com
 chat11.binance.com
 chat19.stream.highwebmedia.com
+chat2-0-3.binance.com
 chat2-1-2.binance.com
 chat2-34.binance.com
 chat2-paywith.paytm.com
@@ -118696,6 +118711,7 @@ chat4.chaturbate.com
 chat4.github.com
 chat4.highwebmedia.com
 chat5.chaturbate.com
+chat6-2.binance.com
 chat62.binance.com
 chat7.chaturbate.com
 chat9-2.binance.com
@@ -119101,6 +119117,7 @@ chdts.tmall.com
 chdts.world.tmall.com
 chdyf.tmall.com
 che.71.mail.ru
+che.cainiao.com
 che.github.com
 che.itslearning.com
 che.sharepoint.com
@@ -125551,5 +125568,3 @@ ci-prod.dm.gg
 ci-rcdn-node1.cisco.com
 ci-rcdn-node10.cisco.com
 ci-rcdn-node11.cisco.com
-ci-rcdn-node12.cisco.com
-ci-rcdn-node13.cisco.com
