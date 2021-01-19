@@ -1,3 +1,7 @@
+sjc8-ip-4500.cisco.com
+sjc87.imgur.com
+sjc8a-ra1-10a.sjc.dropbox.com
+sjc8a-ra1-10b.sjc.dropbox.com
 sjc8a-ra1-10c.sjc.dropbox.com
 sjc8a-ra1-10d.sjc.dropbox.com
 sjc8a-ra1-10e.sjc.dropbox.com
@@ -2711,6 +2715,7 @@ skyfall.10.mail.ru
 skyfchain.slack.com
 skyfeeler.spaces.live.com
 skyfineusa.atlassian.net
+skyfire.base.be
 skyfireservices.atlassian.net
 skyflair5-eyecon.spaces.live.com
 skyfly.en.alibaba.com
@@ -9199,6 +9204,7 @@ smtp.api.binance.com
 smtp.api.cloudinary.com
 smtp.api.edmodo.com
 smtp.api.foxycart.com
+smtp.api.github.com
 smtp.api.greenhouse.io
 smtp.api.robinhood.com
 smtp.api.showmax.com
@@ -113943,6 +113949,7 @@ sslvpn.gtm.geico.com
 sslvpn.ha-autod.office.com
 sslvpn.ha.office365.com
 sslvpn.harvestapp.com
+sslvpn.help.github.com
 sslvpn.heydoctor.goodrx.com
 sslvpn.highwebmedia.com
 sslvpn.hotornot.com
@@ -113955,6 +113962,7 @@ sslvpn.innogames.com
 sslvpn.invisionapp.com
 sslvpn.jobs.github.com
 sslvpn.jss.greenhouse.io
+sslvpn.lab.github.com
 sslvpn.lastpass.com
 sslvpn.lifeology.dev.lifeomic.com
 sslvpn.live.com
@@ -117748,6 +117756,7 @@ staging-5em2ouy-tueukkjrqcdt6.ap-3.magento.cloud
 staging-account.ubnt.com
 staging-accounts.cruisecritic.com
 staging-admin.developer.telekom.com
+staging-admintools.bitstrips.com
 staging-airflow-etl.analytics.innogames.de
 staging-airtableblocks.com
 staging-alerts.newrelic.com
@@ -117805,6 +117814,7 @@ staging-cdn.onboarding.greenhouse.io
 staging-cdn.robinhood.com
 staging-cgsignlab.foxycart.com
 staging-chaski.use1.huffpo.net
+staging-chillvibes.bitstrips.com
 staging-cloud-collector.newrelic.com
 staging-cms.cloudinary.com
 staging-codevscovid19.slack.com
@@ -117816,12 +117826,15 @@ staging-collector-pool.newrelic.com
 staging-collector.newrelic.com
 staging-commerce.pinterest.com
 staging-community.datastax.com
+staging-company.bitstrips.com
+staging-compose.bitstrips.com
 staging-connect.bitmoji.com
 staging-connect.newrelic.com
 staging-connectdna.cisco.com
 staging-console.helium.com
 staging-console.my.com
 staging-content-transform.use1.huffpo.net
+staging-cortex.bitstrips.com
 staging-covid-19volunteersuk.slack.com
 staging-covid-atlas.slack.com
 staging-covid.slack.com
@@ -118028,6 +118041,7 @@ staging-vm0.news.in.yahoo.com
 staging-vm1.news.in.yahoo.com
 staging-vm3.news.yahoo.com
 staging-vpn.antivirus.goodrx.com
+staging-vpn.bitstrips.com
 staging-walmart.xoom.com
 staging-weather-data-origin.apple.com
 staging-weather-data.apple.com
@@ -126607,4 +126621,3 @@ sts-vis-dev4.starbucks.com
 sts-vis-iad.starbucks.com
 sts-vis-main.starbucks.com
 sts-vis-main.starbucks.com.cn
-sts-vis.starbucks.com

@@ -1,3 +1,6 @@
+antivirus.www-dev.admin.eventosalumni.dev.soundtrap.com
+antivirus.www-dev.admin.footballforum-alumni.dev.soundtrap.com
+antivirus.www-dev.admin.online.dev.soundtrap.com
 antivirus.www-dev.alumni.dev.soundtrap.com
 antivirus.www-dev.control.alumni.dev.soundtrap.com
 antivirus.www-dev.dentalplans.goodrx.com
@@ -5615,13 +5618,16 @@ api-open-fec-gov.domains.api.data.gov
 api-opencover.slack.com
 api-openei-org.domains.api.data.gov
 api-origin-devdog-sydney.arkoselabs.com
+api-origin-devdog.arkoselabs.com
 api-origin-lva.sonyentertainmentnetwork.com
 api-origin-lvb.sonyentertainmentnetwork.com
+api-origin-oregon.arkoselabs.com
 api-origin-prod-ireland.arkoselabs.com
 api-origin-prod-nvirginia.arkoselabs.com
 api-origin-prod-oregon.arkoselabs.com
 api-origin-prod-singapore.arkoselabs.com
 api-origin-prod.arkoselabs.com
+api-origin-singapore.arkoselabs.com
 api-origin-uatcat-sydney.arkoselabs.com
 api-origin.arkoselabs.com
 api-origin.c1-np.sonyentertainmentnetwork.com
@@ -5802,6 +5808,7 @@ api-stage5.att.com
 api-staging-internal.netflix.com
 api-staging-regulations-gov.domains.api.data.gov
 api-staging.airtable.com
+api-staging.arkoselabs.com
 api-staging.engadget.com
 api-staging.gitter.im
 api-staging.innocraft.cloud
@@ -5888,6 +5895,7 @@ api-uat.honestdollar.com
 api-uat.stanford.edu
 api-uat01.stanford.edu
 api-uat02.stanford.edu
+api-uatcat.arkoselabs.com
 api-uc.heytapmobi.com
 api-uk.security.microsoft.com
 api-uk.securitycenter.microsoft.com
@@ -8236,6 +8244,7 @@ api.tweakers.net
 api.twilio.com
 api.twitter.com
 api.uat-mosaic.cft.gs.com
+api.uat.base.be
 api.uat.consumercloud.marcus.com
 api.uat.esi.microsoft.com
 api.uat.globalpay.westernunion.com
@@ -22082,6 +22091,7 @@ asurion-api.arkoselabs.com
 asurion-bci.cisco.com
 asurion-my.sharepoint.com
 asurion-teams.slack.com
+asurion-verify.arkoselabs.com
 asurion.invisionapp.com
 asurion.sharepoint.com
 asurion.zoom.us
@@ -27883,6 +27893,7 @@ autoconfig.archive.slack.com
 autoconfig.atlassian.net
 autoconfig.automation.kiwi.com
 autoconfig.badoo.com
+autoconfig.badoocdn.com
 autoconfig.beta.facebook.com
 autoconfig.beta.github.com
 autoconfig.beta.slack.com
@@ -28117,6 +28128,7 @@ autoconfig.static.slack.com
 autoconfig.status.slack.com
 autoconfig.statuspage.io
 autoconfig.store.github.com
+autoconfig.support.github.com
 autoconfig.support.greenhouse.io
 autoconfig.support.slack.com
 autoconfig.test.github.com
@@ -41642,6 +41654,7 @@ basestyle.github.com
 basesustentavel-public.sharepoint.com
 basesustentavel.sharepoint.com
 baset.stanford.edu
+basetest.base.be
 basetrifitness.myshopify.com
 baseus.aliexpress.com
 baseus.ru.aliexpress.com
@@ -61604,6 +61617,7 @@ bitcademy.slack.com
 bitcallz.slack.com
 bitcaptera1.quora.com
 bitcare.github.com
+bitchat.bitstrips.com
 bitchesincharge.chaturbate.com
 bitcheslovecake.imgur.com
 bitcheslovecakes.imgur.com
@@ -67127,6 +67141,7 @@ blogs.grepolis.com
 blogs.ha-autod.office.com
 blogs.ha.office365.com
 blogs.harvestapp.com
+blogs.help.github.com
 blogs.heydoctor.goodrx.com
 blogs.i.imgur.com
 blogs.icq.com
@@ -81638,6 +81653,7 @@ bs-ba.lt-lt.fb.me
 bs-ba.messenger.com
 bs-ba.on.fb.me
 bs-brickmachine.en.alibaba.com
+bs-data.bitstrips.com
 bs-front.sc.heytapmobi.com
 bs-ig.en.alibaba.com
 bs-itservices.slack.com
@@ -81823,6 +81839,7 @@ bsd48j-my.sharepoint.com
 bsd48j.sharepoint.com
 bsd64.scs.stanford.edu
 bsdadminscripts.sf.net
+bsdb-staging.bitstrips.com
 bsdb.bitstrips.com
 bsdbern.sharepoint.com
 bsdboy.imgur.com
@@ -85224,6 +85241,7 @@ businessaccounts-adminapi-internal.trustpilot.com
 businessaccounts-adminapi.trustpilot.com
 businessaccounts-api.trustpilot.com
 businessadvantage4.sharepoint.com
+businessadvice.base.be
 businessagilityforum.slack.com
 businessanalytics-f18.slack.com
 businessandfinance.files.com
@@ -99298,6 +99316,7 @@ cams.github.com
 cams.slack.com
 cams18.chaturbate.com
 cams4fun.chaturbate.com
+camsara.chaturbate.com
 camsauce.chaturbate.com
 camscrochet.etsy.com
 camsdk-app-dev.arlo.com
@@ -112820,6 +112839,8 @@ cereal.sf.net
 cerealandcartoons.imgur.com
 cerealfly.etsy.com
 cerealkillers2runonfat.vhx.tv
+cerebellum-vpn.bitstrips.com
+cerebellum.bitstrips.com
 cerebellum.stanford.edu
 cerebralbypass.imgur.com
 cerebraldank.shopify.com
@@ -123948,6 +123969,7 @@ chilloutjazz.spaces.live.com
 chillphotos.etsy.com
 chillproject.slack.com
 chillumchilli.quora.com
+chillvibes.bitstrips.com
 chilly-things.shopify.com
 chilly.github.com
 chillydogbeds.etsy.com
@@ -126389,14 +126411,3 @@ chrislloyd.github.com
 chrislove30.spaces.live.com
 chrislundquist.github.com
 chrisluo3.spaces.live.com
-chrism86.dev.ikarem.io
-chrism86.dev.network-auth.ikarem.io
-chrism86.meraki-go.ikarem.io
-chrisma.dev.ikarem.io
-chrisma.dev.network-auth.ikarem.io
-chrisma.meraki-go.ikarem.io
-chrismali.etsy.com
-chrisman01.imgur.com
-chrismariana.spaces.live.com
-chrismartin60.users.sberbank-500.slack.com
-chrismattmann.yelp.com
