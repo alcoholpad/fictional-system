@@ -1,3 +1,4 @@
+qa-fec-stage-proc-mobile-api-service-proxy.build.acorns.com
 qa-fmontanaro-op3.customdomains.oktapreview.com
 qa-fulfillment.bentley.com
 qa-gamma.insolar-admin-api.k8s-dev.insolar.io
@@ -291,11 +292,13 @@ qa.salestracker.mmd.microsoft.com
 qa.search.engadget.com
 qa.search.huffingtonpost.ca
 qa.search.huffingtonpost.co.uk
+qa.search.huffingtonpost.com
 qa.search.huffingtonpost.com.au
 qa.search.huffingtonpost.es
 qa.search.huffingtonpost.fr
 qa.search.huffingtonpost.gr
 qa.search.huffingtonpost.in
+qa.search.huffingtonpost.it
 qa.search.huffingtonpost.jp
 qa.search.huffingtonpost.kr
 qa.search.huffpost.com
@@ -27460,7 +27463,10 @@ recobagfactory.cn.alibaba.com
 recochoku.sharepoint.com
 recode-create.slack.com
 recode-study.slack.com
+recode1.reset.tech
+recode2.reset.tech
 recode3.reset.tech
+recoding.reset.tech
 recognite.sharepoint.com
 recognitionext.partners.extranet.microsoft.com
 recognitionexteu2.partners.extranet.microsoft.com
@@ -123077,4 +123083,3 @@ sjc5-sodc-poc-ssw2-ace9-context1.cisco.com
 sjc5-sodc-poc-ssw2-ace9-context2.cisco.com
 sjc5-sodc-poc-ssw2-ace9-user2.cisco.com
 sjc5-sodc-poc-ssw2-ace9-vlan4.cisco.com
-sjc5-sodc-poc-ssw2-ace9.cisco.com
