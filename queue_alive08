@@ -1,3 +1,7 @@
+qa-euhybris.shop.samsung.com
+qa-ext-magento.bluesnap.com
+qa-ext-magento2.bluesnap.com
+qa-ext-woo2.bluesnap.com
 qa-fec-stage-proc-mobile-api-service-proxy.build.acorns.com
 qa-fmontanaro-op3.customdomains.oktapreview.com
 qa-fulfillment.bentley.com
@@ -91064,6 +91068,8 @@ shashilu.world.tmall.com
 shashiranjan.live.com
 shasialinx.en.alibaba.com
 shasiniman.tmall.com
+shaskypeedge01.starbucks.cn
+shaskypeweb01.starbucks.cn
 shasta-collector-production.upwork.com
 shasta-collector-staging.upwork.com
 shasta.stanford.edu
@@ -123081,5 +123087,3 @@ sjc5-sodc-poc-ssw1.cisco.com
 sjc5-sodc-poc-ssw2-ace9-citeispoc.cisco.com
 sjc5-sodc-poc-ssw2-ace9-context1.cisco.com
 sjc5-sodc-poc-ssw2-ace9-context2.cisco.com
-sjc5-sodc-poc-ssw2-ace9-user2.cisco.com
-sjc5-sodc-poc-ssw2-ace9-vlan4.cisco.com

@@ -18015,6 +18015,7 @@
 17530663.ostk.bm2.prod.ne1.yahoo.com
 17530676.ostk.bm2.prod.gq1.yahoo.com
 17530690.ostk.bm2.prod.gq1.yahoo.com
+17530701.ostk.bm2.prod.ne1.yahoo.com
 17530702.ostk.bm2.prod.gq1.yahoo.com
 17530705.ostk.bm2.prod.ne1.yahoo.com
 17530707.ostk.bm2.prod.ne1.yahoo.com
@@ -65374,6 +65375,7 @@ _caldavs._tcp.mail.antivirus.ftp.pc39.3h.com.book.qq.com
 _caldavs._tcp.ssh.webmail.antivirus.resumenes.m.3h.com.book.qq.com
 _caldavs._tcp.test.webserver.calendar.antivirus.bo.webproxy.idc.tencent.com
 _caldavs._tcp.webserver.r02.antivirus.bo.webproxy.idc.tencent.com
+_ceph-mon._tcp.my.antivirus.bo.webproxy.idc.tencent.com
 _ceph-mon._tcp.r1.antivirus.bo.webproxy.idc.tencent.com
 _ceph-mon._tcp.smtp.ns1.prod.antivirus.wi.vpn.webproxy.at.qq.com
 _ceph._tcp.antivirus.test.cust99.webserver.3h.com.tcdn.qq.com
@@ -66320,6 +66322,7 @@ _imps-server._tcp.antivirus.vpn.tracker.webproxy.idc.tencent.com
 _imps-server._tcp.ns1.smtp.sms.antivirus.bo.webproxy.idc.tencent.com
 _jabber._tcp.howto.antivirus.bo.webproxy.idc.tencent.com
 _jabber._tcp.nf.antivirus.bo.webproxy.idc.tencent.com
+_jabber._tcp.online.online.anaheim.antivirus.bo.webproxy.idc.tencent.com
 _jabber._tcp.ppp12.antivirus.bo.webproxy.idc.tencent.com
 _jabber._tcp.prod.se.antivirus.bo.webproxy.idc.tencent.com
 _jurik.mail.ru
@@ -66412,6 +66415,7 @@ _ldap-admin._udp.www.test.test.ftp.www.smtp.ftp.ns1.testphp.antivirus.bo.webprox
 _ldap._tcp.antivirus.video.3h.com.book.qq.com
 _ldap._tcp.brown.antivirus.bo.webproxy.idc.tencent.com
 _ldap._tcp.ssh.antivirus.americas.tennessee.sec.3h.com.tcdn.qq.com
+_ldap._tcp.webmail.ftp.test.webserver.calendar.antivirus.bo.webproxy.idc.tencent.com
 _ldap._udp.antivirus.a02.ns1.webproxy.idc.tencent.com
 _ldap._udp.cust23.antivirus.bo.webproxy.idc.tencent.com
 _ldap._udp.ftp.test.smtp.prod.smtp.ftp.vpn.antivirus.webmail.sun2.moon.3h.com.book.qq.com
@@ -66717,6 +66721,7 @@ _stun-behaviors._udp.7ncov.9aiyangcheng.com.caifu.tenpay.com
 _stun-behaviors._udp.smtp.ns1.smtp.webserver.ns1.prod.vpn02.antivirus.bo.webproxy.idc.tencent.com
 _stun-behaviors._udp.smtp.smtp.testasp.antivirus.bo.webproxy.idc.tencent.com
 _stun-behaviors._udp.webserver.u.antivirus.bo.webproxy.idc.tencent.com
+_stun-behaviors._udp.www.www.mail.ssh.webmail.prod.km.antivirus.bo.webproxy.idc.tencent.com
 _stun-p1._tcp.antivirus.ohio.cust85.3h.com.tcdn.qq.com
 _stun-p1._tcp.antivirus.wap.m.3h.com.book.qq.com
 _stun-p1._tcp.juegos.antivirus.bo.webproxy.idc.tencent.com
@@ -111176,8 +111181,3 @@ antivirus.www-dev.admin.alumni-training.dev.soundtrap.com
 antivirus.www-dev.admin.alumni.dev.1688.com
 antivirus.www-dev.admin.alumni.dev.tweakers.net
 antivirus.www-dev.admin.alumni.development.dev.soundtrap.com
-antivirus.www-dev.admin.alumni.disabled.dev.soundtrap.com
-antivirus.www-dev.admin.alumniegresados.dev.soundtrap.com
-antivirus.www-dev.admin.circle-alumni.dev.soundtrap.com
-antivirus.www-dev.admin.eventosalumni.dev.soundtrap.com
-antivirus.www-dev.admin.footballforum-alumni.dev.soundtrap.com
