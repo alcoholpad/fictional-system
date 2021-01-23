@@ -1,3 +1,15 @@
+antivirus.www-dev.admin-anilaurie.alumni.dev.soundtrap.com
+antivirus.www-dev.admin-greedy.alumni.dev.soundtrap.com
+antivirus.www-dev.admin-profile.alumni.dev.soundtrap.com
+antivirus.www-dev.admin.aanipaa-alumni.dev.soundtrap.com
+antivirus.www-dev.admin.alumni-blackfire.dev.soundtrap.com
+antivirus.www-dev.admin.alumni-hicham.dev.soundtrap.com
+antivirus.www-dev.admin.alumni-training.dev.soundtrap.com
+antivirus.www-dev.admin.alumni.dev.1688.com
+antivirus.www-dev.admin.alumni.dev.tweakers.net
+antivirus.www-dev.admin.alumni.development.dev.soundtrap.com
+antivirus.www-dev.admin.alumni.disabled.dev.soundtrap.com
+antivirus.www-dev.admin.alumniegresados.dev.soundtrap.com
 antivirus.www-dev.admin.circle-alumni.dev.soundtrap.com
 antivirus.www-dev.admin.eventosalumni.dev.soundtrap.com
 antivirus.www-dev.admin.footballforum-alumni.dev.soundtrap.com
@@ -886,6 +898,7 @@ antivirus.x.test.staging.pyszne.pl
 antivirus.xec.www.stamp.frontend.office.prod.clops.pyszne.pl
 antivirus.yankee.bsd02.auth-origin.h0-spint.ac.playstation.net
 antivirus.yczww.stamp.frontend.office.prod.clops.pyszne.pl
+antivirus.yellow.bo.webproxy.idc.tencent.com
 antivirus.yingxiongchuanshuokunshanzhan.cdn.aliyun.com
 antivirus.ykw.cdn.aliyun.com
 antivirus.z.ns1.webproxy.idc.tencent.com
@@ -5863,6 +5876,7 @@ api-test.dasher.corp.google.com
 api-test.dih.telekom.net
 api-test.github.com
 api-test.line.me
+api-test.personnel.microsoft.com
 api-test.pinterest.com
 api-test.qiwi.com
 api-test.semrush.com
@@ -7228,6 +7242,7 @@ api.onlineauth.prod.outfra.xyz
 api.onwh.qq.com
 api.open.oppomobile.com
 api.opendata.qq.com
+api.opentech.fund
 api.operator.mail.ru
 api.opsdb.ops.yahoo.com
 api.opsgeni.us
@@ -11715,6 +11730,7 @@ appsource.microsoft.com
 appspace-pt-ws-us-west-2.bluejeans.com
 appspace.bluejeans.com
 appspaces-dev.box.lab.smartsheet.com
+appspaces-dle.box.lab.smartsheet.com
 appspaces-int-dev.box.lab.smartsheet.com
 appspaces.smartsheet.com
 appspector.slack.com
@@ -17208,6 +17224,7 @@ artifactory-authproxy-22.infra.corp.gq1.yahoo.com
 artifactory-dr.rbx.com
 artifactory-east1.keeper.cisco.com
 artifactory-edge0.rbx.com
+artifactory-edge01.rbx.com
 artifactory-edge1.rbx.com
 artifactory-mission-control.tools.roku.com
 artifactory-nims-edge.test.devops.telekom.de
@@ -21012,6 +21029,7 @@ assessment-planner.t-systems.com
 assessment-predev-nv.cisco.com
 assessment-prod-nv.cisco.com
 assessment-stage-nv-rcdn.cisco.com
+assessment.changemanager.fcm.azure.microsoft.com
 assessment.learning.microsoft.com
 assessment.learningbeta.microsoft.com
 assessmentbeta.learning.microsoft.com
@@ -21429,6 +21447,7 @@ assistant.google.com
 assistant.pandora.xiaomi.com
 assistant.qq.com
 assistant.sys.tv.mi.com
+assistant.tv.mi.com
 assistants.microsoft.com
 assistantstest.microsoft.com
 assistcard-my.sharepoint.com
@@ -27765,6 +27784,7 @@ auto.3g.qq.com
 auto.certification.paydiant.com
 auto.conv3.box.lab.smartsheet.com
 auto.conv4.box.lab.smartsheet.com
+auto.conv7.box.lab.smartsheet.com
 auto.eng.paydiant.com
 auto.express.cainiao.com
 auto.github.com
@@ -58537,6 +58557,7 @@ bhi1.ops.sg3.yahoo.com
 bhimembers.slack.com
 bhind.spaces.live.com
 bhinneka.atlassian.net
+bhinternal.tencent.com
 bhisma.live.com
 bhitesting.myshopify.com
 bhive.etsy.com
@@ -59076,6 +59097,7 @@ bid-test2.pbp.vip.sg3.yahoo.com
 bid-west.pbp.vip.gq1.yahoo.com
 bid.github.com
 bid.mobilling.microsoft.com
+bid.paytm.com
 bid.pbp.vip.bf1.yahoo.com
 bid.pbp.vip.ne1.yahoo.com
 bid.pbp.vip.sg3.yahoo.com
@@ -62026,6 +62048,7 @@ bivl.d2-np.ac.playstation.net
 bivl.d2-pmgt.ac.playstation.net
 bivl.e1-np.ac.playstation.net
 bivl.e1-pmgt.ac.playstation.net
+bivl.h0-np.ac.playstation.net
 bivl.h0-pmgt.ac.playstation.net
 bivl.l1-np.ac.playstation.net
 bivl.l1-pmgt.ac.playstation.net
@@ -68128,6 +68151,7 @@ blueglitterbugcrafts.etsy.com
 blueglobegroup.atlassian.net
 bluegrasscellular.innocraft.cloud
 bluegrasscellular.sharepoint.com
+bluegrassdigital.udemy.com
 bluegrasstomorrow-my.sharepoint.com
 bluegrasstomorrow.sharepoint.com
 bluegraybox.github.com
@@ -85419,9 +85443,11 @@ businessunits-adminapi.trustpilot.com
 businessunits-api-2.trustpilot.com
 businessunits-api.trustpilot.com
 businessunits-businessmodulesapi.trustpilot.com
+businessunits-legacyapi.trustpilot.com
 businessunits-profileapi-1.trustpilot.com
 businessunits-profileapi.trustpilot.com
 businessunits-trialapi.trustpilot.com
+businessunitsearch-api-2.trustpilot.com
 businessunitsearch-api.trustpilot.com
 businessupgrades-api.trustpilot.com
 businessusa.data.gov
@@ -92765,6 +92791,7 @@ c3560-a7.aue.yahoo.com
 c357.ord001.ix.nflxvideo.net
 c358.ord001.ix.nflxvideo.net
 c359.ord001.ix.nflxvideo.net
+c35b3dc362f1.shopify.com
 c360-staging.lazada.com
 c360-uat.datastax.com
 c360.datastax.com
@@ -92899,6 +92926,7 @@ c4.ctc.big.mae.xiaomi.com
 c4.f.mae.xiaomi.com
 c4.github.com
 c4.ins.jr.mi.com
+c4.lp.account.xiaomi.com
 c4.orange.icq.com
 c4.pandora.xiaomi.com
 c4.qq.com
@@ -100387,6 +100415,7 @@ cap-d02.stanford.edu
 cap-dev.stanford.edu
 cap-irt-dev.stanford.edu
 cap-org.zoom.us
+cap-p02.stanford.edu
 cap-plan-rtp2.cisco.com
 cap-plan-sjc2.cisco.com
 cap-plan-sjc3.cisco.com
@@ -119380,6 +119409,7 @@ changemakereducation-my.sharepoint.com
 changemakereducation.sharepoint.com
 changemalljj.tmall.com
 changemalljj.world.tmall.com
+changemanager.fcm.azure.microsoft.com
 changeme1.cloudstation.eu-west-1.inf.hydra.sophos.com
 changemgmt.partners.extranet.microsoft.com
 changemgmtext.partners.extranet.microsoft.com
@@ -126493,33 +126523,3 @@ chrisnc.etsy.com
 chrisngym.spaces.live.com
 chrisnoel.imgur.com
 chrisnraksha.spaces.live.com
-chrisobriensp.sharepoint.com
-chrisolsen.github.com
-chrisoscreations.etsy.com
-chrisota.github.com
-chrisottosen.live.com
-chrispaladino.spaces.live.com
-chrisparry.etsy.com
-chrispatrick.quora.com
-chrispederick.github.com
-chrispepin.yelp.com
-chrispher.github.com
-chrisplants.sharepoint.com
-chrispoland.spaces.live.com
-chrisport.github.com
-chrisprice.github.com
-chrisr23.imgur.com
-chrisredfield1984.spaces.live.com
-chrisreiss.quora.com
-chrisreze.bigcartel.com
-chrisrichardson.yelp.com
-chrisriesner.etsy.com
-chrisroberts.github.com
-chrissadler.live.com
-chrissamnee.etsy.com
-chrisscire.imgur.com
-chrisshayan.atlassian.net
-chrissiegraceart.etsy.com
-chrissiemurphyart.etsy.com
-chrissiesgoodies.etsy.com
-chrissinclair.live.com
