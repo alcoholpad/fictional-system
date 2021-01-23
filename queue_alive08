@@ -1,3 +1,20 @@
+qa-construction-aue.bentley.com
+qa-construction-eus.bentley.com
+qa-construction-sea.bentley.com
+qa-construction-uks.bentley.com
+qa-construction.bentley.com
+qa-crm-mkt.bentley.com
+qa-crm-sales.bentley.com
+qa-dataexportfunc-eus.bentley.com
+qa-dataexportfunc-sea.bentley.com
+qa-dataexportfunc-weu.bentley.com
+qa-developer.att.com
+qa-developer.bentley.com
+qa-digital.cisco.com
+qa-efetnet-srp.gs.com
+qa-entadminsvc.bentley.com
+qa-erp-ec.bentley.com
+qa-erp-mkt.bentley.com
 qa-euhybris.shop.samsung.com
 qa-ext-magento.bluesnap.com
 qa-ext-magento2.bluesnap.com
@@ -10576,6 +10593,7 @@ rabz4551iaxlk.quora.com
 rabz881csdwiaxlk.quora.com
 rabzcctp.quora.com
 rac-wa.atlassian.net
+rac.files.com
 rac.github.com
 rac.sharepoint.com
 rac.slack.com
@@ -29598,6 +29616,7 @@ registry.gitlab.parity-polkadot.parity.io
 registry.infra.mail.ru
 registry.insolar.io
 registry.kube.devops.telekom.de
+registry.legalrobot.com
 registry.med.stanford.edu
 registry.misp.t-systems.com
 registry.my.com
@@ -74439,6 +74458,7 @@ sct-cx410.stanford.edu
 sct-dev.corp.amazon.com
 sct-jrw-3130.stanford.edu
 sct-kw1-p70.stanford.edu
+sct-prod.corp.amazon.com
 sct.cloudflare.com
 sct.github.com
 scta-team.slack.com
@@ -123078,12 +123098,3 @@ sjc5-sodc-poc-ssw1-ace9-context1.cisco.com
 sjc5-sodc-poc-ssw1-ace9-context2.cisco.com
 sjc5-sodc-poc-ssw1-ace9-user2.cisco.com
 sjc5-sodc-poc-ssw1-ace9-vlan4.cisco.com
-sjc5-sodc-poc-ssw1-ace9.cisco.com
-sjc5-sodc-poc-ssw1-csm3-dnspoc.cisco.com
-sjc5-sodc-poc-ssw1-csm3-fdc.cisco.com
-sjc5-sodc-poc-ssw1-csm3-vf4.cisco.com
-sjc5-sodc-poc-ssw1-nam.cisco.com
-sjc5-sodc-poc-ssw1.cisco.com
-sjc5-sodc-poc-ssw2-ace9-citeispoc.cisco.com
-sjc5-sodc-poc-ssw2-ace9-context1.cisco.com
-sjc5-sodc-poc-ssw2-ace9-context2.cisco.com
