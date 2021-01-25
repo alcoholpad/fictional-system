@@ -1,3 +1,14 @@
+antivirus.www-box.dentalplans.goodrx.com
+antivirus.www-bucket.dentalplans.goodrx.com
+antivirus.www-cf.dentalplans.goodrx.com
+antivirus.www-cn.dentalplans.goodrx.com
+antivirus.www-container.dentalplans.goodrx.com
+antivirus.www-datacenter.alumni.dev.soundtrap.com
+antivirus.www-dec.dentalplans.goodrx.com
+antivirus.www-demo.dentalplans.goodrx.com
+antivirus.www-dev-dennis.admin.alumni.dev.soundtrap.com
+antivirus.www-dev-synnex.admin.alumni.dev.soundtrap.com
+antivirus.www-dev.aanipaa.admin.alumni.dev.soundtrap.com
 antivirus.www-dev.admin-anilaurie.alumni.dev.soundtrap.com
 antivirus.www-dev.admin-greedy.alumni.dev.soundtrap.com
 antivirus.www-dev.admin-profile.alumni.dev.soundtrap.com
@@ -4973,6 +4984,7 @@ api-acc-sh-temp-ept1.apple.com
 api-acc-sh-temp-ept2.apple.com
 api-accounts-production.mapbox.com
 api-acpt.portaal.rabobank.nl
+api-acpt.rabobank.nl
 api-addons.videolan.org
 api-adfeedback.beap.adx.yahoo.com
 api-adservices.apple.com
@@ -5907,6 +5919,7 @@ api-uat-amt.amt.vip.bf1.yahoo.com
 api-uat-amt.amt.vip.gq1.yahoo.com
 api-uat-lb.stanford.edu
 api-uat.azureforeducation.microsoft.com
+api-uat.dasfn.rabobank.com
 api-uat.digitalbrazil.rabobank.com
 api-uat.honestdollar.com
 api-uat.stanford.edu
@@ -7094,6 +7107,7 @@ api.mapbox.cainiao.com
 api.mapbox.com
 api.marcus.co.uk
 api.marcus.com
+api.mariacasino.com
 api.marketplace.astra.datastax.com
 api.marquee-qa.gs.com
 api.marquee.gs.com
@@ -8233,6 +8247,7 @@ api.tools.auvik.com
 api.tools.barnehage.testaws.visma.com
 api.tools.cp.microsoft.com
 api.torfs.be
+api.torg.mail.ru
 api.tpns.cam.tencent.com
 api.tpns.fra.tencent.com
 api.tpns.global.tencent.com
@@ -8274,6 +8289,8 @@ api.uat.swiftfinancial.com
 api.uat.telenet.be
 api.uat.yeloplay.be
 api.uat.zellepay.com
+api.uat2.consumercloud.marcus.com
+api.uat3.consumercloud.marcus.com
 api.uber.com
 api.ubnt.com
 api.ucd-covid19.slack.com
@@ -11538,6 +11555,7 @@ apps-api-stage.buzzfeed.com
 apps-api.buzzfeed.com
 apps-apis.google.com
 apps-apis.l.google.com
+apps-creds.cti.roku.com
 apps-i-want-to-try.quora.com
 apps-ota.kwx.rabobank.nl
 apps-team-test-branch.tbb.takeaway.feature.test.staging.takeaway.com
@@ -20587,6 +20605,7 @@ asn-pr-hpljm401dne.stanford.edu
 asn-re-md.stanford.edu
 asn.connect.unibet.com
 asn.qq.com
+asn.unity.roku.com
 asnagiostest.stanford.edu
 asncom.mail.ru
 asnewly.imgur.com
@@ -22045,6 +22064,7 @@ astropy.slack.com
 astroremedies.live.com
 astros-my.sharepoint.com
 astros.sharepoint.com
+astroslack2020.slack.com
 astrostalk.slack.com
 astrot.apple.com
 astrotec.aliexpress.com
@@ -34665,9 +34685,11 @@ b.icq.com
 b.icq.net
 b.imgur.com
 b.indeed.com
+b.indirect.mi.com
 b.innocraft.cloud
 b.innogames.com
 b.invisionapp.com
+b.iot.mi.com
 b.j.reed.live.com
 b.jobs.github.com
 b.jss.greenhouse.io
@@ -63964,6 +63986,7 @@ bkptest.customdomains.oktapreview.com
 bkpush.video.qq.com
 bkr-batteries.en.alibaba.com
 bkr-toets-ext-acc.rabobank.nl
+bkr-toets-ext.rabobank.nl
 bkrcgi.video.qq.com
 bkrgift.en.alibaba.com
 bks.github.com
@@ -85281,6 +85304,7 @@ business.uat.telenet.be
 business.uber.com
 business.udemy.com
 business.usa.gov
+business.vmall.com
 business.westernunion.at
 business.westernunion.be
 business.westernunion.ca
@@ -85451,6 +85475,7 @@ businessunits-adminapi.trustpilot.com
 businessunits-api-2.trustpilot.com
 businessunits-api.trustpilot.com
 businessunits-businessmodulesapi.trustpilot.com
+businessunits-legacyapi-1.trustpilot.com
 businessunits-legacyapi.trustpilot.com
 businessunits-profileapi-1.trustpilot.com
 businessunits-profileapi.trustpilot.com
@@ -93252,6 +93277,7 @@ c622620.vk.me
 c623817.vk.me
 c624117.vk.me
 c624421.vk.me
+c6356e30c36a4c75b9ac5d769e774e48.fp.measure.office.com
 c63b1162095e4906ad992d3cbc976336.fp.measure.office.com
 c64.github.com
 c64.sharepoint.com
@@ -106096,6 +106122,7 @@ cce.eu-de.otctest.t-systems.com
 cce.eu-nl.otc.t-systems.com
 cce3.pipedrive.com
 cce8kux1wubqu0s35vyqt8.ssh.webmail.media.antivirus.bo.webproxy.idc.tencent.com
+ccea562bca214c82beef8db741af907c.fp.measure.office.com
 ccean.en.alibaba.com
 ccebenezernicaragua.spaces.live.com
 ccec.aliexpress.com
@@ -109090,6 +109117,7 @@ cdn-oceania.antivirus.goodrx.com
 cdn-open-covid19.slack.com
 cdn-opencover.slack.com
 cdn-org.antivirus.goodrx.com
+cdn-origin.pixiv.net
 cdn-origin.slimdevices.com
 cdn-ovh.mackeeper.com
 cdn-pass.antivirus.goodrx.com
@@ -120847,6 +120875,7 @@ chat.icq.com
 chat.info.apple.com
 chat.ing-test.ie1.twilio.com
 chat.innogames.de
+chat.kefu.mi.com
 chat.kennasecurity.com
 chat.kube.devops.telekom.de
 chat.mail.ru
@@ -126508,20 +126537,3 @@ chrism86.dev.network-auth.ikarem.io
 chrism86.meraki-go.ikarem.io
 chrisma.dev.ikarem.io
 chrisma.dev.network-auth.ikarem.io
-chrisma.meraki-go.ikarem.io
-chrismali.etsy.com
-chrisman01.imgur.com
-chrismariana.spaces.live.com
-chrismartin60.users.sberbank-500.slack.com
-chrismattmann.yelp.com
-chrismbarr.github.com
-chrismccord.github.com
-chrismckenna111.imgur.com
-chrismdp.github.com
-chrismech.imgur.com
-chrismelendez.etsy.com
-chrismgray.github.com
-chrisminte.spaces.live.com
-chrismissal.github.com
-chrismmc15.live.com
-chrismoise.slack.com

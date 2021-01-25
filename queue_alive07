@@ -1,26 +1,3 @@
-netdb-tng.stanford.edu
-netdb-uat.stanford.edu
-netdb-ui-01.corp.bf1.yahoo.com
-netdb-ui-01.corp.gq1.yahoo.com
-netdb.ops.corp.yahoo.com
-netdb.stanford.edu
-netdb1-trv.ops.stg.test.sp2.yahoo.com
-netdeal.mail.ru
-netdev.netgear.com
-netdevil.mail.ru
-netdirector.sharepoint.com
-netdiscoviruswall.sv.21.rch.line-apps.com
-netdoba-my.sharepoint.com
-netdoba.sharepoint.com
-netdocs-dev-2.stanford.edu
-netdocs-dev-lb.stanford.edu
-netdocs-dev-old.stanford.edu
-netdocs-dev.stanford.edu
-netdocs-old.stanford.edu
-netdocs-prd.stanford.edu
-netdocs.stanford.edu
-netdoctor.vanillastaging.com
-netdoktor.vanillacommunities.com
 netdoktor.vanillastaging.com
 netdragon.sf.net
 netdude.sf.net
@@ -2633,6 +2610,7 @@ new.m.yahoo.com
 new.m.yelp.com
 new.mail.ru
 new.manage.statuspage.io
+new.mariacasino.com
 new.messenger.com
 new.ms-acdc-autod.office.com
 new.ms-acdc.office.com
@@ -3619,6 +3597,7 @@ news.i.imgur.com
 news.iadsdk.apple.com
 news.icq.com
 news.icq.net
+news.imgsmail.ru
 news.imgur.com
 news.innogames.com
 news.internet.apps.samsung.com
@@ -5348,6 +5327,7 @@ nfshsdr-028.mail.ne1.yahoo.com
 nfshsdr-029.mail.ne1.yahoo.com
 nfshsdr-030.mail.ne1.yahoo.com
 nfsight.research.att.com
+nfsila.mastercard.ru
 nfsjewelry.aliexpress.com
 nfslc888.1688.com
 nfslimbo1.mail.yahoo.com
@@ -11934,6 +11914,7 @@ no-less-new-sc.cisco.com
 no-man-is-an-island.github.com
 no-on-prop-21.myshopify.com
 no-qa1.igame.com
+no-qa1.mariacasino.com
 no-qa1.unibet.com
 no-si1.igame.com
 no-si1.unibet.com
@@ -30527,6 +30508,7 @@ o6c08hlm-ios-1-6-4.mobile-sdk-api.intercom.io
 o6c08hlm-ios-1-7-1.mobile-sdk-api.intercom.io
 o6c08hlm-ios-1-7-2.mobile-sdk-api.intercom.io
 o6c08hlm-ios-1-7-3.mobile-sdk-api.intercom.io
+o6dxtnlr.cloudstation.us-west-2.qa.hydra.sophos.com
 o6ei2cgs.quora.com
 o6o0kq4.quora.com
 o6uedu-my.sharepoint.com
@@ -34806,6 +34788,7 @@ octoplaa.imgur.com
 octopodan.etsy.com
 octopunx.etsy.com
 octopus-microfinance.atlassian.net
+octopus-sql.trustpilot.com
 octopus.atlassian.net
 octopus.bentley.com
 octopus.github.com
@@ -35781,6 +35764,7 @@ offcentre.etsy.com
 offenbach.mini.de
 offenderlink.files.com
 offendyourself.quora.com
+offensive-security.com
 offensivedecals.etsy.com
 offer-sys-assets.acorns.com
 offer.1688.com
@@ -43993,6 +43977,7 @@ operascura.etsy.com
 operasoftware.github.com
 operasolution-my.sharepoint.com
 operasolution.sharepoint.com
+operate.otc.mi.com
 operate.taobao.com
 operatino.github.com
 operation-cb1.delivery-club.ru
@@ -46556,6 +46541,8 @@ origin-atmosphere-sand.sandbox.braintree-api.com
 origin-atmosphere-sand.sandbox.cosmos.braintreepayments.com
 origin-auth-stage.teslamotors.com
 origin-auto-buy-load1.geico.com
+origin-aws-flight.yatra.com
+origin-aws-secure.yatra.com
 origin-b.highwebmedia.com
 origin-b.stream.highwebmedia.com
 origin-b2b-aldc.wireless.att.com
@@ -46577,6 +46564,7 @@ origin-brisk-http-prod.production.braintree-api.com
 origin-business.usa.gov
 origin-businesscare-ebill.wireless.att.com
 origin-c.sandbox.paypal.com
+origin-campaigns.yatra.com
 origin-ccs.apple.com
 origin-cctechchatwebapi.apple.com
 origin-cdn-p.paydiant.com
@@ -46616,12 +46604,14 @@ origin-community.htc.com
 origin-compass.amazon.com
 origin-content.info.apple.com
 origin-corporate.yatra.com
+origin-corptrav.yatra.com
 origin-covid-solutions-com.slack.com
 origin-covid19.github.com
 origin-covid19cz.slack.com
 origin-covidsolutions.slack.com
 origin-covidvu.slack.com
 origin-crua.att.com
+origin-cruise.yatra.com
 origin-csup-aln.att.com
 origin-csup-alpha.att.com
 origin-csup-bth.att.com
@@ -46731,6 +46721,8 @@ origin-extconfluence.teslamotors.com
 origin-extissues.teslamotors.com
 origin-files.logitech.com
 origin-financialgateway-stg.tesla.com
+origin-finomoney.yatra.com
+origin-flightsapi.yatra.com
 origin-freight.amazon.co.uk
 origin-freight.amazon.com
 origin-frfd-ecms-web.att.com
@@ -46825,6 +46817,8 @@ origin-helpviewer-netscaler.apple.com
 origin-helpviewer.apple.com
 origin-hihc.antivirus.goodrx.com
 origin-history.paypal.com
+origin-holidayspackage.yatra.com
+origin-homestays.yatra.com
 origin-hotel.yatra.com
 origin-htwww.antivirus.goodrx.com
 origin-i4.pixiv.net
@@ -46860,6 +46854,7 @@ origin-img1.priceline.com
 origin-inside.tesla.com
 origin-internal-dev.support.services.microsoft.com
 origin-internal-uat.support.services.microsoft.com
+origin-internationalflights.yatra.com
 origin-intl.paypal.com
 origin-ipfs.production.oasiscloud.io
 origin-ipv6.api.amazon.com
@@ -46963,6 +46958,7 @@ origin-panels-api-prod.production.braintree-api.com
 origin-panels-api-sand.sandbox.braintree-api.com
 origin-partner.cyberoam.com
 origin-partner.yatra.com
+origin-partners-api.yatra.com
 origin-patch.cdn.bitdefender.net
 origin-peese-covid.slack.com
 origin-pharmacy.amazon.com
@@ -47035,6 +47031,8 @@ origin-searchservice-lyn1.att.com
 origin-searchservice-lyn2.att.com
 origin-secure.yatra.com
 origin-secure2.sophos.com
+origin-secureqa.yatra.com
+origin-seeglob.yatra.com
 origin-selfsolve-bz.apple.com
 origin-selfsolve-prn-pod1.apple.com
 origin-selfsolve-prn-pod2.apple.com
@@ -48145,6 +48143,7 @@ orsuat.partners.extranet.microsoft.com
 ort-admin.pingone.com
 ort-connect.pingidentity.covidman-us-east-1.pingone.com
 ort-desktop.pingone.com
+ort-idaas.pingone.com
 ort-idaasapi.securekobadesigns-xsrvjp-antiviruspre.pingone.com
 ort-login.pingone.com
 ort-spark.att.com
@@ -49970,6 +49969,7 @@ ottr.video.yahoo.com
 otumscray.imgur.com
 otuoke.cn.alibaba.com
 otus.p.mail.ru
+otvet.imgsmail.ru
 otvet.mail.ru
 otveti.mail.ru
 otvetstvennayaigra.betfair.com
@@ -61747,6 +61747,7 @@ outstandingdm.en.alibaba.com
 outstandingstands.etsy.com
 outstar.en.alibaba.com
 outsurvey.imur.tencent.com
+outsystem.prod.westernunion.com
 outsystemseneco.slack.com
 outtasight.etsy.com
 outthereshop.foxycart.com
@@ -78107,6 +78108,7 @@ p8jeewn0.cloudstation.eu-west-1.inf.hydra.sophos.com
 p8p.geo.vip.gq1.yahoo.com
 p8pe3u2wn3q95h0n50dawdaey6ffojga.waf.aliyun.com
 p8ssio.quora.com
+p8tq4w9d.cloudstation.eu-west-1.dev.hydra.sophos.com
 p9-buy.itunes.apple.com
 p9.ard.br1.yahoo.com
 p9.badoo.com
@@ -85631,10 +85633,12 @@ payment-m.antivirus-applebees.goodrx.com
 payment-prodc.licensing.microsoft.com
 payment-providers.uber.com
 payment-proxy.postmates.com
+payment-qa1.mariacasino.com
 payment-qa1.unibet.com
 payment-rheumcovid-19registry.slack.com
 payment-sars-cov-2covid-19.slack.com
 payment-service.wolt.com
+payment-si1.mariacasino.com
 payment-si1.unibet.com
 payment-ssat-org.dns.foxycart.com
 payment-staging-sbux.starbucks.com.cn
@@ -98665,6 +98669,7 @@ piratepi.tweakblogs.net
 piratepurlyarns.etsy.com
 pirates.github.com
 pirates.mail.ru
+pirates.my.com
 pirates.rivals.com
 pirates.sharepoint.com
 pirates.slack.com
@@ -100083,6 +100088,7 @@ pkginstaller-ovs.hispace.hicloud.com
 pkginstaller.hispace.hicloud.com
 pkgnew.corp.mail.ru
 pkgsrc-wip.sf.net
+pkgupdates-qa.netgear.com
 pkgupdates.netgear.com
 pkhughes.live.com
 pki-site1.psm.gateway.mastercard.com
@@ -101230,6 +101236,7 @@ platinum.cisco.com
 platinum.crypto.com
 platinum.en.alibaba.com
 platinum.github.com
+platinum.roblox.com
 platinum.sharepoint.com
 platinum.slack.com
 platinum355.mail.ru
@@ -108142,6 +108149,7 @@ portal.offensive-security.com
 portal.office.com
 portal.office.rabobank.com
 portal.office365.com
+portal.oi.rabobank.nl
 portal.on2it.net
 portal.onboarding.greenhouse.io
 portal.onedrive.com
@@ -108191,6 +108199,7 @@ portal.sexycyborg.imgur.com
 portal.sf-grudge-pandemic.my.com
 portal.sf-pandemic.my.com
 portal.sf.mail.ru
+portal.sf.my.com
 portal.shmsua01.manage-selfhost.microsoft.com
 portal.shopify.com
 portal.showcase.dropbox.com
@@ -108282,6 +108291,7 @@ portalcovid-cf-8h.workspace.agate.upwork.com
 portalcovidexm.semrush.com
 portaldbbk1.p.mail.ru
 portaldbbk2.p.mail.ru
+portaldev.oi.rabobank.nl
 portaldoclib.slac.stanford.edu
 portaldosdecos.live.com
 portale.github.com
@@ -108711,8 +108721,10 @@ post-finance.cainiao.com
 post-gipro.mail.ru
 post-net-alarm.amazon.com
 post-planetary.quora.com
+post-quarantine-cloudstation-eu-central-1.qa.hydra.sophos.com
 post-quarantine-cloudstation-eu-west-1.dev.hydra.sophos.com
 post-quarantine-cloudstation-us-west-2.qa.hydra.sophos.com
+post-quarantine.cloudstation.eu-central-1.qa.hydra.sophos.com
 post-quarantine.cloudstation.eu-west-1.dev.hydra.sophos.com
 post-quarantine.cloudstation.us-west-2.qa.hydra.sophos.com
 post.88.live.com
@@ -112688,6 +112700,7 @@ preview.api.greenhouse.io
 preview.api.jr.mi.com
 preview.api.middle.transfer.search.miui.com
 preview.api.miot.10046.mi.com
+preview.api.misim.10046.mi.com
 preview.api.new.misim.10046.mi.com
 preview.api.recharge.10046.mi.com
 preview.api.rentepunten.ing.nl
@@ -115961,6 +115974,7 @@ product-ite.paytmbank.com
 product-keys-toolkit.corp.amazon.com
 product-management-board.quora.com
 product-marketing-all.slack.com
+product-metrics.parity-lab.parity.io
 product-metrics.parity-prod.parity.io
 product-mgmt.quora.com
 product-origin-ite.paytmbank.com
@@ -122158,6 +122172,7 @@ pub.idqqimg.com.tcdn.qq.com
 pub.igateway.cainiao.com
 pub.l.g.mi.com
 pub.mac.microsoft.com
+pub.mail.rabobank.nl
 pub.messages.postmates.com
 pub.next.airbnb.com
 pub.oppo.com
@@ -124628,6 +124643,7 @@ pv-www-backup.apple.com
 pv.abuse.l3.vip.sg3.yahoo.com
 pv.api.home.mi.com
 pv.api.io.mi.com
+pv.dns.io.mi.com
 pv.github.com
 pv.quora.com
 pv.slack.com
@@ -126597,3 +126613,5 @@ qa-connect-storageregistryportal.bentley.com
 qa-connect-supplychainportal.bentley.com
 qa-connect-supplychainservice.bentley.com
 qa-connect-synchrodocregfunctions-eus.bentley.com
+qa-connect-synchroindexing.bentley.com
+qa-connect-synchromediasearch.bentley.com

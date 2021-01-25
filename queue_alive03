@@ -1,3 +1,12 @@
+dhcp-64-100-81-144.cisco.com
+dhcp-64-100-81-145.cisco.com
+dhcp-64-100-81-146.cisco.com
+dhcp-64-100-81-147.cisco.com
+dhcp-64-100-81-148.cisco.com
+dhcp-64-100-81-149.cisco.com
+dhcp-64-100-81-15.cisco.com
+dhcp-64-100-81-150.cisco.com
+dhcp-64-100-81-151.cisco.com
 dhcp-64-100-81-152.cisco.com
 dhcp-64-100-81-153.cisco.com
 dhcp-64-100-81-154.cisco.com
@@ -94015,6 +94024,7 @@ edy.h0-spint.ac.playstation.net
 edy.l1-np.ac.playstation.net
 edy.l1-pmgt.ac.playstation.net
 edy.l1-pqa.ac.playstation.net
+edy.l1-spint.ac.playstation.net
 edy.mgmt.ac.playstation.net
 edy.my.com
 edy.nicholas.mail.ru
@@ -105409,6 +105419,7 @@ enterpriseregistration.microsoft.com
 enterpriseregistration.nintendo.nl
 enterpriseregistration.ntdev.microsoft.com
 enterpriseregistration.qiwi.com
+enterpriseregistration.skyscanner.net
 enterpriseregistration.slac.stanford.edu
 enterpriseregistration.unibet.com
 enterpriseregistration.windows.microsoft.com
@@ -108167,6 +108178,7 @@ erp-xenvm07.slac.stanford.edu
 erp-xenwi03.slac.stanford.edu
 erp.apple.com
 erp.github.com
+erp.mi.com
 erp.slack.com
 erp.staging.lieferando.de
 erp2122-scan.fin.corp.gq1.yahoo.com
@@ -119862,6 +119874,8 @@ eu-prod-01-utm.soa.sophos.com
 eu-prod-csr.soa.sophos.com
 eu-prod-utm.soa.sophos.com
 eu-prod.asyncgw.teams.microsoft.comlogg.kiwi.com
+eu-qa1.mariacasino.com
+eu-si1.mariacasino.com
 eu-smtp01.blizzard.com
 eu-south-1.console.aws.amazon.com
 eu-south-1.tardigrade-gamma.aws.amazon.com
@@ -120207,3 +120221,10 @@ eucsj.sharepoint.com
 eucushoncovers.shopify.com
 eudaly.shopify.com
 eudark.spaces.live.com
+eudemon.aliexpress.com
+eudentalplans.antivirus.goodrx.com
+eudentalplans.goodrx.com
+eudentalplansantivirus.goodrx.com
+eudermal.fm.alibaba.com
+eudes.github.com
+eudevportal-new.rabobank.com
