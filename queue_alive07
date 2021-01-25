@@ -1,3 +1,5 @@
+netdb-tng.stanford.edu
+netdb-uat.stanford.edu
 netdb-ui-01.corp.bf1.yahoo.com
 netdb-ui-01.corp.gq1.yahoo.com
 netdb.ops.corp.yahoo.com
@@ -107796,6 +107798,7 @@ portal-api.videosynd.vip.gq1.yahoo.com
 portal-app-qa.gs.com
 portal-app.gs.com
 portal-asvt-directvcommercial.test.att.com
+portal-aue-staging.pwdm.bentley.com
 portal-aue.pwdm.bentley.com
 portal-bar-staging.innogames.de
 portal-bar.innogames.de
@@ -107837,6 +107840,7 @@ portal-live.gs.com
 portal-m2m.telekom.de
 portal-ma.apple.com
 portal-nat.cisco.com
+portal-neu-staging.pwdm.bentley.com
 portal-neu.pwdm.bentley.com
 portal-noam.broadcast.skype.com
 portal-node-a.cisco.com
@@ -111097,6 +111101,7 @@ prdws04.fin.corp.gq1.yahoo.com
 pre-3w.realme.com
 pre-abf.alibaba-inc.com
 pre-aeye-mediabase-alicdn.cainiao.com
+pre-aeye-mediabase-globalcdn.cainiao.com
 pre-aflow.dingtalk.com
 pre-alidocs.dingtalk.com
 pre-alimei-api.alibaba.com
@@ -116956,6 +116961,7 @@ prognosemaerkte.telekom.de
 prognosisplanning-public.sharepoint.com
 prognosisplanning.sharepoint.com
 prognostireqaj.mail.ru
+prognozameteo.bime.io
 progodrom.mail.ru
 progolf.fm.alibaba.com
 progolog.slack.com
@@ -126591,7 +126597,3 @@ qa-connect-storageregistryportal.bentley.com
 qa-connect-supplychainportal.bentley.com
 qa-connect-supplychainservice.bentley.com
 qa-connect-synchrodocregfunctions-eus.bentley.com
-qa-connect-synchroindexing.bentley.com
-qa-connect-synchromediasearch.bentley.com
-qa-connect-tagservice.bentley.com
-qa-connect-ulascommondatafunctions.bentley.com

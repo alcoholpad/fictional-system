@@ -1,3 +1,7 @@
+qa-connect-synchroindexing.bentley.com
+qa-connect-synchromediasearch.bentley.com
+qa-connect-tagservice.bentley.com
+qa-connect-ulascommondatafunctions.bentley.com
 qa-connect-ulassf-eus2.bentley.com
 qa-connect-ulassf-sea.bentley.com
 qa-connect-ulassf-weu.bentley.com
@@ -123108,5 +123112,3 @@ sjc5-sodc-poc-gw2-gig5-1.cisco.com
 sjc5-sodc-poc-gw2-vla111.cisco.com
 sjc5-sodc-poc-gw2-vla14.cisco.com
 sjc5-sodc-poc-gw2-vla20.cisco.com
-sjc5-sodc-poc-gw2-vla22.cisco.com
-sjc5-sodc-poc-gw2-vla23.cisco.com

@@ -5494,6 +5494,7 @@ api-integ.us-west-2.quicksight.aws.amazon.com
 api-integration.hoteltonight-test.com
 api-internal-co1c.cp.microsoft.com
 api-internal-dm2c.cp.microsoft.com
+api-internal.fitstar.com
 api-internal.hoteltonight-test.com
 api-internal.lyft.com
 api-internal.netflix.com
@@ -8433,6 +8434,7 @@ api0-3.binance.com
 api0-5.binance.com
 api0.binance.com
 api0.dropbox.com
+api0.fitstar.com
 api000.backblazeb2.com
 api001.backblaze.com
 api001.backblazeb2.com
@@ -11532,6 +11534,7 @@ approvalspush.cisco.com
 approvalstage.amazon.com
 apprtcio-my.sharepoint.com
 apprtcio.sharepoint.com
+apps-api-stage.buzzfeed.com
 apps-api.buzzfeed.com
 apps-apis.google.com
 apps-apis.l.google.com
@@ -21079,6 +21082,8 @@ assetdunningprocessor.cp.microsoft.com
 assetgame.roblox.com
 assetgc.atlassian.net
 asseth.slack.com
+assethub-api.coinbase.com
+assethub.coinbase.com
 assethub.datastax.com
 assetinventory.bugcrowd.com
 assetlibrary.dev.sx.microsoft.com
@@ -21372,6 +21377,7 @@ assets2.slack.com
 assets2.twitter.com
 assets2.yammer.com
 assets3-backup.twitter.com
+assets3.fitstar.com
 assets3.github.com
 assets3.slack.com
 assets3.twitter.com
@@ -41706,6 +41712,7 @@ baseus3c.aliexpress.com
 baseus3c.es.aliexpress.com
 baseus3c.fr.aliexpress.com
 baseus3c.pt.aliexpress.com
+baseus4.aliexpress.com
 baseuscm.tmall.com
 baseusliulu.tmall.com
 baseusliulu.world.tmall.com
@@ -81714,6 +81721,7 @@ bs-ba.lt-lt.fb.me
 bs-ba.messenger.com
 bs-ba.on.fb.me
 bs-brickmachine.en.alibaba.com
+bs-data-read01.bitstrips.com
 bs-data.bitstrips.com
 bs-front.sc.heytapmobi.com
 bs-ig.en.alibaba.com
@@ -126517,9 +126525,3 @@ chrisminte.spaces.live.com
 chrismissal.github.com
 chrismmc15.live.com
 chrismoise.slack.com
-chrisn123.etsy.com
-chrisnash.github.com
-chrisnc.etsy.com
-chrisngym.spaces.live.com
-chrisnoel.imgur.com
-chrisnraksha.spaces.live.com
