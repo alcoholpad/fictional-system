@@ -1,3 +1,14 @@
+netdb-ng-hv03.netops.sg3.yahoo.com
+netdb-ng-hv04.netops.bf1.yahoo.com
+netdb-ng-hv04.netops.ne1.yahoo.com
+netdb-ng-hv04.netops.sg3.yahoo.com
+netdb-ng-hv05.netops.bf1.yahoo.com
+netdb-ng-hv05.netops.ne1.yahoo.com
+netdb-ng-hv06.netops.bf1.yahoo.com
+netdb-ng-hv06.netops.ne1.yahoo.com
+netdb-riepel.stanford.edu
+netdb-sandy-01.ops.bf1.yahoo.com
+netdb-sunia.stanford.edu
 netdb-tertiary.stanford.edu
 netdb-test-servers.stanford.edu
 netdb-test.stanford.edu
@@ -2695,6 +2706,7 @@ new.venmo.com
 new.verkada.com.san.cloudinary.com
 new.vhx.tv
 new.virusman.mail.ru
+new.vivy.com
 new.vk.cc
 new.vk.com
 new.vpn.lob.com
@@ -3721,6 +3733,7 @@ news.us.binance.com
 news.venmo.com
 news.verkada.com.san.cloudinary.com
 news.vhx.tv
+news.vivy.com
 news.vk.cc
 news.widget.cloudinary.com
 news.www.files.com
@@ -6968,6 +6981,7 @@ nginx-newest.udemy.com
 nginx-newest.venmo.com
 nginx-newest.verkada.com.san.cloudinary.com
 nginx-newest.vhx.tv
+nginx-newest.vivy.com
 nginx-newest.widget.cloudinary.com
 nginx-newest.www.files.com
 nginx-newest.www.goodrx.com
@@ -7244,6 +7258,7 @@ nginx.udemy.com
 nginx.venmo.com
 nginx.verkada.com.san.cloudinary.com
 nginx.vhx.tv
+nginx.vivy.com
 nginx.widget.cloudinary.com
 nginx.www.antiviruskfb.goodrx.com
 nginx.www.files.com
@@ -12951,6 +12966,7 @@ nodejs-dev.udemy.com
 nodejs-dev.venmo.com
 nodejs-dev.verkada.com.san.cloudinary.com
 nodejs-dev.vhx.tv
+nodejs-dev.vivy.com
 nodejs-dev.widget.cloudinary.com
 nodejs-dev.www.files.com
 nodejs-dev.www.goodrx.com
@@ -13069,6 +13085,7 @@ nodejs.uxeng.roku.com
 nodejs.venmo.com
 nodejs.verkada.com.san.cloudinary.com
 nodejs.vhx.tv
+nodejs.vivy.com
 nodejs.widget.cloudinary.com
 nodejs.www.files.com
 nodejs.www.goodrx.com
@@ -17031,6 +17048,8 @@ ns-covidguard.foxycart.com
 ns-cozykitchencovers.etsy.com
 ns-d01.mopub.com
 ns-d02.mopub.com
+ns-d03.mopub.com
+ns-d04.mopub.com
 ns-discovidev.sa.semrush.com
 ns-e1-p.research.att.com
 ns-e1.research.att.com
@@ -17058,6 +17077,7 @@ ns-quantu-mirrorschooplacestilityponeocovidev.sa.semrush.com
 ns-r0.tan.ygrid.yahoo.com
 ns-r01.mopub.com
 ns-r02.mopub.com
+ns-r03.mopub.com
 ns-r04.mopub.com
 ns-r1.tan.ygrid.yahoo.com
 ns-r2.tan.ygrid.yahoo.com
@@ -17257,6 +17277,7 @@ ns.vhx.tv
 ns.viator.com
 ns.virusja06.mail.ru
 ns.virusoflive.mail.ru
+ns.vivy.com
 ns.vk.cc
 ns.webext.magentocommerce.com
 ns.widget.cloudinary.com
@@ -19458,6 +19479,7 @@ nsq-stage.buzzfeed.com
 nsq-west.buzzfeed.com
 nsq.buzzfeed.com
 nsq.github.com
+nsq.segment.com
 nsq.segment.io
 nsq.slack.com
 nsq11mss001-ms-vip.cisco.com
@@ -33875,6 +33897,8 @@ occ21.en.alibaba.com
 occa.tmall.com
 occa.world.tmall.com
 occahome.sharepoint.com
+occam-hg-dev.zilliqa.com
+occam.zilliqa.com
 occaman.tmall.com
 occams-my.sharepoint.com
 occams.sharepoint.com
@@ -42252,6 +42276,7 @@ opelu.en.alibaba.com
 opelzip_chief.mail.ru
 open-admin.govcloud.qq.com
 open-ai.alibaba.com
+open-api-useast1a.tiktok.com
 open-api.tiktok.com
 open-ar.bot.tmall.com
 open-austin.slack.com
@@ -45890,6 +45915,7 @@ orders.venmo.com
 orders.verkada.com.san.cloudinary.com
 orders.vhx.tv
 orders.view.api.account.microsoft.com
+orders.vivy.com
 orders.widget.cloudinary.com
 orders.www.files.com
 orders.www.goodrx.com
@@ -47910,6 +47936,7 @@ orion.github.com
 orion.paranoids.tcv.yahoo.com
 orion.paranoids.twv.yahoo.com
 orion.scs.stanford.edu
+orion.segment.com
 orion.tmall.com
 orion.vhx.tv
 orion0.mail.ru
@@ -61672,6 +61699,7 @@ outlook.uncoveror.staging.pyszne.pl
 outlook.venmo.com
 outlook.verkada.com.san.cloudinary.com
 outlook.vhx.tv
+outlook.vivy.com
 outlook.vk.cc
 outlook.widget.cloudinary.com
 outlook.wingroup.windeploy.ntdev.microsoft.com
@@ -62509,6 +62537,7 @@ ownerbuiltdesign-my.sharepoint.com
 ownerbuiltdesign.sharepoint.com
 ownerparty.en.alibaba.com
 owners.tmall.com
+ownership.segment.com
 ownership.tesla.cn
 ownership.tesla.com
 ownerweng.cn.alibaba.com
@@ -83095,6 +83124,7 @@ partner-stl-api.westernunion.com
 partner-stp-api-ohio.westernunion.com
 partner-stream.twitter.com
 partner-test-shop.myshopify.com
+partner-testing.spotify.com
 partner-training.bentley.com
 partner-training.shopify.com
 partner-vip1c01a634.att.twilio.com
@@ -90219,6 +90249,7 @@ pedroabc.live.com
 pedrocarrico.github.com
 pedrocdock.slac.stanford.edu
 pedroeduardo.spaces.live.com
+pedroflores354653.invisionapp.com
 pedrogades.spaces.live.com
 pedroj.github.com
 pedronel06.spaces.live.com
@@ -107201,6 +107232,7 @@ pop.verkada.com.san.cloudinary.com
 pop.vhx.tv
 pop.vip.qq.com
 pop.virusman.mail.ru
+pop.vivy.com
 pop.vk.cc
 pop.voltvirus.imgur.com
 pop.widget.cloudinary.com
@@ -109032,6 +109064,7 @@ postmaster.udemy.com
 postmaster.venmo.com
 postmaster.verkada.com.san.cloudinary.com
 postmaster.vhx.tv
+postmaster.vivy.com
 postmaster.vk.cc
 postmaster.widget.cloudinary.com
 postmaster.www.files.com
@@ -110171,6 +110204,7 @@ pprf3-node5620-lh1.manhattan.gq1.yahoo.com
 pprf3-node5620-lh2.manhattan.gq1.yahoo.com
 pprf3-node5620-lh3.manhattan.gq1.yahoo.com
 pprof.dev.insolar.io
+pprof.segment.com
 pprof.testnet.insolar.io
 pprogs.mail.ru
 pprojects-team.slack.com
@@ -112955,6 +112989,7 @@ preview.venmo.com
 preview.verca.xpa.assistant.miui.com
 preview.verkada.com.san.cloudinary.com
 preview.vhx.tv
+preview.vivy.com
 preview.vk.cc
 preview.web.ext.10046.mi.com
 preview.web.skype.com
@@ -114771,6 +114806,7 @@ procuraduriagovco-my.sharepoint.com
 procuraduriagovco.sharepoint.com
 procurement.alibaba-inc.com
 procurement.githubapp.com
+procurement.lazada.com
 procurement.mastercard.com
 procurement.telekom.de
 procurement2.mastercard.com
@@ -115428,6 +115464,7 @@ prod.anti-virus.innogames.com
 prod.antivirus.14.ns1.webproxy.idc.tencent.com
 prod.antivirus.bsd.cust114.enterprise.3h.com.tcdn.qq.com
 prod.antivirus.cust68.dns1.webproxy.idc.tencent.com
+prod.antivirus.dnews.cust85.3h.com.tcdn.qq.com
 prod.antivirus.ftp.cust67.webproxy.at.qq.com
 prod.antivirus.github.com
 prod.antivirus.goodrx.com
@@ -116770,6 +116807,7 @@ profiles-antivirus-applebees.goodrx.com
 profiles-antivirus.goodrx.com
 profiles-antivirushchrxduncan.goodrx.com
 profiles-api-search.snapchat.com
+profiles-api.segment.com
 profiles-api.snapchat.com
 profiles-avg-antivirus-free.en.rivals.com
 profiles-blackvirus.udemy.com
@@ -119210,6 +119248,7 @@ proxy.venmo.com
 proxy.verkada.com.san.cloudinary.com
 proxy.vhx.tv
 proxy.virus.github.com
+proxy.vivy.com
 proxy.vk.cc
 proxy.vk.com
 proxy.webapp-itg.starbucks.co.jp
@@ -122649,6 +122688,7 @@ publishing-catalog.udemy.com
 publishing-catalog.venmo.com
 publishing-catalog.verkada.com.san.cloudinary.com
 publishing-catalog.vhx.tv
+publishing-catalog.vivy.com
 publishing-catalog.widget.cloudinary.com
 publishing-catalog.www.files.com
 publishing-catalog.www.goodrx.com
@@ -122760,6 +122800,7 @@ publishing-preview.udemy.com
 publishing-preview.venmo.com
 publishing-preview.verkada.com.san.cloudinary.com
 publishing-preview.vhx.tv
+publishing-preview.vivy.com
 publishing-preview.widget.cloudinary.com
 publishing-preview.www.files.com
 publishing-preview.www.goodrx.com
@@ -122789,6 +122830,8 @@ publix-io.invisionapp.com
 publix-support-io.invisionapp.com
 publix-v7.invisionapp.com
 publix.invisionapp.com
+publix.segment.com
+publixmanager.segment.com
 publoftwriters.slack.com
 pubmaticinc1-my.sharepoint.com
 pubmaticinc1.sharepoint.com
@@ -126625,14 +126668,3 @@ qa-connect-pwsaas-sync.bentley.com
 qa-connect-qtoconfigconverter-aue.bentley.com
 qa-connect-qtoconfigconverter-sea.bentley.com
 qa-connect-qtoconfigconverter-uks.bentley.com
-qa-connect-qtoconfigconverter.bentley.com
-qa-connect-qtoserver-aue.bentley.com
-qa-connect-qtoserver-sea.bentley.com
-qa-connect-qtoserver-uks.bentley.com
-qa-connect-qtoserver.bentley.com
-qa-connect-rbacapi.bentley.com
-qa-connect-rbacportal.bentley.com
-qa-connect-realitydataservices.bentley.com
-qa-connect-realitydataservicesfunction.bentley.com
-qa-connect-realitydataviewer.bentley.com
-qa-connect-repositoryfederation.bentley.com

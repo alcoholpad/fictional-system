@@ -1,3 +1,14 @@
+qa-connect-qtoconfigconverter.bentley.com
+qa-connect-qtoserver-aue.bentley.com
+qa-connect-qtoserver-sea.bentley.com
+qa-connect-qtoserver-uks.bentley.com
+qa-connect-qtoserver.bentley.com
+qa-connect-rbacapi.bentley.com
+qa-connect-rbacportal.bentley.com
+qa-connect-realitydataservices.bentley.com
+qa-connect-realitydataservicesfunction.bentley.com
+qa-connect-realitydataviewer.bentley.com
+qa-connect-repositoryfederation.bentley.com
 qa-connect-rulesstorageservice.bentley.com
 qa-connect-scorecardfuncappv2.bentley.com
 qa-connect-scorecardreports.bentley.com
@@ -7547,6 +7558,7 @@ quasar-lighting.en.alibaba.com
 quasar.aka.amazon.com
 quasar.en.alibaba.com
 quasar.github.com
+quasar.segment.com
 quasart.sharepoint.com
 quasenordestino.imgur.com
 quasilaur.yelp.com
@@ -9534,6 +9546,7 @@ r11.realme.net
 r110.info.lahitapiola.fi
 r111.info.lahitapiola.fi
 r112.emac.usaa.com
+r1122226.segment.com
 r113.emac.usaa.com
 r114.emac.usaa.com
 r115-linksysprintserver-oshimak.stanford.edu
@@ -31976,17 +31989,20 @@ replace_broken_tms_login_page_url.utils.takeaway.feature.test.staging.takeaway.c
 replaceautoglass.mail.ru
 replacementcompanyatlantawindow.quora.com
 replantedgoods.etsy.com
+replay-check.segment.com
 replay-converter.antivirus-en.test.staging.pyszne.pl
 replay-converteravira-free-antivirus.ar.test.staging.pyszne.pl
 replay.enterprisereportingservice.cp.microsoft.com
 replay.github.com
 replay.music.apple.com
 replay.periscope.tv
+replay.segment.com
 replay.sharepoint.com
 replay.tmall.com
 replayground.etsy.com
 replayguide.sf.net
 replays.etsy.com
+replays.segment.com
 replegal.bluejeans.com
 replere.foxycart.com
 replex.sharepoint.com
@@ -40495,6 +40511,7 @@ retail.udemy.com
 retail.venmo.com
 retail.verkada.com.san.cloudinary.com
 retail.vhx.tv
+retail.vivy.com
 retail.widget.cloudinary.com
 retail.www.files.com
 retail.www.goodrx.com
@@ -40715,6 +40732,7 @@ retolsgracia.spaces.live.com
 retonehearing.en.alibaba.com
 retool.dev.cloud-tools.datastax.com
 retool.prod.cloud-tools.datastax.com
+retool.segment.com
 retool.skypicker.com
 retool.statuspage.io
 retool.test.cloud-tools.datastax.com
@@ -48910,6 +48928,7 @@ root.udemy.com
 root.venmo.com
 root.verkada.com.san.cloudinary.com
 root.vhx.tv
+root.vivy.com
 root.vk.cc
 root.vk.com
 root.widget.cloudinary.com
@@ -59320,6 +59339,7 @@ rx.udemy.com
 rx.venmo.com
 rx.verkada.com.san.cloudinary.com
 rx.vhx.tv
+rx.vivy.com
 rx.widget.cloudinary.com
 rx.www.files.com
 rx.www.goodrx.com
@@ -61011,6 +61031,7 @@ s2s-settings.live.net
 s2s-skyapi-df.live.net
 s2s-skyapi.live.net
 s2s-storage.live.com
+s2s-test.mopub.com
 s2s.config.skype.com
 s2s.df.s2s-storage.live.com
 s2s.dnet.mixtapes-ssl.microsoft.com
@@ -61304,6 +61325,7 @@ s3harp.imgur.com
 s3kchcto69o8p94k4.prod.apache.antivirus.bo.webproxy.idc.tencent.com
 s3l.stanford.edu
 s3lab-workspace.slack.com
+s3logs.segment.com
 s3m.antivirus-applebees.goodrx.com
 s3master-eu-west-1-finder.amazon.com
 s3master-finder.amazon.com
@@ -69380,6 +69402,7 @@ sauron-v2-gamma.corp.amazon.com
 sauron-v2.corp.amazon.com
 sauron.amazon.com
 sauron.github.com
+sauron.segment.com
 sauronactions.corp.amazon.com
 sausage-978.dyson.com
 sausantong.tmall.com
@@ -70614,6 +70637,7 @@ sbx.assets.mastercard.com
 sbx.data.gov
 sbx.facebook.com
 sbx.stage.api.mastercard.com
+sbx.usuppliers.uber.com
 sbxapi1.apps.cb.gq1.yahoo.com
 sbxapi2.apps.cb.gq1.yahoo.com
 sbxbags.en.alibaba.com
@@ -78470,6 +78494,7 @@ searchportal-dev.udemy.com
 searchportal-dev.venmo.com
 searchportal-dev.verkada.com.san.cloudinary.com
 searchportal-dev.vhx.tv
+searchportal-dev.vivy.com
 searchportal-dev.widget.cloudinary.com
 searchportal-dev.www.files.com
 searchportal-dev.www.goodrx.com
@@ -78699,6 +78724,7 @@ searchportal.udemy.com
 searchportal.venmo.com
 searchportal.verkada.com.san.cloudinary.com
 searchportal.vhx.tv
+searchportal.vivy.com
 searchportal.widget.cloudinary.com
 searchportal.www.files.com
 searchportal.www.goodrx.com
@@ -81248,6 +81274,7 @@ security.parttest.extranettest.microsoft.com
 security.peese-covid.slack.com
 security.qq.com
 security.robinhood.com
+security.sdn-network.dev.ui.com
 security.sharepoint.com
 security.sigmavirus24.github.com
 security.slack.com
@@ -82332,6 +82359,7 @@ seller.paytmmall.com
 seller.postmates.com
 seller.slack.com
 seller.taobao.com
+seller.tiktok.com
 sellercenter-api.lazada.sg
 sellercenter-staging-redmart.lazada.sg
 sellercenter-staging.lazada.co.id
@@ -83493,6 +83521,7 @@ sentry-mdm.telekom.de
 sentry-portal-events.innogames.de
 sentry-portal.innogames.de
 sentry-public.qiwi.com
+sentry-test.mopub.com
 sentry-th.line-apps.com
 sentry-thviruswall.sv.21.rch.line-apps.com
 sentry-tw-21.rch.line-apps.com
@@ -84876,6 +84905,7 @@ server.verkada.com.san.cloudinary.com
 server.vhx.tv
 server.viruset.etsy.com
 server.virusoflive.mail.ru
+server.vivy.com
 server.vk.cc
 server.voltvirus.imgur.com
 server.vpn.antivirus.goodrx.com
@@ -85384,6 +85414,7 @@ servers.udemy.com
 servers.venmo.com
 servers.verkada.com.san.cloudinary.com
 servers.vhx.tv
+servers.vivy.com
 servers.widget.cloudinary.com
 servers.www.files.com
 servers.www.goodrx.com
@@ -85617,6 +85648,7 @@ service.tmall.com
 service.torfs.be
 service.ucd-covid19.slack.com
 service.virus.github.com
+service.visma.com
 service.vpn.antivirus.goodrx.com
 service.weather.microsoft.com
 service.weread.qq.com
@@ -86314,6 +86346,7 @@ set-univ-stg-01-r5.cisco.com
 set-univ-stg-01.cisco.com
 set.github.com
 set.r.mailjet.com
+set.segment.com
 set.sharepoint.com
 set.slack.com
 set0959.mail.ru
@@ -90910,6 +90943,7 @@ sharepointmvp.sharepoint.com
 sharepointonline.pinpoint.microsoft.com
 sharepointpackages-public.sharepoint.com
 sharepointpackages.sharepoint.com
+sharepointsmes-app9d5bfd6470304077b1af1df087f4b620.sharepoint.com
 sharepointsmes.sharepoint.com
 sharepointsquad.sharepoint.com
 sharepointsundar.sharepoint.com
@@ -95693,6 +95727,7 @@ shop.vhx.tv
 shop.virusja06.mail.ru
 shop.virusman.mail.ru
 shop.visma.com
+shop.vivy.com
 shop.vk.cc
 shop.vmall.com
 shop.weiqi.qq.com
@@ -110811,6 +110846,7 @@ signin.udemy.com
 signin.venmo.com
 signin.verkada.com.san.cloudinary.com
 signin.vhx.tv
+signin.vivy.com
 signin.widget.cloudinary.com
 signin.www.files.com
 signin.www.goodrx.com
@@ -114503,6 +114539,7 @@ sip.verkada.com.san.cloudinary.com
 sip.vhx.tv
 sip.videomeet-lync.bluejeans.com
 sip.visma.com
+sip.vivy.com
 sip.vk.cc
 sip.widget.cloudinary.com
 sip.www.files.com
@@ -115736,6 +115773,7 @@ sit.github.com
 sit.gsselect.com
 sit.sharepoint.com
 sit.shixizhi.huawei.com
+sit.usuppliers.uber.com
 sit.webapps.microsoft.com
 sit1.telekom.de
 sit2-qa-psp.fi.westernunion.com
@@ -115869,6 +115907,7 @@ site.poker.w-con.betfair.com
 site.poker.w-sul.betfair.com
 site.promotions.betfair.com
 site.qq.com
+site.segment.com
 site.shopify.com
 site.soccer-biscovid.betfair.com
 site.soccer.w-sul.betfair.com
@@ -123127,15 +123166,3 @@ sjc5-sila-sp01-con.cisco.com
 sjc5-sila-sp01-mgmt.cisco.com
 sjc5-sila-sp02-con.cisco.com
 sjc5-sila-sp02-mgmt.cisco.com
-sjc5-sky-cfs-r.cisco.com
-sjc5-sla-gw1.cisco.com
-sjc5-sodc-poc-gss1.cisco.com
-sjc5-sodc-poc-gw-vlan31.cisco.com
-sjc5-sodc-poc-gw1-gig1-5.cisco.com
-sjc5-sodc-poc-gw1-gig5-1.cisco.com
-sjc5-sodc-poc-gw1-nam.cisco.com
-sjc5-sodc-poc-gw1-vla111.cisco.com
-sjc5-sodc-poc-gw1-vla14.cisco.com
-sjc5-sodc-poc-gw1-vla20.cisco.com
-sjc5-sodc-poc-gw1-vla22.cisco.com
-sjc5-sodc-poc-gw1-vla23.cisco.com

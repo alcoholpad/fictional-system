@@ -1,3 +1,23 @@
+dhcp-64-100-81-127.cisco.com
+dhcp-64-100-81-128.cisco.com
+dhcp-64-100-81-129.cisco.com
+dhcp-64-100-81-13.cisco.com
+dhcp-64-100-81-130.cisco.com
+dhcp-64-100-81-131.cisco.com
+dhcp-64-100-81-132.cisco.com
+dhcp-64-100-81-133.cisco.com
+dhcp-64-100-81-134.cisco.com
+dhcp-64-100-81-135.cisco.com
+dhcp-64-100-81-136.cisco.com
+dhcp-64-100-81-137.cisco.com
+dhcp-64-100-81-138.cisco.com
+dhcp-64-100-81-139.cisco.com
+dhcp-64-100-81-14.cisco.com
+dhcp-64-100-81-140.cisco.com
+dhcp-64-100-81-141.cisco.com
+dhcp-64-100-81-142.cisco.com
+dhcp-64-100-81-143.cisco.com
+dhcp-64-100-81-144.cisco.com
 dhcp-64-100-81-145.cisco.com
 dhcp-64-100-81-146.cisco.com
 dhcp-64-100-81-147.cisco.com
@@ -38598,6 +38618,7 @@ dispatch.geico.com
 dispatch.github.com
 dispatch.gojekapi.com
 dispatch.info.apple.com
+dispatch.segment.com
 dispatch.slack.com
 dispatcher-v3-zerorized.grabtaxi.com
 dispatcher-v5-zerorized.grabtaxi.com
@@ -38739,6 +38760,7 @@ distance-test1.github.com
 distance.2014.sg.seek.com
 distance.billing.sg.seek.com
 distance.bluejeans.com
+distance.cn.sg.seek.com
 distance.github.com
 distance.neurophys.sg.seek.com
 distance.org.sg.seek.com
@@ -66452,6 +66474,7 @@ dnm.udemy.com
 dnm.venmo.com
 dnm.verkada.com.san.cloudinary.com
 dnm.vhx.tv
+dnm.vivy.com
 dnm.vk.cc
 dnm.widget.cloudinary.com
 dnm.www.files.com
@@ -66853,6 +66876,7 @@ dns.usw.mysqueezebox.com
 dns.venmo.com
 dns.verkada.com.san.cloudinary.com
 dns.vhx.tv
+dns.vivy.com
 dns.vk.cc
 dns.weixin.qq.com
 dns.widget.cloudinary.com
@@ -69021,6 +69045,7 @@ docker.uncover.dev.lieferando.de
 docker.venmo.com
 docker.verkada.com.san.cloudinary.com
 docker.vhx.tv
+docker.vivy.com
 docker.vk.cc
 docker.widget.cloudinary.com
 docker.www.files.com
@@ -69362,6 +69387,7 @@ docs.rsk.co
 docs.sandbox.google.com
 docs.sandbox.google.com<br>drive.sandbox.google.com<br>prom-qa.sandbox.google.com<br>sandbox.google.com<br>sandbox.google.com<br>script.sandbox.google.com<br>sites.sandbox.google.com
 docs.scg.stanford.edu
+docs.segment.com
 docs.semrush.com
 docs.share.nubank.com.br
 docs.shopify.com
@@ -69937,6 +69963,7 @@ dogfood-dev.udemy.com
 dogfood-dev.venmo.com
 dogfood-dev.verkada.com.san.cloudinary.com
 dogfood-dev.vhx.tv
+dogfood-dev.vivy.com
 dogfood-dev.widget.cloudinary.com
 dogfood-dev.www.files.com
 dogfood-dev.www.goodrx.com
@@ -80029,6 +80056,7 @@ dyn.udemy.com
 dyn.venmo.com
 dyn.verkada.com.san.cloudinary.com
 dyn.vhx.tv
+dyn.vivy.com
 dyn.vk.cc
 dyn.widget.cloudinary.com
 dyn.www.files.com
@@ -82407,6 +82435,7 @@ e553288.ostk.bm2.prod.ir2.yahoo.com
 e56.1688.com
 e56.tmall.com
 e58229e24aedba.quora.com
+e5a038fc0c054b7183ce22501189a3dc.fp.measure.office.com
 e5awqltkm4-3.algolianet.com
 e5cf5b08c7854392a05b9ccf5b894bd8.waf.huaweicloud.com
 e5d1f06999fe476b8fd80de3a429dbb6.fp.measure.office.com
@@ -94115,6 +94144,7 @@ ee13e45e95c51b4213eddcf015710b4bdd42905c.console.dev.twilio.com
 ee1988.spaces.live.com
 ee243a917921451286837afeceaf44bc.apigw.cn-east-2.huaweicloud.com
 ee263.stanford.edu
+ee271.stanford.edu
 ee28.nordvpn.com
 ee2r6re.quora.com
 ee30dmz-gw0-g0-2-11.cisco.com
@@ -96390,6 +96420,7 @@ eks-qa3-ire.arlo.com
 eks-qa3-ore.arlo.com
 eks.flocktory.com
 eks.r.mailjet.com
+eks.standalone.ccpl.xwf.internet.org
 eks1.sharepoint.com
 eks98.live.com
 eksenmetal.fm.alibaba.com
@@ -99782,6 +99813,7 @@ email.vhx.tv
 email.virus.github.com
 email.virusman.mail.ru
 email.visma.com
+email.vivy.com
 email.vk.cc
 email.voltvirus.imgur.com
 email.vpn.antivirus.goodrx.com
@@ -101885,6 +101917,7 @@ en.unibet.com
 en.venmo.com
 en.verkada.com.san.cloudinary.com
 en.vhx.tv
+en.vivy.com
 en.vk.cc
 en.widget.cloudinary.com
 en.wiki.elvenar.com
@@ -105401,6 +105434,7 @@ enterpriseenrollment.manage-selfhost.microsoft.com
 enterpriseenrollment.manage.microsoft.com
 enterpriseenrollment.microsoft.com
 enterpriseenrollment.ntdev.microsoft.com
+enterpriseenrollment.segment.com
 enterpriseenrollment.simple.com
 enterpriseenrollment.skyscanner.net
 enterpriseenrollment.tesla.cn
@@ -108624,6 +108658,7 @@ es-la.zh-cn.af-za.fbjs.facebook.com
 es-la.zh-tw.tr-tr.fbjs.facebook.com
 es-leift-phaser.stanford.edu
 es-logi.myharmony.com
+es-logs.segment.com
 es-ml-deana.stanford.edu
 es-mx.learn.canva.com
 es-mx.socialclub.rockstargames.com
@@ -120230,13 +120265,3 @@ eucreionoirmaobranham.spaces.live.com
 eucsj-my.sharepoint.com
 eucsj.sharepoint.com
 eucushoncovers.shopify.com
-eudaly.shopify.com
-eudark.spaces.live.com
-eudemon.aliexpress.com
-eudentalplans.antivirus.goodrx.com
-eudentalplans.goodrx.com
-eudentalplansantivirus.goodrx.com
-eudermal.fm.alibaba.com
-eudes.github.com
-eudevportal-new.rabobank.com
-eudevportal.gtmeu.rabobank.com

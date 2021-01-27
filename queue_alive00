@@ -212,6 +212,7 @@
 0015114972ca37b52759644e2cb87740.fp.measure.office.com
 001768bfc0b54f42b914bc6402c22e30.fp.measure.office.com
 0019d1d5905b4b4fa49ed84e54dbdb20.fp.measure.office.com
+001a72688539420a959f661087064c10.fp.measure.office.com
 001bim.ke.qq.com
 001c3b25eb7a4d2f809df9f0c84ad820.fp.measure.office.com
 001c7e991d5948c44a118de6c2601730.fp.measure.office.com
@@ -1335,12 +1336,14 @@
 06.my.com
 060-v3-client.fitbit.com
 0601db59fef0ed7.chaturbate.com
+060266a3cafc77f85e1ea6addfed9730.fp.measure.office.com
 0603.tmall.com
 0606006.taobao.com
 060791kz.mail.ru
 061-client.fitbit.com
 061-v3-client.fitbit.com
 061.sharepoint.com
+061.shopify.com
 06181.taobao.com
 061983321540.signin.aws.amazon.com
 062-client.fitbit.com
@@ -29828,6 +29831,7 @@
 21351018.log.optimizely.com
 2135477.mail.ru
 2135501493.log.optimizely.com
+2136746.segment.com
 2136963.mail.ru
 213713091.log.optimizely.com
 213729.mail.ru
@@ -36287,6 +36291,7 @@
 2fancyjewelry.etsy.com
 2fapi.pds.starbucks.com.cn
 2fapi.venmo.com
+2fapp.vivy.com
 2fasdf.harvestapp.com
 2fassets-public.falcon.crowdstrike.com
 2fb.quora.com
@@ -40200,6 +40205,7 @@
 3948258.mail.ru
 394899661653comet.paper.dropbox.com
 394997885916comet.paper.dropbox.com
+394a60efba144dd2a74f5453c978f097.fp.measure.office.com
 395-ipv4e.clump.dprodmgd105.aa-rt.sharepoint.com
 395-ipv4e.clump.prod.aa-rt.sharepoint.com
 395116330.qzone.qq.com
@@ -43660,6 +43666,7 @@
 45179212.docs.qq.com
 451814343.qzone.qq.com
 451840716.qzone.qq.com
+451d34f281022bc6c0e673385c266c30.fp.measure.office.com
 452-ipv4e.clump.prod.aa-rt.sharepoint.com
 452058818.qzone.qq.com
 45207262.qzone.qq.com
@@ -57523,6 +57530,7 @@
 710074.ostk.bm2.corp.bf1.yahoo.com
 710176.ostk.bm2.corp.bf1.yahoo.com
 710188622.qzone.qq.com
+71020.segment.com
 710209.ostk.bm2.prod.bf1.yahoo.com
 710249527.qzone.qq.com
 710264452966comet.paper.dropbox.com
@@ -65518,6 +65526,7 @@ _cisco-uds._tcp.tribalwars.cash
 _cisco-uds._tcp.udemy.com
 _cisco-uds._tcp.venmo.com
 _cisco-uds._tcp.verkada.com.san.cloudinary.com
+_cisco-uds._tcp.vivy.com
 _cisco-uds._tcp.widget.cloudinary.com
 _cisco-uds._tcp.www.files.com
 _cisco-uds._tcp.www.goodrx.com
@@ -65623,6 +65632,7 @@ _cisco-uds.udemy.com
 _cisco-uds.venmo.com
 _cisco-uds.verkada.com.san.cloudinary.com
 _cisco-uds.vhx.tv
+_cisco-uds.vivy.com
 _cisco-uds.widget.cloudinary.com
 _cisco-uds.www.files.com
 _cisco-uds.www.goodrx.com
@@ -65730,6 +65740,7 @@ _collab-edge._tls.udemy.com
 _collab-edge._tls.venmo.com
 _collab-edge._tls.verkada.com.san.cloudinary.com
 _collab-edge._tls.vhx.tv
+_collab-edge._tls.vivy.com
 _collab-edge._tls.webmail.test.ftp.sacramento.antivirus.bo.webproxy.idc.tencent.com
 _collab-edge._tls.widget.cloudinary.com
 _collab-edge._tls.www.files.com
@@ -65945,6 +65956,7 @@ _cuplogin._tcp.tribalwars.cash
 _cuplogin._tcp.udemy.com
 _cuplogin._tcp.venmo.com
 _cuplogin._tcp.verkada.com.san.cloudinary.com
+_cuplogin._tcp.vivy.com
 _cuplogin._tcp.widget.cloudinary.com
 _cuplogin._tcp.www.files.com
 _cuplogin._tcp.www.goodrx.com
@@ -66049,6 +66061,7 @@ _cuplogin.udemy.com
 _cuplogin.venmo.com
 _cuplogin.verkada.com.san.cloudinary.com
 _cuplogin.vhx.tv
+_cuplogin.vivy.com
 _cuplogin.widget.cloudinary.com
 _cuplogin.www.files.com
 _cuplogin.www.goodrx.com
@@ -66301,6 +66314,7 @@ _etcd-server-ssl.udemy.com
 _etcd-server-ssl.venmo.com
 _etcd-server-ssl.verkada.com.san.cloudinary.com
 _etcd-server-ssl.vhx.tv
+_etcd-server-ssl.vivy.com
 _etcd-server-ssl.widget.cloudinary.com
 _etcd-server-ssl.www.files.com
 _etcd-server-ssl.www.goodrx.com
@@ -66351,6 +66365,7 @@ _imap3._udp.ftp.smtp.online.test.vpn.antivirus.update.bo.webproxy.idc.tencent.co
 _imap3._udp.mail.webserver.vpn.vpn.agent.antivirus.bo.webproxy.idc.tencent.com
 _imap3._udp.smtp.antivirus.certserv.dns1.webproxy.idc.tencent.com
 _imap3._udp.smtp.sms.antivirus.bo.webproxy.idc.tencent.com
+_imap3._udp.ssh.ns1.smtp.antivirus.gq.webproxy.idc.tencent.com
 _imap3._udp.webserver.antivirus.tienda.moon.3h.com.book.qq.com
 _imaps._tcp.antivirus.fax.km.enterprise.3h.com.tcdn.qq.com
 _imaps._tcp.smtp.antivirus.certserv.dns1.webproxy.idc.tencent.com
@@ -66447,6 +66462,7 @@ _ldap-admin._tcp.testajax.antivirus.bo.webproxy.idc.tencent.com
 _ldap-admin._tcp.vpn.prod.ns1.antivirus.wap.m.3h.com.book.qq.com
 _ldap-admin._tcp.vpn02.antivirus.bo.webproxy.idc.tencent.com
 _ldap-admin._tcp.www.ns1.antivirus.vpn.tracker.webproxy.idc.tencent.com
+_ldap-admin._udp.antivirus.hn.ao.signup.3h.com.tcdn.qq.com
 _ldap-admin._udp.antivirus.ns1.voice.mssql.3h.com.tcdn.qq.com
 _ldap-admin._udp.antivirus.test.cust61.webproxy.at.qq.com
 _ldap-admin._udp.kg.antivirus.bo.webproxy.idc.tencent.com
@@ -66637,6 +66653,7 @@ _mta-sts.uncorkgroup.slack.com
 _mta-sts.venmo.com
 _mta-sts.verkada.com.san.cloudinary.com
 _mta-sts.vhx.tv
+_mta-sts.vivy.com
 _mta-sts.vk.cc
 _mta-sts.vsekreslatyt.mail.ru
 _mta-sts.widget.cloudinary.com
@@ -66923,6 +66940,7 @@ _tcp.tmall.com
 _tcp.tribalwars.cash
 _tcp.udemy.com
 _tcp.venmo.com
+_tcp.vivy.com
 _tcp.widget.cloudinary.com
 _tcp.www.files.com
 _tcp.www.goodrx.com
@@ -67025,6 +67043,7 @@ _tls.twilio.com
 _tls.udemy.com
 _tls.venmo.com
 _tls.vhx.tv
+_tls.vivy.com
 _tls.widget.cloudinary.com
 _tls.www.files.com
 _tls.www.goodrx.com
@@ -67865,6 +67884,7 @@ a1.ar.yahoo.com
 a1.br.vip.br1.yahoo.com
 a1.cd-res.cloudinary.com
 a1.dl-res.cloudinary.com
+a1.dl.playstation.net
 a1.dns.ams.yahoo.com
 a1.dns.arz.yahoo.com
 a1.dns.atz.yahoo.com
@@ -73340,6 +73360,7 @@ abhardwaj.github.com
 abhay.kk.live.com
 abhay.soni.mail.ru
 abhayendra.live.com
+abhaygupta838312.invisionapp.com
 abhayjewels.trustpass.alibaba.com
 abhayshah.yelp.com
 abhe-my.sharepoint.com
@@ -74637,6 +74658,7 @@ acapi.udemy.com
 acapi.venmo.com
 acapi.verkada.com.san.cloudinary.com
 acapi.vhx.tv
+acapi.vivy.com
 acapi.widget.cloudinary.com
 acapi.www.files.com
 acapi.www.goodrx.com
@@ -75991,6 +76013,7 @@ accp.aanvragen.ing.nl
 accp.api.ing.com
 accp.bankieren.ideal.ing.nl
 accp.connective.services.ing.com
+accp.extnotify.ing.com
 accp.feedback.ing.com
 accp.ideal.ing.nl
 accp.inlogcodes.ing.nl
@@ -80394,6 +80417,7 @@ admin.vine.co
 admin.virus.github.com
 admin.virusveroeffentlichung.aliexpress.com
 admin.vismaonline.com
+admin.vivy.com
 admin.vk.cc
 admin.vk.com
 admin.wework.qq.com
@@ -81536,6 +81560,7 @@ ads-serve.aws-internal.brave.com
 ads-serve.brave.com
 ads-service.tiktok.com
 ads-sg.tiktok.com
+ads-staging.mopub.com
 ads-staging.twitter.com
 ads-static.brave.com
 ads-superset-beta.aka.amazon.com
@@ -81837,6 +81862,7 @@ adssolutions.atlassian.net
 adsstatic-int.microsoft.com
 adsstatic.microsoft.com
 adstack.github.com
+adstats-staging.mopub.com
 adstest.betfair.com
 adstextview.qq.com
 adstruc.github.com
@@ -84880,6 +84906,7 @@ afewseconds.etsy.com
 aff.github.com
 aff.sharepoint.com
 aff.slack.com
+aff.tiktok.com
 affa-kldtv.mail.ru
 affa.sf.net
 affabletherapy.quora.com
@@ -84916,6 +84943,7 @@ affiliate.kiwi.com
 affiliate.lazada.com
 affiliate.redtube.com
 affiliate.sharepoint.com
+affiliate.tiktok.com
 affiliate.viator.com
 affiliate.withairbnb.com
 affiliateadmin.betfair.com
@@ -89989,6 +90017,7 @@ ajrruyi.sharepoint.com
 ajruibao.en.alibaba.com
 ajrv0zz4en-2.algolianet.com
 ajryan.github.com
+ajs-testing.segment.com
 ajs.cd.segment.com
 ajs.github.com
 ajs.sharepoint.com
@@ -90431,6 +90460,7 @@ akamai-test-origin.udemy.com
 akamai-test-origin.venmo.com
 akamai-test-origin.verkada.com.san.cloudinary.com
 akamai-test-origin.vhx.tv
+akamai-test-origin.vivy.com
 akamai-test-origin.widget.cloudinary.com
 akamai-test-origin.www.files.com
 akamai-test-origin.www.goodrx.com
@@ -90547,6 +90577,7 @@ akamai-test.udemy.com
 akamai-test.venmo.com
 akamai-test.verkada.com.san.cloudinary.com
 akamai-test.vhx.tv
+akamai-test.vivy.com
 akamai-test.widget.cloudinary.com
 akamai-test.www.files.com
 akamai-test.www.goodrx.com
@@ -90710,6 +90741,7 @@ akamai.udemy.com
 akamai.venmo.com
 akamai.verkada.com.san.cloudinary.com
 akamai.vhx.tv
+akamai.vivy.com
 akamai.widget.cloudinary.com
 akamai.wirvsvirus.slack.com
 akamai.www.dentalplans.antivirus.goodrx.com
@@ -94546,6 +94578,7 @@ alimebot.1688.com
 alimebot.alibaba-inc.com
 alimebot.alibaba.com
 alimebot.aliexpress.com
+alimebot.lazada.com
 alimebot.taobao.com
 alimeeting-live.alibaba-inc.com
 alimeeting-maintain.alibaba-inc.com
@@ -101872,6 +101905,7 @@ ams1-access-est-1.cisco.com
 ams1-access-est-2.cisco.com
 ams1.itt.my.com
 ams1.ittgrudge-pandemic.my.com
+ams1.net.mail.ru
 ams10.grudge-pandemic-itt.my.com
 ams10.net.mail.ru
 ams11.net.mail.ru
@@ -105275,6 +105309,7 @@ anilkumar.slack.com
 anilmuppalla.quora.com
 anilomanwar.github.com
 anilrathi.live.com
+anilsaini993855.invisionapp.com
 anilsaldhana.quora.com
 anilsio.sharepoint.com
 anima-app.slack.com
@@ -110450,6 +110485,7 @@ antivirus.netherlands.github.com
 antivirus.netherlands.goodrx.com
 antivirus.netherlands.snappublisher.snapchat.com
 antivirus.netherlands.www.dentalplans.goodrx.com
+antivirus.netmeeting.burner.auth-origin.h0-spint.ac.playstation.net
 antivirus.newindian.alumni.dev.soundtrap.com
 antivirus.newweb.alumni.dev.soundtrap.com
 antivirus.nginx-dentalplans.goodrx.com
@@ -110816,6 +110852,7 @@ antivirus.privatewww.dentalplans.goodrx.com
 antivirus.prod.dec.mississippi.signup.3h.com.tcdn.qq.com
 antivirus.prod.goodrx.com
 antivirus.prod.luke.3h.com.book.qq.com
+antivirus.prod.mt.signup.3h.com.tcdn.qq.com
 antivirus.prod.signup.webproxy.idc.tencent.com
 antivirus.proddentalplans.goodrx.com
 antivirus.production-dentalplans.goodrx.com
@@ -110972,6 +111009,7 @@ antivirus.skins.www.dentalplans.goodrx.com
 antivirus.skisekaewww-test.alumni.dev.soundtrap.com
 antivirus.slack.com
 antivirus.smtp-openvpn.stg.bomgar-invoice.www.starbucks.com.cn
+antivirus.smtp.sw.moon.3h.com.book.qq.com
 antivirus.smtp.update.aliexpress.com
 antivirus.snappublisher.games.snapchat.com
 antivirus.snappublisher.snapchat.com
@@ -111215,13 +111253,3 @@ antivirus.www-11.dentalplans.goodrx.com
 antivirus.www-15.dentalplans.goodrx.com
 antivirus.www-17.dentalplans.goodrx.com
 antivirus.www-2009.dentalplans.goodrx.com
-antivirus.www-2011.dentalplans.goodrx.com
-antivirus.www-3.dentalplans.goodrx.com
-antivirus.www-5.dentalplans.goodrx.com
-antivirus.www-accounting.alumni.dev.soundtrap.com
-antivirus.www-admin.dentalplans.goodrx.com
-antivirus.www-administrator.dentalplans.goodrx.com
-antivirus.www-aggrenox.alumni.dev.soundtrap.com
-antivirus.www-alpha.dentalplans.goodrx.com
-antivirus.www-analytics.alumni.dev.soundtrap.com
-antivirus.www-analytics.dentalplans.goodrx.com

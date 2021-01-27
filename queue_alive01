@@ -1,3 +1,13 @@
+antivirus.www-2011.dentalplans.goodrx.com
+antivirus.www-3.dentalplans.goodrx.com
+antivirus.www-5.dentalplans.goodrx.com
+antivirus.www-accounting.alumni.dev.soundtrap.com
+antivirus.www-admin.dentalplans.goodrx.com
+antivirus.www-administrator.dentalplans.goodrx.com
+antivirus.www-aggrenox.alumni.dev.soundtrap.com
+antivirus.www-alpha.dentalplans.goodrx.com
+antivirus.www-analytics.alumni.dev.soundtrap.com
+antivirus.www-analytics.dentalplans.goodrx.com
 antivirus.www-api-docs.dentalplans.goodrx.com
 antivirus.www-aws.dentalplans.goodrx.com
 antivirus.www-b.dentalplans.goodrx.com
@@ -5845,6 +5855,7 @@ api-staging.gitter.im
 api-staging.innocraft.cloud
 api-staging.kickstarter.com
 api-staging.lyft.net
+api-staging.mopub.com
 api-staging.netflix.com
 api-staging.oyorooms.com
 api-staging.pinterest.com
@@ -14799,6 +14810,7 @@ argus.cloudhub.eu-west-1.qa.hydra.sophos.com
 argus.github.com
 argus.myshopify.com
 argus.rbx.com
+argus.segment.com
 argus.sharepoint.com
 argus.stanford.edu
 argus.tmall.com
@@ -21375,6 +21387,7 @@ assets.vercel.com.san.cloudinary.com
 assets.verkada.com.san.cloudinary.com
 assets.vhx.tv
 assets.vimeo.com
+assets.vivy.com
 assets.widget.cloudinary.com
 assets.worldofwarcraft.com
 assets.www.cloudflare.com
@@ -21793,6 +21806,7 @@ astcct.en.alibaba.com
 astcorporation.atlassian.net
 astd.udemy.com
 astdev-db.cisco.com
+astech34970.sharepoint.com
 asteel23.imgur.com
 astefanutti.github.com
 astejj.tmall.com
@@ -23523,6 +23537,7 @@ athena-app-02-p.cisco.com
 athena-bld-01-p.cisco.com
 athena-eu.blizzard.com
 athena-guardian-golds.myshopify.com
+athena-hg-dev.zilliqa.com
 athena-kr.blizzard.com
 athena-portal.corp.amazon.com
 athena-preview.aws.amazon.com
@@ -23550,6 +23565,7 @@ athena.stanford.edu
 athena.tweakers.net
 athena.uncover.dev.pyszne.pl
 athena.vivy.com
+athena.zilliqa.com
 athena1.cisco.com
 athena103181.etsy.com
 athena2.cisco.com
@@ -23962,6 +23978,7 @@ atlas.kali.org
 atlas.mapbox.com
 atlas.microsoft.com
 atlas.robinhood.com
+atlas.segment.com
 atlas.sf.net
 atlas.sharepoint.com
 atlas.slack.com
@@ -28747,6 +28764,7 @@ autodiscover.video.slack.com
 autodiscover.videos.github.com
 autodiscover.videos.slack.com
 autodiscover.visma.com
+autodiscover.vivy.com
 autodiscover.vk.cc
 autodiscover.web.bugpoc.ninja
 autodiscover.web.github.com
@@ -31379,6 +31397,7 @@ avira-free-antivirus.testing-ar.rivals.com
 avira-free-antivirus.testing1.ar.rivals.com
 avira-free-antivirus.th-backend.rivals.com
 avira-free-antivirus.th-testbed.rivals.com
+avira-free-antivirus.th.com.efo6eenoflraiegcgjslk.prod.http1.netflix.com
 avira-free-antivirus.th.com.global.prod.http1.netflix.com
 avira-free-antivirus.th.delivery-club.ru
 avira-free-antivirus.th.dyson.com
@@ -41908,6 +41927,7 @@ basic-nodejs-dev.udemy.com
 basic-nodejs-dev.venmo.com
 basic-nodejs-dev.verkada.com.san.cloudinary.com
 basic-nodejs-dev.vhx.tv
+basic-nodejs-dev.vivy.com
 basic-nodejs-dev.widget.cloudinary.com
 basic-nodejs-dev.www.files.com
 basic-nodejs-dev.www.goodrx.com
@@ -42247,6 +42267,7 @@ bastion-phx3.prod.uber.com
 bastion-phx4.uber.com
 bastion-sandop.corp.amazon.com
 bastion-sea.githubapp.com
+bastion-v2.segment.com
 bastion-voip-net.stanford.edu
 bastion.github.com
 bastion.githubapp.com
@@ -43771,6 +43792,7 @@ bbs.vhx.tv
 bbs.view.qq.com
 bbs.vip.qq.com
 bbs.virusoflive.mail.ru
+bbs.vivy.com
 bbs.vk.cc
 bbs.vk.com
 bbs.waimaoquan.alibaba.com
@@ -47125,6 +47147,7 @@ becausetits.imgur.com
 becauseyoulive.spaces.live.com
 becbd-my.sharepoint.com
 becbd.sharepoint.com
+becca557557.invisionapp.com
 beccaannsbits.etsy.com
 beccabecs.imgur.com
 beccacahan.etsy.com
@@ -64636,6 +64659,7 @@ blackhawknetwork.sharepoint.com
 blackheartcitizen.imgur.com
 blackhelicopters.quora.com
 blackhillsrocks.etsy.com
+blackhole-webhook.segment.com
 blackhole.cisco.com
 blackhole.ext.grab.com
 blackhole.github.com
@@ -67300,6 +67324,7 @@ blogs.valvesoftware.com
 blogs.venmo.com
 blogs.verkada.com.san.cloudinary.com
 blogs.vhx.tv
+blogs.vivy.com
 blogs.widget.cloudinary.com
 blogs.www.files.com
 blogs.www.goodrx.com
@@ -83954,6 +83979,7 @@ builder.udemy.com
 builder.venmo.com
 builder.verkada.com.san.cloudinary.com
 builder.vhx.tv
+builder.vivy.com
 builder.vk.cc
 builder.widget.cloudinary.com
 builder.www.antivirus.www-test.alumni.dev.soundtrap.com
@@ -101808,6 +101834,7 @@ careers.us.samsung.com
 careers.venmo.com
 careers.verkada.com.san.cloudinary.com
 careers.vhx.tv
+careers.vivy.com
 careers.vk.cc
 careers.westernunion.com
 careers.widget.cloudinary.com
@@ -103877,6 +103904,7 @@ cast-chat-sg-v-004.line-apps.com
 cast-chat-sg-v-005.line-apps.com
 cast-dev.dailymotion.com
 cast-ext1.apple.com
+cast-ipv4-c019-yyz001-bellcanada-isp.prod.http1.netflix.com
 cast-ipv4-c130-bos001-ix.prod.http1.netflix.com
 cast-oc.netflix.com
 cast-uiboot.prod.http1.netflix.com
@@ -104875,6 +104903,7 @@ cb100026.itslearning.com
 cb100028.itslearning.com
 cb100034.itslearning.com
 cb100071.itslearning.com
+cb100459.itslearning.com
 cb100463.itslearning.com
 cb100574.itslearning.com
 cb100595.itslearning.com
@@ -105337,6 +105366,7 @@ cbre.sharepoint.com
 cbre.zoom.us
 cbreezedesigns.etsy.com
 cbrenet.sharepoint.com
+cbreverse.lazada.com
 cbrew.cisco.com
 cbrezove-tek.cisco.com
 cbriceag.fm.alibaba.com
@@ -109161,6 +109191,7 @@ cdn-settings.segment.com
 cdn-sh-trans.dingtalk.com
 cdn-shop.adafruit.com
 cdn-skins.antivirus.goodrx.com
+cdn-slow.segment.com
 cdn-stage-web-01.cisco.com
 cdn-stage.etsy.com
 cdn-stage.sonyentertainmentnetwork.com
@@ -110555,6 +110586,7 @@ cdq-api.udemy.com
 cdq-api.venmo.com
 cdq-api.verkada.com.san.cloudinary.com
 cdq-api.vhx.tv
+cdq-api.vivy.com
 cdq-api.widget.cloudinary.com
 cdq-api.www.files.com
 cdq-api.www.goodrx.com
@@ -112192,6 +112224,7 @@ centricintl.sharepoint.com
 centricsit.sharepoint.com
 centridynecom-my.sharepoint.com
 centridynecom.sharepoint.com
+centrifuge-destinations.segment.com
 centrifuge-onboarding-beta.aka.corp.amazon.com
 centrifuge-onboarding.aka.corp.amazon.com
 centrifuge.corp.mail.ru
@@ -113197,6 +113230,7 @@ cert.twilio.com
 cert.udemy.com
 cert.venmo.com
 cert.vhx.tv
+cert.vivy.com
 cert.widget.cloudinary.com
 cert.www.files.com
 cert.www.goodrx.com
@@ -118210,6 +118244,7 @@ cfxs2600gz-rcf-111-06.scg.stanford.edu
 cfxs2600gz-rcf-114-06.scg.stanford.edu
 cfxs2600gz-rcf-212-32.scg.stanford.edu
 cfxtoys.cn.alibaba.com
+cfyhym.weightwatchers.fr
 cfyj888.1688.com
 cfyj888.cn.alibaba.com
 cfys.en.alibaba.com
@@ -121558,6 +121593,7 @@ check.udemy.com
 check.venmo.com
 check.verkada.com.san.cloudinary.com
 check.vhx.tv
+check.vivy.com
 check.vmall.com
 check.widget.cloudinary.com
 check.www.files.com
@@ -126525,22 +126561,3 @@ chriskane.etsy.com
 chriskayoga.vhx.tv
 chriskellyconsulting-public.sharepoint.com
 chriskellyconsulting.sharepoint.com
-chriskempson.github.com
-chriskerrjewelry.etsy.com
-chriskillen.imgur.com
-chriskisler.etsy.com
-chrisl-pc.cisco.com
-chrisl943243.imgur.com
-chrislapardin.imgur.com
-chrislcap.spaces.live.com
-chrislee02.spaces.live.com
-chrislee988.imgur.com
-chrisleeds.spaces.live.com
-chrisleija.imgur.com
-chrislepel.spaces.live.com
-chrisliferetro.spaces.live.com
-chrislloyd.github.com
-chrislove30.spaces.live.com
-chrislundquist.github.com
-chrisluo3.spaces.live.com
-chrism86.dev.ikarem.io

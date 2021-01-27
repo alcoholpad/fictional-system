@@ -1,3 +1,15 @@
+sjc5-sky-cfs-r.cisco.com
+sjc5-sla-gw1.cisco.com
+sjc5-sodc-poc-gss1.cisco.com
+sjc5-sodc-poc-gw-vlan31.cisco.com
+sjc5-sodc-poc-gw1-gig1-5.cisco.com
+sjc5-sodc-poc-gw1-gig5-1.cisco.com
+sjc5-sodc-poc-gw1-nam.cisco.com
+sjc5-sodc-poc-gw1-vla111.cisco.com
+sjc5-sodc-poc-gw1-vla14.cisco.com
+sjc5-sodc-poc-gw1-vla20.cisco.com
+sjc5-sodc-poc-gw1-vla22.cisco.com
+sjc5-sodc-poc-gw1-vla23.cisco.com
 sjc5-sodc-poc-gw1-vla25.cisco.com
 sjc5-sodc-poc-gw1-vla29.cisco.com
 sjc5-sodc-poc-gw1-vla3.cisco.com
@@ -9712,6 +9724,7 @@ smtp.venmo.com
 smtp.verkada.com.san.cloudinary.com
 smtp.vhx.tv
 smtp.viator.com
+smtp.vivy.com
 smtp.vk.cc
 smtp.vzn.mail.vip.bf1.yahoo.com
 smtp.vzn.mail.vip.gq1.yahoo.com
@@ -51887,6 +51900,7 @@ sourcefactory.1688.com
 sourcefuse.atlassian.net
 sourcegaming.challonge.com
 sourcegraph.logitech.com
+sourcegraph.segment.com
 sourcegraph.tools.roku.com
 sourceland.tmall.com
 sourcelogs.corp.amazon.com
@@ -53952,6 +53966,7 @@ specreq-v2-alpha.corp.amazon.com
 specreq-v2-beta.corp.amazon.com
 specreq.corp.amazon.com
 specrodniki.mail.ru
+specs.segment.com
 specsavers-my.sharepoint.com
 specsavers-uncover.dev.pyszne.pl
 specsavers.sharepoint.com
@@ -57166,6 +57181,7 @@ sql.udemy.com
 sql.venmo.com
 sql.verkada.com.san.cloudinary.com
 sql.vhx.tv
+sql.vivy.com
 sql.widget.cloudinary.com
 sql.www.files.com
 sql.www.goodrx.com
@@ -108042,6 +108058,7 @@ srv77-2-213-95.vk.com
 srv77-20-213-95.vk.com
 srv77-21-213-95.vk.com
 srv77-22-213-95.vk.com
+srv77-222-52-190.vk.com
 srv77-224-186-93.vk.com
 srv77-23-213-95.vk.com
 srv77-236-186-93.vk.com
@@ -114022,6 +114039,7 @@ ssl.venmo.com
 ssl.verkada.com.san.cloudinary.com
 ssl.vhx.tv
 ssl.virus.github.com
+ssl.vivy.com
 ssl.vk.cc
 ssl.vk.com
 ssl.widget.cloudinary.com
@@ -114271,6 +114289,7 @@ sslvpn.udemy.com
 sslvpn.venmo.com
 sslvpn.verkada.com.san.cloudinary.com
 sslvpn.vhx.tv
+sslvpn.vivy.com
 sslvpn.vk.cc
 sslvpn.widget.cloudinary.com
 sslvpn.www.files.com
@@ -114583,6 +114602,7 @@ sso.ui.com
 sso.venmo.com
 sso.verkada.com.san.cloudinary.com
 sso.vhx.tv
+sso.vivy.com
 sso.widget.cloudinary.com
 sso.www.files.com
 sso.www.goodrx.com
@@ -121258,6 +121278,7 @@ stats.update.microsoft.com
 stats.venmo.com
 stats.verkada.com.san.cloudinary.com
 stats.vhx.tv
+stats.vivy.com
 stats.vk.cc
 stats.widget.cloudinary.com
 stats.www.files.com
@@ -122764,6 +122785,7 @@ stg-artifactory-authproxy.infra.vip.corp.gq1.yahoo.com
 stg-astra-serving.assistant.yahoo.com
 stg-astra.commerce.yahoo.com
 stg-athena-api.zilliqa.com
+stg-athena.zilliqa.com
 stg-ats.pes.vip.corp.gq1.yahoo.com
 stg-ats1.pes.corp.gq1.yahoo.com
 stg-ats2.pes.corp.gq1.yahoo.com
@@ -122808,6 +122830,7 @@ stg-demo.ubnt.com
 stg-dev.ubnt.com
 stg-developer.att.com
 stg-devex-apollo.zilliqa.com
+stg-devex.zilliqa.com
 stg-df1.fp.vip.bf1.yahoo.com
 stg-diagnostics.support.microsoft.com
 stg-dspelastic.pbp.vip.ne1.yahoo.com
@@ -122825,6 +122848,7 @@ stg-fud.community.services.support.microsoft.com
 stg-fw-update.ubnt.com
 stg-git3.corp.yahoo.com
 stg-governance-api.zilliqa.com
+stg-governance.zilliqa.com
 stg-grpc-proxy-test.grpc.newrelic.com
 stg-gsdchat01-os.corpapps.gq1.yahoo.com
 stg-guidedhelp-vip.corpapps.vip.gq1.yahoo.com
@@ -122868,6 +122892,7 @@ stg-mycstatic017-os.corpapps.gq1.yahoo.com
 stg-nashville.apple.com
 stg-nucleus-server.zilliqa.com
 stg-oathcareers.corpapps.vip.gq1.yahoo.com
+stg-occam.zilliqa.com
 stg-osgdiscussion.microsoft.com
 stg-partnersupport.microsoft.com
 stg-plcc-admin.istarbucks.co.kr
@@ -124995,6 +125020,7 @@ store-obinah-com.dns.foxycart.com
 store-opmantek-com.dns.foxycart.com
 store-origin.d2-pmgt.ac.playstation.net
 store-origin.d2-pqa.ac.playstation.net
+store-origin.d2-spint.ac.playstation.net
 store-outstandingpet-com.dns.foxycart.com
 store-paydirtgold-com.dns.foxycart.com
 store-ppe.microsoft.com
@@ -125242,6 +125268,7 @@ store.q2-pmgt.ac.playstation.net
 store.q2-pqa.ac.playstation.net
 store.q2-spint.ac.playstation.net
 store.qat2.weightwatchers.de
+store.qat2.weightwatchers.fr
 store.qidian.qq.com
 store.qiwi.com
 store.qq.com
@@ -125742,6 +125769,7 @@ storybook.udemy.com
 storybook.venmo.com
 storybook.verkada.com.san.cloudinary.com
 storybook.vhx.tv
+storybook.vivy.com
 storybook.widget.cloudinary.com
 storybook.www.files.com
 storybook.www.goodrx.com
@@ -126778,6 +126806,3 @@ strumpetstickers.etsy.com
 strumpetstitches.etsy.com
 strumpfkunst.etsy.com
 struncova.office.live.com
-strung.etsy.com
-strungoutbracelets.etsy.com
-strungoutstars.etsy.com
