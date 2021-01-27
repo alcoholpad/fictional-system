@@ -1,3 +1,6 @@
+antivirus.www-api-docs.dentalplans.goodrx.com
+antivirus.www-aws.dentalplans.goodrx.com
+antivirus.www-b.dentalplans.goodrx.com
 antivirus.www-box.dentalplans.goodrx.com
 antivirus.www-bucket.dentalplans.goodrx.com
 antivirus.www-cf.dentalplans.goodrx.com
@@ -9069,6 +9072,7 @@ apiecovidrio.udemy.com
 apiedencovetreasures.etsy.com
 apiedimonte.spaces.live.com
 apieds.betfair.it
+apiemsios.betfair.it
 apienc.slack.com
 apiethiopia-covid19.slack.com
 apievangelistbots.slack.com
@@ -15461,6 +15465,7 @@ arlo-device-dev2.messaging.netgear.com
 arlo-device-dev3.messaging.arlo.com
 arlo-device-dev3.messaging.netgear.com
 arlo-device-goldendev-canary.messaging.arlo.com
+arlo-device-goldendev.messaging.arlo.com
 arlo-device-goldenft-canary.messaging.arlo.com
 arlo-device-goldenft.messaging.arlo.com
 arlo-device-goldenqa-canary.messaging.arlo.com
@@ -15485,8 +15490,11 @@ arlo-io.invisionapp.com
 arlo-livestream01-goldendev-z1.arlo.com
 arlo-livestream01-goldendev-z2.arlo.com
 arlo-livestream01-goldendev-z4.arlo.com
+arlo-livestream01-staging-z1.arlo.com
+arlo-livestream01-staging-z2.arlo.com
 arlo-livestream01-staging-z4.arlo.com
 arlo-livestream02-goldendev-z4.arlo.com
+arlo-livestream02-staging-z2.arlo.com
 arlo-livestream04-goldendev-z4.arlo.com
 arlo-media-canary.ar.arlo.com
 arlo-media-goldendev-canary.ar.arlo.com
@@ -29704,6 +29712,7 @@ av6.com-pandemic.my.com
 av6grudge-pandemic.com.my.com
 av7.r.mailjet.com
 av78.live.com
+av7bekq39a-1.algolianet.com
 av80r.imgur.com
 av8d.github.com
 av8records.foxycart.com
@@ -91314,6 +91323,7 @@ c13-eu-1.algolia.net
 c13-eu-2.algolia.net
 c13-eu-3.algolia.net
 c13-use-1.algolia.net
+c13-use-1.algolianet.com
 c13-use-2.algolia.net
 c13-use-3.algolia.net
 c13-use-3.algolianet.com
@@ -109191,6 +109201,7 @@ cdn-viruscomix.assets.fanduel.com
 cdn-virusoflive.mail.ru
 cdn-vis.datav.aliyun.com
 cdn-vsa-dev.services.microsoft.com
+cdn-web-v3.sandbox.fair.engineering
 cdn-web.antivirus.goodrx.com
 cdn-web.prod.fair.engineering
 cdn-web.sandbox.fair.engineering
@@ -126533,7 +126544,3 @@ chrislove30.spaces.live.com
 chrislundquist.github.com
 chrisluo3.spaces.live.com
 chrism86.dev.ikarem.io
-chrism86.dev.network-auth.ikarem.io
-chrism86.meraki-go.ikarem.io
-chrisma.dev.ikarem.io
-chrisma.dev.network-auth.ikarem.io
