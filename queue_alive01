@@ -1,11 +1,3 @@
-antivirus.apfmdocker.goodrx.com
-antivirus.apfmdocs.goodrx.com
-antivirus.apfmdrop.goodrx.com
-antivirus.apfmemail.goodrx.com
-antivirus.apfmengineering.goodrx.com
-antivirus.apfmeurope.goodrx.com
-antivirus.apfmeuropewest.goodrx.com
-antivirus.apfmeuw.goodrx.com
 antivirus.apfmfrontpage.goodrx.com
 antivirus.apfmgames.goodrx.com
 antivirus.apfmghcpi.goodrx.com
@@ -4491,6 +4483,7 @@ anywherecan-useast.amazon.com
 anywherecan-uswest.amazon.com
 anywherecan.amazon.com
 anywherecommerce.atlassian.net
+anywherehealthandwellness1.bigcartel.com
 anywill.aliexpress.com
 anz-blockchain-lab.slack.com
 anz-networkers1.cisco.com
@@ -8515,6 +8508,7 @@ api.dsm.microsoft.com
 api.dsm.westus.microsoft.com
 api.dtmnebula.microsoft.com
 api.dvp.telenet.be
+api.dw.alibaba-inc.com
 api.dynamic.tiles.ditu.live.com
 api.dyson.com
 api.e.mi.com
@@ -12019,6 +12013,7 @@ app-rtpvtg-131.cisco.com
 app-ru.huawei.com
 app-sa.huawei.com
 app-sa.semrush.com
+app-search-api-stage.buzzfeed.com
 app-search-api.buzzfeed.com
 app-searchads.apple.com
 app-service.skypixel.com
@@ -12031,9 +12026,12 @@ app-staging.getmoneytree.com
 app-stg.starbucks.com.cn
 app-storage-edfsc.s3.us-west-000.backblazeb2.com
 app-storage-erw.s3.us-west-000.backblazeb2.com
+app-storage-fac3.s3.us-west-000.backblazeb2.com
+app-storage-gdh.s3.us-west-000.backblazeb2.com
 app-storage-gdsd.s3.us-west-000.backblazeb2.com
 app-storage-gile.s3.us-west-000.backblazeb2.com
 app-storage-hl.s3.us-west-000.backblazeb2.com
+app-storage-kin.s3.us-west-000.backblazeb2.com
 app-storage-link.s3.us-west-000.backblazeb2.com
 app-storage-logs.s3.us-west-000.backblazeb2.com
 app-storage-rgs.s3.us-west-000.backblazeb2.com
@@ -16520,6 +16518,7 @@ arcoseconsulting.sharepoint.com
 arcpeaks.en.alibaba.com
 arcpointlabs.sharepoint.com
 arcproxy.microsoft.com
+arcpublishing.atlassian.net
 arcq.etsy.com
 arcracer.spaces.live.com
 arcservemail.sharepoint.com
@@ -16749,6 +16748,7 @@ areleldesigns2.etsy.com
 arellajewellery.bigcartel.com
 arelle.atlassian.net
 arely.ns.cloudflare.com
+arelynsbyroxy.bigcartel.com
 arelysagostini2.spaces.live.com
 arelysagostinispain.spaces.live.com
 aremeshevsky.mail.ru
@@ -18490,6 +18490,7 @@ arqueolicossinfronteras.spaces.live.com
 arqueolomextabasco.spaces.live.com
 arqueriadearcher.spaces.live.com
 arquerosdebc.spaces.live.com
+arques.atlassian.net
 arquisan.sharepoint.com
 arquitecturajsg.spaces.live.com
 arquitecturasca.slack.com
@@ -18646,6 +18647,7 @@ arrestedmonk.imgur.com
 arrgifts.en.alibaba.com
 arrhzp.tmall.com
 arrianj.imgur.com
+arriblvd.bigcartel.com
 arridiorco.bigcartel.com
 arrigorriaga.edmodo.com
 arrikto-users.slack.com
@@ -19062,6 +19064,7 @@ artbyjude.etsy.com
 artbykatiejeanne.etsy.com
 artbykc.etsy.com
 artbykeiko.etsy.com
+artbykelizabeth.bigcartel.com
 artbylia.etsy.com
 artbylilin.etsy.com
 artbylinds.etsy.com
@@ -19990,6 +19993,7 @@ artsforyoungstars.slack.com
 artsgallery.etsy.com
 artshamaness.etsy.com
 artshapedworld.etsy.com
+artshark.bigcartel.com
 artshcoolvilushinsk.mail.ru
 artsheart.myshopify.com
 artshive1.paytmbank.com
@@ -23539,6 +23543,7 @@ assetmanagerpim.san.cloudinary.com
 assetqc.netflix.com
 assets-apac.codefi.network
 assets-assets-api-chore-ca-3670.dev.codefi.network
+assets-assets-front-chore-ca-3714.dev.codefi.network
 assets-atv.nflxext.com
 assets-author-01.adobeperf.microsoft.com
 assets-author.adobeperf.microsoft.com
@@ -24489,6 +24494,7 @@ astro.yelp.com
 astroanswers.quora.com
 astroavenuee.myshopify.com
 astroboyy.mail.ru
+astrobrandofficial.bigcartel.com
 astrocat-tech.slack.com
 astroccd.sf.net
 astrocolor4.stanford.edu
@@ -26966,6 +26972,7 @@ atomic.github.com
 atomic.sharepoint.com
 atomic.yelp.com
 atomicblue.etsy.com
+atomicbowco.bigcartel.com
 atomiccaravan.etsy.com
 atomiccatinteractive.slack.com
 atomiccowboy.spaces.live.com
@@ -30030,6 +30037,7 @@ authenticate-nz.id.dev.outfra.xyz
 authenticate.assets-apac-ops.codefi.network
 authenticate.assets-apac.codefi.network
 authenticate.assets-ops.codefi.network
+authenticate.assets-us-ops.codefi.network
 authenticate.assets.codefi.network
 authenticate.aurelium.codefi.network
 authenticate.b2b.trustpilot.com
@@ -30227,6 +30235,7 @@ authtrans1.prod2.zellepay.com
 authtrans1.zellepay.com
 authtrans2.zellepay.com
 authuncover.staging.lieferando.de
+authus.alibaba.com
 authy.com
 authy.qa.braintreepayments.com
 authy.qa2.braintreepayments.com
@@ -30561,6 +30570,7 @@ autobooks.sharepoint.com
 autoboost.myshopify.com
 autobosen.en.alibaba.com
 autobotty.mail.ru
+autobright.en.alibaba.com
 autobrush1.myshopify.com
 autobugstaging.microsoft.com
 autobutler.atlassian.net
@@ -40887,6 +40897,7 @@ backbone.spotify.net
 backbone.yelp.com
 backbonecommunications.sharepoint.com
 backbonestudio2.etsy.com
+backchannel.atlassian.net
 backchatio.github.com
 backcountryprimitive.etsy.com
 backcreekclay.etsy.com
@@ -41534,6 +41545,7 @@ badvoltage.slack.com
 badwers-22.mail.ru
 badwm.sf.net
 badwolfbg.imgur.com
+badxssboutique.bigcartel.com
 badyabin.mail.ru
 badyogistudio.vhx.tv
 badysafe.1688.com
@@ -42742,6 +42754,7 @@ balchemcorp.sharepoint.com
 balco.tmall.com
 baldacchini.edmodo.com
 baldar.stanford.edu
+baldboydesign.bigcartel.com
 balder.github.com
 balder.slack.com
 balder.yelp.com
@@ -44168,6 +44181,7 @@ baosteelcn.en.alibaba.com
 baostuff.spaces.live.com
 baosun.en.alibaba.com
 baosuo.en.alibaba.com
+baosupipe.en.alibaba.com
 baot.imgur.com
 baotaoliving.en.alibaba.com
 baote-chem.en.alibaba.com
@@ -44640,6 +44654,7 @@ barkga.spaces.live.com
 barkhasbadi.mail.ru
 barkingbirdart.etsy.com
 barkingbirds.etsy.com
+barkingmadtextilescandles.bigcartel.com
 barkingspider69.imgur.com
 barkleyandwagz.etsy.com
 barkleymovie.vhx.tv
@@ -46353,6 +46368,7 @@ bayasolution.sharepoint.com
 bayatgames.slack.com
 bayatx.tmall.com
 baybakov_u_s.mail.ru
+baybay.bigcartel.com
 baybayin.myshopify.com
 baybil.slack.com
 baybouren.aliexpress.com
@@ -50375,6 +50391,7 @@ bearingcn.en.alibaba.com
 bearingfuel.myshopify.com
 bearingwsw.en.alibaba.com
 bearish406.imgur.com
+bearishbullish.bigcartel.com
 bearking.aliexpress.com
 bearkybag.en.alibaba.com
 bearlakeart.etsy.com
@@ -50570,6 +50587,7 @@ beaulyben.etsy.com
 beaumiraclejewelry.etsy.com
 beaumontwwrp.cm.bentley.com
 beaupetrea.sharepoint.com
+beauprintboutique.bigcartel.com
 beauqcreations.shopify.com
 beaurepaire.slack.com
 beauroland.imgur.com
@@ -50717,6 +50735,7 @@ beautybundlesbyshai.bigcartel.com
 beautybyfree4u.bigcartel.com
 beautybylucy.bigcartel.com
 beautybymelissasantillan.bigcartel.com
+beautybyninja.bigcartel.com
 beautybystarlight.bigcartel.com
 beautybyt.tmall.com
 beautycare.en.alibaba.com
@@ -51242,6 +51261,7 @@ beegreenbags.en.alibaba.com
 beegsman.imgur.com
 beeguat9.spaces.live.com
 beeharmonica.en.alibaba.com
+beehi.bigcartel.com
 beehive-cs.corp.amazon.com
 beehive.cisco.com
 beehive.github.com
@@ -52187,6 +52207,7 @@ beladonnabeads.etsy.com
 beladonnajewels.etsy.com
 belaforce.imgur.com
 belagricola.sharepoint.com
+belairclothing.bigcartel.com
 belaire.edmodo.com
 belairsocks.shopify.com
 belajarbahasa.quora.com
@@ -52448,6 +52469,7 @@ bellacreationzco.etsy.com
 bellacute.etsy.com
 belladaniella.imgur.com
 belladays.etsy.com
+belladea.bigcartel.com
 belladesignchic.etsy.com
 belladio.etsy.com
 belladonnabeads.etsy.com
@@ -53316,6 +53338,7 @@ benny.yelp.com
 benny_1971.live.com
 bennybear.en.alibaba.com
 bennybiscuit.bigcartel.com
+bennyclassics.bigcartel.com
 bennyfranklin.spaces.live.com
 bennyjp.spaces.live.com
 bennyjsw8.cn.alibaba.com
@@ -55549,6 +55572,7 @@ beta.nummus.robinhood.com
 beta.o3.antivirus-email.goodrx.com
 beta.oauth.live.com
 beta.oc.netflix.com
+beta.occentral.legal.amazon.com
 beta.officeapps.live.com
 beta.onboarding.greenhouse.io
 beta.onecare.live.com
@@ -56536,6 +56560,7 @@ beyond_verve.live.com
 beyondaglance.etsy.com
 beyondauto.en.alibaba.com
 beyondbankinghack.slack.com
+beyondbellany.bigcartel.com
 beyondbelt.en.alibaba.com
 beyondcharms.etsy.com
 beyondclassicbeauty.etsy.com
@@ -56610,6 +56635,7 @@ beyoutifulbeads.etsy.com
 beyouty-empowered-boutique.myshopify.com
 beytech.pipedrive.com
 beytulla.mail.ru
+beyuzu.bigcartel.com
 beyvan.etsy.com
 bez_slov.mail.ru
 bezai.sharepoint.com
@@ -63571,6 +63597,7 @@ bigkitty.quora.com
 bigledlight.cn.1688.com
 biglemur.etsy.com
 bigler.mail.ru
+biglever.atlassian.net
 biglife.taobao.com
 biglife.world.taobao.com
 biglittlecolorado-my.sharepoint.com
@@ -64734,6 +64761,7 @@ binusianorg.sharepoint.com
 binux.github.com
 binvestplatform.slack.com
 binwangdz.cn.alibaba.com
+binxcosmetics.bigcartel.com
 binxingsm.tmall.com
 binxingsm.world.tmall.com
 binyang-w2k.cisco.com
@@ -67092,6 +67120,7 @@ bizentine.etsy.com
 bizer.slack.com
 bizflow.sharepoint.com
 bizfor.mail.ru
+bizgrow.atlassian.net
 bizhan_dastan.mail.ru
 bizheng.en.alibaba.com
 bizhi.ke.qq.com
@@ -69291,6 +69320,7 @@ blackwhale.github.com
 blackwhiskerstudio.etsy.com
 blackwhite.quora.com
 blackwhiteengineering.sharepoint.com
+blackwingmerch.bigcartel.com
 blackwinter-attic.github.com
 blackwinter.github.com
 blackwoodassociates.slack.com
@@ -69505,6 +69535,7 @@ blasphemina.etsy.com
 blassbross.live.com
 blast-from-indias-past.quora.com
 blast-my-blackheads.myshopify.com
+blast.atlassian.net
 blast.github.com
 blast.vhx.tv
 blast.yelp.com
@@ -69707,6 +69738,7 @@ bleechack.github.com
 bleeder9198.imgur.com
 bleedgeeks.etsy.com
 bleedingskull.vhx.tv
+bleedkilla.club.bigcartel.com
 bleem.mail.ru
 bleeman.sharepoint.com
 bleemins.imgur.com
@@ -71701,6 +71733,7 @@ bloodhound.spotify.com
 bloodhoundhq.slack.com
 bloodkisses.vhx.tv
 bloodline-custom-apparel.myshopify.com
+bloodlinebuzz.bigcartel.com
 bloodmilk.etsy.com
 bloodmilk2048.mail.ru
 bloodofteamliquid.imgur.com
@@ -71844,6 +71877,7 @@ blossoming-branch.myshopify.com
 blossomingbabyshop.etsy.com
 blossomingintowarriors.bigcartel.com
 blossomnbird.etsy.com
+blossomproducts.bigcartel.com
 blossomsbychristy.etsy.com
 blossomshop.etsy.com
 blossomsjb.etsy.com
@@ -72886,6 +72920,7 @@ bluet.slack.com
 bluetaiyang.cn.alibaba.com
 bluetears0828.spaces.live.com
 bluetech.en.alibaba.com
+bluetent.atlassian.net
 bluetheman.imgur.com
 bluethistledesigns.etsy.com
 bluethistlejewelry.etsy.com
@@ -75838,6 +75873,7 @@ bndb-serv-net.stanford.edu
 bndd768ln.quora.com
 bndilshod.mail.ru
 bndl.amigo.mail.ru
+bndr.bigcartel.com
 bndwrgnqb.yelp.com
 bne-cn.gateway.mastercard.com
 bne-my.sharepoint.com
@@ -76843,6 +76879,7 @@ bodiansm.tmall.com
 bodibinli.tmall.com
 bodibinli.world.tmall.com
 bodicareco.bigcartel.com
+bodiedbyribyriquoarobinson.bigcartel.com
 bodielewgins.imgur.com
 bodiersm.tmall.com
 bodiersm.world.tmall.com
@@ -77510,6 +77547,7 @@ boliz.taobao.com
 bolk.tweakblogs.net
 bolla.en.alibaba.com
 bolld-property-management.quora.com
+bollerbeauty.bigcartel.com
 bolles-my.sharepoint.com
 bolles.sharepoint.com
 bollicina92.spaces.live.com
@@ -78141,6 +78179,7 @@ boob.imgur.com
 boobadoo.imgur.com
 boobag-australia.myshopify.com
 boobalonia.chaturbate.com
+boobdog.bigcartel.com
 boobietrapcorsets.etsy.com
 boobonnets.etsy.com
 boobookittyboutique.etsy.com
@@ -81403,6 +81442,7 @@ bozokedutr-my.sharepoint.com
 bozokedutr.sharepoint.com
 bozsahin.github.com
 bozun.tmall.com
+bozzi.bigcartel.com
 bozzys.tmall.com
 bp-brava.bentley.com
 bp-cnds-001-p.cisco.com
@@ -84746,6 +84786,7 @@ briprdlync01.bentley.com
 briquesabrac.spaces.live.com
 bris1234.mail.ru
 brisa.sharepoint.com
+brisalashes.bigcartel.com
 brisbane.booth.pm
 brisbane.github.com
 brisbane.sharepoint.com
@@ -86379,6 +86420,7 @@ brycebetts132.bigcartel.com
 brycedongle.slac.stanford.edu
 bryceflaugherr.imgur.com
 brycesweetheart88.spaces.live.com
+brycevinemerch.bigcartel.com
 bryci.chaturbate.com
 bryckbost.github.com
 bryco.atlassian.net
@@ -87589,6 +87631,7 @@ bubblyb.bigcartel.com
 bubblyb15.imgur.com
 bubblyboozer.imgur.com
 bubblydesignco.etsy.com
+bubblyglosses.bigcartel.com
 bubblyseahorsesoap.etsy.com
 bubblyteashop.etsy.com
 bubbo.etsy.com
@@ -88902,6 +88945,7 @@ bukkit.atlassian.net
 buknudesign.etsy.com
 buko-my.sharepoint.com
 buko.sharepoint.com
+bukoliko.bigcartel.com
 bukowszky.spaces.live.com
 bukreeva7373.mail.ru
 buktotruth.imgur.com
@@ -88915,6 +88959,7 @@ bulaimei.tmall.com
 bulaji.tmall.com
 bulakesi.tmall.com
 bulamonster.etsy.com
+bulanapothecary.bigcartel.com
 bulanbek.mail.ru
 bulanduo.tmall.com
 bulangboshi.tmall.com
@@ -89546,6 +89591,7 @@ bundk-detmold.mini.de
 bundk-herford.mini.de
 bundk-paderborn.mini.de
 bundk.mini.de
+bundl8s.bigcartel.com
 bundle-of-joy-club.myshopify.com
 bundle-qa.test.ozon.ru
 bundle.ozon.ru
@@ -89558,6 +89604,7 @@ bundler.rubygems.org
 bundler.slack.com
 bundles.stanford.edu
 bundlesbug.slack.com
+bundlesofjoygloss.bigcartel.com
 bundlestore.corp.amazon.com
 bundlethejoy.shopify.com
 bundleup.logitech.com
@@ -89893,6 +89940,7 @@ burntmill.etsy.com
 burntmillpotters.etsy.com
 burntmillschool.itslearning.com
 burntofferings.etsy.com
+burntoy.en.alibaba.com
 burntsugar.bigcartel.com
 burnzkid.imgur.com
 buro_bondarenko.mail.ru
@@ -91281,6 +91329,7 @@ bwexchange.slack.com
 bwext-qa.gs.com
 bwf.edmodo.com
 bwfirt.sf.net
+bwfm.atlassian.net
 bwg.github.com
 bwgang.github.com
 bwgfish.spaces.live.com
@@ -93037,6 +93086,7 @@ by-esn.atlassian.net
 by-hand-london.myshopify.com
 by-hannahh.shopify.com
 by-healthsjs.tmall.com
+by-knitgoods.en.alibaba.com
 by-mouse.taobao.com
 by-simplelife.taobao.com
 by-textiles.en.alibaba.com
@@ -96668,6 +96718,7 @@ c189.atl001.ix.nflxvideo.net
 c189.lax001.ix.nflxvideo.net
 c18he996.quora.com
 c18u99sui0.quora.com
+c19-use-1.algolianet.com
 c190.atl001.ix.nflxvideo.net
 c190.lax001.ix.nflxvideo.net
 c191.atl001.ix.nflxvideo.net
@@ -98427,6 +98478,7 @@ c6-eu-1.algolia.net
 c6-eu-2.algolia.net
 c6-eu-3.algolia.net
 c6-usc-1.algolia.net
+c6-usc-1.algolianet.com
 c6-use-1.algolia.net
 c6-use-1.algolianet.com
 c6-use-2.algolia.net
@@ -103746,6 +103798,7 @@ cafed.etsy.com
 cafedekona.world.tmall.com
 cafedigital.live.com
 cafedublog.spaces.live.com
+cafeducupcake.bigcartel.com
 cafef.quora.com
 cafehacker.slack.com
 cafeicultura.spaces.live.com
@@ -110071,6 +110124,7 @@ cartersville-my.sharepoint.com
 cartersville.sharepoint.com
 cartertempleton.imgur.com
 cartes-de-chamouilley.spaces.live.com
+cartesirisandvioletcards.bigcartel.com
 cartexla.fm.alibaba.com
 cartexperience-mattermost.corp.amazon.com
 carthageisd.edmodo.com
@@ -110535,6 +110589,7 @@ cashewguy.imgur.com
 cashfac.atlassian.net
 cashforhomessite.quora.com
 cashfuturepayments.imgur.com
+cashier.alibaba.com
 cashier.binary.com
 cashier.casino.paddypower.com
 cashier.robinhood.com
@@ -111897,6 +111952,7 @@ caveatjin.spaces.live.com
 cavebaby.etsy.com
 cavecat0.spaces.live.com
 cavecreations.etsy.com
+cavellgroup.atlassian.net
 cavemanpottery.etsy.com
 cavemanweights.bigcartel.com
 cavendishconferencecentres.sharepoint.com
@@ -114625,6 +114681,7 @@ ccs13.sharepoint.com
 ccs_kav_kz.mail.ru
 ccsaid10102010.etsy.com
 ccsakura.slack.com
+ccsartdesign.bigcartel.com
 ccsb-my.sharepoint.com
 ccsb-pswift2-macdisplay.stanford.edu
 ccsb-stor1.stanford.edu
@@ -120717,6 +120774,7 @@ cert.tribalwars.cash
 cert.twilio.com
 cert.udemy.com
 cert.venmo.com
+cert.verkada.com.san.cloudinary.com
 cert.vhx.tv
 cert.vivy.com
 cert.widget.cloudinary.com
@@ -126625,6 +126683,7 @@ chain.slack.com
 chainacc-public.slack.com
 chainacc.slack.com
 chainalytics.files.com
+chainandchambers.bigcartel.com
 chainchainchained.etsy.com
 chaincointeam.slack.com
 chained2kindness.etsy.com
@@ -129069,17 +129128,3 @@ chd-origin-www-1.paypal.com
 chd-origin-www-2.paypal.com
 chd.connect.unibet.com
 chd.starbucks.com
-chd.stats.paypal.com
-chd2.stats.paypal.com
-chdas.live.com
-chdcmz.cn.1688.com
-chdd1688.cn.alibaba.com
-chdemo1.cisco.com
-chdemo2.cisco.com
-chdemo3.cisco.com
-chdemo41.cisco.com
-chdemo42.cisco.com
-chdemo43.cisco.com
-chdhelp.sharepoint.com
-chdior.en.alibaba.com
-chdj.world.tmall.com
