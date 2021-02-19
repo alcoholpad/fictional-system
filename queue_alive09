@@ -1,3 +1,7 @@
+sjc5-ucs01-c01b01.cisco.com
+sjc5-vault1-front-camera.cisco.com
+sjc5-vault1-rear-camera.cisco.com
+sjc5-vault2-front-camera.cisco.com
 sjc5-vault2-rear-camera.cisco.com
 sjc5-vc-cuvm1-r.cisco.com
 sjc5-vc-cuvm1.cisco.com
@@ -4652,6 +4656,7 @@ slb-vip-reserved-nat.cisco.com
 slb-vip-reserved.cisco.com
 slb.bill.g.mi.com
 slb.console.aliyun.com
+slb.itslearning.com
 slb.sp.miui.com
 slb.zhuti.xiaomi.com
 slb001-my.sharepoint.com
@@ -37187,6 +37192,7 @@ snc-hp-2.stanford.edu
 snc-led.en.alibaba.com
 snc-ml3.stanford.edu
 snc-opdc101.outpost.fb.com
+snc-opdc102.outpost.fb.com
 snc-opdc201.outpost.fb.com
 snc-vpn.corp.dropbox.com
 snc_kor.mail.ru
@@ -115006,6 +115012,7 @@ ssl.franklincovey.slack.com
 ssl.g.mi.com
 ssl.game.qq.com
 ssl.game.qq.com.cloud.tc.qq.com
+ssl.gist.github.com
 ssl.github.com
 ssl.githubapp.com
 ssl.gold.goodrx.com
@@ -115579,13 +115586,17 @@ sso.apps.wellness.dev.lifeomic.com
 sso.arkoselabs.com
 sso.atlassian.net
 sso.basic.oppoer.me
+sso.bdai.dev.ikarem.io
 sso.binance.com
+sso.bingxie.dev.ikarem.io
 sso.biz.yelp.com
 sso.blog.ui.com
+sso.bmb.dev.ikarem.io
 sso.bnsc.yelp.com
 sso.boards.greenhouse.io
 sso.bugcrowdninja.invisionapp.com
 sso.bugcrowdninja2.invisionapp.com
+sso.bwhite.dev.ikarem.io
 sso.car-line.yelp.com
 sso.cdn-pci.optimizely.com
 sso.cdn.optimizely.com
@@ -115604,6 +115615,7 @@ sso.dev.ikarem.io
 sso.dev.pyszne.pl
 sso.dev.ui.com
 sso.directly.com
+sso.dixie.dev.ikarem.io
 sso.dns.facebook.com
 sso.dvp.telenet.be
 sso.e.qq.com
@@ -115651,6 +115663,7 @@ sso.integration.cloudcenter.cisco.com
 sso.invisionapp.com
 sso.iutnb.yelp.com
 sso.jobs.github.com
+sso.jscoles.dev.ikarem.io
 sso.jss.greenhouse.io
 sso.jura-gw1.yelp.com
 sso.kis.yelp.com
@@ -115701,6 +115714,7 @@ sso.robinhood.com
 sso.sa.avira-free-antivirus.test.staging.pyszne.pl
 sso.san.cloudinary.com
 sso.sandbox.directly.com
+sso.sebhenri.dev.ikarem.io
 sso.secure.showmax.com
 sso.segment.com
 sso.semrush.com
@@ -131139,12 +131153,3 @@ suffy.trustpass.alibaba.com
 sufisminslam.quora.com
 sufixsticated-ignorance-llc.myshopify.com
 sufiy88.mail.ru
-sufmi-my.sharepoint.com
-sufmi.sharepoint.com
-sufmo-traka.stanford.edu
-sufmo.stanford.edu
-sufragista.etsy.com
-sufrine.spaces.live.com
-sufyan.spaces.live.com
-sufyanasif.live.com
-sug.browser.miui.com
