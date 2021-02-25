@@ -1,3 +1,68 @@
+westus2.commands.speech.microsoft.com
+westus2.convai.speech.microsoft.com
+westus2.dcsfe.dev.adu.microsoft.com
+westus2.dcsfe.int.adu.microsoft.com
+westus2.dcsfe.perf.adu.microsoft.com
+westus2.dcsfe.ppe.adu.microsoft.com
+westus2.dcsfe.prod.adu.microsoft.com
+westus2.dcsfe.test.adu.microsoft.com
+westus2.dev.cognitive.microsoft.com
+westus2.dev.slohub.microsoft.com
+westus2.dgs-frontend.speech.microsoft.com
+westus2.dgs.speech.microsoft.com
+westus2.disposition.mcapifulfillment-aircapi.commerce.microsoft.com
+westus2.disposition.mcapifulfillment-commercial-int.commerce.microsoft.com
+westus2.disposition.mcapifulfillment-commercial.commerce.microsoft.com
+westus2.disposition.mcapifulfillment-consumer-int.commerce.microsoft.com
+westus2.disposition.mcapifulfillment-consumer.commerce.microsoft.com
+westus2.dpp-frontend.speech.microsoft.com
+westus2.dpp.speech.microsoft.com
+westus2.fulfillment.mcapifulfillment-commercial-int.commerce.microsoft.com
+westus2.fulfillment.mcapifulfillment-commercial.commerce.microsoft.com
+westus2.fulfillment.mcapifulfillment-consumer-int.commerce.microsoft.com
+westus2.fulfillment.mcapifulfillment-consumer.commerce.microsoft.com
+westus2.ggs-frontend.speech.microsoft.com
+westus2.int.provgateway.playready.microsoft.com
+westus2.int.scm.provgateway.playready.microsoft.com
+westus2.journal.mcapifulfillment-aircapi.commerce.microsoft.com
+westus2.journal.mcapifulfillment-consumer-int.commerce.microsoft.com
+westus2.journal.mcapifulfillment-consumer.commerce.microsoft.com
+westus2.mrassistant.speech.microsoft.com
+westus2.prod.powerquery.microsoft.com
+westus2.provgateway.playready.microsoft.com
+westus2.rp.dev.adu.microsoft.com
+westus2.rp.int.adu.microsoft.com
+westus2.rp.perf.adu.microsoft.com
+westus2.rp.ppe.adu.microsoft.com
+westus2.rp.prod.adu.microsoft.com
+westus2.rp.test.adu.microsoft.com
+westus2.semanticobj-df.teams.microsoft.com
+westus2.server.v2.phone.sls.microsoft.com
+westus2.session.mcapisession-int.commerce.microsoft.com
+westus2.session.mcapisession.commerce.microsoft.com
+westus2.sessions.dev.collab.mixedreality.microsoft.com
+westus2.slohub.microsoft.com
+westus2.sr-frontend.speech.microsoft.com
+westus2.telephony.convai.speech.microsoft.com
+westus2.tts-frontend.speech.microsoft.com
+westus2.vnet.powerplatform.microsoft.com
+westvan1.myshopify.com
+westvan2.myshopify.com
+westvan3.myshopify.com
+westvirginia.att.com
+westvirginia.forumdev.rivals.com
+westvirginia.forums.rivals.com
+westvirginia.n.rivals.com
+westvirginia.pr-1360.dev.rivals.com
+westvirginia.pr-1931.dev.rivals.com
+westvirginia.pr-1988.dev.rivals.com
+westvirginia.pr-2009.dev.rivals.com
+westvirginia.pr-2047.dev.rivals.com
+westvirginia.pr-2056.dev.rivals.com
+westvirginia.pr-2696.dev.rivals.com
+westvirginia.pr-2786.dev.rivals.com
+westvirginia.pr-2797.dev.rivals.com
+westvirginia.pr-2825.dev.rivals.com
 westvirginia.pr-2909.dev.rivals.com
 westvirginia.pr-2911.dev.rivals.com
 westvirginia.pr-2916.dev.rivals.com
@@ -1732,6 +1797,7 @@ whiskersworld.etsy.com
 whiskey.taobao.com
 whiskey2.cisco.com
 whiskeyafternoon.imgur.com
+whiskeyandbullets.myshopify.com
 whiskeygingerco.etsy.com
 whiskeyish.etsy.com
 whiskeykittenshop.bigcartel.com
@@ -1801,6 +1867,7 @@ white-hat-test.myshopify.com
 white-led.en.alibaba.com
 white-moon-jewellery.myshopify.com
 white-newsteady.spaces.live.com
+white-pine-relics.myshopify.com
 white-squirrels-candle-company.myshopify.com
 white-story.shopify.com
 white-warior.spaces.live.com
@@ -2554,6 +2621,7 @@ whoplusuat.microsoft.com
 whopressdpress.bigcartel.com
 whorsegoodbags.aliexpress.com
 whorsehighqualitybags.aliexpress.com
+whoscami.bigcartel.com
 whosebaby.aliexpress.com
 whoselinefan.imgur.com
 whositsandwhatnots.etsy.com
@@ -2626,6 +2694,8 @@ whslzp.cn.alibaba.com
 whslzp.en.alibaba.com
 whsm.tmall.com
 whsm.world.tmall.com
+whsmithasia-my.sharepoint.com
+whsmithasia.sharepoint.com
 whsruesselsheimde.sharepoint.com
 whsso.pre.txmeeting.tencent.com
 whsso.test.txmeeting.tencent.com
@@ -3556,6 +3626,7 @@ wilcoxart.etsy.com
 wilcoxcountyschools.edmodo.com
 wilcoxdiversifiedart.etsy.com
 wild-acorn.myshopify.com
+wild-citrine.myshopify.com
 wild-earth-creations.myshopify.com
 wild-goose-costa-mesa.myshopify.com
 wild-old-west.spaces.live.com
@@ -5321,6 +5392,8 @@ winshow09.spaces.live.com
 winshuttle.upwork.com
 winsig365-my.sharepoint.com
 winsig365.sharepoint.com
+winsight.vanillacommunities.com
+winsight.vanillastaging.com
 winsion.en.alibaba.com
 winsled.cn.1688.com
 winslowschools-my.sharepoint.com
@@ -5376,6 +5449,7 @@ wintek.en.alibaba.com
 wintekco.en.alibaba.com
 wintellect.github.com
 wintellectual.spaces.live.com
+winter-luna.myshopify.com
 winter.github.com
 winter.sharepoint.com
 winter.yelp.com
@@ -6099,6 +6173,7 @@ wishbeadsaccessories.myshopify.com
 wishbeer1.myshopify.com
 wishbonesoftware.quora.com
 wishbyfelicity.etsy.com
+wishchoose.myshopify.com
 wishclub.aliexpress.com
 wishcollecting.myshopify.com
 wishdaisy.etsy.com
@@ -6425,6 +6500,7 @@ witnt2000.mail.ru
 witold.quora.com
 witoldsz.github.com
 witool.sf.net
+witoyee.myshopify.com
 witoza.github.com
 witpartnershipltd-my.sharepoint.com
 witpartnershipltd.sharepoint.com
@@ -6452,6 +6528,7 @@ wittenborg.sharepoint.com
 wittified.atlassian.net
 witting.sharepoint.com
 wittmancapital.slack.com
+witty-sticky.myshopify.com
 witty.sf.net
 witty1984.spaces.live.com
 wittybear.imgur.com
@@ -6513,6 +6590,7 @@ wizardfei.spaces.live.com
 wizardhoro.spaces.live.com
 wizardmac.slack.com
 wizardofcrowds.github.com
+wizardpotion.bigcartel.com
 wizardsinger-donkoucomet.spaces.live.com
 wizdumb27.imgur.com
 wizehire.slack.com
@@ -7790,6 +7868,7 @@ womenwhogoberlin.slack.com
 womercollective.slack.com
 womijia.tmall.com
 womp.sf.net
+womr.myshopify.com
 womxnintechto.slack.com
 won-jenkins.innogames.de
 won2q2m3rr-dsn.algolia.net
@@ -7859,6 +7938,7 @@ wondergirlofficialstore.aliexpress.com
 wondergrrl.etsy.com
 wonderhat.imgur.com
 wonderhome.ultimateears.com
+wonderinabox.myshopify.com
 wonderingalchemist.etsy.com
 wonderkiln.slack.com
 wonderlabs.atlassian.net
@@ -8844,6 +8924,7 @@ workflow.yelp.com
 workflowadminservice.glbdns2.microsoft.com
 workflowe2-dra.platform.hicloud.com
 workflowhq.slack.com
+workflows-selfservice.aka.amazon.com
 workflows.ha-prod.synack.com
 workflows.ha-qa.synack.com
 workflows.newrelic.com
@@ -9615,6 +9696,7 @@ world-power.en.alibaba.com
 world-rearrange.fr.planethoster.net
 world-rhlm-spanish.myshopify.com
 world-running.spaces.live.com
+world-soul-wellness.myshopify.com
 world-traveller.spaces.live.com
 world-wifi.slack.com
 world.1688.com
@@ -9796,6 +9878,7 @@ worldofmaps.etsy.com
 worldofmarketing.quora.com
 worldofpollux.etsy.com
 worldofpools.myshopify.com
+worldofquaepaulo.bigcartel.com
 worldofrecruitment.quora.com
 worldofrn.shopify.com
 worldofsm.mail.ru
@@ -10618,11 +10701,13 @@ wproa-prd-01-r5.cisco.com
 wproa-prd-01.cisco.com
 wproglk.github.com
 wpromania.slack.com
+wprsurvey-cloudapps.xglb.cisco.com
 wprsurvey-dev.cloudapps.cisco.com
 wprsurvey-prod-alln.cisco.com
 wprsurvey-prod-rcdn.cisco.com
 wprsurvey-stg.cloudapps.cisco.com
 wprsurvey.cloudapps.cisco.com
+wprvms-cloudapps.xglb.cisco.com
 wprvms-dev.cloudapps.cisco.com
 wprvms-stg.cloudapps.cisco.com
 wprvms.cloudapps.cisco.com
@@ -12777,6 +12862,7 @@ wuniu.tmall.com
 wunlick.bigcartel.com
 wunong.tmall.com
 wunschdruck24.myshopify.com
+wunschfans.myshopify.com
 wunster.sharepoint.com
 wunt.westernunion.com
 wunvshan.tmall.com
@@ -13473,6 +13559,7 @@ ww1.onboarding.greenhouse.io
 ww1.onedrive.com
 ww1.onedrive.live.com
 ww1.paper.dropbox.com
+ww1.pingone.com
 ww1.quora.com
 ww1.res.cloudinary.com
 ww1.researchgate.net
@@ -15029,6 +15116,7 @@ www-thesun-co-uk.amp.cloudflare.com
 www-times.stanford.edu
 www-tisint.slac.stanford.edu
 www-tomcat.antivirus.dentalplans.goodrx.com
+www-tomgoedecker-de.myshopify.com
 www-tr.antivirus.dentalplans.goodrx.com
 www-treatwellationsdevdiscovid19.sa-api.brasil.athena.bitdefender.net
 www-ts1bmw-1.cisco.com
@@ -15964,6 +16052,7 @@ www.accentuatetoday.etsy.com
 www.accenture.udemy.com
 www.acceptance.mastercard.com
 www.acceptancematters.mastercard.com
+www.access-board.gov.external-domains-production.cloud.gov
 www.access.apple.com
 www.access.fb.com
 www.access.github.com
@@ -26484,6 +26573,7 @@ www.ddots.etsy.com
 www.ddott.etsy.com
 www.dds.damantianxia.com.grudge-pandemic.my.com
 www.ddstudioart.etsy.com
+www.de-de.date.lite.facebook.com
 www.de-de.fbjs.facebook.com
 www.de-de.ms-my.fbjs.facebook.com
 www.de-de.prod.facebook.com
@@ -28897,6 +28987,7 @@ www.dzegj0.imgur.com
 www.dzfantacy.etsy.com
 www.dzg.my.com
 www.dzjewells.etsy.com
+www.dzmelts.bigcartel.com
 www.dzmingnuo.en.alibaba.com
 www.dzrunao.en.alibaba.com
 www.dzyjsl.cn.alibaba.com
@@ -32480,6 +32571,7 @@ www.gitlab.com
 www.gitter.im
 www.giuliettta.spaces.live.com
 www.giuseppe2006italy.spaces.live.com
+www.giveandgocloud-my.sharepoint.com
 www.givegsb.stanford.edu
 www.giveitpretty.etsy.com
 www.giving.mastercard.com
@@ -32488,6 +32580,7 @@ www.givingtohumsci.stanford.edu
 www.gjennisonphotography.etsy.com
 www.gjled158.cn.alibaba.com
 www.gkclayworks.etsy.com
+www.gl-es.lite.facebook.com
 www.gl10010.tmall.com
 www.gladheartart.etsy.com
 www.gladraggz.etsy.com
@@ -32840,6 +32933,7 @@ www.google.com3.node.v2.xiaomiyoupin.com
 www.google.com31.alpha-v2.ci.xiaomiyoupin.com
 www.google.com9-win1.3.20.xiaomiyoupin.com
 www.google.com9.3.20.xiaomiyoupin.com
+www.google.combucky.kbdregion.www.email.account.vcdc.az.nearme.com.cn
 www.google.combucky.kbdregion.www.email.appenginei-adm.vcdc.az.nearme.com.cn
 www.google.combucky.kbdregion.www.email.appopayfsi-adm.vcdc.az.nearme.com.cn
 www.google.comcomcom-pantheonclient.20.s.xiaomiyoupin.com
@@ -34438,6 +34532,7 @@ www.hholz.comhilary.github.com
 www.hhprint.etsy.com
 www.hhxyxxt.cn.alibaba.com
 www.hi-in.cinyour.facebook.com
+www.hi-in.dns.facebook.com
 www.hi-in.es-la.fbjs.facebook.com
 www.hi-in.th-th.fbjs.facebook.com
 www.hi-tech.mail.ru
@@ -41450,6 +41545,7 @@ www.lyricrabbit.shopify.com
 www.lysacreationdesign.etsy.com
 www.lyst.co
 www.lyst.com
+www.lystbaekgaardgaardbutik.bigcartel.com
 www.lystit.com
 www.lyxinggang.cn.alibaba.com
 www.lyzhenmu.cn.alibaba.com
@@ -41901,6 +41997,7 @@ www.maisynscreations.etsy.com
 www.maitecalzature.etsy.com
 www.majaolender.etsy.com
 www.majentadesigns.etsy.com
+www.majesstickreationz.bigcartel.com
 www.majesticmacaronstore.etsy.com
 www.majestyindustries.etsy.com
 www.majikdesigns.etsy.com
@@ -42443,6 +42540,7 @@ www.material.etsy.com
 www.materialandmovement.etsy.com
 www.materialevidenceshop.etsy.com
 www.materialgal.etsy.com
+www.materialgirlcloset.bigcartel.com
 www.materialised.etsy.com
 www.materialrecovery.etsy.com
 www.mateycouture.etsy.com
@@ -43417,6 +43515,7 @@ www.misscharlotte.etsy.com
 www.misschicboutique.etsy.com
 www.misscocotte.etsy.com
 www.misscreative.etsy.com
+www.missdolly.bigcartel.com
 www.missdoolittles.etsy.com
 www.missdtm.etsy.com
 www.misselliemay.etsy.com
@@ -43530,6 +43629,7 @@ www.mktmakeit.en.alibaba.com
 www.mkuncover.dev.lieferando.de
 www.mkwdesignco.etsy.com
 www.mkwest3.etsy.com
+www.ml-in.lite.facebook.com
 www.ml.github.com
 www.mlabs.grudge-pandemic-com.my.com
 www.mlarson17.etsy.com
@@ -57051,6 +57151,7 @@ www.tgmember.slack.com
 www.tgv-grudge-pandemic.com.my.com
 www.th-th.c.facebook.com
 www.th-th.messenger.com
+www.th-th.pl-pl.c.facebook.com
 www.th-th.prod.facebook.com
 www.th-th.ro-ro.fbjs.facebook.com
 www.th.github.com
@@ -63037,6 +63138,7 @@ www.yofull.en.alibaba.com
 www.yogajanne.etsy.com
 www.yoganoodles.etsy.com
 www.yogaone.etsy.com
+www.yogasellers.vhx.tv
 www.yogaworks.etsy.com
 www.yoghi911.etsy.com
 www.yogyakarta.regency.hyatt.com
@@ -63330,6 +63432,7 @@ www.zgtyzp.cn.alibaba.com
 www.zgyspaper.cn.alibaba.com
 www.zh-cn.af-za.fbjs.facebook.com
 www.zh-cn.messenger.com
+www.zh-tw.ja-jp.f1.fbjs.facebook.com
 www.zh-tw.prod.facebook.com
 www.zh-tw.pt-pt.fbjs.facebook.com
 www.zh-tw.tr-tr.fbjs.facebook.com
@@ -63783,6 +63886,7 @@ www1.pc25.openvpn.web.dqr.enterprise-antivirus.stg.starbucks.com.cn
 www1.pdev.labs.voicetone.att.com
 www1.perf-globalpay.westernunion.com
 www1.petitviruset.etsy.com
+www1.pingone.com
 www1.pr.labs.voicetone.att.com
 www1.prod-globalpay.westernunion.com
 www1.pt.aliexpress.com
@@ -64099,6 +64203,7 @@ www2.onedrive.live.com
 www2.open-xchange.com
 www2.opensource.apple.com
 www2.paper.dropbox.com
+www2.pingone.com
 www2.prd.telenet.be
 www2.pt.aliexpress.com
 www2.quora.com
@@ -66360,6 +66465,7 @@ wwwpass.dentalplansantivirus.goodrx.com
 wwwpayment.dentalplans.goodrx.com
 wwwpc.dentalplans.antivirus.goodrx.com
 wwwperf.microsoft.com
+wwwperfecttouchco.bigcartel.com
 wwwpetitviruset.etsy.com
 wwwphoenixfiredesigns.etsy.com
 wwwphp.dentalplans.goodrx.com
@@ -68724,6 +68830,7 @@ xapi.ozon.ru
 xapiens.sharepoint.com
 xapingou.cn.alibaba.com
 xapisec.slack.com
+xapiws-cloudapps.xglb.cisco.com
 xapiws-dev.cloudapps.cisco.com
 xapiws-lt.cloudapps.cisco.com
 xapiws-prod-alln.cisco.com
@@ -71091,7 +71198,9 @@ xerxes.yelp.com
 xesps-bluegreen-prod-alln.cisco.com
 xesps-bluegreen-prod-rcdn.cisco.com
 xesps-bluegreen-prod-rtp.cisco.com
+xesps-cloudapps.xglb.cisco.com
 xesps-dev.cloudapps.cisco.com
+xesps-green-cloudapps.xglb.cisco.com
 xesps-green.cloudapps.cisco.com
 xesps-lt.cloudapps.cisco.com
 xesps-prod-alln.cisco.com
@@ -71359,6 +71468,8 @@ xgdsm.tmall.com
 xgduoduo.en.alibaba.com
 xgdz.en.alibaba.com
 xgdzgd.cn.alibaba.com
+xge-snd-rpt-pmgr-cloudstation-us-west-2.qa.hydra.sophos.com
+xge-snd-rpt-pmgr.cloudstation.us-west-2.qa.hydra.sophos.com
 xge.tmall.com
 xgeldannu.tmall.com
 xgeldannu.world.tmall.com
@@ -71418,6 +71529,8 @@ xgjl.tmall.com
 xgleather.en.alibaba.com
 xglkumhgqp.imgur.com
 xgls186.1688.com
+xglxx-my.sharepoint.com
+xglxx.sharepoint.com
 xgmarker.1688.com
 xgmscene.imgur.com
 xgnchhf.1688.com
@@ -72708,6 +72821,7 @@ xiaqing142.spaces.live.com
 xiarikeji.1688.com
 xiashanmeimy.tmall.com
 xiashichao.github.com
+xiashoes-xyz.myshopify.com
 xiashu.tmall.com
 xiatao923.spaces.live.com
 xiatiandao.taobao.com
@@ -74371,6 +74485,7 @@ xinzig.en.alibaba.com
 xinzu.tmall.com
 xinzuojjry.tmall.com
 xinzuojjry.world.tmall.com
+xiocraftboutique.bigcartel.com
 xiod.mail.ru
 xioma-pprd-alln.cisco.com
 xioma-prod-alln.cisco.com
@@ -75176,6 +75291,7 @@ xmart-cms-prd1.cisco.com
 xmartkafka-dev.cisco.com
 xmartkafka-stage.cisco.com
 xmartkafka.cisco.com
+xmartkafka.xglb.cisco.com
 xmartyweb.spaces.live.com
 xmarun.1688.com
 xmas-b040r130.slac.stanford.edu
@@ -76051,6 +76167,7 @@ xomino.sharepoint.com
 xomojing.tmall.com
 xomonline.etsy.com
 xomyachok777.mail.ru
+xon-cbd-store.myshopify.com
 xonecas.imgur.com
 xonecert.core.microsoft.com
 xoneofakindx.spaces.live.com
@@ -77690,6 +77807,8 @@ xuscqv8rn.quora.com
 xuse.booth.pm
 xusenwiremesh.en.alibaba.com
 xusfashion.en.alibaba.com
+xusglx-my.sharepoint.com
+xusglx.sharepoint.com
 xusha0129.mail.ru
 xushafushi.1688.com
 xushanjj.1688.com
@@ -78033,6 +78152,7 @@ xxgk.yelp.com
 xxgkjx.cn.alibaba.com
 xxglsrqc.1688.com
 xxglsrqc.cn.alibaba.com
+xxgmo-cloudapps.xglb.cisco.com
 xxgmo-dev.cloudapps.cisco.com
 xxgmo-prod-alln.cisco.com
 xxgmo-prod-rcdn.cisco.com
@@ -79465,6 +79585,7 @@ yalun.tmall.com
 yalunexport.en.alibaba.com
 yalute.en.alibaba.com
 yalyb.imgur.com
+yalysaxiao.myshopify.com
 yam-friends-wbench-reg.devops.telekom.de
 yam-friends-wbench.devops.telekom.de
 yam.devops.telekom.de
@@ -80123,6 +80244,7 @@ yanwangmei2011.cn.alibaba.com
 yanwild.mail.ru
 yanwink.spaces.live.com
 yanwowang.fm.alibaba.com
+yanwowang.m.fm.alibaba.com
 yanwu1924.spaces.live.com
 yanxi-lnx.cisco.com
 yanxi.qq.com.cloud.tc.qq.com
@@ -82170,6 +82292,8 @@ yesnow.tmall.com
 yeso.en.alibaba.com
 yeso.tmall.com
 yesodweb.github.com
+yesomaha-my.sharepoint.com
+yesomaha.sharepoint.com
 yeson1631.slack.com
 yesonsteel.en.alibaba.com
 yesoul.en.alibaba.com
@@ -82869,6 +82993,7 @@ ygfurniture.en.alibaba.com
 yggdrasil-graphql-service.svc.pantheon.io
 yggdrasilmlt-admin.sharepoint.com
 yggdrasilmlt.sharepoint.com
+yggwskwhqt.imgur.com
 ygh78889.1688.com
 yghao.en.alibaba.com
 yghcc.spaces.live.com
@@ -84909,6 +85034,7 @@ yiwusika.en.alibaba.com
 yiwusinotop.1688.com
 yiwusinotop.en.alibaba.com
 yiwustationery.en.alibaba.com
+yiwusulongjixie.1688.com
 yiwusungnan.en.alibaba.com
 yiwutengfei.en.alibaba.com
 yiwutuyuan.1688.com
@@ -85798,6 +85924,7 @@ yldqc.cn.alibaba.com
 yldspring.1688.com
 yldssp.tmall.com
 yleather.aliexpress.com
+yleben.myshopify.com
 ylemeng.mail.ru
 yleniagreenday.spaces.live.com
 yleniaspace.spaces.live.com
@@ -85833,6 +85960,7 @@ yli.dev.quora.com
 yli.main.quora.com
 yli.remote.quora.com
 ylichina.spaces.live.com
+yliess.myshopify.com
 ylike.aliexpress.com
 ylinflatables.en.alibaba.com
 ylioppilaskuntatrey-my.sharepoint.com
@@ -86976,6 +87104,8 @@ yonishakti.vhx.tv
 yonismontana.spaces.live.com
 yonita.etsy.com
 yonkers.stanford.edu
+yonkerspublicschools-my.sharepoint.com
+yonkerspublicschools.sharepoint.com
 yonlit.en.alibaba.com
 yonniex.aliexpress.com
 yonniswackyworkshop.sharepoint.com
@@ -87082,6 +87212,7 @@ yorke309.spaces.live.com
 yorkeengineering.sharepoint.com
 yorki-omsk.mail.ru
 yorkiediva.live.com
+yorkiejava-com.myshopify.com
 yorkiepuppydogs.sharepoint.com
 yorkigirl.spaces.live.com
 yorkindustry.en.alibaba.com
@@ -87281,6 +87412,7 @@ youcable.m.en.alibaba.com
 youcanhelp-pscharities-org.dns.foxycart.com
 youcanhelp.pscharities.org.dns.foxycart.com
 youcanquotemeonthat.etsy.com
+youcanstore1.myshopify.com
 youcanthidefromthetruth.vhx.tv
 youcef.github.com
 youcef.slack.com
@@ -87643,6 +87775,7 @@ youngrace.tmall.com
 youngreen.en.alibaba.com
 youngriver.en.alibaba.com
 youngsbest.quora.com
+youngscent-com.myshopify.com
 youngsceramic.en.alibaba.com
 youngscholarsinitiative.zoom.us
 youngscotenterprise.sharepoint.com
@@ -87908,6 +88041,7 @@ yoursite.vhx.tv
 yourslacksubdomain.slack.com
 yourslackteam.slack.com
 yoursnetwork.slack.com
+yoursound-co.myshopify.com
 yourspacename.spaces.live.com
 yourspokesman.yelp.com
 yoursquarelife.etsy.com
@@ -88367,6 +88501,7 @@ ypolevod.mail.ru
 ypolls.yahoo.com
 yport-my.sharepoint.com
 yport.sharepoint.com
+ypp-preprod.sandbox.google.com
 ypp0769.cn.alibaba.com
 yppgnlqp.cloudstation.eu-west-1.inf.hydra.sophos.com
 ypph-my.sharepoint.com
@@ -89443,6 +89578,7 @@ yuanjong.spaces.live.com
 yuanjunfang168.1688.com
 yuanjunfang168.me.1688.com
 yuanjusm.tmall.com
+yuanjuyuan.1688.com
 yuankang.tmall.com
 yuankangauto.1688.com
 yuankangzq.en.alibaba.com
@@ -97264,6 +97400,7 @@ zabbix.clario.co
 zabbix.dc.ifood.com.br
 zabbix.fitstar.com
 zabbix.github.com
+zabbix.gts.myteksi.net
 zabbix.itp.netflix.com
 zabbix.portaal.rabobank.nl
 zabbix.sf.net
@@ -97304,6 +97441,7 @@ zachandjodyphoto.foxycart.com
 zacharyjroth.imgur.com
 zacharyknoles.etsy.com
 zacharymatthewstearn.github.com
+zacharymgoldstein.bigcartel.com
 zacharyroop.venmo.com
 zacharyvoase.github.com
 zacharywong.imgur.com
@@ -97334,6 +97472,7 @@ zacknewcott.imgur.com
 zackoke.bigcartel.com
 zackrycooper.yelp.com
 zacks.spaces.live.com
+zackssweetsshop.bigcartel.com
 zackwayne24.mail.ru
 zackwayne25.mail.ru
 zackz115.imgur.com
@@ -97945,6 +98084,7 @@ zazandmo.etsy.com
 zazaofcanada.etsy.com
 zazasboujeetingz.bigcartel.com
 zazattache.etsy.com
+zazito-snacks.myshopify.com
 zazsuanming.zhan.qq.com
 zazu.cisco.com
 zazu.stanford.edu
@@ -98607,6 +98747,8 @@ zecfzb.docs.live.net
 zechao.en.alibaba.com
 zechenfitness.en.alibaba.com
 zechengkc.1688.com
+zechglobal-my.sharepoint.com
+zechglobal.sharepoint.com
 zecongtoys.en.alibaba.com
 zecosm.tmall.com
 zecovidrio.udemy.com
@@ -99056,6 +99198,7 @@ zenlirectifier.1688.com
 zenlirectifier.cn.alibaba.com
 zenmat-porto.myshopify.com
 zenmentortracker.liquidweb.com
+zenna-x-co.myshopify.com
 zennb9811.1688.com
 zennb9811.cn.1688.com
 zennymph.etsy.com
@@ -99119,6 +99262,7 @@ zenyakudoshomachi.sharepoint.com
 zenyfuentes.etsy.com
 zenymedia.bigcartel.com
 zenzphotography.etsy.com
+zeo-sleep-mo.myshopify.com
 zeodomain.spaces.live.com
 zeol.tmall.com
 zeolite.etsy.com
@@ -99881,6 +100025,7 @@ zh-cn.hi-in.fr-fr.pt-br.prod.facebook.com
 zh-cn.hi-in.th-th.fbjs.facebook.com
 zh-cn.hr-hr.google.fbjs.facebook.com
 zh-cn.id-id.developers.prod.facebook.com
+zh-cn.id-id.dns.facebook.com
 zh-cn.id-id.fb.me
 zh-cn.id-id.fr-fr.fbjs.facebook.com
 zh-cn.id-id.m.fb.me
@@ -101483,6 +101628,7 @@ zhmany.en.alibaba.com
 zhme.en.alibaba.com
 zhmezi.spaces.live.com
 zhmfs.tmall.com
+zhmng.fm.alibaba.com
 zhmy.en.alibaba.com
 zhnee.en.alibaba.com
 zhnewbie.spaces.live.com
@@ -102634,6 +102780,7 @@ zigzageducaria.atlassian.net
 zigzagsandzebrasco.etsy.com
 zigzagstitches.etsy.com
 zigzagwhisperinboxru.webagent.mail.ru
+zigzagzig.bigcartel.com
 zihang.tmall.com
 zihang.world.tmall.com
 zihanghaohai.cn.alibaba.com
@@ -103274,6 +103421,8 @@ zjdongya.1688.com
 zjdoyen.cn.alibaba.com
 zjdqfs.1688.com
 zjdr.en.alibaba.com
+zjdsd.taobao.com
+zjdsd.world.taobao.com
 zjdsl.1688.com
 zjdsm.en.alibaba.com
 zjdttx.cn.alibaba.com
@@ -104792,6 +104941,8 @@ zombs-royale.en.test.avira-free-antivirus.staging.pyszne.pl
 zombs-royale.enavira-free-antivirus.test.staging.pyszne.pl
 zomei.tmall.com
 zoment.slack.com
+zomentum.vanillacommunities.com
+zomentum.vanillastaging.com
 zomerparkfeest.sharepoint.com
 zometool.spaces.live.com
 zomgpics.imgur.com
@@ -120564,6 +120715,8 @@ zzkmdg.cn.alibaba.com
 zzknown.en.alibaba.com
 zzko1v1v.cloudstation.us-west-2.prod.hydra.sophos.com
 zzktyq.cn.alibaba.com
+zzkuner-my.sharepoint.com
+zzkuner.sharepoint.com
 zzkwsp.cn.alibaba.com
 zzkyts.tmall.com
 zzkzb888.1688.com
