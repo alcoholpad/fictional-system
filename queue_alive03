@@ -1,7 +1,3 @@
-dhcp-64-100-121-3.cisco.com
-dhcp-64-100-121-30.cisco.com
-dhcp-64-100-121-31.cisco.com
-dhcp-64-100-121-32.cisco.com
 dhcp-64-100-121-33.cisco.com
 dhcp-64-100-121-34.cisco.com
 dhcp-64-100-121-35.cisco.com
@@ -125117,3 +125113,9 @@ et35.usw1-1-edg.amb.yahoo.com
 et35.usw1-1-edg.ata.yahoo.com
 et35.usw1-1-edg.cha.yahoo.com
 et35.usw1-1-edg.daa.yahoo.com
+et35.usw1-1-edg.dca.yahoo.com
+et35.usw1-1-edg.deb.yahoo.com
+et35.usw1-1-edg.dnb.yahoo.com
+et35.usw1-1-edg.fra.yahoo.com
+et35.usw1-1-edg.hkb.yahoo.com
+et35.usw1-1-edg.jpa.yahoo.com

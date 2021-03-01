@@ -1,15 +1,3 @@
-westus2.dcsfe.int.adu.microsoft.com
-westus2.dcsfe.perf.adu.microsoft.com
-westus2.dcsfe.ppe.adu.microsoft.com
-westus2.dcsfe.prod.adu.microsoft.com
-westus2.dcsfe.test.adu.microsoft.com
-westus2.dev.cognitive.microsoft.com
-westus2.dev.slohub.microsoft.com
-westus2.dgs-frontend.speech.microsoft.com
-westus2.dgs.speech.microsoft.com
-westus2.disposition.mcapifulfillment-aircapi.commerce.microsoft.com
-westus2.disposition.mcapifulfillment-commercial-int.commerce.microsoft.com
-westus2.disposition.mcapifulfillment-commercial.commerce.microsoft.com
 westus2.disposition.mcapifulfillment-consumer-int.commerce.microsoft.com
 westus2.disposition.mcapifulfillment-consumer.commerce.microsoft.com
 westus2.dpp-frontend.speech.microsoft.com
@@ -106079,7 +106067,9 @@ zoomca135213138mmr.zoom.us
 zoomca158101346mmr.zoom.us
 zoomca17323190255zc.cloud.zoom.us
 zoomca193-123-0-112mmr.cloud.zoom.us
+zoomca193-123-1-139zc.cloud.zoom.us
 zoomca193-123-1-167mmr.cloud.zoom.us
+zoomca193-123-1-198zc.cloud.zoom.us
 zoomca193-123-1-56zc.cloud.zoom.us
 zoomca193-123-11-40mmr.cloud.zoom.us
 zoomca193-123-14-122zc.cloud.zoom.us
@@ -106131,6 +106121,7 @@ zoomca193-123-5-137zc.cloud.zoom.us
 zoomca193-123-6-231mmr.cloud.zoom.us
 zoomca193-123-7-95mmr.cloud.zoom.us
 zoomca193-123-8-136mmr.cloud.zoom.us
+zoomca193-123-9-74zc.cloud.zoom.us
 zoomca198-251-145-13mmr.cloud.zoom.us
 zoomca198-251-147-177mmr.cloud.zoom.us
 zoomca198-251-147-192mmr.cloud.zoom.us
@@ -108750,6 +108741,7 @@ zoomer070.mail.ru
 zoomference.zoom.us
 zoomff129-159-10-244mmr.cloud.zoom.us
 zoomff129-159-10-44mmr.cloud.zoom.us
+zoomff129-159-11-210mmr.cloud.zoom.us
 zoomff129-159-12-23zc.cloud.zoom.us
 zoomff129-159-13-134zc.cloud.zoom.us
 zoomff129-159-15-229zc.cloud.zoom.us
@@ -108839,6 +108831,7 @@ zoomff134-224-73-221mmr.cloud.zoom.us
 zoomff134-224-73-231mmr.cloud.zoom.us
 zoomff134-224-76-144zc.cloud.zoom.us
 zoomff134-224-76-145zc.cloud.zoom.us
+zoomff134-224-76-25mmr.cloud.zoom.us
 zoomff134-224-77-78mmr.cloud.zoom.us
 zoomff134-224-78-176mmr.cloud.zoom.us
 zoomff134-224-78-34zc.cloud.zoom.us
@@ -108887,6 +108880,7 @@ zoomff193-122-39-159mmr.cloud.zoom.us
 zoomff193-122-39-229mmr.cloud.zoom.us
 zoomff193-122-39-32mmr.cloud.zoom.us
 zoomff193-122-41-213zc.cloud.zoom.us
+zoomff193-122-42-12mmr.cloud.zoom.us
 zoomff193-122-42-229mmr.cloud.zoom.us
 zoomff193-122-42-46zc.cloud.zoom.us
 zoomff193-122-42-78zc.cloud.zoom.us
@@ -108897,6 +108891,7 @@ zoomff193-122-45-130mmr.cloud.zoom.us
 zoomff193-122-45-131zc.cloud.zoom.us
 zoomff193-122-45-54mmr.cloud.zoom.us
 zoomff193-122-46-10zc.cloud.zoom.us
+zoomff193-122-46-93zc.cloud.zoom.us
 zoomff193-122-47-188mmr.cloud.zoom.us
 zoomff193-122-47-34mmr.cloud.zoom.us
 zoomff193-123-42-159zc.cloud.zoom.us
@@ -117064,6 +117059,10 @@ zoomva134-224-10-202mmr.cloud.zoom.us
 zoomva134-224-10-250zc.cloud.zoom.us
 zoomva134-224-10-75mmr.cloud.zoom.us
 zoomva134-224-11-124mmr.cloud.zoom.us
+zoomva134-224-11-131zc.cloud.zoom.us
+zoomva134-224-12-3mmr.cloud.zoom.us
+zoomva134-224-13-225zc.cloud.zoom.us
+zoomva134-224-13-241mmr.cloud.zoom.us
 zoomva134-224-14-196zc.cloud.zoom.us
 zoomva134-224-15-222mmr.cloud.zoom.us
 zoomva134-224-15-61zc.cloud.zoom.us
@@ -117117,6 +117116,7 @@ zoomva134-224-26-172zc.cloud.zoom.us
 zoomva134-224-26-174zc.cloud.zoom.us
 zoomva134-224-26-176zc.cloud.zoom.us
 zoomva134-224-26-177zc.cloud.zoom.us
+zoomva134-224-26-43mmr.cloud.zoom.us
 zoomva134-224-27-55mmr.cloud.zoom.us
 zoomva134-224-28-189mmr.cloud.zoom.us
 zoomva134-224-29-112mmr.cloud.zoom.us
@@ -117133,6 +117133,7 @@ zoomva134-224-6-199zc.cloud.zoom.us
 zoomva134-224-6-46mmr.cloud.zoom.us
 zoomva134-224-6-4zc.cloud.zoom.us
 zoomva134-224-6-66mmr.cloud.zoom.us
+zoomva134-224-6-74mmr.cloud.zoom.us
 zoomva134-224-6-82zc.cloud.zoom.us
 zoomva134-224-8-174zc.cloud.zoom.us
 zoomva134-224-8-74mmr.cloud.zoom.us
@@ -117226,6 +117227,7 @@ zoomva193-123-135-235mmr.cloud.zoom.us
 zoomva193-123-136-176zc.cloud.zoom.us
 zoomva193-123-136-27mmr.cloud.zoom.us
 zoomva193-123-136-64zc.cloud.zoom.us
+zoomva193-123-136-68mmr.cloud.zoom.us
 zoomva193-123-138-137mmr.cloud.zoom.us
 zoomva193-123-138-179mmr.cloud.zoom.us
 zoomva193-123-138-209zc.cloud.zoom.us
@@ -117234,6 +117236,8 @@ zoomva193-123-138-31mmr.cloud.zoom.us
 zoomva193-123-139-126zc.cloud.zoom.us
 zoomva193-123-139-15zc.cloud.zoom.us
 zoomva193-123-139-9zc.cloud.zoom.us
+zoomva193-123-140-209mmr.cloud.zoom.us
+zoomva193-123-141-240mmr.cloud.zoom.us
 zoomva193-123-141-28mmr.cloud.zoom.us
 zoomva193-123-141-61zc.cloud.zoom.us
 zoomva193-123-141-85mmr.cloud.zoom.us
