@@ -1,17 +1,3 @@
-westus2.commands.speech.microsoft.com
-westus2.convai.speech.microsoft.com
-westus2.dcsfe.dev.adu.microsoft.com
-westus2.dcsfe.int.adu.microsoft.com
-westus2.dcsfe.perf.adu.microsoft.com
-westus2.dcsfe.ppe.adu.microsoft.com
-westus2.dcsfe.prod.adu.microsoft.com
-westus2.dcsfe.test.adu.microsoft.com
-westus2.dev.cognitive.microsoft.com
-westus2.dev.slohub.microsoft.com
-westus2.dgs-frontend.speech.microsoft.com
-westus2.dgs.speech.microsoft.com
-westus2.disposition.mcapifulfillment-aircapi.commerce.microsoft.com
-westus2.disposition.mcapifulfillment-commercial-int.commerce.microsoft.com
 westus2.disposition.mcapifulfillment-commercial.commerce.microsoft.com
 westus2.disposition.mcapifulfillment-consumer-int.commerce.microsoft.com
 westus2.disposition.mcapifulfillment-consumer.commerce.microsoft.com
@@ -43,6 +29,7 @@ westus2.session.mcapisession.commerce.microsoft.com
 westus2.sessions.dev.collab.mixedreality.microsoft.com
 westus2.slohub.microsoft.com
 westus2.sr-frontend.speech.microsoft.com
+westus2.staging.pq-df.microsoft.com
 westus2.telephony.convai.speech.microsoft.com
 westus2.tts-frontend.speech.microsoft.com
 westus2.vnet.powerplatform.microsoft.com
@@ -152,6 +139,7 @@ wetrust.en.alibaba.com
 wetrustplatform.slack.com
 wetrustyou.mail.ru
 wetsexycam.chaturbate.com
+wetsolo.myshopify.com
 wettekinelectronics-public.sharepoint.com
 wettekinelectronics.sharepoint.com
 wetten.betfair.com
@@ -3647,6 +3635,7 @@ wild-pines-boutique.myshopify.com
 wild-playing-cards.myshopify.com
 wild-tiger1990.mail.ru
 wild-tshirts.myshopify.com
+wild-wild-gaming-tournaments.myshopify.com
 wild-wood-lane.shopify.com
 wild.api.playstation.com
 wild.auth.api.playstation.com
@@ -6104,6 +6093,7 @@ wise.qq.com
 wise.slack.com
 wise.yelp.com
 wise4.harvestapp.com
+wise8110.slack.com
 wise9.github.com
 wiseaboutweight.quora.com
 wiseaccountants.my.centrify.com
@@ -6433,6 +6423,7 @@ witchesbrewcbd.bigcartel.com
 witchescreations.etsy.com
 witchetty.etsy.com
 witchfingergeneralstore.bigcartel.com
+witchhazelforest.myshopify.com
 witchhollowprims.etsy.com
 witchinghour.etsy.com
 witchlsc2005.spaces.live.com
@@ -6920,6 +6911,8 @@ wlan.yelp.com
 wlanna.cn.alibaba.com
 wlanplanner.huaweicloud.com
 wlaoxiang.1688.com
+wlapi.cloud.mail.ru
+wlapi.omegacloud.mail.ru
 wlassistant.sf.net
 wlautil-app-prd1-01.cisco.com
 wlaviola-sb1k.cisco.com
@@ -8875,6 +8868,7 @@ workbench.alibaba-inc.com
 workbench.aliyun.com
 workbench.cisco.com
 workbench.data.aliyun.com
+workbench.dev.mpts.mastercard.com
 workbench.sf.net
 workbench.shuju.aliyun.com
 workbench2-cn-hangzhou.data.aliyun.com
@@ -9704,6 +9698,7 @@ world-brass.en.alibaba.com
 world-citizen.tweakblogs.net
 world-deco.en.alibaba.com
 world-dynamics.en.alibaba.com
+world-famous-t-shirt-co.myshopify.com
 world-fashion-online.shopify.com
 world-gaz.mail.ru
 world-health-ergonomics.myshopify.com
@@ -9940,6 +9935,7 @@ worldsemi.en.alibaba.com
 worldsexcam.chaturbate.com
 worldsgreatestswordsman.imgur.com
 worldshapers.etsy.com
+worldshop60.myshopify.com
 worldsiwa.cn.alibaba.com
 worldsourcingcn.en.alibaba.com
 worldspeace.spaces.live.com
@@ -15070,6 +15066,7 @@ www-staging.yelp.com
 www-staging2.spotify.com
 www-staging3.spotify.com
 www-stat.stanford.edu
+www-static-stage.tesla.com
 www-static.chinacdn.starbucks.com.cn
 www-static.chinacdn.stg.starbucks.com.cn
 www-stg.base.be
@@ -54782,6 +54779,9 @@ www.stage2du14.stage.paypal.com
 www.stage2du15.stage.paypal.com
 www.stage2du20.stage.paypal.com
 www.stage2du21.stage.paypal.com
+www.stage2du23.stage.paypal.com
+www.stage2du24.stage.paypal.com
+www.stage2du27.stage.paypal.com
 www.stage2du28.stage.paypal.com
 www.stage2du30.stage.paypal.com
 www.stage2du32.stage.paypal.com
@@ -69016,6 +69016,7 @@ xavigrau.live.com
 xavijam.github.com
 xavik_xavik.mail.ru
 xavimad.live.com
+xavique.myshopify.com
 xavitorne.github.com
 xavs.sf.net
 xavura.github.com
@@ -72786,6 +72787,7 @@ xiaoxiang025.qzone.qq.com
 xiaoxiao1217.spaces.live.com
 xiaoxiao13141314.qzone.qq.com
 xiaoxiao1314222.qzone.qq.com
+xiaoxiao2aaa.myshopify.com
 xiaoxiaohai.tmall.com
 xiaoxiaohmily1984.spaces.live.com
 xiaoxiaomao103611.spaces.live.com
@@ -73522,6 +73524,7 @@ xingfuts.world.tmall.com
 xingfuyangguang.tmall.com
 xingfuyizhan.tmall.com
 xinggangduanzao.cn.alibaba.com
+xinggangyulecheng-kube.plexus-prod.skypicker.com
 xinggchina.en.alibaba.com
 xingge-autoparts.en.alibaba.com
 xingge.aliexpress.com
@@ -75152,6 +75155,7 @@ xlbz881csdwqatb.quora.com
 xlc16888.1688.com
 xlccable.1688.com
 xlcjx.1688.com
+xlckdownx.myshopify.com
 xlconsultingasia-my.sharepoint.com
 xlconsultingasia.sharepoint.com
 xlcraft.en.alibaba.com
@@ -76282,6 +76286,7 @@ xoticdollz.bigcartel.com
 xotinaox.live.com
 xotti.spaces.live.com
 xouda.etsy.com
+xoukc20u.cloudstation.eu-west-1.dev.hydra.sophos.com
 xournal.sf.net
 xous.live.com
 xovias.imgur.com
@@ -79533,6 +79538,7 @@ yakov-volkov.mail.ru
 yakovenkolarissa.mail.ru
 yakpowered-my.sharepoint.com
 yakpowered.sharepoint.com
+yakroshopp-com.myshopify.com
 yakshna.sharepoint.com
 yaku.quora.com
 yaku66.1688.com
@@ -84240,6 +84246,8 @@ yingbomy.tmall.com
 yingcai.en.alibaba.com
 yingcaitoy.en.alibaba.com
 yingchang.tmall.com
+yingchaoshipin.tmall.com
+yingchaoshipin.world.tmall.com
 yingchengsp.tmall.com
 yingchents.tmall.com
 yingchidnyj.tmall.com
@@ -99303,6 +99311,7 @@ zenmentortracker.liquidweb.com
 zenna-x-co.myshopify.com
 zennb9811.1688.com
 zennb9811.cn.1688.com
+zennit-electronics-and-officewear.myshopify.com
 zennymph.etsy.com
 zenon-0.mail.ru
 zenon.github.com
@@ -106154,6 +106163,7 @@ zoomca193-123-14-190zc.cloud.zoom.us
 zoomca193-123-15-236zc.cloud.zoom.us
 zoomca193-123-17-133mmr.cloud.zoom.us
 zoomca193-123-18-188zc.cloud.zoom.us
+zoomca193-123-19-159mmr.cloud.zoom.us
 zoomca193-123-19-181mmr.cloud.zoom.us
 zoomca193-123-19-227zc.cloud.zoom.us
 zoomca193-123-19-29zc.cloud.zoom.us
@@ -108843,11 +108853,13 @@ zoomff130-61-166-34mmr.cloud.zoom.us
 zoomff130-61-167-118zc.cloud.zoom.us
 zoomff130-61-167-188zc.cloud.zoom.us
 zoomff130-61-167-230zc.cloud.zoom.us
+zoomff130-61-167-97mmr.cloud.zoom.us
 zoomff134-224-100-168mmr.cloud.zoom.us
 zoomff134-224-100-185mmr.cloud.zoom.us
 zoomff134-224-102-72zc.cloud.zoom.us
 zoomff134-224-103-107mmr.cloud.zoom.us
 zoomff134-224-103-13mmr.cloud.zoom.us
+zoomff134-224-105-116mmr.cloud.zoom.us
 zoomff134-224-105-173mmr.cloud.zoom.us
 zoomff134-224-105-241mmr.cloud.zoom.us
 zoomff134-224-106-146mmr.cloud.zoom.us
@@ -108878,6 +108890,7 @@ zoomff134-224-116-189mmr.cloud.zoom.us
 zoomff134-224-116-190mmr.cloud.zoom.us
 zoomff134-224-116-205mmr.cloud.zoom.us
 zoomff134-224-116-238mmr.cloud.zoom.us
+zoomff134-224-116-38mmr.cloud.zoom.us
 zoomff134-224-116-98mmr.cloud.zoom.us
 zoomff134-224-117-48mmr.cloud.zoom.us
 zoomff134-224-118-149mmr.cloud.zoom.us
@@ -108892,6 +108905,7 @@ zoomff134-224-121-31zc.cloud.zoom.us
 zoomff134-224-121-32zc.cloud.zoom.us
 zoomff134-224-121-33zc.cloud.zoom.us
 zoomff134-224-121-81mmr.cloud.zoom.us
+zoomff134-224-65-230mmr.cloud.zoom.us
 zoomff134-224-66-162mmr.cloud.zoom.us
 zoomff134-224-66-183mmr.cloud.zoom.us
 zoomff134-224-66-185mmr.cloud.zoom.us
@@ -108900,6 +108914,7 @@ zoomff134-224-67-35zc.cloud.zoom.us
 zoomff134-224-67-37zc.cloud.zoom.us
 zoomff134-224-67-38zc.cloud.zoom.us
 zoomff134-224-67-39zc.cloud.zoom.us
+zoomff134-224-68-128mmr.cloud.zoom.us
 zoomff134-224-68-211mmr.cloud.zoom.us
 zoomff134-224-68-224mmr.cloud.zoom.us
 zoomff134-224-69-106mmr.cloud.zoom.us
@@ -108913,6 +108928,7 @@ zoomff134-224-70-72zc.cloud.zoom.us
 zoomff134-224-70-73zc.cloud.zoom.us
 zoomff134-224-70-75mmr.cloud.zoom.us
 zoomff134-224-71-110mmr.cloud.zoom.us
+zoomff134-224-71-236mmr.cloud.zoom.us
 zoomff134-224-71-94mmr.cloud.zoom.us
 zoomff134-224-73-106zc.cloud.zoom.us
 zoomff134-224-73-108zc.cloud.zoom.us
@@ -108939,11 +108955,13 @@ zoomff134-224-96-131mmr.cloud.zoom.us
 zoomff134-224-96-2zc.cloud.zoom.us
 zoomff134-224-97-146mmr.cloud.zoom.us
 zoomff134-224-97-22mmr.cloud.zoom.us
+zoomff134-224-99-196mmr.cloud.zoom.us
 zoomff134-224-99-36zc.cloud.zoom.us
 zoomff134-224-99-37zc.cloud.zoom.us
 zoomff152361186mra.zoom.us
 zoomff158-101-185-107mmr.cloud.zoom.us
 zoomff158-101-185-44zc.cloud.zoom.us
+zoomff158-101-185-54mmr.cloud.zoom.us
 zoomff158-101-186-29mmr.cloud.zoom.us
 zoomff158-101-186-51zc.cloud.zoom.us
 zoomff158-101-187-51zc.cloud.zoom.us
@@ -108956,6 +108974,7 @@ zoomff193-122-33-194mmr.cloud.zoom.us
 zoomff193-122-33-37mmr.cloud.zoom.us
 zoomff193-122-33-9mmr.cloud.zoom.us
 zoomff193-122-34-113mmr.cloud.zoom.us
+zoomff193-122-34-130mmr.cloud.zoom.us
 zoomff193-122-34-36zc.cloud.zoom.us
 zoomff193-122-35-134mmr.cloud.zoom.us
 zoomff193-122-35-205zc.cloud.zoom.us
@@ -108998,6 +109017,7 @@ zoomff198-251-162-62mmr.cloud.zoom.us
 zoomff198-251-163-115mmr.cloud.zoom.us
 zoomff198-251-163-194mmr.cloud.zoom.us
 zoomff198-251-163-213mmr.cloud.zoom.us
+zoomff198-251-163-249mmr.cloud.zoom.us
 zoomff198-251-163-3zc.cloud.zoom.us
 zoomff198-251-163-4zc.cloud.zoom.us
 zoomff198-251-164-146mmr.cloud.zoom.us
@@ -110204,6 +110224,8 @@ zoomin.etsy.com
 zoomin1323519367mmr.zoom.us
 zoomin134-224-128-0zc.cloud.zoom.us
 zoomin134-224-129-4mmr.cloud.zoom.us
+zoomin134-224-134-74zc.cloud.zoom.us
+zoomin134-224-137-66mmr.cloud.zoom.us
 zoomin140-238-233-28zc.cloud.zoom.us
 zoomin140-238-234-0zc.cloud.zoom.us
 zoomin140-238-234-36mmr.cloud.zoom.us
@@ -110373,6 +110395,7 @@ zoommbm118mmr.mb.zoom.us
 zoommbm145mmr.mb.zoom.us
 zoommbm166mmr.mb.zoom.us
 zoommbm214mmr.mb.zoom.us
+zoommbm21mmr.mb.zoom.us
 zoommbm222mmr.mb.zoom.us
 zoommbm39mmr.mb.zoom.us
 zoommbm43mmr.mb.zoom.us
@@ -110787,6 +110810,7 @@ zoomnjb99mmr.zoom.us
 zoomnow.zoom.us
 zoomnxa184zc.nx.zoom.us
 zoomnxa185zc.nx.zoom.us
+zoomnxaa201mmr.nx.zoom.us
 zoomnxb230zc.nx.zoom.us
 zoomnxc245zc.nx.zoom.us
 zoomnxc96mmr.nx.zoom.us
@@ -110801,6 +110825,7 @@ zoomnxg212mmr.nx.zoom.us
 zoomnxg30zc.nx.zoom.us
 zoomnxg31zc.nx.zoom.us
 zoomnxh84mmr.nx.zoom.us
+zoomnxi104mmr.nx.zoom.us
 zoomnxi56mmr.nx.zoom.us
 zoomnxl245zc.nx.zoom.us
 zoomnxl30zc.nx.zoom.us
@@ -116285,10 +116310,15 @@ zoomsxc245zc.sx.zoom.us
 zoomsxe203mmr.sx.zoom.us
 zoomsxg30zc.sx.zoom.us
 zoomsxg31zc.sx.zoom.us
+zoomsxh245zc.sx.zoom.us
 zoomsxh50mmr.sx.zoom.us
 zoomsxh72mmr.sx.zoom.us
 zoomsxl245zc.sx.zoom.us
+zoomsxm129mmr.sx.zoom.us
 zoomsxn164mmr.sx.zoom.us
+zoomsxn245zc.sx.zoom.us
+zoomsxo196mmr.sx.zoom.us
+zoomsxo224mmr.sx.zoom.us
 zoomsxo30zc.sx.zoom.us
 zoomsxo31zc.sx.zoom.us
 zoomsxp30zc.sx.zoom.us
@@ -117183,6 +117213,7 @@ zoomva134-224-183-212zc.cloud.zoom.us
 zoomva134-224-183-213zc.cloud.zoom.us
 zoomva134-224-184-213mmr.cloud.zoom.us
 zoomva134-224-184-223mmr.cloud.zoom.us
+zoomva134-224-184-250mmr.cloud.zoom.us
 zoomva134-224-184-71mmr.cloud.zoom.us
 zoomva134-224-186-228mmr.cloud.zoom.us
 zoomva134-224-186-248zc.cloud.zoom.us
@@ -117196,6 +117227,7 @@ zoomva134-224-190-29zc.cloud.zoom.us
 zoomva134-224-190-32zc.cloud.zoom.us
 zoomva134-224-190-33zc.cloud.zoom.us
 zoomva134-224-20-1mmr.cloud.zoom.us
+zoomva134-224-20-43mmr.cloud.zoom.us
 zoomva134-224-209-146zc.cloud.zoom.us
 zoomva134-224-209-149zc.cloud.zoom.us
 zoomva134-224-21-247zc.cloud.zoom.us
@@ -117245,6 +117277,7 @@ zoomva150136245147mmr.zoom.us
 zoomva17323188124mmr.cloud.zoom.us
 zoomva17323188253zc.cloud.zoom.us
 zoomva17323189125mmr.cloud.zoom.us
+zoomva1732318995mmr.cloud.zoom.us
 zoomva182174204mmr.zoom.us
 zoomva193-122-208-210mmr.cloud.zoom.us
 zoomva193-122-208-99mmr.cloud.zoom.us
@@ -117269,6 +117302,7 @@ zoomva193-122-220-245mmr.cloud.zoom.us
 zoomva193-122-220-78mmr.cloud.zoom.us
 zoomva193-122-220-99zc.cloud.zoom.us
 zoomva193-122-221-247zc.cloud.zoom.us
+zoomva193-122-221-41mmr.cloud.zoom.us
 zoomva193-122-222-121zc.cloud.zoom.us
 zoomva193-122-222-138mmr.cloud.zoom.us
 zoomva193-122-222-35zc.cloud.zoom.us
@@ -117318,7 +117352,10 @@ zoomva193-122-253-37zc.cloud.zoom.us
 zoomva193-122-253-77mmr.cloud.zoom.us
 zoomva193-122-253-83zc.cloud.zoom.us
 zoomva193-122-253-98mmr.cloud.zoom.us
+zoomva193-122-254-242mmr.cloud.zoom.us
 zoomva193-122-255-104zc.cloud.zoom.us
+zoomva193-122-255-178mmr.cloud.zoom.us
+zoomva193-122-255-190mmr.cloud.zoom.us
 zoomva193-123-129-245mmr.cloud.zoom.us
 zoomva193-123-132-139zc.cloud.zoom.us
 zoomva193-123-132-168mmr.cloud.zoom.us
@@ -117330,6 +117367,7 @@ zoomva193-123-133-63mmr.cloud.zoom.us
 zoomva193-123-133-7zc.cloud.zoom.us
 zoomva193-123-135-235mmr.cloud.zoom.us
 zoomva193-123-136-176zc.cloud.zoom.us
+zoomva193-123-136-184mmr.cloud.zoom.us
 zoomva193-123-136-27mmr.cloud.zoom.us
 zoomva193-123-136-64zc.cloud.zoom.us
 zoomva193-123-136-68mmr.cloud.zoom.us
@@ -117346,6 +117384,7 @@ zoomva193-123-141-240mmr.cloud.zoom.us
 zoomva193-123-141-28mmr.cloud.zoom.us
 zoomva193-123-141-61zc.cloud.zoom.us
 zoomva193-123-141-85mmr.cloud.zoom.us
+zoomva193-123-142-250zc.cloud.zoom.us
 zoomva193-123-143-187mmr.cloud.zoom.us
 zoomva193-123-144-168zc.cloud.zoom.us
 zoomva193-123-144-183mmr.cloud.zoom.us
@@ -117397,7 +117436,10 @@ zoomva198-251-141-47mmr.cloud.zoom.us
 zoomva198-251-142-237zc.cloud.zoom.us
 zoomva198-251-142-238zc.cloud.zoom.us
 zoomva198-251-143-85mmr.cloud.zoom.us
+zoomva198-251-217-202zc.cloud.zoom.us
+zoomva198-251-217-203zc.cloud.zoom.us
 zoomva198-251-217-54zc.cloud.zoom.us
+zoomva198-251-217-75mmr.cloud.zoom.us
 zoomva198-251-218-159mmr.cloud.zoom.us
 zoomva198-251-218-19mmr.cloud.zoom.us
 zoomva3-219-174-251zc.cloud.zoom.us
