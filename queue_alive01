@@ -1,6 +1,3 @@
-antivirus-applebees.12.goodrx.com
-antivirus-applebees.13.goodrx.com
-antivirus-applebees.14.goodrx.com
 antivirus-applebees.18.goodrx.com
 antivirus-applebees.2.goodrx.com
 antivirus-applebees.2009.goodrx.com
@@ -9522,6 +9519,7 @@ api-preprod.amazon.co.uk
 api-preprod.amazon.com
 api-preprod.amazon.de
 api-preprod.amazon.fr
+api-preprod.offensive-security.com
 api-preview.ai.xiaomi.com
 api-prismic-staging.therealreal.com
 api-priv.preprod.mailjet.com
@@ -11200,6 +11198,7 @@ api.np.playbuilder.starbucks.com
 api.nrd.netflix.com
 api.nummus.robinhood.com
 api.o.tencent.com
+api.offensive-security.com
 api.office.microsoft.com
 api.office.rabobank.com
 api.offline.weixin.qq.com
@@ -14104,6 +14103,7 @@ app-storage-gdsd.s3.us-west-000.backblazeb2.com
 app-storage-gile.s3.us-west-000.backblazeb2.com
 app-storage-hl.s3.us-west-000.backblazeb2.com
 app-storage-jog.s3.us-west-000.backblazeb2.com
+app-storage-jzd.s3.us-west-000.backblazeb2.com
 app-storage-kin.s3.us-west-000.backblazeb2.com
 app-storage-link.s3.us-west-000.backblazeb2.com
 app-storage-logf.s3.us-west-000.backblazeb2.com
@@ -15838,6 +15838,7 @@ apps.trustpilot.com
 apps.tweakers.net
 apps.twitter.com
 apps.uat.connect.unibet.com
+apps.ucmgmt.cisco.com
 apps.udemy.com
 apps.us.fed.lifeomic.com
 apps.us.jupiterone.io
@@ -19023,6 +19024,7 @@ argentina.yelp.com
 argentinahidroponia.live.com
 argentinasinvacunas.robinhood.com
 argentinawebdesign.yelp.com
+argentishop.bigcartel.com
 argento-bourbon-en.myshopify.com
 argentsea.github.com
 argentum.yelp.com
@@ -22788,6 +22790,7 @@ as-ramsan2.stanford.edu
 as-raveendranathan.stanford.edu
 as-sabikoon.spaces.live.com
 as-service-2000.mail.ru
+as-south-205-console-dev.huaweicloud.com
 as-spires-standby.stanford.edu
 as-spires.stanford.edu
 as-splunk01a.stanford.edu
@@ -25826,6 +25829,7 @@ assets-paris-dev.codefi.network
 assets-pp.caffeine.tv
 assets-public.falcon.crowdstrike.com
 assets-public.falcon.laggar.gcw.crowdstrike.com
+assets-public.falcon.us-2.crowdstrike.com
 assets-qa.glassdoor.com
 assets-res-cn.c.huawei.com
 assets-share.uber.com
@@ -25836,6 +25840,7 @@ assets-staging.hyatt.com
 assets-staging.therealreal.com
 assets-test.coinbase.com
 assets-test.dev.codefi.network
+assets-us.codefi.network
 assets-yammer.com.office.americanexpress.vivy.com
 assets.1215diamonds.com.san.cloudinary.com
 assets.1688.com
@@ -28688,6 +28693,7 @@ atlantic.github.com
 atlantic.yelp.com
 atlantic01.myshopify.com
 atlanticare.sharepoint.com
+atlanticassault.bigcartel.com
 atlanticbay.atlassian.net
 atlanticbt.atlassian.net
 atlanticcitybeats.imgur.com
@@ -29219,6 +29225,7 @@ atoll-2008.mail.ru
 atolla.aliexpress.com
 atollgmbh-public.sharepoint.com
 atoly.etsy.com
+atolye-bitcoin.myshopify.com
 atom-bikes.myshopify.com
 atom-history.news.mail.ru
 atom-installer-eaph0av7.github.com
@@ -37570,6 +37577,7 @@ awesomeasianbadguys.vhx.tv
 awesomeawesomeawesome.myshopify.com
 awesomebeads.etsy.com
 awesomecameras.etsy.com
+awesomeclever.bigcartel.com
 awesomedataworld.slack.com
 awesomeexpress.etsy.com
 awesomefacts.quora.com
@@ -40474,6 +40482,7 @@ b0dominea.imgur.com
 b0e91872826b4beebd850600ebbe64fd.fp.measure.office.com
 b0eb56e280f02caa85f4da89bc3fce0c.fp.measure.office.com
 b0ec1745eee749e98c817e3efc00ed83.fp.measure.office.com
+b0f25cd3d90848a9a302878979fca1fd.fp.measure.office.com
 b0f3f67ffc5e4ef3a4271c79546861ac.waf.huaweicloud.com
 b0fe0e29ed684130a9519aeddb141ded.fp.measure.office.com
 b0jx7l1f.quora.com
@@ -42828,6 +42837,7 @@ babbagemachine.quora.com
 babbathewitch.spaces.live.com
 babbelboxje.spaces.live.com
 babbidgepatch.etsy.com
+babble-shield.myshopify.com
 babblekids.foxycart.com
 babblingbrookes.etsy.com
 babbselasdesigns.etsy.com
@@ -43176,6 +43186,7 @@ babyrompers.myshopify.com
 babyrumps.etsy.com
 babyrunrun.taobao.com
 babyrunrun.world.taobao.com
+babys-bloom-2.myshopify.com
 babysail.taobao.com
 babysawayhawaii.yelp.com
 babysbeads.etsy.com
@@ -43983,6 +43994,7 @@ badgley.quora.com
 badgleymischka.twitter.com
 badgrafxghost.imgur.com
 badguymovies.spaces.live.com
+badhabitsclothingco.bigcartel.com
 badham21.imgur.com
 badhombrecannabis.myshopify.com
 badhosssilver.etsy.com
@@ -47195,11 +47207,13 @@ barisionesigmavirus.github.com
 bariskocdur.quora.com
 baristahustle.slack.com
 barjaquons.slack.com
+bark-bites.myshopify.com
 bark-stix.myshopify.com
 bark.mail.ru
 bark91.mail.ru
 barkalownu.mail.ru
 barkatiinternational.trustpass.alibaba.com
+barkbuys.myshopify.com
 barkeepersfriend.tmall.com
 barkerbell.etsy.com
 barkerjer.yelp.com
@@ -48320,6 +48334,7 @@ bassendeangalaxy.sharepoint.com
 bassenormandieactive14.sharepoint.com
 basserman.imgur.com
 bassettssp.tmall.com
+basshealing.bigcartel.com
 bassi-veratti.stanford.edu
 bassi.stanford.edu
 bassik6710.stanford.edu
@@ -52729,6 +52744,7 @@ beadpile.etsy.com
 beadreams.etsy.com
 beadree.etsy.com
 beadroe.etsy.com
+beads-and-beads-brisbane.myshopify.com
 beads-dataserver.stanford.edu
 beads.en.alibaba.com
 beads.etsy.com
@@ -54018,6 +54034,7 @@ beenvintagemobile.myshopify.com
 beenyeah.en.alibaba.com
 beenznrice.etsy.com
 beeos.aliexpress.com
+beeos.myshopify.com
 beeotek.mail.ru
 beep.tmall.com
 beep.vhx.tv
@@ -55720,6 +55737,7 @@ bendersigmavirus24.github.com
 benderswoodandbrass.etsy.com
 bendi.google.com
 bendi.waptest.taobao.com
+bendiciones.bigcartel.com
 bendigo.ap.gateway.mastercard.com
 bendigo.test.gateway.mastercard.com
 bendigoadelaidebank.sharepoint.com
@@ -57268,6 +57286,7 @@ bespin.stanford.edu
 bespire.atlassian.net
 besplatnovse_ru.mail.ru
 besplatnyi-kod.mail.ru
+bespoke-belief.myshopify.com
 bespokebodies.vhx.tv
 bespokebracelets.etsy.com
 bespokebyjasmin.bigcartel.com
@@ -58297,6 +58316,7 @@ beta.onboarding.greenhouse.io
 beta.onecare.live.com
 beta.onedrive.com
 beta.onedrive.live.com
+beta.optimizely.com
 beta.ovi.mail.yahoo.com
 beta.paper.dropbox.com
 beta.paytm.com
@@ -59361,6 +59381,7 @@ beyourselfjewelry.etsy.com
 beyoutifulbeads.etsy.com
 beyoutifully-fit-br.myshopify.com
 beyouty-empowered-boutique.myshopify.com
+beyslovelyboutique.bigcartel.com
 beytech.pipedrive.com
 beytulla.mail.ru
 beyuzu.bigcartel.com
@@ -66054,6 +66075,7 @@ big-booty-club.myshopify.com
 big-box-catering-shop.myshopify.com
 big-cat-rescue.myshopify.com
 big-city-haircut.myshopify.com
+big-daddy-bundles.myshopify.com
 big-data-architect.quora.com
 big-data-case-studies.quora.com
 big-data-distributed-computing.quora.com
@@ -66805,6 +66827,7 @@ billed.usage.cp.microsoft.com
 billehcosgrove.imgur.com
 billemerson.spaces.live.com
 billeobobby.spaces.live.com
+biller-ui-requesttopay.preprod.mastercard.com
 billetsdoux.etsy.com
 billextractor.en.alibaba.com
 billhardt.live.com
@@ -66825,6 +66848,7 @@ billiepate.bigcartel.com
 billieryder.spaces.live.com
 billies-craftroom.spaces.live.com
 billiesblueboutique.etsy.com
+billiestarkz.bigcartel.com
 billietk.etsy.com
 billiexjeen.imgur.com
 billikengroup-public.sharepoint.com
@@ -67789,6 +67813,7 @@ bio_vital.mail.ru
 bioaa-b0sbb03.stanford.edu
 bioalpha.trustpass.alibaba.com
 bioantivirus.badoo.com
+bioanyu.en.alibaba.com
 bioas.slac.stanford.edu
 bioassayontology.atlassian.net
 bioautomation-2.myshopify.com
@@ -71558,6 +71583,7 @@ blackdogstudio.etsy.com
 blackdogwoodshop.etsy.com
 blackdots.etsy.com
 blackdove.atlassian.net
+blackdovejewelry.etsy.com
 blackdragoninc.slack.com
 blackduck2018.mail.ru
 blackducksoftware.atlassian.net
@@ -76164,6 +76190,7 @@ bm-687.tbb.takeaway.feature.test.staging.takeaway.com
 bm-antivirus.dev.goodrx.com
 bm-cdb.corp.amazon.com
 bm-ciscolive-auth.cisco.com
+bm-preprod.sandbox.google.com
 bm-surveys.corp.amazon.com
 bm-viruswall.rch.line-apps.com
 bm.antivirushchrxduncan.goodrx.com
@@ -79024,8 +79051,10 @@ bo3.yelp.com
 bo4bbo7b.quora.com
 bo79.spaces.live.com
 bo7c5tt47k.quora.com
+boa-api.arkoselabs.com
 boa-constructor.sf.net
 boa-straps.shopify.com
+boa-verify.arkoselabs.com
 boa.github.com
 boa.mastercard.com
 boa.stanford.edu
@@ -80369,6 +80398,7 @@ boletospanama510-my.sharepoint.com
 boletospanama510.sharepoint.com
 bolev-lnx.cisco.com
 bolev.en.alibaba.com
+boleve.myshopify.com
 bolexknife.en.alibaba.com
 boleyan.mail.ru
 boleyncams.chaturbate.com
@@ -83122,6 +83152,7 @@ bosstg-t003a.blue.icq.net
 bosstranstour.mail.ru
 bosstuneage.bigcartel.com
 bossushitel.mail.ru
+bossy-divas.myshopify.com
 bossy.yelp.com
 bossy4lyfe.bigcartel.com
 bossybootsdesign.etsy.com
@@ -84326,6 +84357,8 @@ boyuesm.world.tmall.com
 boyukeji2008.1688.com
 boyukeji2008.cn.1688.com
 boyun.alibaba-inc.com
+boyunjianwu.taobao.com
+boyunjianwu.world.taobao.com
 boyunnongye.1688.com
 boyunwulian.tmall.com
 boyutong.en.alibaba.com
@@ -85559,6 +85592,7 @@ bradskills.sharepoint.com
 bradsokol.github.com
 bradstaggs.spaces.live.com
 bradstowschool.sharepoint.com
+bradthorstore.myshopify.com
 braduncover.dev.lieferando.de
 bradw1.yelp.com
 bradwalker23.github.com
@@ -86398,6 +86432,7 @@ bratans.mail.ru
 brateebratz.bigcartel.com
 bratenkova_m.mail.ru
 bratholmen.imgur.com
+bratified-collection.myshopify.com
 bratik10.mail.ru
 bratinoy.mail.ru
 bratlab.bigcartel.com
@@ -87911,6 +87946,7 @@ brixtonphoenix.etsy.com
 briya.sharepoint.com
 briya5.live.com
 briz_tur.mail.ru
+brizard-line.myshopify.com
 brizbiz.trustpass.alibaba.com
 brizel4theanimals.etsy.com
 brizoit.atlassian.net
@@ -90632,6 +90668,7 @@ bubblesupbybethieb.etsy.com
 bubbletea-tw.en.alibaba.com
 bubbletea.en.alibaba.com
 bubbletopiashop.etsy.com
+bubblevac.myshopify.com
 bubblewishzhmn1072.aliexpress.com
 bubblezartist.etsy.com
 bubblingsearch.atlassian.net
@@ -92671,6 +92708,7 @@ bunhere.github.com
 bunim_80.mail.ru
 bunipins.bigcartel.com
 bunka77.imgur.com
+bunkclothing.bigcartel.com
 bunkersem.github.com
 bunkovdv.mail.ru
 bunkyogakuin.sharepoint.com
@@ -101305,6 +101343,7 @@ c4.cnc.big.mae.xiaomi.com
 c4.ctc.big.mae.xiaomi.com
 c4.f.mae.xiaomi.com
 c4.github.com
+c4.hyatt.com
 c4.ins.jr.mi.com
 c4.lp.account.xiaomi.com
 c4.orange.icq.com
@@ -102116,6 +102155,7 @@ c82e9f60ab1f4904b63c7b1178570316.fp.measure.office.com
 c836.cisco.com
 c83af40196e84309bc896d4d1a2aeaac.waf.huaweicloud.com
 c843131aa50045a7a818495e9c4c2a69.fp.measure.office.com
+c84c0adaf30c407790f5863ff642134f.fp.measure.office.com
 c84c9f5322f2409b985aea3bb7f30580.fp.measure.office.com
 c84cfa0196da43aab9f67bd95972a9ed.waf.huaweicloud.com
 c856n9jvdscv.statuspage.io
@@ -102259,6 +102299,7 @@ ca-changxing.en.alibaba.com
 ca-cib-bci-emear.cisco.com
 ca-dfa-aln-p1.cisco.com
 ca-drcn.platform.hicloud.com
+ca-east-201-console-dev.huaweicloud.com
 ca-es.an.fb.me
 ca-es.facebook.com
 ca-es.fi-fi.mobile.fb.me
@@ -102885,6 +102926,7 @@ cabincovedesignstest.etsy.com
 cabincovedesignsweb.etsy.com
 cabincreek.etsy.com
 cabinet-dev.stanford.edu
+cabinet-doors-and-more.myshopify.com
 cabinet-prod.stanford.edu
 cabinet-ra.stanford.edu
 cabinet-test.stanford.edu
@@ -106942,6 +106984,7 @@ caesars.oktapreview.com
 caesars365-my.sharepoint.com
 caesars365.sharepoint.com
 caeserts.spaces.live.com
+caesim.ke.qq.com
 caesium-beta.amazon.com
 caesm.tmall.com
 caesm.world.tmall.com
@@ -106966,6 +107009,7 @@ cafdg.spaces.live.com
 cafe-admin.blizzard.com
 cafe-dame.myshopify.com
 cafe-frappe.atlassian.net
+cafe-kodik.myshopify.com
 cafe-rider.myshopify.com
 cafe.alibaba-inc.com
 cafe.blizzard.com
@@ -109868,6 +109912,7 @@ canadavisa365.sharepoint.com
 canadialand.imgur.com
 canadian-made-co.myshopify.com
 canadian-markethub.myshopify.com
+canadian-precision-applications.myshopify.com
 canadian-stuff.myshopify.com
 canadian.binance.com
 canadian.myshopify.com
@@ -109924,6 +109969,7 @@ canariotimbrado.spaces.live.com
 canarita.spaces.live.com
 canary-api.activate.codefi.network
 canary-api.periscope.tv
+canary-azureava.microsoft.com
 canary-azureavamgmt-api.microsoft.com
 canary-channels.periscope.tv
 canary-channels.pscp.tv
@@ -110273,6 +110319,7 @@ cang.qq.com.cloud.tc.qq.com
 cangchulongxm.cn.1688.com
 cangcige.1688.com
 cangershiyi.cn.alibaba.com
+canggu-beachwear.myshopify.com
 canghaimachine.en.alibaba.com
 canghutianxia.tmall.com
 canghutianxia.world.tmall.com
@@ -110545,6 +110592,7 @@ cantivirus-email.goodrx.com
 cantivirus.goodrx.com
 cantivirus.slack.com
 cantkeepcalm.etsy.com
+canto-seu.myshopify.com
 cantoamizade2009.spaces.live.com
 canton-tech.slack.com
 canton.place.hyatt.com
@@ -111127,6 +111175,7 @@ caprica.github.com
 caprice.1688.com
 caprice.hel.mail.ru
 capricecreations.etsy.com
+capriclassi.bigcartel.com
 capricorn.github.com
 capricorn.sharepoint.com
 capricorn.stanford.edu
@@ -113459,6 +113508,7 @@ cartrouble.imgur.com
 cartrover.atlassian.net
 carts-n-darts-golf.myshopify.com
 carts2.tmall.com
+carttogoph.myshopify.com
 cartuning999.mail.ru
 carty01.spaces.live.com
 carucicopyl.quora.com
@@ -113780,6 +113830,7 @@ caseassignmentvpilot.microsoft.com
 casecolpwe.spaces.live.com
 caseeasier.cn.alibaba.com
 casefile.robinhood.com
+casefloral-custom.myshopify.com
 casehome.en.alibaba.com
 caseii.aliexpress.com
 caseking.atlassian.net
@@ -115526,6 +115577,7 @@ cbcf.zoom.us
 cbcgl.sharepoint.com
 cbci.microsoft.com
 cbcinternational.zoom.us
+cbcl.stanford.edu
 cbcmpgs.gateway.mastercard.com
 cbcnvpn.magento.com
 cbcomaha1-my.sharepoint.com
@@ -119718,6 +119770,7 @@ cdn-1.antivirus.goodrx.com
 cdn-13.antivirus.goodrx.com
 cdn-18.antivirus.goodrx.com
 cdn-185-199-108-133.github.com
+cdn-185-199-109-133.github.com
 cdn-185-199-110-133.github.com
 cdn-185-199-110-154.github.com
 cdn-185-199-111-133.github.com
@@ -119815,6 +119868,7 @@ cdn-d08.orange.icq.com
 cdn-d09.orange.icq.com
 cdn-da.semrush.com
 cdn-daily-blog.adafruitdaily.com
+cdn-debug.qq.com
 cdn-demo.algolia.com
 cdn-demo.paydiant.com
 cdn-dentalplans.antivirus.goodrx.com
@@ -123114,6 +123168,7 @@ centrefplasafor-my.sharepoint.com
 centrefplasafor.sharepoint.com
 centrefx.mail.ru
 centreglove.cn.alibaba.com
+centreherbs.en.alibaba.com
 centrekolobok.mail.ru
 centremir.mail.ru
 centremtest.partners.extranet.microsoft.com
@@ -128766,6 +128821,7 @@ cf9335bdd37c45d4aac9b1c779f1e89a.fp.measure.office.com
 cf9eae1ac46346528f82533e3f831fae.fp.measure.office.com
 cfa-june2009.spaces.live.com
 cfa-mst-123-p.cisco.com
+cfa-stg.cisco.com
 cfa.bluejeans.com
 cfa.slack.com
 cfa23c4979f345019dd500b2d86dcc55.fp.measure.office.com
@@ -129477,10 +129533,3 @@ cgi.im.qq.com
 cgi.jake.vip.in.yahoo.com
 cgi.meigui.qq.com
 cgi.piao.qq.com
-cgi.promo.vip.in.yahoo.com
-cgi.pub.qq.com
-cgi.qqweb.qq.com
-cgi.qun.qq.com
-cgi.sf.net
-cgi.slack.com
-cgi.tiantian.qq.com
