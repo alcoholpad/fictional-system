@@ -1,7 +1,3 @@
-antivirus-applebees.18.goodrx.com
-antivirus-applebees.2.goodrx.com
-antivirus-applebees.2009.goodrx.com
-antivirus-applebees.2010.goodrx.com
 antivirus-applebees.2013.goodrx.com
 antivirus-applebees.2014.goodrx.com
 antivirus-applebees.2016.goodrx.com
@@ -24107,6 +24103,7 @@ ash-fbagreements-ext.thefacebook.com
 ash-fs.sales.fb.com
 ash-fs.thefacebook.com
 ash-fsoutpost.fb.com
+ash-ldc101.fbdevlab.fb.com
 ash-ldc201.fbdevlab.fb.com
 ash-mx80-01.ash.shopify.com
 ash-mx80-02.ash.shopify.com
@@ -25815,6 +25812,9 @@ assets-atv.nflxext.com
 assets-author-01.adobeperf.microsoft.com
 assets-author.adobeperf.microsoft.com
 assets-beta.kraken.com
+assets-brandcms-dev.atairbnb.com
+assets-brandcms-stage.atairbnb.com
+assets-brandcms.atairbnb.com
 assets-cdn.github.com
 assets-cdn.omise.co
 assets-cdn.qa.rezserver.com
@@ -28296,6 +28296,7 @@ athabascaedu.sharepoint.com
 athai-sb150.cisco.com
 athamatt-lnx.cisco.com
 athan84.imgur.com
+athanasia.bigcartel.com
 athanassiel.imgur.com
 athanassioskollyris.quora.com
 athanator.spaces.live.com
@@ -28936,6 +28937,8 @@ atlcopperworks.etsy.com
 atldncftp.cisco.com
 atldpsdvs1.cisco.com
 atldsm.tmall.com
+atldstarapp01-c01.wireless.labs.att.com
+atldstarapp01-c02.wireless.labs.att.com
 atldtn1.slac.stanford.edu
 atleedu.sharepoint.com
 atlet.mail.ru
@@ -30847,6 +30850,7 @@ audreykerchnerstudio.etsy.com
 audreylaine.etsy.com
 audreylisik.live.com
 audreyluo.spaces.live.com
+audreymarieco.bigcartel.com
 audreyminicrocodile.spaces.live.com
 audreymorgy882.quora.com
 audreypongracz.etsy.com
@@ -32491,6 +32495,7 @@ authority.stanford.edu
 authorityab.harvestapp.com
 authorityvof.sharepoint.com
 authorization.account.microsoft.com
+authorization.console.aliyun.com
 authorization.cp.microsoft.com
 authorization.microsoft.com
 authorization.service.newrelic.com
@@ -43990,6 +43995,7 @@ badging-us-iso-prod.corp.amazon.com
 badging-us.corp.amazon.com
 badgirl-1995.spaces.live.com
 badgirl920.imgur.com
+badgirls69.chaturbate.com
 badgley.quora.com
 badgleymischka.twitter.com
 badgrafxghost.imgur.com
@@ -44375,6 +44381,7 @@ baichang001.1688.com
 baichangele.en.alibaba.com
 baichangkeji.1688.com
 baichengdq.tmall.com
+baichenggangtie.1688.com
 baichenglace.1688.com
 baichuan-console-resource.cn-hangzhou.oss-pub.aliyun-inc.com
 baichuan-sdk.cn-hangzhou.oss-pub.aliyun-inc.com
@@ -50993,6 +51000,7 @@ bchoudary.trustpass.alibaba.com
 bchouseca.sharepoint.com
 bcht.en.alibaba.com
 bchurton.bigcartel.com
+bchy.1688.com
 bci-ads.blockchain.info
 bci-alln-cpc1-lb-1.cisco.com
 bci-alln-cpc2-lb-1.cisco.com
@@ -71706,6 +71714,7 @@ blackmagic.stanford.edu
 blackmaille.etsy.com
 blackmajic.github.com
 blackmamb.spaces.live.com
+blackmarketgunpla.bigcartel.com
 blackmask-1.fb.me
 blackmask-1.harvestapp.com
 blackmask-1.live.com
@@ -72633,6 +72642,7 @@ blessed2cut.bigcartel.com
 blessedannouncements.etsy.com
 blessedarethegeek.etsy.com
 blessedbeadjewelry.etsy.com
+blessedbundless.bigcartel.com
 blessedcountrymommie.etsy.com
 blesseddressedbabywear.bigcartel.com
 blessedgrafik.etsy.com
@@ -79532,6 +79542,7 @@ bobiao.en.alibaba.com
 bobibla.aliexpress.com
 bobicreations.etsy.com
 bobiedp.spaces.live.com
+bobifutt.bigcartel.com
 bobig.en.alibaba.com
 bobiksan2002.mail.ru
 bobillm.qzone.qq.com
@@ -91971,6 +91982,7 @@ builtin.slac.stanford.edu
 builtindiaglog.htc.com
 builtinkamloops.slack.com
 builtmntough.imgur.com
+builttocast.bigcartel.com
 builtvisible-my.sharepoint.com
 builtvisible.sharepoint.com
 buisauce.imgur.com
@@ -103739,6 +103751,7 @@ cae-b2border-bluegreen-prod-rcdn.cisco.com
 cae-b2border-bluegreen-prod-rtp.cisco.com
 cae-b2border-dev.cisco.com
 cae-b2border-pblu.cisco.com
+cae-b2border-pgrn.cisco.com
 cae-b2border-poe-alln.cisco.com
 cae-b2border-poe-rcdn.cisco.com
 cae-b2border-prod-alln.cisco.com
@@ -120516,6 +120529,7 @@ cdn.forgeofempires.com
 cdn.foxycart-demo.foxycart.com
 cdn.foxycart.com
 cdn.franklincovey.slack.com
+cdn.fs.airtable.com
 cdn.fwantivirus.goodrx.com
 cdn.games.imlianpu.com.cloud.tc.qq.com
 cdn.gc.my.com
