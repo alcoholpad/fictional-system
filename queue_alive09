@@ -1,3 +1,19 @@
+sjc23-sila-asg-vpn1-vlan215.cisco.com
+sjc23-sila-asg-vpn2.cisco.com
+sjc23-sila-gw1-vla210.cisco.com
+sjc23-sila-gw1-vla250.cisco.com
+sjc23-sila-gw1-vla410.cisco.com
+sjc23-sila-gw2-vla210.cisco.com
+sjc23-sila-gw2-vla250.cisco.com
+sjc23-sila-gw2-vla410.cisco.com
+sjc23-sila-npf-asa-vip.cisco.com
+sjc23-sila-npf-asa2-outside.cisco.com
+sjc23-wl51-gw1-ten1-1.cisco.com
+sjc23-wl51-gw1-ten1-2.cisco.com
+sjc23-wl51-gw1-vla10.cisco.com
+sjc23-wl51-gw1-vla250.cisco.com
+sjc23-wl51-gw1-vla258.cisco.com
+sjc23-wl51-wlc1-vla250.cisco.com
 sjc24-00a-ezsdd1.cisco.com
 sjc24-00a-gw1-vla132.cisco.com
 sjc24-00a-gw1-vla141.cisco.com
@@ -38079,9 +38095,15 @@ sncvpn05.thefacebook.com
 sncvpn06.thefacebook.com
 sncy.m.tmall.com
 sncy.tmall.com
+snd-report-cloudstation-eu-central-1.prod.hydra.sophos.com
 snd-report-cloudstation-eu-west-1.dev.hydra.sophos.com
+snd-report-cloudstation-eu-west-1.prod.hydra.sophos.com
+snd-report-cloudstation-us-east-2.prod.hydra.sophos.com
 snd-report-cloudstation-us-west-2.qa.hydra.sophos.com
+snd-report.cloudstation.eu-central-1.prod.hydra.sophos.com
 snd-report.cloudstation.eu-west-1.dev.hydra.sophos.com
+snd-report.cloudstation.eu-west-1.prod.hydra.sophos.com
+snd-report.cloudstation.us-east-2.prod.hydra.sophos.com
 snd-report.cloudstation.us-west-2.qa.hydra.sophos.com
 snd.gj.qq.com
 snd.unibet.com
@@ -39233,6 +39255,7 @@ snsbowtique.etsy.com
 snsbs.blog.china.alibaba.com
 snscaimito.github.com
 snschain.en.alibaba.com
+snsdy.tc.qq.com
 snsf-badger-01.stanford.edu
 snsf-badger-02.stanford.edu
 snsf-badger-05.stanford.edu
@@ -53540,6 +53563,7 @@ sourcesupplies.sharepoint.com
 sourcesurveillance-public.sharepoint.com
 sourcesurveillance.sharepoint.com
 sourcetree.blogs.atlassian.com
+sourceu.valvesoftware.com
 sourcevoid.statuspage.io
 sourcewellmn.sharepoint.com
 sourcewin.en.alibaba.com
@@ -53666,6 +53690,7 @@ southcentral.groups.live.com
 southcentralskankers.bigcartel.com
 southcentralus-dpp-frontend.dpp.speech.microsoft.com
 southcentralus-speech0-prod7-dpp-frontend.dpp.speech.microsoft.com
+southcentralus.api.cognitive.microsoft.com
 southcentralus.convai.speech.microsoft.com
 southcentralus.dev.cognitive.microsoft.com
 southcentralus.dgs-frontend.speech.microsoft.com
@@ -56536,6 +56561,7 @@ spike68.spaces.live.com
 spike69.chaturbate.com
 spikeandmikesfestivalofanimation.vhx.tv
 spikeandpippa.etsy.com
+spikebark.myshopify.com
 spikeguncover.staging.lieferando.de
 spiker.github.com
 spiker.sharepoint.com
@@ -58601,6 +58627,7 @@ sptw.htc.com
 sptxsp.tmall.com
 spu.1688.com
 spu.tmall.com
+spud-market.myshopify.com
 spud-res.cloudinary.com
 spud.quora.com
 spudart.quora.com
@@ -116534,6 +116561,7 @@ sso.alibaba.aliexpress.com
 sso.alibaba.tmall.com
 sso.aliexpress.com
 sso.amp.cisco.com
+sso.annika.dev.ikarem.io
 sso.api-sandbox.foxycart.com
 sso.api.binance.com
 sso.api.cloudinary.com
@@ -116608,6 +116636,7 @@ sso.dyao.dev.ikarem.io
 sso.e.qq.com
 sso.edp.telenet.be
 sso.education.github.com
+sso.elisnow.dev.ikarem.io
 sso.elvenar.com
 sso.eportal.mastercard.com
 sso.equalizerproject.com
@@ -116693,10 +116722,12 @@ sso.membership.mastercard.com
 sso.mep.qq.com
 sso.meraki.dev.ikarem.io
 sso.mgrad.dev.ikarem.io
+sso.mhamda.dev.ikarem.io
 sso.mjvillen.dev.ikarem.io
 sso.mreed.dev.ikarem.io
 sso.ms-acdc-autod.office.com
 sso.ms-acdc.office.com
+sso.msharma.dev.ikarem.io
 sso.mtapia.dev.ikarem.io
 sso.myoppo.com
 sso.n.rivals.com
@@ -116791,6 +116822,7 @@ sso.udemy.com
 sso.ui.com
 sso.venmo.com
 sso.verkada.com.san.cloudinary.com
+sso.vgmehta.dev.ikarem.io
 sso.vhx.tv
 sso.viroemer.dev.ikarem.io
 sso.vivy.com
@@ -119531,6 +119563,7 @@ stage.cmscommon.mastercard.com
 stage.codevscovid19.slack.com
 stage.com.san.cloudinary.com
 stage.comcomadmin.mastercard.com
+stage.comcomms.mastercard.com
 stage.con1.mobile.vip.gq1.yahoo.com
 stage.config.ydod.vip.bf1.yahoo.com
 stage.conn1.mobile.vip.gq1.yahoo.com
@@ -120202,6 +120235,7 @@ stage2.sdram.mastercard.com
 stage2.sharepoint.com
 stage2.sso-travel.pinpoint.net.au.mastercard.com
 stage2.stage.directly.com
+stage2.stl.api.gateway.mastercard.com
 stage2.stl.event.gateway.mastercard.com
 stage2.teslamotors.com
 stage2.uncover.dev.pyszne.pl
@@ -127437,6 +127471,7 @@ stoopidtrooper.imgur.com
 stoor.en.alibaba.com
 stoory.mobile.spaces.live.com
 stop-kdr.mail.ru
+stop-n-shop-city.myshopify.com
 stop-oomagenpatu.spaces.live.com
 stop.github.com
 stop.sharepoint.com
@@ -131422,6 +131457,7 @@ stylishlysimple.etsy.com
 stylishmelts.bigcartel.com
 stylishmimi.etsy.com
 stylishsafetycharms.bigcartel.com
+stylishstyle123.myshopify.com
 stylishtravelgirl.etsy.com
 stylishvintage.etsy.com
 stylistsos.myshopify.com
@@ -131971,3 +132007,14 @@ subtools-prod.netflix.com
 subtools-sandbox.netflix.com
 subtools-test.netflix.com
 subtracers.dev.lieferando.de
+subtracersuncover.staging.pyszne.pl
+subtract-gr.slack.com
+subtub.github.com
+subu.etsy.com
+subu.quora.com
+subuc-prod-alln.cisco.com
+subucpoe-prod-alln.cisco.com
+subucpoe-prod-rcdn.cisco.com
+subudspaces.slack.com
+suburbananime.bigcartel.com
+suburbanavenger.etsy.com
