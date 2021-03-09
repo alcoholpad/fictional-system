@@ -1,7 +1,0 @@
-tasty.co
-vid.tasty.co
-link.tasty.co
-www.tasty.co
-api.tasty.co
-stage.tasty.co
-horizon.tasty.co
