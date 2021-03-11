@@ -1,3 +1,13 @@
+antivirus-applebees-2017.goodrx.com
+antivirus-applebees-5.goodrx.com
+antivirus-applebees-6.goodrx.com
+antivirus-applebees-acc.goodrx.com
+antivirus-applebees-admin.goodrx.com
+antivirus-applebees-america.goodrx.com
+antivirus-applebees-analytics.goodrx.com
+antivirus-applebees-bucky.goodrx.com
+antivirus-applebees-cloudfront.goodrx.com
+antivirus-applebees-cms.goodrx.com
 antivirus-applebees-confluence.goodrx.com
 antivirus-applebees-data.goodrx.com
 antivirus-applebees-dec.goodrx.com
@@ -9667,6 +9677,7 @@ api-school.znly.co
 api-sdf.servicetrust.microsoft.com
 api-sea.smoot.apple.com
 api-secure.antivirus.goodrx.com
+api-segment.pipedrive.com
 api-seller.ozon.ru
 api-sentinel-ml.ls.apple.com
 api-sg.c.huawei.com
@@ -11302,7 +11313,9 @@ api.partnercenter-aircapi.microsoft.com
 api.partnercenter-staging.microsoft.com
 api.partnercenter.microsoft.com
 api.partnercenterchina-staging.microsoft.com
+api.partnercompetency.microsoft.com
 api.partnercontribution.microsoft.com
+api.partnerproficiency.microsoft.com
 api.partnerreferrals.microsoft.com
 api.partners-dev.zellepay.com
 api.partners-qa.zellepay.com
@@ -11587,6 +11600,7 @@ api.severa.stag.visma.com
 api.sexycyborg.imgur.com
 api.sfo1.yelp.com
 api.sg.tgl.qq.com
+api.sgroup.qq.com
 api.sharepoint.com
 api.shifts.gcc.teams.microsoft.com
 api.shopbop.cdn.amazon.com
@@ -13276,6 +13290,7 @@ apimetadata-uat2.stanford.edu
 apimetadata.stanford.edu
 apimgmt-service.cisco.com
 apimock.microsoft.com
+apimocks-station.internal.dev3.hydra.sophos.com
 apimockservice.dev3.hydra.sophos.com
 apimonitoring.mail.ru
 apimploysyncovh.showmax.com
@@ -13767,6 +13782,7 @@ apnic.zoom.us
 apninghuawang.cn.alibaba.com
 apnkaz.mail.ru
 apnsapi.xm.cloud.com
+apnsui.xm.cloud.com
 apnt11.stanford.edu
 apnt2.stanford.edu
 apnt3.stanford.edu
@@ -14123,6 +14139,7 @@ app-production.segment.com
 app-qa.segment.com
 app-quantu-mirrorschooplacestilityponeocovidev.sa.semrush.com
 app-rcd-002.cisco.com
+app-report.spotify.com
 app-rgl-prod.ros.rockstargames.com
 app-rtpvtg-031.cisco.com
 app-rtpvtg-131.cisco.com
@@ -15537,6 +15554,7 @@ appnomic.atlassian.net
 appnotch.statuspage.io
 appnova.atlassian.net
 appnovation.atlassian.net
+appodeal.atlassian.net
 appoem-oms.mail.gq1.yahoo.com
 appoem-scan.mail.gq1.yahoo.com
 appointmentgroup.sharepoint.com
@@ -19071,6 +19089,7 @@ argentina.slack.com
 argentina.venmo.com
 argentina.yelp.com
 argentinahidroponia.live.com
+argentinasinvacunas.ph.fb.me
 argentinasinvacunas.robinhood.com
 argentinawebdesign.yelp.com
 argentishop.bigcartel.com
@@ -19927,6 +19946,7 @@ arlo.com
 arlo.netgear.com
 arlo.vz.netgear.com
 arlo.yelp.com
+arlocallbacks-canary.arlo.com
 arlocallbacks-dev.arlo.com
 arlocallbacks-dev.netgear.com
 arlocallbacks-dev2.arlo.com
@@ -19942,6 +19962,7 @@ arlocallbacks-qa2.arlo.com
 arlocallbacks-qa2.netgear.com
 arlocallbacks-qa3.arlo.com
 arlocallbacks-qa3.netgear.com
+arlocallbacks-staging-canary.arlo.com
 arlocallbacks-staging.arlo.com
 arlocallbacks-staging.netgear.com
 arlocallbacks.arlo.com
@@ -22923,6 +22944,7 @@ as-wyse267.stanford.edu
 as.amazon.com
 as.antivirus.im.admin.dev.soundtrap.com
 as.ap-sg.otc.t-systems.com
+as.apps.us.jupiterone.io
 as.atlassian.com
 as.blizzard.com
 as.cp.wd.microsoft.com
@@ -25362,6 +25384,7 @@ asoodvcprd01.stanford.edu
 asoris.quora.com
 asorokin2.id.mail.ru
 asos.facebook.com
+asos.m.facebook.com
 asos.tmall.com
 asos1-my.sharepoint.com
 asos1.sharepoint.com
@@ -26978,6 +27001,7 @@ asurion-my.sharepoint.com
 asurion-teams.slack.com
 asurion-verify.arkoselabs.com
 asurion.invisionapp.com
+asurion.m.facebook.com
 asurion.sharepoint.com
 asurion.zoom.us
 asuriondesign.slack.com
@@ -31317,6 +31341,7 @@ auriga.sharepoint.com
 auriga.yelp.com
 aurigo.sharepoint.com
 aurigo.udemy.com
+aurigo.zoom.us
 auriis.etsy.com
 aurimasv.github.com
 aurimuffy20166666.aliexpress.com
@@ -32582,6 +32607,7 @@ authors.slack.com
 authors.yelp.com
 authorsdaughter.etsy.com
 authorstage.community.playstation.com
+authortalksurvey.stanford.edu
 authpaperico.slack.com
 authppl1.psi.vip.bfv.yahoo.com
 authppl1.psi.vip.gqv.yahoo.com
@@ -38325,6 +38351,8 @@ awsmbruhackcovid19.slack.com
 awsmelb.slack.com
 awsmocks-hub.dev3.hydra.sophos.com
 awsmocks-hub.internal.dev3.hydra.sophos.com
+awsmocks-station.dev3.hydra.sophos.com
+awsmocks-station.internal.dev3.hydra.sophos.com
 awsmould.cn.alibaba.com
 awsmp-buyer-tools.amazon.com
 awsmp-catalog-devtools-gamma.amazon.com
@@ -38630,6 +38658,7 @@ axiansnl.atlassian.net
 axiaonvsheng.spaces.live.com
 axiapr.foxycart.com
 axiata.facebook.com
+axiata.m.facebook.com
 axiawomenshealth-my.sharepoint.com
 axiawomenshealth.sharepoint.com
 axicom1-my.sharepoint.com
@@ -43652,6 +43681,8 @@ backoffice.binary.com
 backoffice.blockchain.info
 backoffice.dashlane.com
 backoffice.github.com
+backoffice.indirect-apply.dev.outfra.xyz
+backoffice.indirect-apply.prod.outfra.xyz
 backoffice.jino.uncover.dev.pyszne.pl
 backoffice.lastpass.com
 backoffice.microsoft.com
@@ -44500,9 +44531,18 @@ baidu-antivirus.guoganduchangmeinvtupian.venmo.com
 baidu-antivirus.jindaobocaiyulejituan.venmo.com
 baidu-antivirus.venmo.com
 baidu-antivirushost-144-234.venmo.com
+baidu-com.67yd0xg1cjr4.pre-ztnagateway.dingtalk.com
 baidu-kmv3881.slack.com
 baidu-pc-app-store.en.test.antivirus.staging.pyszne.pl
 baidu-pc-app-store.enantivirus.test.staging.pyszne.pl
+baidu.com7911.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com7922.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com7933.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com79444.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com9911.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com9922.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com9933.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com9944.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
 baidu.innocraft.cloud
 baidu911.sharepoint.com
 baidu_antivirus.th.am.ru
@@ -47364,6 +47404,7 @@ barncover.tmall.com
 barncover.world.tmall.com
 barncover.www.www.www.www.www.uswest.obiwan.netflix.com
 barndekor.myshopify.com
+barnebucky.bigcartel.com
 barneche.etsy.com
 barnehage.stagaws.visma.com
 barnehage.testaws.visma.com
@@ -48695,6 +48736,7 @@ bats.video.yahoo.com
 batsc.atlassian.net
 batsignallightbulb.imgur.com
 batsman-cn.en.alibaba.com
+batson-associates.myshopify.com
 batsy.etsy.com
 batsy.quora.com
 batt128.cn.alibaba.com
@@ -50614,6 +50656,7 @@ bc-is-kevwin7.stanford.edu
 bc-is-khodghead.stanford.edu
 bc-is-lap3.stanford.edu
 bc-is-loan1686.stanford.edu
+bc-is-macnic1.stanford.edu
 bc-is-meie7450.stanford.edu
 bc-is-meihao.stanford.edu
 bc-is-meihao10.stanford.edu
@@ -51598,6 +51641,7 @@ bcrm-manager.line.me
 bcrm-ptt.test.3-viruswall.rch.line-apps.com
 bcrm-pttviruswall.test.3.rch.line-apps.com
 bcrm-sandbox.line.me
+bcrm.line-apps.com
 bcrm.line.me
 bcroom.tmall.com
 bcrw.apple.com
@@ -52911,6 +52955,7 @@ beaky.etsy.com
 bealift.spaces.live.com
 bealift0.spaces.live.com
 beam-italia.slack.com
+beam-mobility.myshopify.com
 beam.github.com
 beam.slack.com
 beam.stanford.edu
@@ -66082,6 +66127,7 @@ bidspecialist.sharepoint.com
 bidstack.cloudflareaccess.com
 bidtheatre.atlassian.net
 bidulesvavalavache.etsy.com
+bidv.m.facebook.com
 bidvxln.imgur.com
 bidware.slack.com
 bidwatcher.sf.net
@@ -68038,6 +68084,7 @@ bioinformaticsgrx.slack.com
 bioinformaticshub.slack.com
 bioinfoskills.github.com
 bioinfoweek.stanford.edu
+bioinnovations.pipedrive.com
 bioiqjira.atlassian.net
 biojote.sharepoint.com
 biojs-team.slack.com
@@ -73762,6 +73809,7 @@ blog-assets.newrelic.com
 blog-at.line.me
 blog-autilityponeocovid19-sa.vhx.tv
 blog-beta.algolia.com
+blog-business.glassdoor.com
 blog-ch-limitedarticle-21.rch.line-apps.com
 blog-ch-limitedarticle.viruswall.sv.21.rch.line-apps.com
 blog-ch-limitedarticleviruswall.sv.21.rch.line-apps.com
@@ -73808,6 +73856,7 @@ blog-renaissance.spaces.live.com
 blog-sa.semrush.com
 blog-scrapincovers.etsy.com
 blog-series-tv.spaces.live.com
+blog-stage.glassdoor.com
 blog-staging.casper.com
 blog-staging.cloudflare.com
 blog-staging.twitter.com
@@ -76882,6 +76931,8 @@ bmwapigw.att.com
 bmwbilliards2016.challonge.com
 bmwc.sharepoint.com
 bmwde-int-n.bmw.de
+bmwde-ssl.bmw.de
+bmwde.bmw.de
 bmwermtest.bmw.de
 bmwi3.tweakblogs.net
 bmwj.tmall.com
@@ -79489,6 +79540,7 @@ bob-dispatch-prod-fe.amazon.com
 bob-dispatch-prod-in.amazon.com
 bob-dispatch-prod-na.amazon.com
 bob-display27.stanford.edu
+bob-malone.myshopify.com
 bob-mig-001-p.cisco.com
 bob-mob-001-d.cisco.com
 bob-pr-01-b400.stanford.edu
@@ -80791,6 +80843,7 @@ bomgarlab.starbucks.com
 bomgarwest.starbucks.com
 bomhen.1688.com
 bomi-led.en.alibaba.com
+bomineyewear.en.alibaba.com
 bomingtang.tmall.com
 bomlex.mail.ru
 bomllunite.tmall.com
@@ -81617,6 +81670,7 @@ boost.sf.net
 boost.stage.att.com
 boost.yelp.com
 boostcoin.slack.com
+boostcom.m.facebook.com
 boostcomgroup.atlassian.net
 boosted-autosports-pty-ltd.myshopify.com
 boosted-chaos.myshopify.com
@@ -87432,6 +87486,7 @@ bridestory-static-res.cloudinary.com
 bridesupplies.etsy.com
 brideswivesandbabes.etsy.com
 bridge-china.en.alibaba.com
+bridge-docs-test.opsgeni.us
 bridge-things.slack.com
 bridge.aliyun.com
 bridge.codefi.network
@@ -100198,6 +100253,7 @@ c26d87b37a8a418d9a27826ee1b4fbef.fp.measure.office.com
 c270.atl001.ix.nflxvideo.net
 c271.atl001.ix.nflxvideo.net
 c271b23e07e84d43997a3e38448336b8.fp.measure.office.com
+c271dc19c8904f7e8eadcec35d8a1f32.fp.measure.office.com
 c272.atl001.ix.nflxvideo.net
 c273.atl001.ix.nflxvideo.net
 c274.atl001.ix.nflxvideo.net
@@ -101377,6 +101433,7 @@ c3d.github.com
 c3development.sharepoint.com
 c3e6dfbaaec1418f81be59ceae282834.fp.measure.office.com
 c3ef804698bc463683b3c6454f29b569.fp.measure.office.com
+c3f8fc1b26be4c719c425a709ce4ba9a.fp.measure.office.com
 c3fa167eab0e938c5e5937412bb31e30.fp.measure.office.com
 c3fit.tmall.com
 c3inter.mishop.g.mi.com
@@ -102631,6 +102688,7 @@ ca1020871801.fm.alibaba.com
 ca102166634.fm.alibaba.com
 ca1022909820.trustpass.alibaba.com
 ca102334145.fm.alibaba.com
+ca1024661726.fm.alibaba.com
 ca102520518.fm.alibaba.com
 ca102642199.fm.alibaba.com
 ca102785668.fm.alibaba.com
@@ -111101,6 +111159,7 @@ capilanou1-my.sharepoint.com
 capilanou1.sharepoint.com
 capillarytech.quora.com
 capilo-usa.myshopify.com
+capiot.m.facebook.com
 capiq-prd1-01.cisco.com
 capiq-prd1-02.cisco.com
 capistranofiberarts.etsy.com
@@ -112475,6 +112534,7 @@ cargomatrix.sharepoint.com
 cargonza-u60.cisco.com
 cargosolutionexpress-my.sharepoint.com
 cargosolutionexpress.sharepoint.com
+cargoson.pipedrive.com
 cargoup.trustpass.alibaba.com
 cargoview.att.com
 cargovvo.mail.ru
@@ -112879,6 +112939,7 @@ carmillamovie.vhx.tv
 carmillaxmasbundles.vhx.tv
 carminhov.spaces.live.com
 carmo-ekb.mail.ru
+carmot-isvc-soln-stage.media.yahoo.com
 carmovasconcelos.spaces.live.com
 carmovasconcelosf.spaces.live.com
 carnaby.slack.com
@@ -114477,8 +114538,14 @@ cast-chat-157.line-apps.com
 cast-chat-158.line-apps.com
 cast-chat-160.line-apps.com
 cast-chat-162.line-apps.com
+cast-chat-164.line-apps.com
 cast-chat-165.line-apps.com
+cast-chat-166.line-apps.com
 cast-chat-179.line-apps.com
+cast-chat-183.line-apps.com
+cast-chat-207.line-apps.com
+cast-chat-212.line-apps.com
+cast-chat-216.line-apps.com
 cast-chat-sg-v-001.line-apps.com
 cast-chat-sg-v-002.line-apps.com
 cast-chat-sg-v-003.line-apps.com
@@ -114490,6 +114557,7 @@ cast-ipv4-c019-yyz001-bellcanada-isp.prod.http1.netflix.com
 cast-ipv4-c130-bos001-ix.prod.http1.netflix.com
 cast-n-play.myshopify.com
 cast-oc.netflix.com
+cast-tv.pipedrive.com
 cast-uiboot.prod.cloud.netflix.com
 cast-uiboot.prod.http1.netflix.com
 cast-uiboot.test.http1.netflix.com
@@ -116485,6 +116553,7 @@ ccalawllp-my.sharepoint.com
 ccalawllp.sharepoint.com
 ccalvarycare-44eb23e42b0f01.sharepoint.com
 ccalvarycare.sharepoint.com
+ccamatil.m.facebook.com
 ccamatil1-my.sharepoint.com
 ccamatil1.sharepoint.com
 ccanty-05670.cisco.com
@@ -129349,6 +129418,8 @@ cfqr.cpstage.dyson.com
 cfqvlsxa4u2uyt3lpyeuwgh1ot8bmt0o.waf.aliyun.com
 cfr-report-gtr-cloudstation-eu-west-1.dev.hydra.sophos.com
 cfr-report-gtr.cloudstation.eu-west-1.dev.hydra.sophos.com
+cfr-reporting-hub-cloudhub-eu-west-1.dev.hydra.sophos.com
+cfr-reporting-hub.cloudhub.eu-west-1.dev.hydra.sophos.com
 cfr.partners.extranet.microsoft.com
 cfr2.partners.extranet.microsoft.com
 cfrealcouplesuncovered.chaturbate.com
@@ -129527,40 +129598,3 @@ cg7mb8s70.quora.com
 cg7tpwi749n4a75xjxta2gbnqnza4jt6.waf.aliyun.com
 cg910.mail.vip.kr3.yahoo.com
 cg950.mail.vip.in.yahoo.com
-cgabriel.dev.ikarem.io
-cgabriel.dev.network-auth.ikarem.io
-cgabriel.meraki-go.ikarem.io
-cgac.en.alibaba.com
-cgacoke-my.sharepoint.com
-cgacoke.sharepoint.com
-cgaildesigns.etsy.com
-cgal-u10.cisco.com
-cgalatro.dev.ikarem.io
-cgalatro.dev.network-auth.ikarem.io
-cgalatro.meraki-go.ikarem.io
-cgame.alibaba.com
-cgaming.mail.ru
-cganz.etsy.com
-cgarciagl.github.com
-cgartt.ke.qq.com
-cgarvey-antivirus.github.com
-cgarvey-sigmavirus24.github.com
-cgarvey.github.com
-cgate.stage.att.com
-cgatemas.stage.att.com
-cgauxdistrict17alaska.imgur.com
-cgb-bci.cisco.com
-cgb.ddns.cyberoam.com
-cgb.mtf.pclo.mastercard.com
-cgb.pclo.mastercard.com
-cgbalu.quora.com
-cgbeads.etsy.com
-cgboats.1688.com
-cgbolashak.mail.ru
-cgbrew.en.alibaba.com
-cgc-bci.cisco.com
-cgc-dev.law.stanford.edu
-cgc-stage.law.stanford.edu
-cgc-store.law.stanford.edu
-cgc.github.com
-cgc.law.stanford.edu
