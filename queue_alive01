@@ -1,9 +1,3 @@
-antivirus-applebees-2017.goodrx.com
-antivirus-applebees-5.goodrx.com
-antivirus-applebees-6.goodrx.com
-antivirus-applebees-acc.goodrx.com
-antivirus-applebees-admin.goodrx.com
-antivirus-applebees-america.goodrx.com
 antivirus-applebees-analytics.goodrx.com
 antivirus-applebees-bucky.goodrx.com
 antivirus-applebees-cloudfront.goodrx.com
@@ -6041,6 +6035,7 @@ anton-gb.mail.ru
 anton-k.github.com
 anton-n-petrov.mail.ru
 anton-nehai.mail.ru
+anton-payments-eph-1.dev.codefi.network
 anton-payments-eph.dev.codefi.network
 anton-sedachev.mail.ru
 anton.cezar.mail.ru
@@ -8930,6 +8925,7 @@ api-cf.ibotta.com
 api-chd.starbucks.com
 api-chi.smoot.apple.com
 api-ci-euw1a.smoot.apple.com
+api-ci-mes.smoot.apple.com
 api-ci-usw2c.smoot.apple.com
 api-ci.seek.com.au
 api-ci.smoot.apple.com
@@ -8970,6 +8966,7 @@ api-codevscovid19.slack.com
 api-collaborationhelp.cisco.com
 api-commerce-gov.domains.api.data.gov
 api-con.hoteltonight-test.com
+api-concat-mes.smoot.apple.com
 api-concso-tshoot-vip.cisco.com
 api-connectivity.hoteltonight-test.com
 api-consup.huawei.com
@@ -9009,6 +9006,8 @@ api-data.line.me
 api-dataagainstcovid-19.slack.com
 api-de-preview01.c.huawei.com
 api-de.c.huawei.com
+api-debug-mes.smoot.apple.com
+api-demo-mes.smoot.apple.com
 api-den.smoot.apple.com
 api-dentalplans.antivirus.goodrx.com
 api-dev-collaborationhelp.cisco.com
@@ -9455,6 +9454,7 @@ api-nasa-gov.domains.api.data.gov
 api-ne.mackeeper.com
 api-neocovidev2.sa.semrush.com
 api-new.semrush.com
+api-news-mes.smoot.apple.com
 api-nms.lazada.com
 api-nocaptcha.mail.ru
 api-nodequark.test.netflix.com
@@ -9774,6 +9774,7 @@ api-tech4covid19.slack.com
 api-temp1.kraken.com
 api-test-dmp.wireless.att.com
 api-test-lb.stanford.edu
+api-test-mes.smoot.apple.com
 api-test-nat.cisco.com
 api-test-solutions.firstnet.att.com
 api-test-vip.cisco.com
@@ -14036,6 +14037,7 @@ apostrophearchitects.sharepoint.com
 aposync.statuspage.io
 apotekforeningen.sharepoint.com
 apotex-bci.cisco.com
+apothecarygreenz.bigcartel.com
 apothederm.foxycart.com
 apotheek.uncover-bas.dev.pyszne.pl
 apothekencovervalet.dev.pyszne.pl
@@ -14171,6 +14173,7 @@ app-storage-kin.s3.us-west-000.backblazeb2.com
 app-storage-link.s3.us-west-000.backblazeb2.com
 app-storage-logf.s3.us-west-000.backblazeb2.com
 app-storage-logs.s3.us-west-000.backblazeb2.com
+app-storage-magic.s3.us-west-000.backblazeb2.com
 app-storage-rgs.s3.us-west-000.backblazeb2.com
 app-storage-west.s3.us-west-000.backblazeb2.com
 app-storage-works.s3.us-west-000.backblazeb2.com
@@ -14286,6 +14289,7 @@ app.business.westernunion.com
 app.butlerfortrello.com
 app.buy.mi.com
 app.bz.qq.com
+app.ca.kennasecurity.com
 app.cabincovedesigns.etsy.com
 app.car-line.yelp.com
 app.cdn-pci.optimizely.com
@@ -25880,9 +25884,11 @@ assets-apac.codefi.network
 assets-assets-api-chore-ca-3670.dev.codefi.network
 assets-assets-api-feat-ca-2872.dev.codefi.network
 assets-assets-api-feat-invitation-email.dev.codefi.network
+assets-assets-api-feat-migrate-metadata.dev.codefi.network
 assets-assets-api-feat-redocs-documentation.dev.codefi.network
 assets-assets-api-feat-transactions-and-aum.dev.codefi.network
 assets-assets-api-fix-initial-user-creation.dev.codefi.network
+assets-assets-api-fix-invalid-assets.dev.codefi.network
 assets-assets-api-fix-tenant-creation.dev.codefi.network
 assets-assets-front-chore-ca-3714.dev.codefi.network
 assets-atv.nflxext.com
@@ -27613,6 +27619,7 @@ ateliertpk.etsy.com
 ateliervertex.etsy.com
 atelieryarn.etsy.com
 atelom.myshopify.com
+atelyeremy.bigcartel.com
 atemei.blog.china.alibaba.com
 atempo3-my.sharepoint.com
 atempo3.sharepoint.com
@@ -29682,6 +29689,7 @@ atsbz881csdwg5duzjz.quora.com
 atscholen4-my.sharepoint.com
 atscholen4.sharepoint.com
 atscloud247.statuspage.io
+atscosmetics.bigcartel.com
 atscsb.1688.com
 atseconsultants.sharepoint.com
 atseng.github.com
@@ -31802,6 +31810,7 @@ auth-bsvc.mydesktop.usaa.com
 auth-cf.dev.ibotta.com
 auth-cf.ibotta.com
 auth-demo-res.cloudinary.com
+auth-demo.buzzfeed.com
 auth-dev.huaweicloud.com
 auth-dev.stanford.edu
 auth-dev.znly.co
@@ -37925,6 +37934,7 @@ aws-east-www.edge.quora.com
 aws-ep-travel.corp.amazon.com
 aws-ethiopia-covid19.slack.com
 aws-etiapi-internal.trustpilot.com
+aws-facilities.apple.com
 aws-franklincovey.slack.com
 aws-fraud-neuropa-beta.integ.amazon.com
 aws-fraud-tools.amazon.com
@@ -42683,6 +42693,7 @@ b8e2a581d4124d0ab24643ad9153f877.fp.measure.office.com
 b8f18ebf3c1b4202932a5782df26ac3e.fp.measure.office.com
 b8fzsf8mmvv04zaf.vk.com
 b8gf9ty76g8fxilaa02o7mwu6ci2m4f8.waf.aliyun.com
+b8lcxk.tdum.alibaba.com
 b8rv1c99wh.prod.antivirus.gq.webproxy.idc.tencent.com
 b8sd2q2.quora.com
 b8yttw2.apollo.smartsheet.com
@@ -44535,6 +44546,25 @@ baidu-com.67yd0xg1cjr4.pre-ztnagateway.dingtalk.com
 baidu-kmv3881.slack.com
 baidu-pc-app-store.en.test.antivirus.staging.pyszne.pl
 baidu-pc-app-store.enantivirus.test.staging.pyszne.pl
+baidu.com112.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com113.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com114.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com115.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com116.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com117.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com118.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com119.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com120.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com121.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com122.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com123.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com124.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com125.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com126.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com127.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com128.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com129.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
+baidu.com130.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
 baidu.com7911.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
 baidu.com7922.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
 baidu.com7933.67ye0cyt5eyo.pre-ztnagateway.dingtalk.com
@@ -46156,6 +46186,7 @@ bangersnmosh.bigcartel.com
 bangersss.imgur.com
 bangertv.vhx.tv
 bangerwei.1688.com
+bangetsu-records.booth.pm
 bangfujinxiong.tmall.com
 bangfujinxiong.world.tmall.com
 banggoog.aliexpress.com
@@ -46480,6 +46511,7 @@ bannersbyricki.etsy.com
 bannerstore.tmall.com
 bannikov.mail.ru
 bannisterlake.atlassian.net
+banno-jha.atlassian.net
 bannyanchem.cn.alibaba.com
 bano.en.alibaba.com
 banoo.etsy.com
@@ -58122,6 +58154,7 @@ beta-ui.cmd.cisco.com
 beta-uk.mobile.yahoo.com
 beta-uncover.rutgers.dev.pyszne.pl
 beta-us.mobile.yahoo.com
+beta-vespa.aka.amazon.com
 beta-virus112.aliexpress.com
 beta-virusbuches.aliexpress.com
 beta-wholesale.telekom.de
@@ -66578,6 +66611,7 @@ bigquestionsmallanswer.quora.com
 bigred.foxycart.com
 bigredtee.live.com
 bigrelldesign.etsy.com
+bigruubstacos.bigcartel.com
 bigsale.tmall.com
 bigsamsnaps.myshopify.com
 bigseoreddit.slack.com
@@ -68548,6 +68582,7 @@ biro2003.en.alibaba.com
 birobot.slack.com
 birofis.imgur.com
 birogala.mail.ru
+bironist.booth.pm
 birp-workcentre7545.stanford.edu
 birraitaliana.spaces.live.com
 birrer-laptop.stanford.edu
@@ -68871,6 +68906,7 @@ bitefuni.tmall.com
 bitel-group.slack.com
 biteme013.imgur.com
 bitemenot.etsy.com
+bitemestudios.bigcartel.com
 bitemyapple.myshopify.com
 biterp.slack.com
 biterswit.etsy.com
@@ -74745,6 +74781,7 @@ bloodymonster.harvestapp.com
 bloodypajamas.bigcartel.com
 bloodythorn.imgur.com
 bloodywanker231.imgur.com
+bloodz420.imgur.com
 bloogsyorg.quora.com
 blook.etsy.com
 blooky.sharepoint.com
@@ -74852,6 +74889,7 @@ blop.sf.net
 blopak.en.alibaba.com
 blopslx.slac.stanford.edu
 bloqs.mail.ru
+blosc.github.com
 blossom.github.com
 blossom.sharepoint.com
 blossom.vhx.tv
@@ -83296,6 +83334,7 @@ bossy.yelp.com
 bossy4lyfe.bigcartel.com
 bossybootsdesign.etsy.com
 bossybri.imgur.com
+bossygirlcollectionn.bigcartel.com
 bossymaskgirl.spaces.live.com
 bossyonetisim-my.sharepoint.com
 bossyonetisim.sharepoint.com
@@ -84412,6 +84451,7 @@ boygeorgina.etsy.com
 boygirlparty.etsy.com
 boygirlpaty.etsy.com
 boyhi.cn.1688.com
+boyhoodapparel.bigcartel.com
 boyichina.en.alibaba.com
 boyicorhdmi.1688.com
 boyida.tmall.com
@@ -93758,6 +93798,7 @@ buttercreamanddoilies.bigcartel.com
 buttercreambee.etsy.com
 buttercreationsca.etsy.com
 buttercup-bake-shop.myshopify.com
+buttercup2.aliexpress.com
 buttercupbloom.etsy.com
 buttercupcutups.etsy.com
 buttercupgirl.etsy.com
@@ -93786,6 +93827,7 @@ butterflyabove.etsy.com
 butterflybluedesigns.etsy.com
 butterflybows.etsy.com
 butterflybuckles.etsy.com
+butterflyconfidenceandbeauty.bigcartel.com
 butterflydesign.etsy.com
 butterflydesign1.etsy.com
 butterflyfeetdigital.etsy.com
@@ -103171,6 +103213,7 @@ cabinet.floc-17911-staging.staging.flocktory.com
 cabinet.floc-18066-staging.staging.flocktory.com
 cabinet.floc-18111-staging.staging.flocktory.com
 cabinet.floc-18160-staging.staging.flocktory.com
+cabinet.floc-18459-staging.staging.flocktory.com
 cabinet.flocktory.com
 cabinet.geo-overhead-staging.staging.flocktory.com
 cabinet.github.com
@@ -110356,6 +110399,7 @@ candle.yelp.com
 candle1958.spaces.live.com
 candleabracadabra.etsy.com
 candleartcandlecompany.foxycart.com
+candleartdesigns.bigcartel.com
 candlebets.vanillacommunities.com
 candlebets.vanillastaging.com
 candlejack00.imgur.com
@@ -111153,6 +111197,7 @@ capi.cse.canva.com
 capi.grammarly.com
 capi.qbox.cloud.tencent.com
 capi1.creatr.vip.gq1.yahoo.com
+capilano.es.aliexpress.com
 capilano.tmall.com
 capilanoclassifieds.comi.imgur.com
 capilanou1-my.sharepoint.com
@@ -115643,6 +115688,7 @@ cb4-useast-cbridge-vpn-fw1.cisco.com
 cb4-useast-sw1.cisco.com
 cb4-useast-vpn-gw1.cisco.com
 cb46b6a376994c638cbbaf399cc1df80.fp.measure.office.com
+cb4t68.tdum.alibaba.com
 cb50c7e957b3405d82248fbf3bd5ded8.fp.measure.office.com
 cb553d0e-67a9-4c40-b08e-29f64b0e025b.probe.performance.dropbox.com
 cb594fda2865439fb0f55464159a2401.fp.measure.office.com
@@ -119660,6 +119706,7 @@ cdfes-dev.cisco.com
 cdfes-stg.cisco.com
 cdfes.cisco.com
 cdff33b006314dc79327105c8dd856c4.fp.measure.office.com
+cdfise-b2x.cisco.com
 cdfit.sharepoint.com
 cdfls-my.sharepoint.com
 cdfls.sharepoint.com
@@ -119793,6 +119840,7 @@ cdiepenheimduursma.tweakblogs.net
 cdillc.sharepoint.com
 cdima.fm.alibaba.com
 cdimage.kali.org
+cdimages.kali.org
 cdimg.ssl.apk.scm.myoppo.com
 cdinielan.my.com
 cdioc3.slac.stanford.edu
@@ -129560,41 +129608,3 @@ cfyj888.cn.alibaba.com
 cfys.en.alibaba.com
 cfyxtx.1688.com
 cfyyts.world.tmall.com
-cfzc.qq.com
-cfzc.qq.com.cloud.tc.qq.com
-cfzch.cn.alibaba.com
-cfzhongsen.1688.com
-cfzhongsen.cn.alibaba.com
-cg-check.stanford.edu
-cg-dl.en.alibaba.com
-cg-marketing.atlassian.net
-cg-norwichsharingcity.slack.com
-cg-trade.cainiao.com
-cg-uncover.dev.lieferando.de
-cg.facebook.com
-cg.github.com
-cg.m.tencent.com
-cg.qq.com
-cg.slack.com
-cg.yelp.com
-cg10.mail.vip.kr3.yahoo.com
-cg122.github.com
-cg122cloud.sharepoint.com
-cg17.cn.alibaba.com
-cg1989france.spaces.live.com
-cg2002.en.alibaba.com
-cg2018-metrics-forwarder.cloud.seek.com.au
-cg205.mail.vip.ne1.yahoo.com
-cg261.mail.vip.aue.yahoo.com
-cg30.mail.vip.tp2.yahoo.com
-cg34-my.sharepoint.com
-cg34.sharepoint.com
-cg49.sharepoint.com
-cg50.mail.vip.in.yahoo.com
-cg520.spaces.live.com
-cg761.mail.vip.aue.yahoo.com
-cg7i052o1df8.quora.com
-cg7mb8s70.quora.com
-cg7tpwi749n4a75xjxta2gbnqnza4jt6.waf.aliyun.com
-cg910.mail.vip.kr3.yahoo.com
-cg950.mail.vip.in.yahoo.com
