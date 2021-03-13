@@ -1,3 +1,16 @@
+westus2.convai.speech.microsoft.com
+westus2.dcsfe.dev.adu.microsoft.com
+westus2.dcsfe.int.adu.microsoft.com
+westus2.dcsfe.perf.adu.microsoft.com
+westus2.dcsfe.ppe.adu.microsoft.com
+westus2.dcsfe.prod.adu.microsoft.com
+westus2.dcsfe.test.adu.microsoft.com
+westus2.dev.api.slohub.microsoft.com
+westus2.dev.cognitive.microsoft.com
+westus2.dev.slohub.microsoft.com
+westus2.dgs-frontend.speech.microsoft.com
+westus2.dgs.speech.microsoft.com
+westus2.disposition.mcapifulfillment-aircapi.commerce.microsoft.com
 westus2.disposition.mcapifulfillment-commercial-int.commerce.microsoft.com
 westus2.disposition.mcapifulfillment-commercial.commerce.microsoft.com
 westus2.disposition.mcapifulfillment-consumer-int.commerce.microsoft.com
@@ -15,6 +28,7 @@ westus2.journal.mcapifulfillment-aircapi.commerce.microsoft.com
 westus2.journal.mcapifulfillment-consumer-int.commerce.microsoft.com
 westus2.journal.mcapifulfillment-consumer.commerce.microsoft.com
 westus2.mrassistant.speech.microsoft.com
+westus2.mtonline.sls.microsoft.com
 westus2.prod.powerquery.microsoft.com
 westus2.provgateway.playready.microsoft.com
 westus2.rp.dev.adu.microsoft.com
@@ -31,6 +45,7 @@ westus2.sessions.dev.collab.mixedreality.microsoft.com
 westus2.slohub.microsoft.com
 westus2.sr-frontend.speech.microsoft.com
 westus2.staging.pq-df.microsoft.com
+westus2.standby.mtonline.sls.microsoft.com
 westus2.telephony.convai.speech.microsoft.com
 westus2.tts-frontend.speech.microsoft.com
 westus2.vnet.powerplatform.microsoft.com
@@ -3840,6 +3855,7 @@ wildolivekids.etsy.com
 wildonion.etsy.com
 wildorchids.etsy.com
 wildparrot.quora.com
+wildparty.myshopify.com
 wildpearly.etsy.com
 wildpen.etsy.com
 wildpens42.etsy.com
@@ -4384,6 +4400,7 @@ win-win.aliexpress.com
 win.alibaba.com
 win.antivirusupport.shopify.com
 win.chaturbate.com
+win.config.office.com
 win.crashes.videolan.org
 win.dev.mail.ru
 win.gamebbs.qq.com
@@ -6505,6 +6522,7 @@ witkey.tmall.com
 witkom4.mail.ru
 witlof.tweakblogs.net
 witmask.freebasics.com
+witmask.games.snapchat.com
 witmask.vivy.com
 witmgroup.slack.com
 witmotion.aliexpress.com
@@ -6605,6 +6623,7 @@ wizardmac.slack.com
 wizardofcrowds.github.com
 wizardpotion.bigcartel.com
 wizardsinger-donkoucomet.spaces.live.com
+wizcharger1.myshopify.com
 wizdumb27.imgur.com
 wizehire.slack.com
 wizehive.zoom.us
@@ -7827,6 +7846,7 @@ wome.tmall.com
 womeinuo.en.alibaba.com
 women-in-ds-atx.slack.com
 women-india.quora.com
+women-sports-fitness-apperal.myshopify.com
 women-who-go-london.slack.com
 women.github.com
 women.slack.com
@@ -7881,6 +7901,7 @@ womensolidarity.spaces.live.com
 womenstruate.slack.com
 womentechmakersberlin.slack.com
 womenvogueclothes.aliexpress.com
+womenwestern.myshopify.com
 womenwhocodedc.slack.com
 womenwhodoitall.etsy.com
 womenwhogo.slack.com
@@ -7954,6 +7975,7 @@ wonderfulsz.en.alibaba.com
 wonderfuluwinterapparel.myshopify.com
 wonderfulwool.etsy.com
 wondergas.en.alibaba.com
+wondergeeky2.myshopify.com
 wondergif.imgur.com
 wondergirlofficialstore.aliexpress.com
 wondergrrl.etsy.com
@@ -8459,6 +8481,7 @@ woorea.github.com
 woos.en.alibaba.com
 wooservers.statuspage.io
 wooshi.en.alibaba.com
+woospeee.myshopify.com
 woosterhound.mail.ru
 wooszoo.etsy.com
 wootric.slack.com
@@ -15170,6 +15193,7 @@ www-theregister-co-uk.amp.cloudflare.com
 www-thesun-co-uk.amp.cloudflare.com
 www-times.stanford.edu
 www-tisint.slac.stanford.edu
+www-togofilter-com.myshopify.com
 www-tomcat.antivirus.dentalplans.goodrx.com
 www-tomgoedecker-de.myshopify.com
 www-tr.antivirus.dentalplans.goodrx.com
@@ -22198,6 +22222,7 @@ www.boyerglassworks.etsy.com
 www.boyfriendbadges.etsy.com
 www.boyheartsgirl.etsy.com
 www.boykinfamilyadoption.spaces.live.com
+www.boyle-koch-and-thompson8456.myshopify.com
 www.boysandarrows.etsy.com
 www.boyucb.cn.alibaba.com
 www.bozymama.etsy.com
@@ -24179,6 +24204,7 @@ www.chongqing.regency.hyatt.com
 www.chongqingdonghong.en.alibaba.com
 www.chongshingtinbox.en.alibaba.com
 www.choosemoose.etsy.com
+www.chottebache23.myshopify.com
 www.choumie.etsy.com
 www.chouxfleurs.etsy.com
 www.chr.avira-free-antivirus.test.staging.pyszne.pl
@@ -25761,6 +25787,7 @@ www.credit.stage.paypal.com
 www.creditauciti-dev.stage.paypal.com
 www.creditauciti-mpp.stage.paypal.com
 www.creditauciti.stage.paypal.com
+www.creditconnect.rabobank.com
 www.creditkarma.ca
 www.creditkarma.com
 www.creditriverartglass.etsy.com
@@ -28332,6 +28359,7 @@ www.disneypixarsoul.withspotify.com
 www.display-holder.en.alibaba.com
 www.distance.flocktory.com
 www.distancelearning.flocktory.com
+www.distancelearning.m.games.snapchat.com
 www.distantvillage.etsy.com
 www.distefanoemanuele.spaces.live.com
 www.distinctglass.etsy.com
@@ -31524,6 +31552,7 @@ www.fortlauderdaleairportsouth.place.hyatt.com
 www.fortmatic.com
 www.fortmyers.place.hyatt.com
 www.fortnightstudios.etsy.com
+www.fortunateclothing.myshopify.com
 www.fortwayne.place.hyatt.com
 www.fortworthcityview.place.hyatt.com
 www.fortworthhurst.place.hyatt.com
@@ -35516,6 +35545,7 @@ www.i2a.user.qzone.qq.com
 www.i2i.www-dev-antivirus.admin.alumni.dev.soundtrap.com
 www.i2i.www-dev.admin.alumni-antivirus.dev.soundtrap.com
 www.i2i.www-test.antivirus.alumni.dev.soundtrap.com
+www.ia.unibet.com
 www.iaa.avira-free-antivirus.staging.pyszne.pl
 www.iad1.creditkarma.ca
 www.iad1.creditkarma.com
@@ -41589,6 +41619,7 @@ www.lxnmgs.cn.alibaba.com
 www.lxxxvi.etsy.com
 www.lyanwood.etsy.com
 www.lybly.etsy.com
+www.lyc-brassens-courcouronnes.games.snapchat.com
 www.lydiaohlydiaart.etsy.com
 www.lydiaspenandpaper.etsy.com
 www.lydiastreasures4u.etsy.com
@@ -44599,6 +44630,7 @@ www.mx7.urbancover.etsy.com
 www.mxjxwx1688.cn.alibaba.com
 www.my-dogs-best.shopify.com
 www.my-lumens.en.alibaba.com
+www.my-perfectly-posh-boutique.myshopify.com
 www.my.com
 www.my.github.com
 www.my.mail.ru
@@ -50483,6 +50515,7 @@ www.resources.vhx.tv
 www.resources.www-testantivirus.alumni.dev.soundtrap.com
 www.resources.yelp.com
 www.resparkablevintage.etsy.com
+www.respiratorreviews.m.games.snapchat.com
 www.restartistry.etsy.com
 www.restaurants.doha.grand.hyatt.com
 www.restaurants.dubai.hyatt.com
@@ -50699,6 +50732,7 @@ www.riotjane.etsy.com
 www.riotsiren.etsy.com
 www.ripleybean.etsy.com
 www.ripnrollrugs.etsy.com
+www.rippermillerwebstore.myshopify.com
 www.riptieknits.etsy.com
 www.riqiang888.cn.alibaba.com
 www.riquelle.etsy.com
@@ -51401,6 +51435,7 @@ www.sadieolive.etsy.com
 www.sadiesmemories.etsy.com
 www.saemay.etsy.com
 www.saerch.icq.com
+www.safari-queen-collection.myshopify.com
 www.safarilee.etsy.com
 www.safety.live.com
 www.safetyreporting.dyson.com
@@ -53437,6 +53472,7 @@ www.simpsonelli.etsy.com
 www.simpsons.integration.yammer.com
 www.sinca.en.alibaba.com
 www.sincearjewelry.etsy.com
+www.sincere-vision.tmall.com
 www.sincerecostumes.etsy.com
 www.sincerelyapril.etsy.com
 www.sincerelyhandmade.etsy.com
@@ -60036,6 +60072,7 @@ www.upyonderdesigns.etsy.com
 www.ur.qq.com
 www.uramichi.etsy.com
 www.urban-mobility.telekom.com
+www.urban-outlaww.myshopify.com
 www.urbanadornments.etsy.com
 www.urbanalloy.etsy.com
 www.urbanbasement.etsy.com
@@ -60257,6 +60294,7 @@ www.v5hhyw.imgur.com
 www.v6.staging.kiwi.com
 www.va.github.com
 www.va.slack.com
+www.va.unibet.com
 www.va.yelp.com
 www.vaadvantage.gsa.gov
 www.vacantmoonvintage.etsy.com
@@ -72591,6 +72629,7 @@ xiaohongw.spaces.live.com
 xiaohua5410.cn.alibaba.com
 xiaohualandi.tmall.com
 xiaohuanan83.cn.alibaba.com
+xiaohuangren.myshopify.com
 xiaohuanxiong.tmall.com
 xiaohubaoer.tmall.com
 xiaohuge520.cn.alibaba.com
@@ -88224,6 +88263,7 @@ yoursecretadmiral.etsy.com
 yourself-pandemic.my.com
 yoursfafa.spaces.live.com
 yourshopnamehere.etsy.com
+yourshoulderbags.myshopify.com
 yoursite.atlassian.net
 yoursite.vhx.tv
 yourslacksubdomain.slack.com
@@ -91221,6 +91261,7 @@ yupengzp.cn.alibaba.com
 yupinfang.en.alibaba.com
 yupingpg.cn.alibaba.com
 yupinmei.world.tmall.com
+yupio09.myshopify.com
 yupiyeipapers.etsy.com
 yupladiybeads.aliexpress.com
 yupolaojijiu.1688.com
@@ -98961,6 +99002,7 @@ zecongtoys.en.alibaba.com
 zecosm.tmall.com
 zecovidrio.udemy.com
 zecw3cro.cloudstation.eu-central-1.qa.hydra.sophos.com
+zed-cloud-mart.myshopify.com
 zed-v.cisco.com
 zed.yahoo.com
 zedaarexports.trustpass.alibaba.com
@@ -99963,6 +100005,7 @@ zgac.slack.com
 zgaddyl.1688.com
 zgalant.github.com
 zgamechangers.slack.com
+zgamga.myshopify.com
 zgapsw.en.alibaba.com
 zgasbh.cn.alibaba.com
 zgayh.cn.alibaba.com
@@ -104613,6 +104656,7 @@ zldyf.tmall.com
 zleess.cn.alibaba.com
 zlenamel.en.alibaba.com
 zlend.tmall.com
+zlepio.myshopify.com
 zler.taobao.com
 zler.world.taobao.com
 zlevi-wxp1.cisco.com
@@ -106264,8 +106308,10 @@ zoomca134-224-35-225zc.cloud.zoom.us
 zoomca134-224-38-9zc.cloud.zoom.us
 zoomca134-224-48-104mmr.cloud.zoom.us
 zoomca134-224-49-70zc.cloud.zoom.us
+zoomca134-224-50-127mmr.cloud.zoom.us
 zoomca134-224-50-217zc.cloud.zoom.us
 zoomca134-224-50-218zc.cloud.zoom.us
+zoomca134-224-50-250mmr.cloud.zoom.us
 zoomca134-224-52-107zc.cloud.zoom.us
 zoomca134-224-52-108zc.cloud.zoom.us
 zoomca134-224-53-204mmr.cloud.zoom.us
@@ -106298,12 +106344,15 @@ zoomca193-123-19-227zc.cloud.zoom.us
 zoomca193-123-19-29zc.cloud.zoom.us
 zoomca193-123-19-54zc.cloud.zoom.us
 zoomca193-123-193-208mmr.cloud.zoom.us
+zoomca193-123-194-132zc.cloud.zoom.us
 zoomca193-123-194-187zc.cloud.zoom.us
 zoomca193-123-194-43mmr.cloud.zoom.us
 zoomca193-123-196-210mmr.cloud.zoom.us
 zoomca193-123-198-215mmr.cloud.zoom.us
 zoomca193-123-198-39zc.cloud.zoom.us
 zoomca193-123-198-73zc.cloud.zoom.us
+zoomca193-123-199-121mmr.cloud.zoom.us
+zoomca193-123-199-143zc.cloud.zoom.us
 zoomca193-123-199-213mmr.cloud.zoom.us
 zoomca193-123-20-89zc.cloud.zoom.us
 zoomca193-123-200-2zc.cloud.zoom.us
@@ -106324,6 +106373,9 @@ zoomca193-123-213-0zc.cloud.zoom.us
 zoomca193-123-213-36mmr.cloud.zoom.us
 zoomca193-123-216-158zc.cloud.zoom.us
 zoomca193-123-217-0mmr.cloud.zoom.us
+zoomca193-123-217-126mmr.cloud.zoom.us
+zoomca193-123-219-101zc.cloud.zoom.us
+zoomca193-123-219-24mmr.cloud.zoom.us
 zoomca193-123-22-137mmr.cloud.zoom.us
 zoomca193-123-22-153mmr.cloud.zoom.us
 zoomca193-123-220-209zc.cloud.zoom.us
@@ -106342,6 +106394,7 @@ zoomca193-123-4-111mmr.cloud.zoom.us
 zoomca193-123-4-180mmr.cloud.zoom.us
 zoomca193-123-4-36mmr.cloud.zoom.us
 zoomca193-123-5-137zc.cloud.zoom.us
+zoomca193-123-5-27mmr.cloud.zoom.us
 zoomca193-123-5-46mmr.cloud.zoom.us
 zoomca193-123-6-231mmr.cloud.zoom.us
 zoomca193-123-7-95mmr.cloud.zoom.us
@@ -109067,6 +109120,7 @@ zoomff134-224-70-72zc.cloud.zoom.us
 zoomff134-224-70-73zc.cloud.zoom.us
 zoomff134-224-70-75mmr.cloud.zoom.us
 zoomff134-224-71-110mmr.cloud.zoom.us
+zoomff134-224-71-207mmr.cloud.zoom.us
 zoomff134-224-71-236mmr.cloud.zoom.us
 zoomff134-224-71-94mmr.cloud.zoom.us
 zoomff134-224-73-106zc.cloud.zoom.us
@@ -109167,8 +109221,11 @@ zoomff198-251-163-3zc.cloud.zoom.us
 zoomff198-251-163-4zc.cloud.zoom.us
 zoomff198-251-164-146mmr.cloud.zoom.us
 zoomff198-251-164-178mmr.cloud.zoom.us
+zoomff198-251-165-118mmr.cloud.zoom.us
+zoomff198-251-165-223zc.cloud.zoom.us
 zoomff198-251-167-148zc.cloud.zoom.us
 zoomff198-251-167-149zc.cloud.zoom.us
+zoomff198-251-167-28zc.cloud.zoom.us
 zoomff198-251-167-47mmr.cloud.zoom.us
 zoomff198-251-167-79mmr.cloud.zoom.us
 zoomff198-251-168-115mmr.cloud.zoom.us
@@ -110373,6 +110430,7 @@ zoomin134-224-128-0zc.cloud.zoom.us
 zoomin134-224-129-4mmr.cloud.zoom.us
 zoomin134-224-134-74zc.cloud.zoom.us
 zoomin134-224-137-66mmr.cloud.zoom.us
+zoomin140-238-232-77mmr.cloud.zoom.us
 zoomin140-238-233-28zc.cloud.zoom.us
 zoomin140-238-234-0zc.cloud.zoom.us
 zoomin140-238-234-36mmr.cloud.zoom.us
@@ -111001,8 +111059,10 @@ zoomnxt178mmr.nx.zoom.us
 zoomnxt245zc.nx.zoom.us
 zoomnxu133mmr.nx.zoom.us
 zoomnxu157mmr.nx.zoom.us
+zoomnxu202mmr.nx.zoom.us
 zoomnxu30zc.nx.zoom.us
 zoomnxu31zc.nx.zoom.us
+zoomnxu48mmr.nx.zoom.us
 zoomnxv161mmr.nx.zoom.us
 zoomnxv245zc.nx.zoom.us
 zoomnxv85mmr.nx.zoom.us
@@ -117368,6 +117428,7 @@ zoomva134-224-15-61zc.cloud.zoom.us
 zoomva134-224-15-63mmr.cloud.zoom.us
 zoomva134-224-17-24mmr.cloud.zoom.us
 zoomva134-224-177-139mmr.cloud.zoom.us
+zoomva134-224-177-13mmr.cloud.zoom.us
 zoomva134-224-177-169mmr.cloud.zoom.us
 zoomva134-224-178-77mmr.cloud.zoom.us
 zoomva134-224-179-181mmr.cloud.zoom.us
@@ -117375,6 +117436,7 @@ zoomva134-224-179-209mmr.cloud.zoom.us
 zoomva134-224-179-68mmr.cloud.zoom.us
 zoomva134-224-180-2mmr.cloud.zoom.us
 zoomva134-224-181-23mmr.cloud.zoom.us
+zoomva134-224-181-243mmr.cloud.zoom.us
 zoomva134-224-181-41mmr.cloud.zoom.us
 zoomva134-224-181-46mmr.cloud.zoom.us
 zoomva134-224-183-208zc.cloud.zoom.us
@@ -117436,6 +117498,7 @@ zoomva134-224-28-220mmr.cloud.zoom.us
 zoomva134-224-29-112mmr.cloud.zoom.us
 zoomva134-224-29-210zc.cloud.zoom.us
 zoomva134-224-29-211zc.cloud.zoom.us
+zoomva134-224-29-9mmr.cloud.zoom.us
 zoomva134-224-30-200mmr.cloud.zoom.us
 zoomva134-224-31-100zc.cloud.zoom.us
 zoomva134-224-31-102zc.cloud.zoom.us
@@ -117463,6 +117526,7 @@ zoomva193-122-208-99mmr.cloud.zoom.us
 zoomva193-122-209-125zc.cloud.zoom.us
 zoomva193-122-209-194mmr.cloud.zoom.us
 zoomva193-122-209-97zc.cloud.zoom.us
+zoomva193-122-210-13mmr.cloud.zoom.us
 zoomva193-122-211-184mmr.cloud.zoom.us
 zoomva193-122-211-194mmr.cloud.zoom.us
 zoomva193-122-211-221mmr.cloud.zoom.us
@@ -117590,6 +117654,7 @@ zoomva193-123-150-242mmr.cloud.zoom.us
 zoomva193-123-151-119mmr.cloud.zoom.us
 zoomva193-123-151-224mmr.cloud.zoom.us
 zoomva193-123-151-93mmr.cloud.zoom.us
+zoomva193-123-152-204mmr.cloud.zoom.us
 zoomva193-123-154-169zc.cloud.zoom.us
 zoomva193-123-156-112zc.cloud.zoom.us
 zoomva193-123-156-203mmr.cloud.zoom.us
@@ -120146,6 +120211,7 @@ zun-ma.en.alibaba.com
 zunadev.foxycart.com
 zunaidkhan.quora.com
 zunaihzp.tmall.com
+zunair-ahmad-2.myshopify.com
 zunami_10.mail.ru
 zunboyd.tmall.com
 zuncaimaoyi.1688.com
