@@ -1,15 +1,3 @@
-antivirus.ykw.cdn.aliyun.com
-antivirus.z.ns1.webproxy.idc.tencent.com
-antivirus.zait.github.com
-antivirus.zenmate-firefox.en.test.staging.pyszne.pl
-antivirus.zeus.dyson.com
-antivirus.zhan.qq.com
-antivirus.zhoushan.cdn.aliyun.com
-antivirus0113.csgwww.stamp.frontend.office.prod.clops.pyszne.pl
-antivirus02.github.com
-antivirus057.tesla.services
-antivirus1-korea.cmx-prf-lvdc.platform.tripadvisor.com
-antivirus1-rkp9r87w-android.mobile-sdk-api.intercom.io
 antivirus1-web3435.venmo.com
 antivirus1.1-app.platform.tripadvisor.com
 antivirus1.am.ru
@@ -3205,6 +3193,7 @@ ap-south-1.gamma.signer.console-api.aws.amazon.com
 ap-south-1.lightsail-devo.aws.amazon.com
 ap-south-1.lightsail-preprod.aws.amazon.com
 ap-south-1.lightsail.aws.amazon.com
+ap-south-1.prod.signer.console-api.aws.amazon.com
 ap-south-1.proxy.fc.aliyun-inc.com
 ap-south-1.quicksight.aws.amazon.com
 ap-south-1.signin.aws.amazon.com
@@ -4586,6 +4575,7 @@ api-cdn.amazon.com
 api-cf.dev.ibotta.com
 api-cf.ibotta.com
 api-chd.starbucks.com
+api-che.smoot.apple.com
 api-chi.smoot.apple.com
 api-ci-euw1a.smoot.apple.com
 api-ci-mes.smoot.apple.com
@@ -4835,6 +4825,7 @@ api-drf.smoot.apple.com
 api-drru.music.hicloud.com
 api-druid.k8s-exp.shopifykloud.com
 api-dryad.corp.amazon.com
+api-dub.smoot.apple.com
 api-east.dataflow.iot.att.com
 api-east.flow.cloud.att.com
 api-ec.rch.line-apps.com
@@ -5042,6 +5033,7 @@ api-iot.telenet.be
 api-iotdevice.att.com
 api-iou.cisco.com
 api-jhart.dev.ibotta.com
+api-jnb.smoot.apple.com
 api-jp.squareup.com
 api-k8s.app.optimizely.com
 api-k8s.develrc-app.optimizely.com
@@ -5118,6 +5110,7 @@ api-mp.meraki.com
 api-mpoc.test.att.com
 api-mr.sentinel-ml.apple.com
 api-msp.smoot.apple.com
+api-mum.smoot.apple.com
 api-mva.microsoft.com
 api-my.game.heytapmobi.com
 api-my.store.heytapmobi.com
@@ -5203,6 +5196,8 @@ api-origin.l1-np.sonyentertainmentnetwork.com
 api-origin.q1-np.sonyentertainmentnetwork.com
 api-origin.q2-np.sonyentertainmentnetwork.com
 api-origin.sonyentertainmentnetwork.com
+api-osa.smoot.apple.com
+api-par.smoot.apple.com
 api-partner-connect-mdn-uat.apple.com
 api-partner-connect-mdn.apple.com
 api-partner-connect-prz.apple.com
@@ -5325,6 +5320,7 @@ api-rec.stellar.intl.miui.com
 api-regulations-gov.domains.api.data.gov
 api-restricted.grab.com
 api-rheumcovid-19registry.slack.com
+api-rno.smoot.apple.com
 api-rpa.aliyun.com
 api-ru.c.huawei.com
 api-s.paypal.com
@@ -5350,6 +5346,7 @@ api-sdf.servicetrust.microsoft.com
 api-sea.smoot.apple.com
 api-secure.antivirus.goodrx.com
 api-segment.pipedrive.com
+api-sel.smoot.apple.com
 api-seller.ozon.ru
 api-sentinel-ml.ls.apple.com
 api-services.integration3.sse.itd.cisco.com
@@ -5426,6 +5423,7 @@ api-stg.smoot.apple.com
 api-stg.support.microsoft.com
 api-stg.upro.playstation.net
 api-stgl.charity.tw1.yahoo.com
+api-sto.smoot.apple.com
 api-stream.twitter.com
 api-sv4.dailymotion.com
 api-syd.smoot.apple.com
@@ -5487,6 +5485,7 @@ api-tip.dcat.dsp.mp.microsoft.com
 api-title-webapp.indeed.com
 api-tls12.simplify.com
 api-toolbox.tesla.com
+api-tpe.smoot.apple.com
 api-trunk.memberprofile.yahoo.com
 api-trunk.profile.yahoo.com
 api-tv.spotify.com
@@ -15678,6 +15677,7 @@ argenti13.imgur.com
 argentina.1688.com
 argentina.atlassian.net
 argentina.chaturbate.com
+argentina.fb.com
 argentina.github.com
 argentina.imgur.com
 argentina.recarga.com
@@ -18345,6 +18345,7 @@ artbymark.etsy.com
 artbyme.etsy.com
 artbymeeiling.etsy.com
 artbymelissac.etsy.com
+artbymorganfrench.bigcartel.com
 artbymsr.etsy.com
 artbynamrita.etsy.com
 artbynaomi.etsy.com
@@ -18353,6 +18354,7 @@ artbypem.etsy.com
 artbypilarcofino.etsy.com
 artbyraffe.bigcartel.com
 artbyrakel.etsy.com
+artbyredris.bigcartel.com
 artbyrodriguez.etsy.com
 artbyrosey.bigcartel.com
 artbysarahbradshaw.etsy.com
@@ -18449,6 +18451,7 @@ artecomideias.spaces.live.com
 artedebarros.spaces.live.com
 artedefazerarte.space.live.com
 artedelsuonare.spaces.live.com
+artedeplantas.bigcartel.com
 artediamore.etsy.com
 artedisenio.spaces.live.com
 arteeartesanatobrazil.spaces.live.com
@@ -19168,6 +19171,7 @@ artit.mail.ru
 artivity.etsy.com
 artixes.mail.ru
 artiz.tmall.com
+artizangallery.bigcartel.com
 artizencc-my.sharepoint.com
 artizencc.sharepoint.com
 artizsan.myshopify.com
@@ -23475,6 +23479,7 @@ assets-assets-api-fix-initial-user-creation.dev.codefi.network
 assets-assets-api-fix-invalid-assets.dev.codefi.network
 assets-assets-api-fix-redocs-pipeline.dev.codefi.network
 assets-assets-api-fix-tenant-creation.dev.codefi.network
+assets-assets-api-fix-tenant-logs.dev.codefi.network
 assets-assets-front-chore-ca-3714.dev.codefi.network
 assets-atv.nflxext.com
 assets-author-01.adobeperf.microsoft.com
@@ -26597,6 +26602,7 @@ atium.aka.amazon.com
 atium.integ.amazon.com
 atiumgq-kf.gq.vcg.yahoo.com
 ativario.live.com
+atiyalasean.bigcartel.com
 atjapan.taobao.com
 atje1wixfdr9k7.beta.bankex2.pipedrive.com
 atjj.tmall.com
@@ -39024,6 +39030,7 @@ awsomesilverjewelry.etsy.com
 awspaydex.amazon.com
 awspaydex.integ.amazon.com
 awspayments-redash.corp.amazon.com
+awspdproject110.signin.aws.amazon.com
 awsprodbi-tablewalk.corp.amazon.com
 awsproxy.udb.vip.bf2.yahoo.com
 awsproxy.udb.vip.gq1.yahoo.com
@@ -45655,6 +45662,7 @@ back2.udemy.com
 back2.yelp.com
 back2code.quora.com
 back2college.quora.com
+back2darootz.bigcartel.com
 back2learncom-my.sharepoint.com
 back2learncom.sharepoint.com
 back85.teslamotors.com
@@ -45853,6 +45861,7 @@ backintimeboutique.etsy.com
 backitchen.myshopify.com
 backlash84.imgur.com
 backlash99.imgur.com
+backlashfishingco.bigcartel.com
 backlink.1688.com
 backlink.atlassian.net
 backlink.chaturbate.com
@@ -46426,6 +46435,7 @@ badcorporatelogo.spaces.live.com
 badcreditloanstoday.quora.com
 baddiecouturee.bigcartel.com
 baddiedluxe.bigcartel.com
+baddiedriplashes.bigcartel.com
 baddieessentals.myshopify.com
 baddiepiercings.bigcartel.com
 baddietrndz.myshopify.com
@@ -47058,6 +47068,7 @@ baigela.en.alibaba.com
 baigeli.tmall.com
 baigemy.cn.alibaba.com
 baigeshoes.en.alibaba.com
+baigetaiji.1688.com
 baigong.en.alibaba.com
 baigood.me.1688.com
 baigood.profile.1688.com
@@ -56325,6 +56336,7 @@ beadbewitched.etsy.com
 beadbijoux.etsy.com
 beadblanketbingo.etsy.com
 beadbooty.etsy.com
+beadborough.bigcartel.com
 beadbrats.etsy.com
 beadclub.shopify.com
 beadcomber.etsy.com
@@ -57303,6 +57315,7 @@ bebear.aliexpress.com
 bebear.es.aliexpress.com
 bebear.fr.aliexpress.com
 bebear.pt.aliexpress.com
+bebeautifulbeauty.bigcartel.com
 bebeautifulforever.taobao.com
 bebeautytools.en.alibaba.com
 bebecoltd.tmall.com
@@ -63733,6 +63746,7 @@ beyonddesign.etsy.com
 beyondelek.en.alibaba.com
 beyondenergyservices.sharepoint.com
 beyondersv.imgur.com
+beyondessentialwardrobe.bigcartel.com
 beyondethereal.etsy.com
 beyondgangsterblackface.vhx.tv
 beyondgift.fm.alibaba.com
@@ -72063,6 +72077,7 @@ bimore.en.alibaba.com
 bimoso-admin.sharepoint.com
 bimoso.sharepoint.com
 bimotagrrrl.spaces.live.com
+bimotionsclothing.bigcartel.com
 bimps1002.imgur.com
 bimreviewshare.bentley.com
 bimsem.sharepoint.com
@@ -76964,6 +76979,7 @@ blacklist.tmall.com
 blacklist.udemy.com
 blacklist.yelp.com
 blacklodgepress.etsy.com
+blackluckcat.bigcartel.com
 blacklunchtable.slack.com
 blackm.sharepoint.com
 blackmagic.stanford.edu
@@ -77636,6 +77652,7 @@ blag_chasha.mail.ru
 blaga-rtr.stanford.edu
 blagafelician.fm.alibaba.com
 blagdonit.sharepoint.com
+blaggerstore.bigcartel.com
 blago.1688.com
 blago.atlassian.net
 blago.chaturbate.com
@@ -81418,6 +81435,7 @@ bluepods.bigcartel.com
 bluepodsitalia.myshopify.com
 bluepoint365.1688.com
 bluepointmortgagecom.sharepoint.com
+bluepoppybeadwork.bigcartel.com
 bluepoppydesign.etsy.com
 bluepoppygallery.etsy.com
 blueport.atlassian.net
@@ -90028,6 +90046,7 @@ boue.yelp.com
 boufford.myshopify.com
 bougavilla.spaces.live.com
 bougiebabes.bigcartel.com
+bougiebarknyc.bigcartel.com
 bougiebeautycollection.bigcartel.com
 bougiegirlzcosmetics.bigcartel.com
 bougiereviews.yelp.com
@@ -94186,6 +94205,7 @@ brickroadcreations.etsy.com
 bricks.alibaba-inc.com
 bricks.aliexpress.com
 bricks.e.qq.com
+bricksapparel.bigcartel.com
 brickset.vanillastaging.com
 bricksniper.imgur.com
 bricksnpieces.etsy.com
@@ -99523,6 +99543,7 @@ builtindiaglog.htc.com
 builtinkamloops.slack.com
 builtmntough.imgur.com
 builttocast.bigcartel.com
+builtunderpressure.bigcartel.com
 builtvisible-my.sharepoint.com
 builtvisible.sharepoint.com
 buisauce.imgur.com
@@ -101808,6 +101829,7 @@ buystromectol.highwebmedia.com
 buysupport.microsoft.com
 buysupportuat.microsoft.com
 buysupportuat1.microsoft.com
+buytheboy.bigcartel.com
 buythecoffeeman.vhx.tv
 buythestitch.etsy.com
 buytramadol.spaces.live.com
@@ -110504,6 +110526,7 @@ ca-service-gecc.corp.google.com
 ca-settings.teams.microsoft.com
 ca-shoretel.centrify.com
 ca-si1.unibet.com
+ca-site-tools.buzzfeed.com
 ca-stg-vip-1.cisco.com
 ca-stg-vip-2.cisco.com
 ca-stores.casper.com
@@ -111196,6 +111219,7 @@ cabinet.floc-17911-staging.staging.flocktory.com
 cabinet.floc-18066-staging.staging.flocktory.com
 cabinet.floc-18111-staging.staging.flocktory.com
 cabinet.floc-18160-staging.staging.flocktory.com
+cabinet.floc-18432-staging.staging.flocktory.com
 cabinet.floc-18459-staging.staging.flocktory.com
 cabinet.flocktory.com
 cabinet.geo-overhead-staging.staging.flocktory.com
@@ -113967,6 +113991,8 @@ cae-pom-prod-alln.cisco.com
 cae-pom.cisco.com
 cae-prd-alln-dmz-ext-dedicated0-rp-vip.cisco.com
 cae-prd-alln-dmz-ext-dedicated1-rp-vip.cisco.com
+cae-prd-alln-dmz-ext-dedicated2-rp-vip.cisco.com
+cae-prd-alln-dmz-ext-rp-vip.cisco.com
 cae-prd-alln-ext-dedicated0-rp-vip-0.cisco.com
 cae-prd-alln-ext-dedicated1-rp-vip-0.cisco.com
 cae-prd-alln-ext-dedicated2-rp-vip-0.cisco.com
@@ -113977,6 +114003,10 @@ cae-prd-alln-ext-dedicated6-rp-vip-0.cisco.com
 cae-prd-alln-ext-dedicated7-rp-vip-0.cisco.com
 cae-prd-alln-ext-dedicated8-rp-vip-0.cisco.com
 cae-prd-alln-ext-dedicated9-rp-vip-0.cisco.com
+cae-prd-rcdn-dmz-ext-dedicated0-rp-vip.cisco.com
+cae-prd-rcdn-dmz-ext-dedicated1-rp-vip.cisco.com
+cae-prd-rcdn-dmz-ext-dedicated2-rp-vip.cisco.com
+cae-prd-rcdn-dmz-ext-rp-vip.cisco.com
 cae-prd-rcdn-ext-dedicated0-rp-vip-0.cisco.com
 cae-prd-rcdn-ext-dedicated1-rp-vip-0.cisco.com
 cae-prd-rcdn-ext-dedicated2-rp-vip-0.cisco.com
@@ -113987,6 +114017,7 @@ cae-prd-rcdn-ext-dedicated6-rp-vip-0.cisco.com
 cae-prd-rcdn-ext-dedicated7-rp-vip-0.cisco.com
 cae-prd-rcdn-ext-dedicated8-rp-vip-0.cisco.com
 cae-prd-rcdn-ext-dedicated9-rp-vip-0.cisco.com
+cae-prd-rtp-dmz-ext-rp-vip.cisco.com
 cae-preg-dev.cisco.com
 cae-preg-prod-alln.cisco.com
 cae-preg-prod-rcdn.cisco.com
@@ -132132,6 +132163,7 @@ cea78d4fb35a438b83e5ffdb50ffa013.fp.measure.office.com
 ceab.imgur.com
 ceaberrys.etsy.com
 ceair.tmall.com
+cealcrest.bigcartel.com
 ceallachknits.etsy.com
 ceams.bigcartel.com
 ceandbo.etsy.com
@@ -133559,6 +133591,7 @@ centrals.planethoster.net
 centralsec.slack.com
 centralselfstorage.slack.com
 centralserviceassociat.sharepoint.com
+centralsoul.bigcartel.com
 centralspot-my.sharepoint.com
 centralspot.sharepoint.com
 centralsprings.edmodo.com
@@ -142569,6 +142602,7 @@ charlesbukkake.imgur.com
 charlescandlin.quora.com
 charlesch.live.com
 charleschenqingneng.spaces.live.com
+charleschuck.bigcartel.com
 charlesconsultingltd.harvestapp.com
 charlescountymdgov.sharepoint.com
 charlesdarwinuni-my.sharepoint.com
@@ -142935,6 +142969,7 @@ charmioscraftparty.etsy.com
 charmkeyyarn.en.alibaba.com
 charmlite.en.alibaba.com
 charmme.en.alibaba.com
+charmmepretty.bigcartel.com
 charmminiatures.etsy.com
 charmmy.line.me
 charmony.etsy.com
@@ -143956,6 +143991,7 @@ cheariefearie.etsy.com
 chearry.en.alibaba.com
 cheat.errtheblog.antivirusco.github.com
 cheatah.tweakblogs.net
+cheatdaysncravings.bigcartel.com
 cheats2014.quora.com
 cheb.zakazaka.ru
 cheba360.comim.bizapp.qq.com
@@ -147122,6 +147158,7 @@ chilenainnovadoracl.sharepoint.com
 chilenos-en-usa.spaces.live.com
 chilesii-my.sharepoint.com
 chilesii.sharepoint.com
+chileylimon2.bigcartel.com
 chili.1688.com
 chili.atlassian.net
 chili.chaturbate.com
@@ -147668,12 +147705,3 @@ chinacvddiamond.1688.com
 chinaczshop.cn.1688.com
 chinadacai.1688.com
 chinadahe.cn.alibaba.com
-chinadamai.cn.1688.com
-chinadaming.1688.com
-chinadaoming.en.alibaba.com
-chinadasu.en.alibaba.com
-chinadawn.en.alibaba.com
-chinadayi.en.alibaba.com
-chinadazzling.en.alibaba.com
-chinadcl.en.alibaba.com
-chinadebaos.en.alibaba.com
