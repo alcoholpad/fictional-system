@@ -467,6 +467,7 @@
 00b1de5e-05d9-4b2d-a506-dafaaecdad62.probe.performance.dropbox.com
 00b54eb602204f11854a79aad1990e40.fp.measure.office.com
 00b624483c7b4172abe188f7f2949d00.fp.measure.office.com
+00b63d3c144455bdab199f3fb5edf010.fp.measure.office.com
 00b7db29fbe667c8936f51ff2e3a0a00.fp.measure.office.com
 00bb3d517a21f7be0.slack.com
 00bcc0fe1b984eebab908ecbe458e910.fp.measure.office.com
@@ -1050,6 +1051,7 @@
 029mht.taobao.com
 029qiqiu.taobao.com
 029szkj.taobao.com
+02a106f1606f72c45b6dfb06efe04a20.fp.measure.office.com
 02a23376-5426-45f0-bc78-35f9d19f0704.probe.performance.dropbox.com
 02a75c5391484607aa40d3824699625b.fp.measure.office.com
 02ab709b86ac29e0c4761b7949926510.fp.measure.office.com
@@ -1138,6 +1140,7 @@
 03-weu.emea.prd.api.mediapaas.teams.microsoft.com
 03-weu.emea.prd.ivr.mediapaas.teams.microsoft.com
 03-wus.noam.cip.api.mediapaas.teams.microsoft.com
+03-wus.noam.cip.ivr.mediapaas.teams.microsoft.com
 03.1688.com
 03.atlassian.net
 03.binance.com
@@ -1420,8 +1423,11 @@
 05-ukso.emea.prd.audience.teams.microsoft.com
 05-ukwe.emea.prd.audience.teams.microsoft.com
 05-usce.noam.prd.audience.teams.microsoft.com
+05-usce.noam.prd.ivr.mediapaas.infra.teams.microsoft.com
 05-usea.noam.prd.audience.teams.microsoft.com
+05-usea.noam.prd.ivr.mediapaas.infra.teams.microsoft.com
 05-ussc.noam.prd.audience.teams.microsoft.com
+05-ussc.noam.prd.ivr.mediapaas.infra.teams.microsoft.com
 05-uswc.noam.prd.audience.teams.microsoft.com
 05-uswe.noam.prd.audience.teams.microsoft.com
 05-uswe.noam.prd.ivr.mediapaas.infra.teams.microsoft.com
@@ -3034,6 +3040,9 @@
 1-21051-1569268816-564.rt.yammer.com
 1-21051-1659252029-575.rt.yammer.com
 1-2112919-1551130668-755.rt.yammer.com
+1-2112919-1551131710-272.rt.yammer.com
+1-2112919-1551131710-903.rt.yammer.com
+1-2112919-1607974784-319.rt.yammer.com
 1-2112919-1653114431-340.rt.yammer.com
 1-2112919-1653114431-463.rt.yammer.com
 1-2112919-1659496701-987.rt.yammer.com
@@ -31186,6 +31195,7 @@
 209287.mail.ru
 20931-ipv4.farm.prod.aa-rt.sharepoint.com
 20931-ipv4e.farm.prod.aa-rt.sharepoint.com
+20932.vk.com
 209401.aliexpress.com
 2094267.sharepoint.com
 2094331504.qzone.qq.com
@@ -35774,6 +35784,7 @@
 246f7ff2258f44569ba1589347c64da7.fp.measure.office.com
 247-155.my.com
 247-fitness.myshopify.com
+247-ink.myshopify.com
 247-ipv4.clump.dprodmgd104.aa-rt.sharepoint.com
 247-ipv4e.clump.dprodmgd104.aa-rt.sharepoint.com
 247-ipv4e.clump.dprodmgd105.aa-rt.sharepoint.com
@@ -38167,6 +38178,7 @@
 2914950901.log.optimizely.com
 2915512431.qzone.qq.com
 2916103084.qzone.qq.com
+29162.vk.com
 291655281.qzone.qq.com
 2916650506.log.optimizely.com
 2917816181.qzone.qq.com
@@ -39460,6 +39472,7 @@
 3.tweakers.net
 3.udemy.com
 3.virus.github.com
+3.vk.com
 3.web-security-academy.net
 3.www.dentalplans.antivirus.goodrx.com
 3.www.dentalplansantivirus.goodrx.com
@@ -49705,6 +49718,8 @@
 52-112-170-222.relay.teams.microsoft.com
 52-112-170-224.relay.teams.microsoft.com
 52-112-170-29.relay.teams.microsoft.com
+52-112-170-37.relay.teams.microsoft.com
+52-112-170-43.relay.teams.microsoft.com
 52-112-170-49.relay.teams.microsoft.com
 52-112-170-66.relay.teams.microsoft.com
 52-112-170-92.relay.teams.microsoft.com
@@ -49875,6 +49890,7 @@
 52-113-200-36.relay.teams.microsoft.com
 52-113-200-44.relay.teams.microsoft.com
 52-113-201-102.relay.teams.microsoft.com
+52-113-201-11.relay.teams.microsoft.com
 52-113-201-110.relay.teams.microsoft.com
 52-113-201-115.relay.teams.microsoft.com
 52-113-201-12.relay.teams.microsoft.com
@@ -50974,6 +50990,7 @@
 52-114-127-99.relay.teams.microsoft.com
 52-114-13-10.relay.teams.microsoft.com
 52-114-13-100.relay.teams.microsoft.com
+52-114-13-103.relay.teams.microsoft.com
 52-114-13-108.relay.teams.microsoft.com
 52-114-13-110.relay.teams.microsoft.com
 52-114-13-125.relay.teams.microsoft.com
@@ -53498,6 +53515,7 @@
 52-114-45-142.relay.teams.microsoft.com
 52-114-45-159.relay.teams.microsoft.com
 52-114-45-161.relay.teams.microsoft.com
+52-114-45-205.relay.teams.microsoft.com
 52-114-45-207.relay.teams.microsoft.com
 52-114-45-21.relay.teams.microsoft.com
 52-114-45-28.relay.teams.microsoft.com
@@ -53565,18 +53583,22 @@
 52-114-54-94.relay.teams.microsoft.com
 52-114-55-0.relay.teams.microsoft.com
 52-114-55-1.relay.teams.microsoft.com
+52-114-55-100.relay.teams.microsoft.com
 52-114-55-109.relay.teams.microsoft.com
 52-114-55-119.relay.teams.microsoft.com
 52-114-55-122.relay.teams.microsoft.com
+52-114-55-124.relay.teams.microsoft.com
 52-114-55-125.relay.teams.microsoft.com
 52-114-55-130.relay.teams.microsoft.com
 52-114-55-139.relay.teams.microsoft.com
 52-114-55-144.relay.teams.microsoft.com
 52-114-55-145.relay.teams.microsoft.com
 52-114-55-146.relay.teams.microsoft.com
+52-114-55-149.relay.teams.microsoft.com
 52-114-55-151.relay.teams.microsoft.com
 52-114-55-153.relay.teams.microsoft.com
 52-114-55-163.relay.teams.microsoft.com
+52-114-55-164.relay.teams.microsoft.com
 52-114-55-165.relay.teams.microsoft.com
 52-114-55-166.relay.teams.microsoft.com
 52-114-55-19.relay.teams.microsoft.com
@@ -53591,6 +53613,8 @@
 52-114-55-212.relay.teams.microsoft.com
 52-114-55-213.relay.teams.microsoft.com
 52-114-55-233.relay.teams.microsoft.com
+52-114-55-241.relay.teams.microsoft.com
+52-114-55-244.relay.teams.microsoft.com
 52-114-55-250.relay.teams.microsoft.com
 52-114-55-36.relay.teams.microsoft.com
 52-114-55-40.relay.teams.microsoft.com
@@ -54640,10 +54664,13 @@
 52-114-79-120.relay.teams.microsoft.com
 52-114-79-138.relay.teams.microsoft.com
 52-114-79-156.relay.teams.microsoft.com
+52-114-79-158.relay.teams.microsoft.com
 52-114-79-160.relay.teams.microsoft.com
+52-114-79-165.relay.teams.microsoft.com
 52-114-79-169.relay.teams.microsoft.com
 52-114-79-175.relay.teams.microsoft.com
 52-114-79-176.relay.teams.microsoft.com
+52-114-79-177.relay.teams.microsoft.com
 52-114-79-204.relay.teams.microsoft.com
 52-114-79-209.relay.teams.microsoft.com
 52-114-79-219.relay.teams.microsoft.com
@@ -54730,6 +54757,7 @@
 52-115-46-226.relay.teams.microsoft.com
 52-115-46-230.relay.teams.microsoft.com
 52-115-46-231.relay.teams.microsoft.com
+52-115-46-234.relay.teams.microsoft.com
 52-115-46-243.relay.teams.microsoft.com
 52-115-46-249.relay.teams.microsoft.com
 52-115-46-254.relay.teams.microsoft.com
@@ -58441,6 +58469,7 @@
 5sonstudios.spaces.live.com
 5spirits.spaces.live.com
 5star-trans.en.alibaba.com
+5star4you.myshopify.com
 5starcollection.bigcartel.com
 5starproductsltd.sharepoint.com
 5starrgoalgetter.bigcartel.com
@@ -62039,6 +62068,7 @@
 6c83112dcb6a44268ded0108200ab0b1.fp.measure.office.com
 6c8765229dce49169578e1aefd41c4ec.fp.measure.office.com
 6ca0353a361d459ca0a81e39bcb61d25.waf.huaweicloud.com
+6ca4aa121f944a91bd3bc8034c03c168.fp.measure.office.com
 6carmen6.etsy.com
 6catsart.etsy.com
 6cbb6cb78c754cde86efce650cc6640f.fp.measure.office.com
@@ -62946,6 +62976,7 @@
 70d46754-bd96-4100-9324-9ce4fa82a7d2.probe.performance.dropbox.com
 70d838f2kwv9xcx2kpfnr16tz0di105j.waf.aliyun.com
 70dbccac64cc47a3a49895975d934b49.fp.measure.office.com
+70f117d8e1c6416db37c8dbb877d169b.fp.measure.office.com
 70f3fac7df3d4d469dad7ea2dc481cf4.fp.measure.office.com
 70f5978f1c7b4b148cdbe2fa5d111c6b.fp.measure.office.com
 70h1x50k6t63.statuspage.io
@@ -69309,6 +69340,7 @@
 8oti45.quora.com
 8otlgj48pzm6ndgt2i8giyekib817z42.waf.aliyun.com
 8oun9uhp.quora.com
+8ovmi-75.twilio.com
 8oy1u2.imgur.com
 8ozr5.twilio.com
 8p.r.mailjet.com
@@ -71752,6 +71784,7 @@
 999huaruntianhe.tmall.com
 999huaruntianhe.world.tmall.com
 999silver.cn.alibaba.com
+999vouge.myshopify.com
 99a999.spaces.live.com
 99aa082218c343a8a8c99ca6c5944607.fp.measure.office.com
 99aae14e14f54b6e96bf2a1f9bfae60d.waf.huaweicloud.com
@@ -79641,6 +79674,7 @@ aa228.stanford.edu
 aa229.stanford.edu
 aa240a.stanford.edu
 aa244a.stanford.edu
+aa252.stanford.edu
 aa271a.stanford.edu
 aa2756011.cn.1688.com
 aa283.stanford.edu
@@ -80796,6 +80830,7 @@ abbasgirl.etsy.com
 abbasmilani.stanford.edu
 abbc.zoom.us
 abbc90a1-9e81-45c2-bc6f-b3606aa10cf2.probe.performance.dropbox.com
+abbey-elite-creations.myshopify.com
 abbeyandizziedesigns.etsy.com
 abbeybrooks.imgur.com
 abbeycourtenergy.sharepoint.com
@@ -85159,6 +85194,7 @@ aciappcenter.cisco.com
 acic.tmall.com
 acicheto.live.com
 acicn.en.alibaba.com
+acid-commerce.myshopify.com
 acid-daddy.myshopify.com
 acid.1688.com
 acid.atlassian.net
@@ -94852,6 +94888,7 @@ afdserver-ilo.cisco.com
 afdserver.cisco.com
 afdsx.taobao.com
 afdv.cn.alibaba.com
+afdverify.afdarmtest.serviceshub.microsoft.com
 afdverify.profileservice-dev.unified.microsoft.com
 afe.canva.cn
 afe.canva.com
@@ -104898,6 +104935,7 @@ alexlambertforeal.live.com
 alexlandscaping.sharepoint.com
 alexlavitt.sharepoint.com
 alexlawl.imgur.com
+alexlayne-boutique.myshopify.com
 alexldev.live.com
 alexle.github.com
 alexlelis.live.com
@@ -109060,6 +109098,7 @@ allureacessoriesx.bigcartel.com
 allurebeautybytashi.bigcartel.com
 allureblueofficial.myshopify.com
 allurebodyco.myshopify.com
+allurebybri.myshopify.com
 allureje.bigcartel.com
 allurelashescosmetics.bigcartel.com
 allureoffashion.bigcartel.com
@@ -118025,6 +118064,7 @@ angelodellanotte1965.spaces.live.com
 angelodesk.etsy.com
 angelofdarkness-darkside.spaces.live.com
 angelol.en.alibaba.com
+angelorganix.myshopify.com
 angeloribelle1982.spaces.live.com
 angelos02-uncover.dev.pyszne.pl
 angelosmpantazos-my.sharepoint.com
@@ -118742,6 +118782,7 @@ animeworldco.bigcartel.com
 animezing-wrld.myshopify.com
 animl.sf.net
 animostyle.bigcartel.com
+animsam.myshopify.com
 animula78.spaces.live.com
 animum-leonis.myshopify.com
 animus32.mail.ru
@@ -119565,6 +119606,7 @@ anniepots.etsy.com
 anniepurl.etsy.com
 annierocket.etsy.com
 annierosevintage.etsy.com
+annies-art-frame.myshopify.com
 anniesattic.etsy.com
 anniesazi7.live.com
 anniesclothesline.etsy.com
@@ -120491,6 +120533,7 @@ anthropology-art-algorithms.quora.com
 anthropomorphco.etsy.com
 anthropomorphico.imgur.com
 anthsci108.stanford.edu
+anthsci179.stanford.edu
 anti-blok.mail.ru
 anti-pandemic.slack.com
 anti-piracy.cisco.com
@@ -125861,4 +125904,3 @@ antivirus.wwwmployment.www-test.tqmobile.dev.soundtrap.com
 antivirus.wwwna.dentalplans.goodrx.com
 antivirus.wwwnginx.dentalplans.goodrx.com
 antivirus.wwwnorthamerica.dentalplans.goodrx.com
-antivirus.wwwoct.dentalplans.goodrx.com
