@@ -1,31 +1,3 @@
-nsd2-ra-gw1-async22.cisco.com
-nsd2-ra-gw1-async23.cisco.com
-nsd2-ra-gw1-async24.cisco.com
-nsd2-ra-gw1-async25.cisco.com
-nsd2-ra-gw1-async26.cisco.com
-nsd2-ra-gw1-async27.cisco.com
-nsd2-ra-gw1-async28.cisco.com
-nsd2-ra-gw1-async29.cisco.com
-nsd2-ra-gw1-async3.cisco.com
-nsd2-ra-gw1-async30.cisco.com
-nsd2-ra-gw1-async31.cisco.com
-nsd2-ra-gw1-async32.cisco.com
-nsd2-ra-gw1-async33.cisco.com
-nsd2-ra-gw1-async34.cisco.com
-nsd2-ra-gw1-async35.cisco.com
-nsd2-ra-gw1-async36.cisco.com
-nsd2-ra-gw1-async37.cisco.com
-nsd2-ra-gw1-async38.cisco.com
-nsd2-ra-gw1-async39.cisco.com
-nsd2-ra-gw1-async4.cisco.com
-nsd2-ra-gw1-async40.cisco.com
-nsd2-ra-gw1-async41.cisco.com
-nsd2-ra-gw1-async42.cisco.com
-nsd2-ra-gw1-async43.cisco.com
-nsd2-ra-gw1-async44.cisco.com
-nsd2-ra-gw1-async45.cisco.com
-nsd2-ra-gw1-async46.cisco.com
-nsd2-ra-gw1-async47.cisco.com
 nsd2-ra-gw1-async48.cisco.com
 nsd2-ra-gw1-async49.cisco.com
 nsd2-ra-gw1-async5.cisco.com
@@ -4157,6 +4129,7 @@ o-mcs-db1.i.mail.ru
 o-mcs-db2.i.mail.ru
 o-nik.mail.ru
 o-o---preferred---algerietelecom-alg1---v11---lscache8.c.youtube.com
+o-o---preferred---bhartibb-blr1---v6---lscache1.c.youtube.com
 o-o---preferred---dfw06s12---v1---lscache8.c.youtube.com
 o-o---preferred---ecix-dus2---v5---lscache8.c.youtube.com
 o-o---preferred---fareastone-tpe2---v5---lscache5.c.youtube.com
@@ -4237,6 +4210,7 @@ o-o---preferred---sn-ab5e6m7e---v3---lscache1.c.youtube.com
 o-o---preferred---sn-ab5e6m7e---v7---lscache1.c.youtube.com
 o-o---preferred---sn-ab5e6m7l---v2---lscache2.c.youtube.com
 o-o---preferred---sn-ab5e6nlz---v7---lscache1.c.youtube.com
+o-o---preferred---sn-bvvbax-h5oe---v7---lscache1.c.youtube.com
 o-o---preferred---sn-cg51pauxax-2v5e---v14---lscache8.c.youtube.com
 o-o---preferred---sn-cg51pauxax-2v5e---v16---lscache3.c.youtube.com
 o-o---preferred---sn-cg51pauxax-2v5e---v21---lscache5.c.youtube.com
@@ -4558,6 +4532,7 @@ o-o.preferred.belwue-str1.v23.lscache1.c.youtube.com
 o-o.preferred.bezeq-tlv1.v16.lscache1.c.youtube.com
 o-o.preferred.bezeq-tlv2.v24.lscache1.c.youtube.com
 o-o.preferred.bharti-hyd1.v16.lscache1.c.youtube.com
+o-o.preferred.bhartibb-blr1.v6.lscache1.c.youtube.com
 o-o.preferred.bom03s03.v1.lscache4.c.youtube.com
 o-o.preferred.bom03s03.v12.lscache1.c.youtube.com
 o-o.preferred.bom03s03.v17.lscache1.c.youtube.com
@@ -4647,6 +4622,7 @@ o-o.preferred.fasttelco-kwi1.v23.lscache1.c.youtube.com
 o-o.preferred.fasttelco-kwi1.v24.lscache1.c.youtube.com
 o-o.preferred.firstmedia-cgk1.v15.lscache1.c.youtube.com
 o-o.preferred.flow-pos1.v24.lscache1.c.youtube.com
+o-o.preferred.forthnet-ath1.v15.lscache1.c.youtube.com
 o-o.preferred.forthnet-ath1.v24.lscache1.c.youtube.com
 o-o.preferred.fra02s01.v11.lscache1.c.youtube.com
 o-o.preferred.fra02s01.v12.lscache1.c.youtube.com
@@ -5117,6 +5093,7 @@ o-o.preferred.tiws-mia4.v12.lscache1.c.youtube.com
 o-o.preferred.tiws-par1.v5.lscache7.c.youtube.com
 o-o.preferred.tiws-par5.v4.lscache1.c.youtube.com
 o-o.preferred.tiws-par6.v23.lscache1.c.youtube.com
+o-o.preferred.tm-jhb1.v16.lscache1.c.youtube.com
 o-o.preferred.tm-jhb1.v2.lscache1.c.youtube.com
 o-o.preferred.tm-jhb1.v20.lscache1.c.youtube.com
 o-o.preferred.tm-jhb1.v23.lscache1.c.youtube.com
@@ -11781,6 +11758,7 @@ o5bb3bb54.quora.com
 o5dflm0n01vjxsc5b2ttrkzt3za2cea0.waf.aliyun.com
 o5htf0cwt1-1.algolianet.com
 o5mz84ko.imgur.com
+o5nsw38t.cloudstation.eu-west-1.dev.hydra.sophos.com
 o5zw6x.quora.com
 o6.alerts.goodrx.com
 o6.em.app.postmates.com
@@ -16462,6 +16440,7 @@ ocptest.learn.tencent.com
 ocpuritech1.en.alibaba.com
 ocpuritech2.en.alibaba.com
 ocpvlam-prodc.licensing.microsoft.com
+ocpxpteamsconn01.vc.rabobank.com
 ocpz_aktobe.mail.ru
 ocqoaw0s6.quora.com
 ocr.ai.qq.com
@@ -19622,6 +19601,7 @@ oisxsvc-stg.support.microsoft.com
 oisxsvc-uat.support.microsoft.com
 oisxsvc.support.microsoft.com
 oisyn.tweakblogs.net
+oit664.stanford.edu
 oitez.cn.alibaba.com
 oiti.gsa.gov
 oitncsu-my.sharepoint.com
@@ -84221,7 +84201,9 @@ phil.tmall.com
 phil.udemy.com
 phil.yelp.com
 phil102.stanford.edu
+phil159.stanford.edu
 phil198.stanford.edu
+phil61.stanford.edu
 phila-my.sharepoint.com
 phila.sharepoint.com
 philadelphia.1688.com
@@ -84527,6 +84509,7 @@ philosophia.etsy.com
 philosophiekants.spaces.live.com
 philosophy-culture.quora.com
 philosophy-dev.stanford.edu
+philosophy-prod.stanford.edu
 philosophy-stage.stanford.edu
 philosophy.1688.com
 philosophy.atlassian.net
@@ -86187,6 +86170,9 @@ physics.statuspage.io
 physics.tmall.com
 physics.udemy.com
 physics.yelp.com
+physics100.stanford.edu
+physics27.stanford.edu
+physics79q.stanford.edu
 physics93si.stanford.edu
 physicsforth.spaces.live.com
 physicsidiot.quora.com
@@ -91653,6 +91639,7 @@ plannerstickies.etsy.com
 planning-collab.att.com
 planning-humsci-dev.stanford.edu
 planning-humsci-stage.stanford.edu
+planning-humsci.stanford.edu
 planning-tools.quora.com
 planning.1688.com
 planning.atlassian.net
@@ -92415,6 +92402,7 @@ playfully.slack.com
 playfullyperfect.etsy.com
 playfulpotter.etsy.com
 playfulscience.stanford.edu
+playfulsciencedata.gse.stanford.edu
 playgame.api.chat.mi.com
 playgames.challonge.com
 playgiga.bluejeans.com
@@ -97924,6 +97912,7 @@ polisci346s.stanford.edu
 polisci354.stanford.edu
 polisci420b.stanford.edu
 polisci440d.stanford.edu
+polisci57e.stanford.edu
 polish.1688.com
 polish.atlassian.net
 polish.att.com
@@ -104359,6 +104348,7 @@ pre-prod.zdv.yelp.com
 pre-prod.zmc.yelp.com
 pre-prod.zmml.yelp.com
 pre-prod1.clickup.com
+pre-qa.samsung.com
 pre-qa1.ccagent.mastercard.com
 pre-qa2.ccagent.mastercard.com
 pre-qa3.ccagent.mastercard.com
@@ -109413,6 +109403,7 @@ prod-transcode-proxy-us-east-1.pscp.tv
 prod-transcode-sa-east-1.pscp.tv
 prod-transcode-us-east-1.pscp.tv
 prod-transcode-us-west-2.pscp.tv
+prod-ue.xobni.yahoo.com
 prod-uncover.dev.pyszne.pl
 prod-us.worldofwarcraft.com
 prod-uscviterbi.bluejeans.com
@@ -109830,6 +109821,7 @@ prod1.statuspage.io
 prod1.tmall.com
 prod1.udemy.com
 prod1.yelp.com
+prod1data.xobni.yahoo.com
 prod2.1688.com
 prod2.accountkit.com
 prod2.atlassian.net
@@ -118516,6 +118508,7 @@ publix.invisionapp.com
 publix.segment.com
 publixmanager.segment.com
 publoftwriters.slack.com
+publpol105.stanford.edu
 pubmaticinc1-my.sharepoint.com
 pubmaticinc1.sharepoint.com
 pubmgr.sf.net
@@ -121079,6 +121072,7 @@ pvplinear.cn.alibaba.com
 pvpn0.mlt.unibet.com
 pvpservices-uat.mspartner.microsoft.com
 pvpservices.mspartner.microsoft.com
+pvpt.ingame.qq.com
 pvpusd-my.sharepoint.com
 pvpusd.edmodo.com
 pvpusd.sharepoint.com
@@ -125059,9 +125053,15 @@ qedumpe.sharepoint.com
 qedusit.sharepoint.com
 qee-cloudstation-eu-central-1.qa.hydra.sophos.com
 qee-cloudstation-eu-west-1.dev.hydra.sophos.com
+qee-cloudstation-eu-west-1.prod.hydra.sophos.com
+qee-cloudstation-us-east-2.prod.hydra.sophos.com
+qee-cloudstation-us-west-2.prod.hydra.sophos.com
 qee-cloudstation-us-west-2.qa.hydra.sophos.com
 qee.cloudstation.eu-central-1.qa.hydra.sophos.com
 qee.cloudstation.eu-west-1.dev.hydra.sophos.com
+qee.cloudstation.eu-west-1.prod.hydra.sophos.com
+qee.cloudstation.us-east-2.prod.hydra.sophos.com
+qee.cloudstation.us-west-2.prod.hydra.sophos.com
 qee.cloudstation.us-west-2.qa.hydra.sophos.com
 qeeca.en.alibaba.com
 qeejoy.1688.com
@@ -130423,6 +130423,7 @@ qualityintl.live.com
 qualitykiosksp-my.sharepoint.com
 qualitykiosksp.sharepoint.com
 qualitymachine.en.alibaba.com
+qualityoflife.stanford.edu
 qualityoflifepartnership-my.sharepoint.com
 qualityoflifepartnership.sharepoint.com
 qualityplasticsnv.sharepoint.com
@@ -136105,6 +136106,7 @@ radosti007.mail.ru
 radowlshop.etsy.com
 radpatchco.etsy.com
 radpath.sharepoint.com
+radphotos.stanford.edu
 radpin.imgur.com
 radprotec.mail.ru
 radraz26.imgur.com
@@ -136114,6 +136116,7 @@ radrocket.etsy.com
 radron.mail.ru
 rads-lnx.cisco.com
 rads-org.slack.com
+radschedule.stanford.edu
 radsec.dev.meraki.com
 radson11.id.mail.ru
 radtnhandler.partners.extranet.microsoft.com
@@ -144905,3 +144908,14 @@ rate-limited-proxy-74-125-148-131.google.com
 rate-limited-proxy-74-125-148-132.google.com
 rate-limited-proxy-74-125-148-133.google.com
 rate-limited-proxy-74-125-148-134.google.com
+rate-limited-proxy-74-125-148-135.google.com
+rate-limited-proxy-74-125-148-136.google.com
+rate-limited-proxy-74-125-148-137.google.com
+rate-limited-proxy-74-125-148-138.google.com
+rate-limited-proxy-74-125-148-139.google.com
+rate-limited-proxy-74-125-148-14.google.com
+rate-limited-proxy-74-125-148-140.google.com
+rate-limited-proxy-74-125-148-141.google.com
+rate-limited-proxy-74-125-148-142.google.com
+rate-limited-proxy-74-125-148-143.google.com
+rate-limited-proxy-74-125-148-144.google.com

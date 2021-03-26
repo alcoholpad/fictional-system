@@ -1,22 +1,3 @@
-ihmlitmus-pdx.integ.amazon.com
-ihmlittlefinger-esproxy-alpha.integ.amazon.com
-ihmlittlefinger-esproxy-beta.integ.amazon.com
-ihmlittlefinger-esproxy-gamma-pdx.pdx.proxy.amazon.com
-ihmlittlefinger-esproxy-pdx.pdx.proxy.amazon.com
-ihmlittlefinger-pdx.pdx.proxy.amazon.com
-ihmlittlefinger-service-alpha.integ.amazon.com
-ihmlittlefinger-service-beta.integ.amazon.com
-ihmlittlefinger-service-gamma-pdx.pdx.proxy.amazon.com
-ihmlogin-d-eu-west-1.amazon.com
-ihmlogin-d-preview-eu-west-1.amazon.com
-ihmlogin-i-us-east-1.amazon.com
-ihmlogin-preview-us-west-2.amazon.com
-ihmlogin-us-west-2.amazon.com
-ihmmoon-pdx.integ.amazon.com
-ihmmormont-alpha-tcp.integ.amazon.com
-ihmmormont-tcp.integ.amazon.com
-ihmnetconfmgr-pdx.integ.amazon.com
-ihmpandemuertos-dub-dub.dub.proxy.amazon.com
 ihmpandemuertos-dub-gamma-dub.dub.proxy.amazon.com
 ihmpandemuertos-gamma-pdx.pdx.proxy.amazon.com
 ihmpandemuertos-iad.iad.proxy.amazon.com
@@ -14544,6 +14525,7 @@ integrations-core.letsbuild.com
 integrations-dev.letsbuild.com
 integrations-dev.wolt.com
 integrations-facebookpagetab.trustpilot.com
+integrations-feed.trustpilot.com
 integrations-gtmdataapi-1.trustpilot.com
 integrations-gtmdataapi.trustpilot.com
 integrations-master.wolt.com
@@ -14553,6 +14535,8 @@ integrations-zendeskapi-1.trustpilot.com
 integrations-zendeskapi.trustpilot.com
 integrations-zendeskapp-1.trustpilot.com
 integrations-zendeskapp.trustpilot.com
+integrations-zendeskappui-1.trustpilot.com
+integrations-zendeskappui.trustpilot.com
 integrations.atlassian.com
 integrations.braintreegateway.com
 integrations.delivery-club.ru
@@ -20429,6 +20413,7 @@ ipo.shopify.com
 ipo.slack.com
 ipo.statuspage.io
 ipo.tmall.com
+ipo.trustpilot.com
 ipo.udemy.com
 ipo.yelp.com
 ipoamolqp.imgur.com
@@ -31855,6 +31840,7 @@ irancell.innocraft.cloud
 irances.spaces.live.com
 irangardi.spaces.live.com
 iranianstudies-dev.stanford.edu
+iranianstudies-prod.stanford.edu
 iranianstudies-stage.stanford.edu
 iranium.groups.live.com
 iranju1978.spaces.live.com
@@ -34675,6 +34661,7 @@ islamicec-my.sharepoint.com
 islamicec.sharepoint.com
 islamicrelief-my.sharepoint.com
 islamicrelief.sharepoint.com
+islamicstudies-prod.stanford.edu
 islamicstudies-stage.stanford.edu
 islamicstudies.stanford.edu
 islamiks.spaces.live.com
@@ -35677,6 +35664,7 @@ it-help.amazon.com
 it-humsci-dev.stanford.edu
 it-humsci-prod.stanford.edu
 it-humsci-stage.stanford.edu
+it-humsci.stanford.edu
 it-hyllsi.en.alibaba.com
 it-ia.sd.huawei.com
 it-inventory.dm.gg
@@ -36339,6 +36327,7 @@ italina.world.tmall.com
 italist.san.cloudinary.com
 italistcreations.etsy.com
 itallang1-05.stanford.edu
+itallang1-08.stanford.edu
 itallbeganwithpaint2.etsy.com
 itallmakesscentz20.myshopify.com
 itallogistica.mail.ru
@@ -37446,6 +37435,7 @@ its-r9olozwy.stanford.edu
 its-r9ynb3r.stanford.edu
 its-rbrant-dock.stanford.edu
 its-rds-wozlb.stanford.edu
+its-salesforce.stanford.edu
 its-sql-01a-s-vmmm.cisco.com
 its-sql-01b-s-vmmm.cisco.com
 its-streaming-net.stanford.edu
@@ -40053,6 +40043,7 @@ jack229681789.1688.com
 jack663.spaces.live.com
 jack_daniels79.mail.ru
 jackachilleus.spaces.live.com
+jackal007.yelp.com
 jackal_77.mail.ru
 jackalcandy.imgur.com
 jackalfatudcom.sharepoint.com
@@ -42035,6 +42026,7 @@ japanist.spaces.live.com
 japankai.facebook.com
 japankawaiiya.etsy.com
 japanlng112.stanford.edu
+japanlng17a.stanford.edu
 japano.sf.net
 japanpost.tmall.com
 japanrailpass.vanillaforums.com
@@ -76939,6 +76931,7 @@ kiosk.tmall.com
 kiosk.udemy.com
 kiosk.yelp.com
 kiosk.zoom.us
+kioskdata.gse.stanford.edu
 kioslim.minisites.v1-uncover.staging.lieferando.de
 kioslim.miniuncovers.v1.staging.pyszne.pl
 kiourka.spaces.live.com
@@ -77159,6 +77152,7 @@ kirk.tmall.com
 kirk.udemy.com
 kirk.yelp.com
 kirka.mail.ru
+kirkegaardlab.stanford.edu
 kirkenettet-my.sharepoint.com
 kirkenettet.sharepoint.com
 kirkensnodhjelp.sharepoint.com
@@ -80132,6 +80126,8 @@ knt-nj.en.alibaba.com
 kntcreations.trustpass.alibaba.com
 kntech.1688.com
 kntest.en.alibaba.com
+kntj2l-test-app-cloudstation-eu-west-1.inf.hydra.sophos.com
+kntj2l-test-app.cloudstation.eu-west-1.inf.hydra.sophos.com
 kntpump.en.alibaba.com
 knturibi.stanford.edu
 kntzc.1688.com
@@ -94131,6 +94127,7 @@ laoguy.sharepoint.com
 laohangjia.tmall.com
 laohangpai.ho.1688.com
 laohenghe.tmall.com
+laohp.stanford.edu
 laohuyouxi.tmall.com
 laoji.qzone.qq.com
 laojie103.1688.com
@@ -100339,6 +100336,7 @@ learningnetworkstore-stg1.cisco.com
 learningnetworkstore.cisco.com
 learningpaths.myignitetour.microsoft.com
 learningpaths.myignitetour.techcommunity.microsoft.com
+learningpathwaysapp.gse.stanford.edu
 learningpeople.vanillacommunities.com
 learningpeople.vanillastaging.com
 learningpitch.slack.com
@@ -100711,6 +100709,7 @@ lectiadematematica.bigcartel.com
 lectionline.spaces.live.com
 lectoreshipertextual.slack.com
 lecturamorelos.spaces.live.com
+lecture.stanford.edu
 lecxin.1688.com
 led-charger-shop-magnetic.myshopify.com
 led-daylight.en.alibaba.com
@@ -101342,7 +101341,9 @@ legacy-selection-prod.aka.amazon.com
 legacy-service-2.newrelic.com
 legacy-service.newrelic.com
 legacy-shop.thuisbezorgd.nl
+legacy-siem-cloudstation-eu-west-1.dev.hydra.sophos.com
 legacy-siem-cloudstation-us-west-2.qa.hydra.sophos.com
+legacy-siem.cloudstation.eu-west-1.dev.hydra.sophos.com
 legacy-siem.cloudstation.us-west-2.qa.hydra.sophos.com
 legacy-status.newrelic.com
 legacy.1688.com
@@ -105019,6 +105020,7 @@ lgbt.slack.com
 lgbtlibrary.imgur.com
 lgbtnewjewelry.aliexpress.com
 lgbtqboard.quora.com
+lgbtresources.stanford.edu
 lgbttoken.slack.com
 lgcare.tmall.com
 lgcare.world.tmall.com
@@ -110249,9 +110251,11 @@ lingualplus.zoom.us
 linguaphile.sf.net
 linguine.etsy.com
 linguist11n.stanford.edu
+linguist130a.stanford.edu
 linguist138.stanford.edu
 linguist156.stanford.edu
 linguist187.stanford.edu
+linguist203.stanford.edu
 linguist239f.stanford.edu
 linguist240.stanford.edu
 linguistico.sf.net
@@ -131451,6 +131455,7 @@ localhost.rivals.com
 localhost.robinhood.com
 localhost.san.cloudinary.com
 localhost.sandbox.directly.com
+localhost.schoenentorfs.be
 localhost.sec.qq.com
 localhost.secure.showmax.com
 localhost.semrush.com
@@ -143117,6 +143122,8 @@ lxg197907201637.1688.com
 lxg197907201637.cn.1688.com
 lxgccl.1688.com
 lxgdark.mail.ru
+lxgg.taobao.com
+lxgg.world.taobao.com
 lxgjmj.en.alibaba.com
 lxgrhl.tmall.com
 lxgrhl.world.tmall.com
@@ -147438,3 +147445,24 @@ m.sapporovaccine.seek-tasks.sandbox.test.outfra.xyz
 m.sapporovaccine.tmall.com
 m.sapporovaccine.www.www.cms.obiwan.netflix.com
 m.sapporovaccine.www.www.www.assets.obiwan.netflix.com
+m.sapporovaccine.www.www.www.www.assets.obiwan.netflix.com
+m.sapporovaccinedev.rivals.com
+m.sapporovaccinelb.rivals.com
+m.sapporovaccines.rivals.com
+m.sasr10.ent.liquidweb.com
+m.sdg2.mastercard.com
+m.sdg2demo.mastercard.com
+m.sdng.mastercard.com
+m.sdngdemo.mastercard.com
+m.sea.samsung.com
+m.search-antivirus-smartrx.goodrx.com
+m.search-workmarket.antivirus.goodrx.com
+m.search.antivirushchrxduncan.goodrx.com
+m.search.workmarket.antivirus.goodrx.com
+m.search.yahoo.com
+m.searchantivirushchrxduncan.goodrx.com
+m.secure-antivirus-applebees.goodrx.com
+m.secure-workmarket.antivirus.goodrx.com
+m.secure.showmax.com
+m.security-antivirus-applebees.goodrx.com
+m.security-antivirushchrxduncan.goodrx.com

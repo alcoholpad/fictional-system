@@ -1,11 +1,3 @@
-antivirus.www.oceania.dentalplans.goodrx.com
-antivirus.www.oct.dentalplans.goodrx.com
-antivirus.www.onepiece.www-dev.admin.alumni.dev.soundtrap.com
-antivirus.www.origin.dentalplans.goodrx.com
-antivirus.www.pantheon-dentalplans.goodrx.com
-antivirus.www.pay-dentalplans.goodrx.com
-antivirus.www.php-dentalplans.goodrx.com
-antivirus.www.php.dentalplans.goodrx.com
 antivirus.www.phpdentalplans.goodrx.com
 antivirus.www.pi.test.staging.pyszne.pl
 antivirus.www.pldentalplans.goodrx.com
@@ -6089,6 +6081,7 @@ api.cdp.meiro.skypicker.com
 api.cdp.microsoft.com
 api.cds.microsoft.com
 api.central.sophos.com
+api.cert.telekom.de
 api.certification-uat.microsoft.com
 api.certification.microsoft.com
 api.challonge.com
@@ -7392,6 +7385,7 @@ api.rabobank.nl
 api.rail.tgp.qq.com
 api.rapida.ru
 api.rbk.money
+api.rbm.telekom.de
 api.rc-app.optimizely.com
 api.rch.line-apps.com
 api.realcouplesuncovered.chaturbate.com
@@ -12431,6 +12425,7 @@ appswitch.slack.com
 appswithlove.harvestapp.com
 appswiz.atlassian.net
 appsystem.myshopify.com
+appt.ingame.qq.com
 appta.spaces.live.com
 apptekab-my.sharepoint.com
 apptekab.sharepoint.com
@@ -18842,6 +18837,7 @@ artexhibition.tmall.com
 artexhibition.world.tmall.com
 artexhibitions-dev.stanford.edu
 artexhibitions-stage.stanford.edu
+artexhibitions.stanford.edu
 artexnaman.trustpass.alibaba.com
 artezaniadacor.spaces.live.com
 artezhogeschool.sharepoint.com
@@ -18939,6 +18935,7 @@ artheliasattic.etsy.com
 arthey.mail.ru
 arthipov83.mail.ru
 arthiscr.atlassian.net
+arthist122.stanford.edu
 arthistoriangerardopecci.spaces.live.com
 arthistory101.etsy.com
 arthitw.fm.alibaba.com
@@ -30094,6 +30091,7 @@ ausabledesigns.etsy.com
 ausanime.challonge.com
 ausbaby.en.alibaba.com
 ausbeautyph.myshopify.com
+ausbildung.telekom.de
 auschalink.en.alibaba.com
 auschool-my.sharepoint.com
 auschool.sharepoint.com
@@ -39850,6 +39848,7 @@ ayakorabbit.spaces.live.com
 ayaks82.mail.ru
 ayala.chaturbate.com
 ayala.etsy.com
+ayala.zoom.us
 ayalaart.etsy.com
 ayalapropertyph.sharepoint.com
 ayalau_kaz.mail.ru
@@ -59284,6 +59283,7 @@ belin198.1688.com
 belinda.en.alibaba.com
 belindakusters.spaces.live.com
 belindaleedesigns.etsy.com
+belindana.yelp.com
 belindaplay.spaces.live.com
 belindascrafts.etsy.com
 belindassy.spaces.live.com
@@ -63423,6 +63423,7 @@ betatau.slack.com
 betatest-dev.ng.telekom.net
 betatest-prod.ng.telekom.net
 betatest.i.mail.ru
+betatest.telekom.de
 betatestweb.starbucks.com
 betatrial.dyson.com
 betaucd-covid19.slack.com
@@ -71443,6 +71444,7 @@ bigmeanpunk.etsy.com
 bigmikeinoz.spaces.live.com
 bigmikeyt1.imgur.com
 bigmint.sharepoint.com
+bigmixbarcel.withspotify.com
 bigmo.stanford.edu
 bigmo125.imgur.com
 bigmoneysalsa.imgur.com
@@ -72709,6 +72711,7 @@ bingquan.tmall.com
 bingquan.world.tmall.com
 bingschool-dev.stanford.edu
 bingschool-stage.stanford.edu
+bingschool.stanford.edu
 bingse.cn.alibaba.com
 bingsheng.en.alibaba.com
 bingsim.ysm.bf1.yahoo.com
@@ -73146,6 +73149,7 @@ biodiver.bio.antivirustest.staging.pyszne.pl
 biodiver.staging.pyszne.pl
 biodiverse-world.slack.com
 biodoop-seal.sf.net
+biods388.stanford.edu
 biodynamiclandtrustltd.sharepoint.com
 bioe-arihecht-brother-mfc.stanford.edu
 bioe-arihecht.stanford.edu
@@ -73280,6 +73284,7 @@ biologymcat.quora.com
 biologyrose.etsy.com
 biologyvirtualshowcase-dev.stanford.edu
 biologyvirtualshowcase-stage.stanford.edu
+biologyvirtualshowcase.stanford.edu
 biolonger.en.alibaba.com
 biolum.etsy.com
 biom-format.github.com
@@ -73296,6 +73301,7 @@ biomed-c02yv0a6lvdp.stanford.edu
 biomeddesign.etsy.com
 biomedical-translator.slack.com
 biomedin206.stanford.edu
+biomedin215.stanford.edu
 biomedin260.stanford.edu
 biomedsearch.microsoft.com
 biomeimages.myshopify.com
@@ -73348,6 +73354,7 @@ biortho.en.alibaba.com
 bios-fera.live.com
 bios-ok.mail.ru
 bios.mail.ru
+bios205.stanford.edu
 bios221.stanford.edu
 biosad_ekb.mail.ru
 biosaline.sharepoint.com
@@ -74421,6 +74428,7 @@ biu365-my.sharepoint.com
 biu365.sharepoint.com
 biuat-cap.starbucks.com
 biuat.stanford.edu
+biuat1.stanford.edu
 biuat2.stanford.edu
 biuck.spaces.live.com
 biuro.1688.com
@@ -86399,6 +86407,8 @@ bof2-my.sharepoint.com
 bof2.sharepoint.com
 bof5.qq.com
 bofa-crc.zoom.us
+bofa-dev-crc.zoom.us
+bofa-dev.zoom.us
 bofa-pp.zoom.us
 bofa.qa.paydiant.com
 bofan.tmall.com
@@ -92357,6 +92367,7 @@ br.dota2.com
 br.dyson.com
 br.elvenar.com
 br.esporteinterativo.yahoo.com
+br.esportes.yahoo.com
 br.extsm.yahoo.com
 br.financas.yahoo.com
 br.forgeofempires.com
@@ -93133,6 +93144,7 @@ brand.xvservice.net
 brand.yelp.com
 brand.yvcji0l1mm.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.antivirus-edu.goodrx.com
 brand.zen.ly
+brand.zoom.us
 brand161.mail.ru
 branda.etsy.com
 brandahead.quora.com
@@ -94740,6 +94752,7 @@ bridgeportwednet-my.sharepoint.com
 bridgeportwednet.sharepoint.com
 bridgeprep-my.sharepoint.com
 bridgeprep.sharepoint.com
+bridgeproject.stanford.edu
 bridgepu.1688.com
 bridgeroadbrewers.myshopify.com
 bridges.sharepoint.com
@@ -97926,6 +97939,7 @@ bt5.en.alibaba.com
 bt688395pop-my.sharepoint.com
 bt688395pop.sharepoint.com
 bt71th1f9l.quora.com
+bt7tcxjo.cloudstation.eu-west-1.inf.hydra.sophos.com
 bt7urbo.imgur.com
 btac-my.sharepoint.com
 btac.sharepoint.com
@@ -98910,6 +98924,7 @@ buddhism.tweakblogs.net
 buddhistideas.quora.com
 buddhiststudies-dev.stanford.edu
 buddhiststudies-stage.stanford.edu
+buddhiststudies.stanford.edu
 buddi-staging.bentley.com
 buddi.bentley.com
 buddi.sf.net
@@ -101618,6 +101633,7 @@ businesss.data.gov
 businesssetupuae.quora.com
 businesssignup-api.trustpilot.com
 businesssite-blog.trustpilot.com
+businesssite-ipo.trustpilot.com
 businessstore-int.microsoft.com
 businessstore-intmd.microsoft.com
 businessstore.microsoft.com
@@ -101641,12 +101657,14 @@ businessunitproducts-m1.trustpilot.com
 businessunitproducts-m2.trustpilot.com
 businessunits-adminapi.trustpilot.com
 businessunits-api-2.trustpilot.com
+businessunits-api-3.trustpilot.com
 businessunits-api.trustpilot.com
 businessunits-businessmodulesapi.trustpilot.com
 businessunits-imagesapi-3.trustpilot.com
 businessunits-legacyapi-1.trustpilot.com
 businessunits-legacyapi.trustpilot.com
 businessunits-profileapi-1.trustpilot.com
+businessunits-profileapi-3.trustpilot.com
 businessunits-profileapi.trustpilot.com
 businessunits-trialapi.trustpilot.com
 businessunitsearch-api-2.trustpilot.com
@@ -105337,6 +105355,7 @@ byvin.tmall.com
 byvincenzo-my.sharepoint.com
 byvincenzo.sharepoint.com
 byvisionss.en.alibaba.com
+byw7vx2x.cloudstation.eu-west-1.inf.hydra.sophos.com
 bywardbookkeeping-myshopify-com.myshopify.com
 bywardbookkeeping.myshopify.com
 bywoky.tmall.com
@@ -123595,7 +123614,9 @@ casa0710.fm.alibaba.com
 casa133.stanford.edu
 casa151.stanford.edu
 casa155.stanford.edu
+casa156.stanford.edu
 casa4online.sharepoint.com
+casa93.stanford.edu
 casaamorina.myshopify.com
 casaba.sharepoint.com
 casabellacasa.etsy.com
@@ -128503,6 +128524,7 @@ ccri.zoom.us
 ccrisovan.test.sysres.liquidweb.com
 ccrisovan.wks.liquidweb.com
 ccrisovan2.sysres.liquidweb.com
+ccrl.stanford.edu
 ccrma-gate.stanford.edu
 ccrma-np-1.stanford.edu
 ccrma-vhost.stanford.edu
@@ -133022,6 +133044,7 @@ cee.stanford.edu
 cee111.stanford.edu
 cee204.stanford.edu
 cee240.stanford.edu
+cee241.stanford.edu
 cee263c.stanford.edu
 cee300.slack.com
 cee333.stanford.edu
@@ -140235,6 +140258,7 @@ cffund.sharepoint.com
 cffutures.sharepoint.com
 cffzsx.1688.com
 cffzsx.cn.alibaba.com
+cfg-digital.slack.com
 cfg.1688.com
 cfg.atlassian.net
 cfg.chaturbate.com
@@ -147159,6 +147183,7 @@ chicagoblockchainers.slack.com
 chicagobuffets.yelp.com
 chicagocamps.github.com
 chicagocanvas.foxycart.com
+chicagocommercia.yelp.com
 chicagocommunitytrust.zoom.us
 chicagodesignsystem.slack.com
 chicagodistilling.foxycart.com
@@ -147907,3 +147932,14 @@ china-chenguang.en.alibaba.com
 china-container.en.alibaba.com
 china-deao.en.alibaba.com
 china-develop.en.alibaba.com
+china-display.en.alibaba.com
+china-dod.taobao.com
+china-doer.en.alibaba.com
+china-doing.en.alibaba.com
+china-ebest.en.alibaba.com
+china-empolo.en.alibaba.com
+china-enclosure.en.alibaba.com
+china-equipments.en.alibaba.com
+china-export.en.alibaba.com
+china-flashlight.en.alibaba.com
+china-fmk.en.alibaba.com
