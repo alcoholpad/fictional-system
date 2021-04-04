@@ -1,16 +1,3 @@
-fbonly-test-bgp-01-mad1.facebook.com
-fbonly-test-bgp-01-man2.facebook.com
-fbonly-test-bgp-01-mba1.facebook.com
-fbonly-test-bgp-01-mct1.facebook.com
-fbonly-test-bgp-01-mia3.facebook.com
-fbonly-test-bgp-01-mrs2.facebook.com
-fbonly-test-bgp-01-msp1.facebook.com
-fbonly-test-bgp-01-muc2.facebook.com
-fbonly-test-bgp-01-mxp1.facebook.com
-fbonly-test-bgp-01-nrt1.facebook.com
-fbonly-test-bgp-01-ort2.facebook.com
-fbonly-test-bgp-01-otp1.facebook.com
-fbonly-test-bgp-01-pmo1.facebook.com
 fbonly-test-bgp-01-prg1.facebook.com
 fbonly-test-bgp-01-qro1.facebook.com
 fbonly-test-bgp-01-scl2.facebook.com
@@ -5516,6 +5503,7 @@ fgamimarlik.sharepoint.com
 fgamonteregie-my.sharepoint.com
 fgamonteregie.sharepoint.com
 fganz.github.com
+fgb0.market.xiaomi.com
 fgbhfvbhfg.myshopify.com
 fgbzjx.cn.alibaba.com
 fgc-cz.challonge.com
@@ -51250,6 +51238,7 @@ gofigurette.etsy.com
 gofimany.tmall.com
 gofindalice.yelp.com
 gofishingoften1.bigcartel.com
+gofluent.zoom.us
 goflyaleather.en.alibaba.com
 gofood-web-integration.gojekapi.com
 goforbeauty.aliexpress.com
@@ -101930,6 +101919,7 @@ healthmug451.sharepoint.com
 healthnetwork.goodrx.com
 healthnshape.quora.com
 healthopen.hicloud.com
+healthpay24.zoom.us
 healthplusltd.sharepoint.com
 healthpolicy.fsi.stanford.edu
 healthpolicy.stanford.edu
@@ -110709,6 +110699,7 @@ hivoice-gray-drcn.emui.hicloud.com
 hivoice.hicloud.com
 hivoicedevtrs-drcn.emui.hicloud.com
 hivoicemail.statuspage.io
+hivolda.zoom.us
 hivvaccine.kiwi.com
 hiw-net-mgmt-net.stanford.edu
 hiwayfcu-my.sharepoint.com
@@ -120192,7 +120183,9 @@ hpos-ilan-uat.westernunion.com
 hpos.westernunion.com
 hpos1uat.westernunion.com
 hpos2uat.westernunion.com
+hposlb.westernunion.com
 hposlbpi.westernunion.com
+hposlbrom.westernunion.com
 hposlbuat.westernunion.com
 hposperf.westernunion.com
 hpospi.westernunion.com
@@ -146100,3 +146093,15 @@ ihmegdbdocument-asset-iad1-iad.iad.proxy.amazon.com
 ihmegdbdocument-dub-gamma-dub.dub.proxy.amazon.com
 ihmegdbdocument-gamma-pdx.pdx.proxy.amazon.com
 ihmegdbdocument-iad.iad.proxy.amazon.com
+ihmegdbdocument-ihm-dub1-dub.dub.proxy.amazon.com
+ihmegdbdocument-ihm-iad2-iad.iad.proxy.amazon.com
+ihmegdbdocument-ihm-pdx3-pdx.pdx.proxy.amazon.com
+ihmegdbdocument-mendel-iad1-iad.iad.proxy.amazon.com
+ihmegdbdocument-mendel-pdx1-pdx.pdx.proxy.amazon.com
+ihmegdbdocument-pdx.integ.amazon.com
+ihmegdbdocument-pdx.pdx.proxy.amazon.com
+ihmegdbdocument-pdx2-pdx.pdx.proxy.amazon.com
+ihmegdbrelationship-alpha-pdx.integ.amazon.com
+ihmegdbrelationship-gamma-pdx.pdx.proxy.amazon.com
+ihmegdbrelationship-gb-eng-1-dub.dub.proxy.amazon.com
+ihmegdbrelationship-gb-eng-123-dub.dub.proxy.amazon.com
