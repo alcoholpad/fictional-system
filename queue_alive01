@@ -1,4 +1,3 @@
-antivirus.www.march.dentalplans.goodrx.com
 antivirus.www.mcr.www-test.alumni.dev.soundtrap.com
 antivirus.www.mirror-dentalplans.goodrx.com
 antivirus.www.mirror.dentalplans.goodrx.com
@@ -5555,6 +5554,7 @@ api-rheumcovid-19registry.slack.com
 api-rno.smoot.apple.com
 api-rpa.aliyun.com
 api-ru.c.huawei.com
+api-ru.tiktokv.com
 api-s.paypal.com
 api-s1-h2.tiktokv.com
 api-s1-quic.tiktokv.com
@@ -12159,6 +12159,7 @@ apprtcio-my.sharepoint.com
 apprtcio.sharepoint.com
 apps-api-stage.buzzfeed.com
 apps-api.buzzfeed.com
+apps-api.takeaway.com
 apps-apis.google.com
 apps-apis.l.google.com
 apps-creds.cti.roku.com
@@ -25725,6 +25726,7 @@ atc.thefacebook.com
 atc.tmall.com
 atc.udemy.com
 atc.yelp.com
+atc2-131-node.aspera-staging.therealreal.com
 atc95.imgur.com
 atcasbs.stanford.edu
 atcbattery.fm.alibaba.com
@@ -53624,6 +53626,7 @@ bbnmsxlz.att.com
 bbodplatform.slack.com
 bbodysnatchers.imgur.com
 bboehm-desktop.apollo.smartsheet.com
+bboehm-test.box.lab.smartsheet.com
 bboemilie.spaces.live.com
 bboldt.imgur.com
 bbolodya.mail.ru
@@ -54669,6 +54672,7 @@ bc-mf-mrcmadpt2.stanford.edu
 bc-mf-sbc1843.stanford.edu
 bc-mf-sbc1844.stanford.edu
 bc-mf-sbc1850.stanford.edu
+bc-mv-alyxa124.stanford.edu
 bc-mv-canon-fax.stanford.edu
 bc-mv-chargehp2015.stanford.edu
 bc-mv-eos.stanford.edu
@@ -62861,6 +62865,7 @@ beta-hanami.use1.huffpo.net
 beta-hoverboard-superset.corp.amazon.com
 beta-insights.yahoo.com
 beta-intake.cmd.cisco.com
+beta-internal.streamlabs.com
 beta-internalapi1.psi.corp.gq1.yahoo.com
 beta-ipr.yahoo.com
 beta-jogl-covid-19.slack.com
@@ -62898,6 +62903,7 @@ beta-origin-hanami.huffpo.net
 beta-origin-life-preview.huffpo.net
 beta-origin-life.huffpo.net
 beta-origin.creditkarma.ca
+beta-overlays.streamlabs.com
 beta-partners.hoteltonight-test.com
 beta-partners.tesla.com
 beta-partners.yahoo.com
@@ -75830,6 +75836,7 @@ bj.cwrcloud.huawei.com
 bj.deveco.huawei.com
 bj.github.com
 bj.gj.qq.com
+bj.govcloud.tencent.com
 bj.house.qq.com
 bj.imgur.com
 bj.jjj.qq.com
@@ -88261,6 +88268,7 @@ bookfaceimpact.quora.com
 bookfindings.etsy.com
 bookgirlcreations.etsy.com
 bookhad.quora.com
+bookhaven.stanford.edu
 booki.cloudflareaccess.com
 bookie.reservations-sandbox.skypicker.com
 bookillustrations.quora.com
@@ -95155,6 +95163,7 @@ bridgetecreations.etsy.com
 bridgeteverett.vhx.tv
 bridgetfainne.etsy.com
 bridgetmeredith.imgur.com
+bridgetolearning-dev.stanford.edu
 bridgetonholdings-my.sharepoint.com
 bridgetonholdings.sharepoint.com
 bridgetonorg-my.sharepoint.com
@@ -108493,6 +108502,7 @@ c120.lax001.ix.nflxvideo.net
 c120.mia003.ix.nflxvideo.net
 c120.sea001.ix.nflxvideo.net
 c120.sjc002.ix.nflxvideo.net
+c12066ya.cloudstation.eu-west-1.inf.hydra.sophos.com
 c121.atl001.ix.nflxvideo.net
 c121.dfw003.ix.nflxvideo.net
 c121.dyson.com
@@ -116666,6 +116676,8 @@ cagedbirdsings.etsy.com
 cagefreefibers.etsy.com
 cagent-prod-alln.cisco.com
 cagent-test.myshopify.com
+cagepower.taobao.com
+cagepower.world.taobao.com
 cager.imgur.com
 caggeen.tmall.com
 cagibi.etsy.com
@@ -122351,6 +122363,7 @@ careers.pinterest.com
 careers.postmates.com
 careers.priceline.com
 careers.quora.com
+careers.rabobank.com
 careers.res.cloudinary.com
 careers.researchgate.net
 careers.rivals.com
@@ -144343,6 +144356,7 @@ chat-pandemic.my.com
 chat-ppe.delve.office365.com
 chat-router-b2x.cisco.com
 chat-s.mail.ru
+chat-stage.streamlabs.com
 chat-staging.innogames.de
 chat-support.oppo.com
 chat-uatvaccines.showmax.com
@@ -144498,8 +144512,10 @@ chatandbate.chaturbate.com
 chatanywaylookup-coin.tmall.com
 chataovivo.playstation.com
 chatasy.chaturbate.com
+chatbot-api-beta.streamlabs.com
 chatbot-api.streamlabs.com
 chatbot-io.streamlabs.com
+chatbot-sockets.streamlabs.com
 chatbot-ys12721.slack.com
 chatbot.console.aliyun.com
 chatbot.huawei.com
@@ -148182,4 +148198,3 @@ childrensbureau.sharepoint.com
 childrenscolorado-my.sharepoint.com
 childrenscolorado.sharepoint.com
 childrenscouncil.sharepoint.com
-childrensctr-my.sharepoint.com

@@ -1,7 +1,3 @@
-fbonly-test-bgp-01-lim1.facebook.com
-fbonly-test-bgp-01-lis1.facebook.com
-fbonly-test-bgp-01-los2.facebook.com
-fbonly-test-bgp-01-maa2.facebook.com
 fbonly-test-bgp-01-mad1.facebook.com
 fbonly-test-bgp-01-man2.facebook.com
 fbonly-test-bgp-01-mba1.facebook.com
@@ -6054,6 +6050,7 @@ fiberro.etsy.com
 fibers.etsy.com
 fiberstore.etsy.com
 fiberstory.etsy.com
+fibersystems0.sharepoint.com
 fiberterian.etsy.com
 fiberypotter.etsy.com
 fibgsoc.slack.com
@@ -17700,6 +17697,7 @@ foss-usc.github.com
 foss.spotify.net
 fossa-dev.rbx.com
 fossa-ghc.rbx.com
+fossa-old.rbx.com
 fossa-temp.rbx.com
 fossa-test-01.infra.corp.gq1.yahoo.com
 fossa-test-02.infra.corp.gq1.yahoo.com
@@ -37488,6 +37486,7 @@ gdhongtujieju.en.alibaba.com
 gdhongyi.en.alibaba.com
 gdhpsj.en.alibaba.com
 gdhrss.qq.com
+gdhrss.tencent.com
 gdhsfood.cn.user.qzone.qq.com
 gdhshfw.tmall.com
 gdhshlp.cn.1688.com
@@ -62845,6 +62844,7 @@ greenlawn006.cn.alibaba.com
 greenlawn007.cn.alibaba.com
 greenlawn011.cn.alibaba.com
 greenlayer.sharepoint.com
+greenleaf.stanford.edu
 greenleaf.tmall.com
 greenleafandowl.etsy.com
 greenleafbaby.etsy.com
@@ -64423,6 +64423,7 @@ growth.video.qq.com
 growth1.box.lab.smartsheet.com
 growth11.slack.com
 growth13.box.lab.smartsheet.com
+growth14.box.lab.smartsheet.com
 growth17.box.lab.smartsheet.com
 growth18.box.lab.smartsheet.com
 growth19.box.lab.smartsheet.com
@@ -69123,6 +69124,7 @@ gubumy.world.tmall.com
 gubvmtgtfipa2.ent.magento.cloud
 gubydhw.tmall.com
 guc-dealer-ssl.spotify.com
+guc-dealer.spotify.com
 guc-spclient.spotify.com
 guc3-accesspoint-b-b441.ap.spotify.com
 guc3-accesspoint-b-c9hq.ap.spotify.com
@@ -69295,6 +69297,7 @@ guess-img.multicdn.cloudinary.com
 guess.tmall.com
 guess.world.tmall.com
 guessthequoran.quora.com
+guesswhatstudy.stanford.edu
 guessyj.tmall.com
 guest-build-lnx.cisco.com
 guest-build2-lnx.cisco.com
@@ -71040,6 +71043,9 @@ gw-mydesktop-qa-eq1.usaa.com
 gw-mydesktop-qa-eq2.usaa.com
 gw-mydesktop-qa-eq3.usaa.com
 gw-mydesktop-qa-itc.usaa.com
+gw-mydesktop-sr-eq1.usaa.com
+gw-mydesktop-sr-eq2.usaa.com
+gw-mydesktop-sr-eq3.usaa.com
 gw-ndh.1688.com
 gw-ndh.atlassian.net
 gw-ndh.chaturbate.com
@@ -101833,6 +101839,7 @@ healthcareviruswall.sv.21.rch.line-apps.com
 healthcarousel-my.sharepoint.com
 healthcarousel.sharepoint.com
 healthcave.mail.ru
+healthcenter2.taobao.com
 healthcharitiesorg-my.sharepoint.com
 healthcharitiesorg.sharepoint.com
 healthcheck-demo.stanford.edu
@@ -146087,3 +146094,9 @@ ihmecogateway-i-us-east-1.amazon.com
 ihmecogateway-mendel-i1-us-east-1.amazon.com
 ihmecogateway-mendel-p1-us-west-2.amazon.com
 ihmecogateway-p-preview-us-west-2.amazon.com
+ihmecogateway-p-us-west-2.amazon.com
+ihmegdbdocument-alpha-pdx.integ.amazon.com
+ihmegdbdocument-asset-iad1-iad.iad.proxy.amazon.com
+ihmegdbdocument-dub-gamma-dub.dub.proxy.amazon.com
+ihmegdbdocument-gamma-pdx.pdx.proxy.amazon.com
+ihmegdbdocument-iad.iad.proxy.amazon.com

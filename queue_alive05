@@ -1,9 +1,3 @@
-ihmecogateway-p-us-west-2.amazon.com
-ihmegdbdocument-alpha-pdx.integ.amazon.com
-ihmegdbdocument-asset-iad1-iad.iad.proxy.amazon.com
-ihmegdbdocument-dub-gamma-dub.dub.proxy.amazon.com
-ihmegdbdocument-gamma-pdx.pdx.proxy.amazon.com
-ihmegdbdocument-iad.iad.proxy.amazon.com
 ihmegdbdocument-ihm-dub1-dub.dub.proxy.amazon.com
 ihmegdbdocument-ihm-iad2-iad.iad.proxy.amazon.com
 ihmegdbdocument-ihm-pdx3-pdx.pdx.proxy.amazon.com
@@ -1679,6 +1673,8 @@ ilovedandeliondream.etsy.com
 ilovedecor.en.alibaba.com
 ilovedickgrayson.imgur.com
 ilovedogspotting.myshopify.com
+ilovedota2.taobao.com
+ilovedota2.world.taobao.com
 iloveeee.myshopify.com
 iloveejd.taobao.com
 iloveellipses.imgur.com
@@ -17373,6 +17369,7 @@ io-e-nessun-altro-angel.spaces.live.com
 io-project.sf.net
 io-qos.dev.storage.wanyol.com
 io-stream.slack.com
+io-test.streamlabs.com
 io.1688.com
 io.adafruit.com
 io.atlassian.net
@@ -32183,6 +32180,7 @@ irc-m02.orange.icq.com
 irc-m02a.orange.icq.com
 irc-portal-sg.dyson.com
 irc-portal.dyson.com
+irc-subst-notes.venmo.com
 irc.1688.com
 irc.atlassian.net
 irc.chaturbate.com
@@ -35582,6 +35580,7 @@ issl99.atlassian.net
 issm.github.com
 isso.wanyol.com
 issquaredinc.sharepoint.com
+issu.stanford.edu
 issuance-dashboard2-eu.amazon.com
 issuance-dashboard2-eu.integ.amazon.com
 issuance-dashboard2-fe.amazon.com
@@ -54814,6 +54813,7 @@ jobs.starbucks.com
 jobs.starleaf.com
 jobs.status.slack.com
 jobs.statuspage.io
+jobs.streamlabs.com
 jobs.stutech.stanford.edu
 jobs.support.greenhouse.io
 jobs.takeaway.com
@@ -58191,6 +58191,7 @@ jp1314283977beqx.trustpass.alibaba.com
 jp1314341136suda.trustpass.alibaba.com
 jp1332765129ykxu.trustpass.alibaba.com
 jp1p559.quora.com
+jp20j1ae.cloudstation.eu-west-1.inf.hydra.sophos.com
 jp226.nordvpn.com
 jp227.nordvpn.com
 jp240.nordvpn.com
@@ -69136,6 +69137,7 @@ kaseya-ui.int010fra.ctr.sophos.com
 kaseya-ui.int030fra.ctr.sophos.com
 kaseya.int010fra.ctr.sophos.com
 kaseya.int030fra.ctr.sophos.com
+kaseya.int100fra.ctr.sophos.com
 kaseya.sharepoint.com
 kaseya.vanillacommunities.com
 kaseya.vanillastaging.com
@@ -75265,6 +75267,7 @@ kibana.prod.optimizely.com
 kibana.profilesearch.dev.outfra.xyz
 kibana.pusheen.staging.search.usa.gov
 kibana.radiodurans.staging.search.usa.gov
+kibana.sandpiper.staging.search.usa.gov
 kibana.sanitycheck.staging.search.usa.gov
 kibana.seagull.staging.search.usa.gov
 kibana.search.usa.gov
@@ -78472,6 +78475,7 @@ kjfineartphotography.etsy.com
 kjfkajfakljfklfjaflkjalkjsflkja.myshopify.com
 kjh.en.alibaba.com
 kjhealy.github.com
+kjhnpfkr.stn000iad.ctr.sophos.com
 kjhoriginals.etsy.com
 kji.pay.air-france.pr-edge.dev.vivy.com
 kjia.dev.quora.com
@@ -87703,6 +87707,7 @@ kubedashboard.b-covid.ppmail1.paddypower.it
 kubedashuncover.dev.lieferando.de
 kubedirector.slack.com
 kubeedge.slack.com
+kubeflow.ml.rbx.com
 kubeflow.slack.com
 kubehaproxy01.fin.corp.gq1.yahoo.com
 kubei.tmall.com
@@ -132750,6 +132755,7 @@ loghost.tmall.com
 loghost.udemy.com
 loghost.yelp.com
 logi.com
+logi.streamlabs.com
 logialcoop-my.sharepoint.com
 logialcoop.sharepoint.com
 logianegra.spaces.live.com
@@ -137292,6 +137298,7 @@ loyalsource.sharepoint.com
 loyaltarget.en.alibaba.com
 loyaltoy.en.alibaba.com
 loyaltoy03.en.alibaba.com
+loyalty-io.streamlabs.com
 loyalty.1688.com
 loyalty.atlassian.net
 loyalty.chaturbate.com
@@ -147760,3 +147767,15 @@ m.mirror-antivirushchrxduncan.goodrx.com
 m.mirror.antivirus-applebees.goodrx.com
 m.mirrorantivirus-smartrx.goodrx.com
 m.mk-mk.nl-nl.c.facebook.com
+m.ml-in.lite.facebook.com
+m.mobile.mastercard.ru
+m.mobile.prod.facebook.com
+m.money.mail.ru
+m.ms-acdc-autod.office.com
+m.ms-acdc.office.com
+m.msua07.manage.microsoft.com
+m.mtf.altituderewards.com.au.mastercard.com
+m.mtf.anzrewards.com.mastercard.com
+m.mtf.sdg2.mastercard.com
+m.mtf.smartdata.mastercard.com
+m.mx.mail.yahoo.com
