@@ -1,4 +1,3 @@
-ns97.tmall.com
 ns97.udemy.com
 ns97.yelp.com
 ns98.1688.com
@@ -14934,6 +14933,7 @@ ocapi-payments-cres.netgear.com
 ocapi-payments-dev.netgear.com
 ocapi-payments-qa.netgear.com
 ocapi-payments-qa3.netgear.com
+ocapi-payments-server-qa.netgear.com
 ocapi-payments-stg-2.netgear.com
 ocapi-payments-stg3.netgear.com
 ocapi-payments.netgear.com
@@ -16835,6 +16835,7 @@ ocsa.edog.officeapps.live.com
 ocsa.office.microsoft.com
 ocsa.officeapps.live.com
 ocsac.htc.com
+ocsaccn.htc.com
 ocsav.htc.com
 ocsavcn.htc.com
 ocsavuk.htc.com
@@ -16910,6 +16911,7 @@ ocsweb.tmall.com
 ocsweb.udemy.com
 ocsweb.yelp.com
 ocswebconf.htc.com
+ocswebconfcn.htc.com
 ocswebconfuk.htc.com
 ocswebconfus.htc.com
 ocswebuk.htc.com
@@ -17801,6 +17803,7 @@ odysseyacademy.sharepoint.com
 odysseycache.etsy.com
 odysseycreations.etsy.com
 odysseycrm.atlassian.net
+odysseymuscle.myshopify.com
 odysseyservice.partners.extranet.microsoft.com
 odysseysystems.atlassian.net
 odyvan-nastek.mail.ru
@@ -19784,6 +19787,7 @@ oiec.sharepoint.com
 oieoffice365-my.sharepoint.com
 oieoffice365.sharepoint.com
 oietiger350.customdomains.oktapreview.com
+oietiger604.customdomains.oktapreview.com
 oietiger638.customdomains.oktapreview.com
 oif-2021.slack.com
 oiffashion.bigcartel.com
@@ -23176,6 +23180,7 @@ on.fb.me
 on.github.com
 on.google.com
 on.imgur.com
+on.live.com
 on.my.com
 on.playstation.com
 on.qq.com
@@ -24191,6 +24196,7 @@ onestic.sharepoint.com
 onestitchdesigns.etsy.com
 onestonelab51.slack.com
 onestonenewyork.etsy.com
+onestop-br.myshopify.com
 onestop1.apple.com
 onestoplightproductions.vhx.tv
 onestopornamentshop.etsy.com
@@ -31356,6 +31362,7 @@ origin-appvblynn1.att.com
 origin-appvblynn2.att.com
 origin-apsit.antivirus.goodrx.com
 origin-arexperience.mastercard.com
+origin-asiaws.htc.com
 origin-asset.mastercard.com
 origin-assets-ge.vimeo.com
 origin-assets.braintreegateway.com
@@ -31401,6 +31408,7 @@ origin-business.usa.gov
 origin-businesscare-ebill.wireless.att.com
 origin-c.sandbox.paypal.com
 origin-campaigns.yatra.com
+origin-careers.htc.com
 origin-ccs.apple.com
 origin-cctechchatwebapi.apple.com
 origin-cdn-p.paydiant.com
@@ -31429,6 +31437,7 @@ origin-cf-svcs-beta3.myharmony.com
 origin-cf-svcs-preview.myharmony.com
 origin-cf-svcs-stg01.myharmony.com
 origin-cf-svcs.myharmony.com
+origin-channelpos.htc.com
 origin-checkcoverage-aws-apse1.apple.com
 origin-checkcoverage-aws-euw1.apple.com
 origin-checkcoverage-aws-use1.apple.com
@@ -31531,6 +31540,7 @@ origin-donate.mastercard.com
 origin-donation.westernunion.com
 origin-download.cyberoam.com
 origin-download.info.apple.com
+origin-e2e.htc.com
 origin-e2ews1.htc.com
 origin-ecams-test.geico.com
 origin-ecams.geico.com
@@ -31776,6 +31786,7 @@ origin-merchant-panel-sand.sandbox.braintree-api.com
 origin-merchantapi.paypal.com
 origin-merchantweb.paypal.com
 origin-mfa.tesla.com
+origin-mhelp.htc.com
 origin-migs-beta.mastercard.com.au
 origin-mnbncovpn-stg-campaigns.venmo.com
 origin-mobile.htc.com
@@ -31894,6 +31905,7 @@ origin-ranger-api.tesla.com
 origin-read.amazon.co.jp
 origin-read.amazon.com
 origin-referral-app.tesla.com
+origin-repairs.htc.com
 origin-sales-alpha.att.com
 origin-sales-bhdc.att.com
 origin-sales-ffdc.att.com
@@ -31957,6 +31969,9 @@ origin-source.pixiv.net
 origin-sp.apple.com
 origin-srp.txb.gs.com
 origin-srp.txbqa.gs.com
+origin-sso.htc.com
+origin-ssrs-apac-e2e.htc.com
+origin-ssrs-eu-e2e.htc.com
 origin-ssws.apple.com
 origin-stable-support.dynamite.myharmony.com
 origin-stage-bizconsole-kingm.firstnet.att.com
@@ -32093,6 +32108,7 @@ origin-tier3-test.geico.com
 origin-tips-nwk.apple.com
 origin-tips-prn.apple.com
 origin-tips.apple.com
+origin-todobot.htc.com
 origin-todoproxy.htc.com
 origin-tokenizer-prod.production.braintree-api.com
 origin-tokenizer-qa.dev.braintree-api.com
@@ -32768,6 +32784,7 @@ originapi.etsy.com
 originate.github.com
 originate.invisionapp.com
 originator.backlot.netflix.com
+originatt-test.htc.com
 originatt.htc.com
 originbank.xm.cloud.com
 originblocked.antivirus.goodrx.com
@@ -56559,6 +56576,7 @@ p107-fmf-china.icloud.com
 p107-fmf.icloud.com
 p107-fmipweb.icloud.com
 p107-geows.icloud.com
+p107-iwmb3.icloud.com
 p107-iwmb4.icloud.com
 p107-iwmb5.icloud.com
 p107-iwmb6.icloud.com
@@ -56944,6 +56962,8 @@ p113-fmf-china.icloud.com
 p113-fmf.icloud.com
 p113-fmipweb.icloud.com
 p113-geows.icloud.com
+p113-iwmb2.icloud.com
+p113-iwmb3.icloud.com
 p113-iwmb4.icloud.com
 p113-iwmb5.icloud.com
 p113-iwmb6.icloud.com
@@ -57077,6 +57097,7 @@ p116-fmf.icloud.com
 p116-fmipweb.icloud.com
 p116-geows.icloud.com
 p116-iwmb1.icloud.com
+p116-iwmb3.icloud.com
 p116-iwmb4.icloud.com
 p116-iwmb5.icloud.com
 p116-iwmb6.icloud.com
@@ -57120,6 +57141,7 @@ p117-fmf.icloud.com
 p117-fmipweb.icloud.com
 p117-geows.icloud.com
 p117-iwmb1.icloud.com
+p117-iwmb2.icloud.com
 p117-iwmb3.icloud.com
 p117-iwmb4.icloud.com
 p117-iwmb5.icloud.com
@@ -65441,6 +65463,7 @@ package.box.xiaomi.com
 package.cdn.box.xiaomi.com
 package.cdn.pandora.xiaomi.com
 package.dingtalk.com
+package.kings.qq.com
 package.wallpaper.cdn.pandora.xiaomi.com
 packagebox.en.alibaba.com
 packagecloud.atlassian.net
@@ -67976,6 +67999,7 @@ pandemic0105.blog.www.www.cms.obiwan.netflix.com
 pandemic0105.blog.www.www.www.www.www.assets.obiwan.netflix.com
 pandemic0105.cinyour.facebook.com
 pandemic0105.hongli.venmo.com
+pandemic0105.latest.instagram.com
 pandemic0105.paymentblog.tweakers.net
 pandemic0105.tmall.com
 pandemic0105.venmo.com
@@ -68593,6 +68617,7 @@ pantaiwan.en.alibaba.com
 pantalaimontqand888lyra.spaces.live.com
 pantaleaoadvocacia-my.sharepoint.com
 pantaleaoadvocacia.sharepoint.com
+pantanal-co-za.myshopify.com
 pantao1227.github.com
 pantao1688.cn.alibaba.com
 pantaojixie.en.alibaba.com
@@ -71273,6 +71298,7 @@ partnerseu.sec.samsung.com
 partnersgroup.statuspage.io
 partnersgroup1-my.sharepoint.com
 partnersgroup1.sharepoint.com
+partnershare.htc.com
 partnershealthcare-my.sharepoint.com
 partnershealthcare-public.sharepoint.com
 partnershealthcare.sharepoint.com
@@ -71324,6 +71350,7 @@ partnersvip.evip.icq.com
 partnersvnext.ws.microsoft.com
 partnersww-my.sharepoint.com
 partnersww.sharepoint.com
+partnertap.customdomains.oktapreview.com
 partnertesting.myshopify.com
 partnertools.nrd.netflix.com
 partnertraining.smartsheet.com
@@ -82727,6 +82754,7 @@ petmate.tmall.com
 petmate.world.tmall.com
 petmaya.myshopify.com
 petmould.cn.alibaba.com
+petmystic.myshopify.com
 petoji.etsy.com
 petonehk.en.alibaba.com
 petoodle.bigcartel.com
@@ -92743,6 +92771,7 @@ play-next-dogfood.corp.google.com
 play-nice-by-milli.myshopify.com
 play-nourish-thrive.myshopify.com
 play-sathena-cn.heytapmobi.com
+play-static-beta.line-apps.com
 play-technicaleducation-rtp.cisco.com
 play-technicaleducation-sjc.cisco.com
 play.1688.com
@@ -98764,6 +98793,7 @@ pollisrl.sharepoint.com
 pollister.stanford.edu
 polliwog123.etsy.com
 pollmax.spaces.live.com
+pollock.htc.com
 pollogengeneo.tmall.com
 pollon-erika.spaces.live.com
 polls.1.xb.sf.net
@@ -99181,6 +99211,7 @@ pomoc.yelp.com
 pomodo.atlassian.net
 pomofrance.myshopify.com
 pomona-3310.cisco.com
+pomonagc91766.myshopify.com
 pomoshvuchebe.mail.ru
 pomozbog.spaces.live.com
 pomozovarti.mail.ru
@@ -106729,6 +106760,7 @@ preview-qa.stanford.edu
 preview-rlp.telekom.de
 preview-services.bingads.microsoft.com
 preview-setup.myharmony.com
+preview-shopamerica.htc.com
 preview-skyflow.customdomains.oktapreview.com
 preview-t-shop-qa.telekom.de
 preview-t-shop-qa2.telekom.de
@@ -113964,6 +113996,7 @@ proudqueen.1688.com
 proudqueen.cn.alibaba.com
 proudrootsessentials.bigcartel.com
 proudsourcing.atlassian.net
+proudvintage.myshopify.com
 proun1919.etsy.com
 prounlimited.sharepoint.com
 proutils.github.com
@@ -114170,6 +114203,7 @@ provita.itslearning.com
 provita.live.com
 provito.uc.att.com
 proviz-project.slack.com
+provnamur.itslearning.com
 provo.place.hyatt.com
 provocative-nails.myshopify.com
 provocativehaiku.etsy.com
@@ -120743,6 +120777,7 @@ purpanache.etsy.com
 purpinka.spaces.live.com
 purple-bakery-outlet-1493841229.myshopify.com
 purple-egg-clothing.myshopify.com
+purple-glee.myshopify.com
 purple-mountains.spaces.live.com
 purple-palm-gloves.myshopify.com
 purple-wind.en.alibaba.com
@@ -121369,6 +121404,7 @@ puzzles.it.aliexpress.com
 puzzles.sophos.com
 puzzlesafari.research.microsoft.com
 puzzlesbygeorge.etsy.com
+puzzlestore-com.myshopify.com
 puzzlet.github.com
 puzzliaustralia.myshopify.com
 puzzlingcrafts.etsy.com
@@ -132518,6 +132554,7 @@ quickstart-prod.att.com
 quickstart.att.com
 quicksuper.atlassian.net
 quickswitch.sf.net
+quickswop.myshopify.com
 quicktest.sf.net
 quicktime.1688.com
 quicktime.atlassian.net
@@ -134605,6 +134642,7 @@ r2syncovh.tweakers.net
 r2t2.corp.google.com
 r2ta.mail.ru
 r2thk.en.alibaba.com
+r2v-runball.myshopify.com
 r2v4.edge.media.vip.tw1.yahoo.com
 r2x5peiah5t9yuv2fm11s6d53xkia7wv.waf.aliyun.com
 r2xn9dajtts.vk.com
@@ -145460,10 +145498,3 @@ rate-limited-proxy-72-14-199-21.google.com
 rate-limited-proxy-72-14-199-210.google.com
 rate-limited-proxy-72-14-199-211.google.com
 rate-limited-proxy-72-14-199-212.google.com
-rate-limited-proxy-72-14-199-213.google.com
-rate-limited-proxy-72-14-199-214.google.com
-rate-limited-proxy-72-14-199-215.google.com
-rate-limited-proxy-72-14-199-216.google.com
-rate-limited-proxy-72-14-199-217.google.com
-rate-limited-proxy-72-14-199-218.google.com
-rate-limited-proxy-72-14-199-219.google.com
