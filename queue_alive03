@@ -1,3 +1,9 @@
+dhcp-64-100-97-101.cisco.com
+dhcp-64-100-97-102.cisco.com
+dhcp-64-100-97-103.cisco.com
+dhcp-64-100-97-104.cisco.com
+dhcp-64-100-97-105.cisco.com
+dhcp-64-100-97-106.cisco.com
 dhcp-64-100-97-107.cisco.com
 dhcp-64-100-97-108.cisco.com
 dhcp-64-100-97-109.cisco.com
@@ -100762,6 +100768,7 @@ elcc-cl-03-imss.stanford.edu
 elcc-cl-04-imss.stanford.edu
 elcc-cl-05-imss.stanford.edu
 elcc-cl-06-imss.stanford.edu
+elcc-pr-02-b400.stanford.edu
 elccsunlin.1688.com
 elcentenario07.live.com
 elchaskdeestrella.spaces.live.com
@@ -103050,6 +103057,7 @@ elrum-llc.myshopify.com
 elrundir.imgur.com
 elrus-my.sharepoint.com
 elrus.sharepoint.com
+els-hppro400.stanford.edu
 els-tohoku.slack.com
 els.1688.com
 els.atlassian.net
@@ -110734,6 +110742,7 @@ enterpriseenrollment.ntdev.microsoft.com
 enterpriseenrollment.segment.com
 enterpriseenrollment.simple.com
 enterpriseenrollment.skyscanner.net
+enterpriseenrollment.swiftcapital.com
 enterpriseenrollment.tesla.cn
 enterpriseenrollment.therealreal.com
 enterpriseenrollment.unibet.com
@@ -110764,6 +110773,7 @@ enterpriseregistration.ntdev.microsoft.com
 enterpriseregistration.qiwi.com
 enterpriseregistration.skyscanner.net
 enterpriseregistration.slac.stanford.edu
+enterpriseregistration.swiftcapital.com
 enterpriseregistration.unibet.com
 enterpriseregistration.windows.microsoft.com
 enterprisereportingservice.co1.cp.microsoft.com
@@ -116695,6 +116705,7 @@ ess.researchgate.net
 ess.sharepoint.com
 ess.shopify.com
 ess.slack.com
+ess.stanford.edu
 ess.statuspage.io
 ess.tencent.com
 ess.tmall.com
@@ -130141,6 +130152,9 @@ evgr-c-wireless-net.stanford.edu
 evgr-d-net.stanford.edu
 evgr-d-wireless-net.stanford.edu
 evgra-pr-01-b400.stanford.edu
+evgrb-pr-01-b400.stanford.edu
+evgrc-pr-01-b400.stanford.edu
+evgrd-pr-01-b400.stanford.edu
 evgrika.mail.ru
 evhughes.dev.ikarem.io
 evhughes.dev.network-auth.ikarem.io
@@ -140996,9 +141010,3 @@ fbonly-test-bgp-01-otp1.facebook.com
 fbonly-test-bgp-01-pmo1.facebook.com
 fbonly-test-bgp-01-prg1.facebook.com
 fbonly-test-bgp-01-qro1.facebook.com
-fbonly-test-bgp-01-scl2.facebook.com
-fbonly-test-bgp-01-sea1.facebook.com
-fbonly-test-bgp-01-sin6.facebook.com
-fbonly-test-bgp-01-sjc3.facebook.com
-fbonly-test-bgp-01-sju1.facebook.com
-fbonly-test-bgp-01-sof1.facebook.com

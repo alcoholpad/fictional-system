@@ -1,3 +1,7 @@
+rate-limited-proxy-72-14-199-21.google.com
+rate-limited-proxy-72-14-199-210.google.com
+rate-limited-proxy-72-14-199-211.google.com
+rate-limited-proxy-72-14-199-212.google.com
 rate-limited-proxy-72-14-199-213.google.com
 rate-limited-proxy-72-14-199-214.google.com
 rate-limited-proxy-72-14-199-215.google.com
@@ -6179,6 +6183,7 @@ rde-3257.stanford.edu
 rde-3258.stanford.edu
 rde-3291.stanford.edu
 rde-3489.stanford.edu
+rde-3500.stanford.edu
 rde-3591.stanford.edu
 rde-3990.stanford.edu
 rde-3999.stanford.edu
@@ -6460,6 +6465,7 @@ rdev-ll-20-imi3.stanford.edu
 rdev-mm-14-im5k.stanford.edu
 rdev-mm-23-mprd.stanford.edu
 rdev-mm-57-imss.stanford.edu
+rdev-pr-01-b400.stanford.edu
 rdev-sm-26-mba2.stanford.edu
 rdev-vn-23-imir.stanford.edu
 rdev-vn-57-mprd.stanford.edu
@@ -15297,6 +15303,7 @@ res-east-rg1-vrtr-loopback.stanford.edu
 res-east-rg1-vrtr-vl3958.stanford.edu
 res-east-rg2-vrtr-loopback.stanford.edu
 res-east-rg2-vrtr-vl3959.stanford.edu
+res-east-rtr-vl3500.stanford.edu
 res-east-rtr-vl3965.stanford.edu
 res-east-rtr-vl3966.stanford.edu
 res-east-rtr-vlan11.stanford.edu
@@ -15320,6 +15327,7 @@ res-press-rg1-vrtr-loopback.stanford.edu
 res-press-rg1-vrtr-vl3958.stanford.edu
 res-press-rg2-vrtr-loopback.stanford.edu
 res-press-rg2-vrtr-vl3959.stanford.edu
+res-press-rtr-vl3500.stanford.edu
 res-press-rtr-vl3965.stanford.edu
 res-press-rtr-vl3966.stanford.edu
 res-press-rtr-vlan11.stanford.edu
@@ -101218,6 +101226,7 @@ shop51w6s81461871.1688.com
 shop520555q495855.1688.com
 shop521613520.taobao.com
 shop52233687e5119.1688.com
+shop523468100.taobao.com
 shop524248300.taobao.com
 shop525005081.taobao.com
 shop52523g202jp79.1688.com
@@ -146879,7 +146888,3 @@ smtp2185-156.mail.aliyun.com
 smtp2185-157.mail.aliyun.com
 smtp2185-158.mail.aliyun.com
 smtp2185-159.mail.aliyun.com
-smtp2185-16.mail.aliyun.com
-smtp2185-160.mail.aliyun.com
-smtp2185-161.mail.aliyun.com
-smtp2185-162.mail.aliyun.com
