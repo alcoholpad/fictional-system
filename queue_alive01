@@ -1,3 +1,6 @@
+antivirus.www.mail-dentalplans.goodrx.com
+antivirus.www.maildentalplans.goodrx.com
+antivirus.www.march-dentalplans.goodrx.com
 antivirus.www.march.dentalplans.goodrx.com
 antivirus.www.mcr.www-test.alumni.dev.soundtrap.com
 antivirus.www.mirror-dentalplans.goodrx.com
@@ -4863,6 +4866,7 @@ api-content1-eu.dropbox.com
 api-content1-jp.dropbox.com
 api-content1-uk.dropbox.com
 api-content1.dropbox.com
+api-core-ru.tiktokv.com
 api-core-va.tiktokv.com
 api-core.tiktokv.com
 api-coronacg.harvestapp.com
@@ -6625,6 +6629,7 @@ api.evip.chat.my.com
 api.evip.chatpandemic.my.com
 api.evip.icq.com
 api.evip.pandemicchat.my.com
+api.exam.qq.com
 api.exchange.coinbase.com
 api.exmail.qq.com
 api.express.bingads.microsoft.com
@@ -6864,6 +6869,7 @@ api.inlogcodes.mijn.ing.nl
 api.inna_odincova.mail.ru
 api.innocraft.cloud
 api.innogames.com
+api.innovation.qq.com
 api.input.intl.miui.com
 api.insight.netgear.com
 api.insights.yahoo.com
@@ -30674,18 +30680,24 @@ auth-staging.neos.co.uk
 auth-technicaleducation-sjc.cisco.com
 auth-test-a-cloudstation-eu-central-1.qa.hydra.sophos.com
 auth-test-a-cloudstation-eu-west-1.dev.hydra.sophos.com
+auth-test-a-cloudstation-eu-west-1.inf.hydra.sophos.com
 auth-test-a-cloudstation-us-west-2.qa.hydra.sophos.com
 auth-test-a.cloudstation.eu-central-1.qa.hydra.sophos.com
 auth-test-a.cloudstation.eu-west-1.dev.hydra.sophos.com
+auth-test-a.cloudstation.eu-west-1.inf.hydra.sophos.com
 auth-test-a.cloudstation.us-west-2.qa.hydra.sophos.com
 auth-test-b-cloudstation-eu-central-1.qa.hydra.sophos.com
 auth-test-b-cloudstation-eu-west-1.dev.hydra.sophos.com
+auth-test-b-cloudstation-eu-west-1.inf.hydra.sophos.com
 auth-test-b-cloudstation-us-west-2.qa.hydra.sophos.com
 auth-test-b.cloudstation.eu-central-1.qa.hydra.sophos.com
 auth-test-b.cloudstation.eu-west-1.dev.hydra.sophos.com
+auth-test-b.cloudstation.eu-west-1.inf.hydra.sophos.com
 auth-test-b.cloudstation.us-west-2.qa.hydra.sophos.com
 auth-test-c-cloudstation-eu-west-1.dev.hydra.sophos.com
 auth-test-c.cloudstation.eu-west-1.dev.hydra.sophos.com
+auth-test-s-cloudstation-eu-west-1.inf.hydra.sophos.com
+auth-test-s.cloudstation.eu-west-1.inf.hydra.sophos.com
 auth-test.dev.insolar.io
 auth-test.globalpay.westernunion.com
 auth-test.stanford.edu
@@ -36906,6 +36918,7 @@ avie.etsy.com
 avie.udemy.com
 avieadorned.etsy.com
 avifile.sf.net
+avigator.tmall.com
 avigayiljewelry.etsy.com
 avigers.tmall.com
 avigers.world.tmall.com
@@ -63188,6 +63201,7 @@ beta.equalizerproject.com
 beta.es.aliexpress.com
 beta.ethiopia-covid19.slack.com
 beta.etsy.com
+beta.ews.payments.yahoo.com
 beta.expertzone.microsoft.com
 beta.express.bingads.microsoft.com
 beta.exseed.yelp.com
@@ -72811,6 +72825,7 @@ bimeigao.world.tmall.com
 bimeng.tmall.com
 bimeng.world.tmall.com
 bimengxuan.tmall.com
+bimgo.ke.qq.com
 bimingchao.spaces.live.com
 biminitop.en.alibaba.com
 bimisolutions.sharepoint.com
@@ -73471,6 +73486,7 @@ biobank-vmw10.stanford.edu
 biobank.stanford.edu
 biobankengine.stanford.edu
 biobankenginedev.stanford.edu
+biobankenginedev2.stanford.edu
 biobankos.stanford.edu
 biobar-crypto.slack.com
 biobase-jn.en.alibaba.com
@@ -129097,6 +129113,7 @@ ccrcmagoutletfe-prod-rtp.cisco.com
 ccrcsparkbotsapi-rtp-ext-prd.cisco.com
 ccreports-1.stanford.edu
 ccreports.stanford.edu
+ccresa.zoom.us
 ccresourcesinc-web.sharepoint.com
 ccresourcesinc.sharepoint.com
 ccri.zoom.us
@@ -135942,6 +135959,7 @@ cert.starbucks.de
 cert.starbucksreserve.com
 cert.status.slack.com
 cert.statuspage.io
+cert.store.rockstargames.com
 cert.support.greenhouse.io
 cert.t-mobile.cz
 cert.telekom.de
@@ -141529,6 +141547,7 @@ cgjszp.en.alibaba.com
 cgkb.mail.ru
 cgkd.cn.alibaba.com
 cgl.microsoft.com
+cglearning.udemy.com
 cglg-my.sharepoint.com
 cglg.sharepoint.com
 cglib.sf.net
@@ -148291,11 +148310,3 @@ childrenarisk.sharepoint.com
 childrenclothes.en.alibaba.com
 childrenclothes.m.en.alibaba.com
 childreninternationalbicol.sharepoint.com
-childrenlibrary.mail.ru
-childrenofiraq.yelp.com
-childrenofthecovenant.myshopify.com
-childrenofthenight-antivirus.admin.dev.soundtrap.com
-childrenofthestars.vhx.tv
-childrenoss-my.sharepoint.com
-childrenoss.sharepoint.com
-childrenparadise.aliexpress.com
