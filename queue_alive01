@@ -1,14 +1,3 @@
-antivirus.www.mj.test.staging.pyszne.pl
-antivirus.www.msf.admin.dev.soundtrap.com
-antivirus.www.net-dentalplans.goodrx.com
-antivirus.www.netherlands.dentalplans.goodrx.com
-antivirus.www.nica.users.www-dev.admin.alumni.dev.soundtrap.com
-antivirus.www.nina.admin.dev.soundtrap.com
-antivirus.www.nl-dentalplans.goodrx.com
-antivirus.www.node-dentalplans.goodrx.com
-antivirus.www.node.dentalplans.goodrx.com
-antivirus.www.nodedentalplans.goodrx.com
-antivirus.www.northamerica-dentalplans.goodrx.com
 antivirus.www.oceania.dentalplans.goodrx.com
 antivirus.www.oct.dentalplans.goodrx.com
 antivirus.www.onepiece.www-dev.admin.alumni.dev.soundtrap.com
@@ -6259,6 +6248,7 @@ api.creator.store.microsoft.com
 api.credit-dev.stage.paypal.com
 api.credit.stage.paypal.com
 api.creditauciti-dev.stage.paypal.com
+api.creditauciti-m.stage.paypal.com
 api.creditauciti-mpp.stage.paypal.com
 api.creditauciti.stage.paypal.com
 api.creditkarma.com
@@ -6816,6 +6806,7 @@ api.hyatt.com
 api.hybrid.intl.xiaomi.com
 api.hybrid.xiaomi.com
 api.hyperwallet.stage.paypal.com
+api.hyperwalletpayouts.stage.paypal.com
 api.i.imgur.com
 api.iad1-new.yelp.com
 api.iad1.creditkarma.com
@@ -8157,6 +8148,7 @@ api.stg.atlassian.com
 api.stg.dco.cloud.att.com
 api.stg.pi.microsoft.com
 api.stg1.ww.com
+api.stn000iad.ctr.sophos.com
 api.storage-dev.codefi.network
 api.storage-pl-000.codefi.network
 api.storage-pl-351.codefi.network
@@ -10442,6 +10434,7 @@ app.app.slack.com
 app.apple.com
 app.apps.wellness.dev.lifeomic.com
 app.ar24.frgraph.accountkit.com
+app.astro-dev.di.rbx.com
 app.atlassian.net
 app.att.us.kennasecurity.com
 app.automation.kiwi.com
@@ -15738,6 +15731,7 @@ are-you-am-i.myshopify.com
 are-you-in.myshopify.com
 are2019.slack.com
 area-51.sandbox.directly.com
+area-code876.myshopify.com
 area-kids.myshopify.com
 area-net.stanford.edu
 area.1688.com
@@ -17369,6 +17363,7 @@ arluka-naturals-1.myshopify.com
 arly.etsy.com
 arm-aoy-aom.spaces.live.com
 arm-io.invisionapp.com
+arm-kandi-customs.myshopify.com
 arm-rest-service.integ.amazon.com
 arm-support-io.invisionapp.com
 arm-support.invisionapp.com
@@ -24328,6 +24323,7 @@ assistant.qq.com
 assistant.sys.tv.mi.com
 assistant.tencent.com
 assistant.tv.mi.com
+assistantjet.myshopify.com
 assistants.microsoft.com
 assistantstest.microsoft.com
 assistcard-my.sharepoint.com
@@ -25858,6 +25854,7 @@ atelier-autentico.myshopify.com
 atelier-clash.myshopify.com
 atelier-coco.booth.pm
 atelier-du-bbq.myshopify.com
+atelier-edna.myshopify.com
 atelier-mulher-de-pano.myshopify.com
 atelier-ozgur.myshopify.com
 atelier-seira.booth.pm
@@ -30695,7 +30692,9 @@ auth-test-b.cloudstation.eu-west-1.dev.hydra.sophos.com
 auth-test-b.cloudstation.eu-west-1.inf.hydra.sophos.com
 auth-test-b.cloudstation.us-west-2.qa.hydra.sophos.com
 auth-test-c-cloudstation-eu-west-1.dev.hydra.sophos.com
+auth-test-c-cloudstation-eu-west-1.inf.hydra.sophos.com
 auth-test-c.cloudstation.eu-west-1.dev.hydra.sophos.com
+auth-test-c.cloudstation.eu-west-1.inf.hydra.sophos.com
 auth-test-s-cloudstation-eu-west-1.inf.hydra.sophos.com
 auth-test-s.cloudstation.eu-west-1.inf.hydra.sophos.com
 auth-test.dev.insolar.io
@@ -41010,6 +41009,7 @@ azure-ex.rabobank.nl
 azure-int.mailjet.com
 azure-int.microsoft.com
 azure-int.preprod.mailjet.com
+azure-next.microsoft.com
 azure-rin.spaces.live.com
 azure-spree-boutique.myshopify.com
 azure-staging.microsoft.com
@@ -45675,6 +45675,7 @@ babetteinfo.spaces.live.com
 babettevintage.etsy.com
 babezenco.bigcartel.com
 babi95italy.spaces.live.com
+babibagco.myshopify.com
 babich22416.mail.ru
 babicz.sharepoint.com
 babie.tmall.com
@@ -45829,6 +45830,7 @@ babybonkie.foxycart.com
 babyboo.api.opsgeni.us
 babyboos.etsy.com
 babybooscloset.bigcartel.com
+babybottleswarmer.myshopify.com
 babybowmadness.etsy.com
 babybox.tmall.com
 babyboz.mail.ru
@@ -47948,6 +47950,7 @@ bainiansheng.1688.com
 bainiantongkang.tmall.com
 bainianxiuzheng.tmall.com
 bainianxiuzheng.world.tmall.com
+bainianyucai.ke.qq.com
 bainiaojl.tmall.com
 bainiaoshuicao.tmall.com
 bainin.en.alibaba.com
@@ -57690,6 +57693,7 @@ beautfulllady.taobao.com
 beautiandthebeads.bigcartel.com
 beautiblinx.bigcartel.com
 beauties4u.chaturbate.com
+beautified-chaos.myshopify.com
 beautified-group.myshopify.com
 beautifiedbynique.bigcartel.com
 beautiful-74.spaces.live.com
@@ -60172,6 +60176,7 @@ belousov_alex.mail.ru
 belousovru.mail.ru
 belov7.mail.ru
 belov_alv.mail.ru
+beloved-by-maria.myshopify.com
 belovedancestors.etsy.com
 belovedandfreeshop.etsy.com
 belovedbabyshop.myshopify.com
@@ -63199,6 +63204,7 @@ beta.dns.facebook.com
 beta.drvinceknight.github.com
 beta.dsp.gs.com
 beta.dyson.com
+beta.ec.fy.qq.com
 beta.edit.client.yahoo.com
 beta.edmodo.com
 beta.education.github.com
@@ -70306,6 +70312,7 @@ bgr01swd.statuspage.io
 bgr01swd.tmall.com
 bgr01swd.udemy.com
 bgr01swd.yelp.com
+bgraham.dev.quora.com
 bgreenkyschools-my.sharepoint.com
 bgreenkyschools.sharepoint.com
 bgrein-my.sharepoint.com
@@ -70454,6 +70461,7 @@ bhamann2001.etsy.com
 bhamortho.yelp.com
 bhanda.bigcartel.com
 bhandler.spaces.live.com
+bhanjis.myshopify.com
 bhanprak-lnx80.cisco.com
 bhanprak.cisco.com
 bhaou.sharepoint.com
@@ -71450,6 +71458,7 @@ big-data-case-studies.quora.com
 big-data-distributed-computing.quora.com
 big-data-facts.quora.com
 big-data-in-tourism.slack.com
+big-drip-4-sale.myshopify.com
 big-drip-customz-apparel.myshopify.com
 big-drop-australia.myshopify.com
 big-easy-blanks.myshopify.com
@@ -73501,6 +73510,7 @@ biobar-crypto.slack.com
 biobase-jn.en.alibaba.com
 biobase.1688.com
 biobase.en.alibaba.com
+biobasement.myshopify.com
 biobit.slack.com
 bioblaze.slack.com
 biobonafide.myshopify.com
@@ -81954,6 +81964,7 @@ bluechp.sharepoint.com
 bluecieloecm.atlassian.net
 blueclayzine.bigcartel.com
 bluecloud.etsy.com
+bluecloudzvape.myshopify.com
 blueclubresorts-public.sharepoint.com
 blueclubresorts.sharepoint.com
 bluecoat-fe328ba7-3324-4ff1-ae6e-5f597c9d053e.2d7dd.cdn.bitdefender.net
@@ -87053,6 +87064,7 @@ bohlwegstudios.spaces.live.com
 bohmer.en.alibaba.com
 bohn002.imgur.com
 bohnelec.aliexpress.com
+boho-fairy-dreamer.myshopify.com
 boho-in-a-bag.myshopify.com
 boho.tmall.com
 boho316.1688.com
@@ -88002,6 +88014,7 @@ bongroup.sharepoint.com
 bongrub.shopify.com
 bongtai.spaces.live.com
 bongthegoat.imgur.com
+bonhomiestore.myshopify.com
 boni-artd.myshopify.com
 boni.tmall.com
 boniae.etsy.com
@@ -88685,6 +88698,7 @@ boole.udemy.com
 boole.yelp.com
 boolwas.1688.com
 boom-aga.mail.ru
+boom-bundles.myshopify.com
 boom.1688.com
 boom.atlassian.net
 boom.chaturbate.com
@@ -93932,6 +93946,7 @@ branwensdreams.etsy.com
 braparth-lnx.cisco.com
 brapstore-2.myshopify.com
 braschitonybraschi.spaces.live.com
+braselstore.myshopify.com
 brasgout.huawei.com
 brashley.yelp.com
 brashnik.mail.ru
@@ -101267,6 +101282,7 @@ bummerclub.etsy.com
 bummertown.etsy.com
 bumop.cn.1688.com
 bump.steampowered.com
+bump2toddler.myshopify.com
 bump424.imgur.com
 bumper-up.mail.ru
 bumperfriend.etsy.com
@@ -110895,6 +110911,7 @@ c64.yelp.com
 c64b22541f1b4680981c089b71018f1e.fp.measure.office.com
 c6656d336d514d63bd6172d579183e0f.fp.measure.office.com
 c678e6a9740945219060ad206aff7ac3.fp.measure.office.com
+c67cb2cff145c4fc1f35a03d630e8300.fp.measure.office.com
 c686e24cba434d15bc1c4a9e3913c3c6.fp.measure.office.com
 c68ce8.docs.live.net
 c6902031.quora.com
@@ -119771,6 +119788,7 @@ canac-vpn2.cisco.com
 canac-vpn3.cisco.com
 canactionsua-my.sharepoint.com
 canactionsua.sharepoint.com
+canada-dawgs.myshopify.com
 canada-goose.san.cloudinary.com
 canada-shops.myshopify.com
 canada-toz.myshopify.com
@@ -121315,6 +121333,7 @@ cappywannavintage.etsy.com
 capqa.microsoft.com
 capraconsult-public.sharepoint.com
 capraconsult.sharepoint.com
+caprafootball.myshopify.com
 caprd2-db.cisco.com
 capree.etsy.com
 capref-dev.cisco.com
@@ -123330,6 +123349,7 @@ carolhsu.github.com
 carolhsu0322.spaces.live.com
 caroliedesigns.etsy.com
 carolina-downpour.myshopify.com
+carolina-shine-girls.myshopify.com
 carolina-test-store-5.myshopify.com
 carolina.cvm.live.com
 carolina63.mail.ru
@@ -124457,6 +124477,7 @@ casecolpwe.spaces.live.com
 caseeasier.cn.alibaba.com
 casefile.robinhood.com
 casefloral-custom.myshopify.com
+caseholics.myshopify.com
 casehome.en.alibaba.com
 caseii.aliexpress.com
 caseking.atlassian.net
@@ -127889,6 +127910,7 @@ ccfssorbonne.itslearning.com
 ccfu88.cn.alibaba.com
 ccfundraising.slack.com
 ccfur2.taobao.com
+ccfva4en.cloudstation.eu-west-1.dev.hydra.sophos.com
 ccg.edmodo.com
 ccg.migc.xiaomi.com
 ccg01-origin-api-1.paypal.com
@@ -130011,6 +130033,7 @@ cd351.slack.com
 cd355aef448c4db5917e9fb04c4e6c24.fp.measure.office.com
 cd3638c5-f150-4c3e-bd48-7ccde30a4499.probe.performance.dropbox.com
 cd3b6b241bd94d14893e6c408df50b4f.fp.measure.office.com
+cd3c727d014745eaa274443d40f39d1b.fp.measure.office.com
 cd3zy8n58.quora.com
 cd4b3efc4b4a46d6a4ab92aa7a1bb37c.fp.measure.office.com
 cd540503.vk.me
@@ -134873,6 +134896,7 @@ centrifugo.donationalerts.com
 centrify.com
 centrify.zoom.us
 centrintastana.mail.ru
+centripal.myshopify.com
 centriq0.sharepoint.com
 centrix.atlassian.net
 centrlaminata.mail.ru
@@ -143930,6 +143954,7 @@ charliekloset.bigcartel.com
 charlielou92.imgur.com
 charlieloudesigns.etsy.com
 charliemai.etsy.com
+charlierags.myshopify.com
 charlierubin.bigcartel.com
 charlies-for-kids.myshopify.com
 charlies-heaven-market-boutique.myshopify.com
@@ -145047,6 +145072,7 @@ chayuanyangba.tmall.com
 chayyamp-lnx.cisco.com
 chazidian.grudge-pandemic.my.com
 chazidiangrudge-pandemic.my.com
+chazmo-games.myshopify.com
 chazrb-photography.myshopify.com
 chazzsgirl13.etsy.com
 chb.en.alibaba.com
@@ -147325,6 +147351,7 @@ chess.tmall.com
 chess.udemy.com
 chess.vhx.tv
 chess.yelp.com
+chess4test.myshopify.com
 chess_.mail.ru
 chessclub.atlassian.net
 chesscom.files.com
@@ -148339,3 +148366,17 @@ childrenofthenight-antivirus.admin.dev.soundtrap.com
 childrenofthestars.vhx.tv
 childrenoss-my.sharepoint.com
 childrenoss.sharepoint.com
+childrenparadise.aliexpress.com
+childrens-hope.foxycart.com
+childrensbooks.quora.com
+childrensbureau-my.sharepoint.com
+childrensbureau.sharepoint.com
+childrenscolorado-my.sharepoint.com
+childrenscolorado.sharepoint.com
+childrenscouncil.sharepoint.com
+childrensctr-my.sharepoint.com
+childrensctr.sharepoint.com
+childrensdentistryoftrumbul-my.sharepoint.com
+childrensdentistryoftrumbul.sharepoint.com
+childrensfund.sharepoint.com
+childrenshearings.sharepoint.com
