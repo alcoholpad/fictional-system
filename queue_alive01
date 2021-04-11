@@ -1,3 +1,9 @@
+antivirus.www.priv-dentalplans.goodrx.com
+antivirus.www.prod-dentalplans.goodrx.com
+antivirus.www.prod.dentalplans.goodrx.com
+antivirus.www.production-dentalplans.goodrx.com
+antivirus.www.production.dentalplans.goodrx.com
+antivirus.www.productiondentalplans.goodrx.com
 antivirus.www.profile-dentalplans.goodrx.com
 antivirus.www.profiledentalplans.goodrx.com
 antivirus.www.profiles-dentalplans.goodrx.com
@@ -4081,6 +4087,7 @@ apex-international.en.alibaba.com
 apex-kassaui.dev.lieferando.de
 apex-metrics.sg.seek.com
 apex-movement.myshopify.com
+apex-protiens.myshopify.com
 apex-sports.myshopify.com
 apex-store1.myshopify.com
 apex.1688.com
@@ -4802,6 +4809,7 @@ api-cloudstation-us-west-2.dev3.hydra.sophos.com
 api-cloudstation-us-west-2.prod.hydra.sophos.com
 api-cloudstation-us-west-2.qa.hydra.sophos.com
 api-cloudwifi.vmall.com
+api-cmp.wecar.map.qq.com
 api-cn-east-2.devcloud.huaweicloud.com
 api-cn.c.huawei.com
 api-cn.cdo.heytapmobi.com
@@ -5772,6 +5780,7 @@ api-v2-testing.plaid.com
 api-v2-testing2.plaid.com
 api-v2.muz.li
 api-v2.sandbox-secure.fair.engineering
+api-v2.sandbox.paypal.com
 api-v2.soundcloud.com
 api-v3-bkt.pbp.vip.bf1.yahoo.com
 api-v3.sandbox-secure.fair.engineering
@@ -11864,6 +11873,7 @@ appmail3.rabobank.nl
 appmail4.rabobank.nl
 appmaker.corp.google.com
 appmaker.google.com
+appmanagement-stage-wus2.microsoft.com
 appmanagement-stage.microsoft.com
 appmanagement.activedirectory-ppe.microsoft.com
 appmanagement.activedirectory.microsoft.com
@@ -15100,6 +15110,8 @@ arcetri-asa.cisco.com
 arcetri-gw.cisco.com
 arcetri.cisco.com
 arcexport.trustpass.alibaba.com
+arceyes.taobao.com
+arceyes.world.taobao.com
 arcfire.slack.com
 arcgeo-public.sharepoint.com
 arcgeo.sharepoint.com
@@ -16518,6 +16530,7 @@ aris123.fm.alibaba.com
 arisanagasaka.booth.pm
 arisanalysis.slack.com
 ariscomputers.live.com
+arise-and-co.myshopify.com
 arise.sharepoint.com
 arisebank.slack.com
 arisebuildscom-my.sharepoint.com
@@ -19653,6 +19666,7 @@ artrondatacatalogservice.amazon.com
 artroute.aliexpress.com
 artruist.etsy.com
 arts-business-council.myshopify.com
+arts-council-okc-festi-ware.myshopify.com
 arts-crafts.en.alibaba.com
 arts-dashboard.corp.amazon.com
 arts-dealer-worldwide.myshopify.com
@@ -20002,6 +20016,7 @@ aruih2.aliexpress.com
 aruiyer.dev.ikarem.io
 aruiyer.dev.network-auth.ikarem.io
 aruiyer.meraki-go.ikarem.io
+arukah-design.myshopify.com
 aruki.trustpass.alibaba.com
 arukoshade.imgur.com
 arul4.myshopify.com
@@ -30521,6 +30536,7 @@ austria.yelp.com
 austrialpin.tmall.com
 austriancenterfudan.spaces.live.com
 austriawpcommunity.slack.com
+austrich.myshopify.com
 austrolopithecunt.imgur.com
 austronext.en.alibaba.com
 austrya.etsy.com
@@ -30677,10 +30693,12 @@ auth-test-b.cloudstation.eu-central-1.qa.hydra.sophos.com
 auth-test-b.cloudstation.eu-west-1.dev.hydra.sophos.com
 auth-test-b.cloudstation.eu-west-1.inf.hydra.sophos.com
 auth-test-b.cloudstation.us-west-2.qa.hydra.sophos.com
+auth-test-c-alt.stn000iad.ctr.sophos.com
 auth-test-c-cloudstation-eu-west-1.dev.hydra.sophos.com
 auth-test-c-cloudstation-eu-west-1.inf.hydra.sophos.com
 auth-test-c.cloudstation.eu-west-1.dev.hydra.sophos.com
 auth-test-c.cloudstation.eu-west-1.inf.hydra.sophos.com
+auth-test-c.stn000iad.ctr.sophos.com
 auth-test-s-cloudstation-eu-west-1.inf.hydra.sophos.com
 auth-test-s.cloudstation.eu-west-1.inf.hydra.sophos.com
 auth-test.dev.insolar.io
@@ -31438,6 +31456,7 @@ authority-v3-portal.amazon.com
 authority-webui.amazon.com
 authority.stanford.edu
 authorityab.harvestapp.com
+authoritylegacy-uat.stanford.edu
 authoritylegacy.stanford.edu
 authorityvof.sharepoint.com
 authorization.account.microsoft.com
@@ -38274,6 +38293,7 @@ avrotables.sharepoint.com
 avroyale.myshopify.com
 avrtllc-my.sharepoint.com
 avrtllc.sharepoint.com
+avrytingz.myshopify.com
 avs-alexa-1-eu.amazon.com
 avs-alexa-1-fe.amazon.com
 avs-alexa-1-na.amazon.com
@@ -54718,6 +54738,7 @@ bc-macnic-2.stanford.edu
 bc-macnic-4.stanford.edu
 bc-marcom-sbc2003.stanford.edu
 bc-mc-sbc2004.stanford.edu
+bc-medical.myshopify.com
 bc-mf-keybox.stanford.edu
 bc-mf-khendryk.stanford.edu
 bc-mf-mrcmadpt2.stanford.edu
@@ -63754,6 +63775,7 @@ betamina.ly.qq.com
 betamore.slack.com
 betamu.update.microsoft.com
 betanalpha.github.com
+betancourt-nutrition.myshopify.com
 betania02.fm.alibaba.com
 betanyc.slack.com
 betao3.antivirus-email.goodrx.com
@@ -74006,6 +74028,7 @@ birchbliss.etsy.com
 birchcraftandco.etsy.com
 birchdev.slack.com
 birchfinance.innocraft.cloud
+birchholiday-2.myshopify.com
 birchillsacademywalsall.sharepoint.com
 birchjewellery.etsy.com
 birchknoll.sharepoint.com
@@ -79127,6 +79150,7 @@ blindeyestudio.challonge.com
 blindgaenger.github.com
 blindheadshot95.imgur.com
 blindheartco.etsy.com
+blinding-lights-us.myshopify.com
 blindmatrix.atlassian.net
 blindmen.mail.ru
 blindmermaid-2.myshopify.com
@@ -88839,6 +88863,7 @@ boostedknight.imgur.com
 boosters.en.alibaba.com
 boostitcomau.sharepoint.com
 boostjp.github.com
+boostmysize.myshopify.com
 boostnote-group.slack.com
 boostorg.github.com
 boostservicesandsolutions-public.sharepoint.com
@@ -97296,6 +97321,7 @@ brukersbo.atlassian.net
 bruklynbelle.etsy.com
 brukshundklubben.zoom.us
 brulenet.cloudflareaccess.com
+brulerie-europa-inc.myshopify.com
 brulerooney.sharepoint.com
 brulosopher.imgur.com
 brum.imgur.com
@@ -101272,6 +101298,7 @@ bumblebirch.etsy.com
 bumblebird.etsy.com
 bumbleboks.github.com
 bumbleboohandmades.etsy.com
+bumblecentral.myshopify.com
 bumblepanda.myshopify.com
 bumblese.etsy.com
 bumboo-yoga.myshopify.com
@@ -102183,6 +102210,7 @@ businesss.data.gov
 businesssetupuae.quora.com
 businesssignup-api.trustpilot.com
 businesssite-blog.trustpilot.com
+businesssite-investors.trustpilot.com
 businesssite-ipo.trustpilot.com
 businessstore-int.microsoft.com
 businessstore-intmd.microsoft.com
@@ -102206,6 +102234,7 @@ businessunitcompliance-api.trustpilot.com
 businessunitproducts-images.trustpilot.com
 businessunitproducts-m1.trustpilot.com
 businessunitproducts-m2.trustpilot.com
+businessunits-adminapi-1.trustpilot.com
 businessunits-adminapi.trustpilot.com
 businessunits-api-2.trustpilot.com
 businessunits-api-3.trustpilot.com
@@ -105070,6 +105099,7 @@ bxzyc.taobao.com
 bxzzyjsxybyzz.quora.com
 by-audrey-co.myshopify.com
 by-azns-for-azns.quora.com
+by-bartoon.myshopify.com
 by-chuan.en.alibaba.com
 by-d-hill.myshopify.com
 by-eletronicos.myshopify.com
@@ -111632,6 +111662,7 @@ ca.github.com
 ca.globalpay.westernunion.com
 ca.gs.wikisigmavirus.github.com
 ca.gtimg.com.cloud.tc.qq.com
+ca.help.yahoo.com
 ca.hyatt.com
 ca.iadsdk.apple.com
 ca.imgur.com
@@ -120917,6 +120948,7 @@ cap-plan-sjc2.cisco.com
 cap-plan-sjc3.cisco.com
 cap-planner-rtp.cisco.com
 cap-planner-sjc.cisco.com
+cap-queens.myshopify.com
 cap-rtp-003-old.cisco.com
 cap-u02.stanford.edu
 cap-uat.stanford.edu
@@ -125752,6 +125784,7 @@ cateringmelodie.sharepoint.com
 cateringsupplies.en.alibaba.com
 cateringvaluexl.tmall.com
 cateringvaluexl.world.tmall.com
+caterpillar-books-and-gifts.myshopify.com
 caterpillar.cisco.com
 caterpillar.sharepoint.com
 caterpillarcake.imgur.com
@@ -131934,6 +131967,7 @@ cdn.mailgun.com
 cdn.makervsvirus.slack.com
 cdn.mams.microsoft.com
 cdn.manage.statuspage.io
+cdn.market.creative.qq.com
 cdn.marketing.greenhouse.io
 cdn.marquee-qa.gs.com
 cdn.marquee.gs.com
@@ -148428,25 +148462,3 @@ chile.mtf.pclo.mastercard.com
 chile.pclo.mastercard.com
 chile.recarga.com
 chile.researchgate.net
-chile.shopify.com
-chile.slack.com
-chile.stanford.edu
-chile.statuspage.io
-chile.tmall.com
-chile.udemy.com
-chile.yelp.com
-chileanrocket.slack.com
-chilefunda.myshopify.com
-chilege.en.alibaba.com
-chilemw.mtf.pclo.mastercard.com
-chilemw.pclo.mastercard.com
-chilenainnovadoracl.sharepoint.com
-chilenos-en-usa.spaces.live.com
-chilesii-my.sharepoint.com
-chilesii.sharepoint.com
-chileylimon2.bigcartel.com
-chili.1688.com
-chili.atlassian.net
-chili.chaturbate.com
-chili.github.com
-chili.imgur.com
