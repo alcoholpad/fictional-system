@@ -1,10 +1,3 @@
-npr-prd-69.cisco.com
-npr-prd-70.cisco.com
-npr-prd-71.cisco.com
-npr-prd-72.cisco.com
-npr-prd-73.cisco.com
-npr-prd-74.cisco.com
-npr-prd-75.cisco.com
 npr-prd-76.cisco.com
 npr-prd-77.cisco.com
 npr-prd-78.cisco.com
@@ -17539,6 +17532,7 @@ o99.p7.mailjet.com
 o99.p8.mailjet.com
 o99.p9.mailjet.com
 o999oo99.mail.ru
+o9cprcert.starbucks.com
 o9cprdev.starbucks.com
 o9cprprod.starbucks.com
 o9eop33m.cloudstation.eu-west-1.inf.hydra.sophos.com
@@ -22731,6 +22725,7 @@ office.atlassian.net
 office.badoo.com
 office.binance.com
 office.biz.yelp.com
+office.blog.ui.com
 office.bnsc.yelp.com
 office.boards.greenhouse.io
 office.bugcrowdninja.invisionapp.com
@@ -36910,6 +36905,7 @@ origin.painel.antivirus.rivals.com
 origin.partnergateway.dev.westernunion.com
 origin.payment-tracking.dev.westernunion.com
 origin.payment-tracking.qa.westernunion.com
+origin.payment-tracking.uat.westernunion.com
 origin.pkg.dl.mail.ru
 origin.pkg.gc.my.games
 origin.playartifact.com
@@ -57823,6 +57819,7 @@ p001.mpsse.kr3.yahoo.com
 p002.mpsse.kr3.yahoo.com
 p003.mpsse.kr3.yahoo.com
 p0050077.spaces.live.com
+p009c6y4.station.us-east-1.stn000iad.ctr.sophos.com
 p00psicle.imgur.com
 p01-1-ag.productioncontroller.starbucks.com
 p01-3-ag.productioncontroller.starbucks.com
@@ -79023,6 +79020,7 @@ paypalmanager.sandbox.paypal.com
 paypalqa.slack.com
 paypalreturnurlfix.version2.takeaway.feature.test.staging.takeaway.com
 paypassdevices.mastercard.com
+paypedia.reservations-sandbox.skypicker.com
 paypercall.slack.com
 paypipes.atlassian.net
 payprod-us-west-apply.venmo.com
@@ -83823,6 +83821,7 @@ pecanti.imgur.com
 pecascostura.live.com
 peceodusevnizdr-my.sharepoint.com
 peceodusevnizdr.sharepoint.com
+pechakucha.zoom.us
 pechaleather.etsy.com
 pechaol.spaces.live.com
 pechen.cn.alibaba.com
@@ -97859,6 +97858,7 @@ playerdrip.myshopify.com
 playerlab-stage.hub.dm.gg
 playerlync.sharepoint.com
 playerlync.stanford.edu
+playerone.soundcloud.com
 playerpro.sf.net
 playerprotection.betfair.com
 playerprotection.betfair.it
@@ -130289,6 +130289,7 @@ qd.myapp.tc.qq.com
 qd.myapp.tcdn.qq.com
 qd.qq.com
 qd0.sharepoint.com
+qd07r4sa.cloudstation.eu-west-1.inf.hydra.sophos.com
 qd0an.myshopify.com
 qd10010.tmall.com
 qd10010.world.tmall.com
@@ -133033,6 +133034,7 @@ qmzyc.1688.com
 qn-tcmallot.im.taobao.com
 qn12300123.1688.com
 qn788.cn.alibaba.com
+qn97gfqd.cloudstation.eu-west-1.inf.hydra.sophos.com
 qna.live.com
 qnap.tmall.com
 qnap.world.tmall.com
@@ -133248,6 +133250,7 @@ qpoyr0pgh7-1.algolianet.com
 qppl.venmo.com
 qpqkbc0pbdjc.statuspage.io
 qpqti9.docs.live.net
+qpr2hyns.cloudstation.eu-west-1.inf.hydra.sophos.com
 qproc3.yrl.sg3.yahoo.com
 qprocessing.atlassian.net
 qprojector.sf.net
@@ -140015,6 +140018,7 @@ r3ypzj2t0p.quora.com
 r3yybnd42.imgur.com
 r3z.r.mailjet.com
 r4---sn-05goxu-3c2l.c.youtube.com
+r4---sn-4g5e6nle.c.youtube.com
 r4---sn-5go7yne6.c.pack.google.com
 r4---sn-5goeen7r.c.youtube.com
 r4---sn-5hnekn7k.c.youtube.com
@@ -140069,6 +140073,7 @@ r4.dns.corp.yahoo.com
 r4.gsa.gov
 r4.res.office365.com
 r4.sn-05goxu-3c2l.c.youtube.com
+r4.sn-4g5e6nle.c.youtube.com
 r4.sn-5goeen7r.c.youtube.com
 r4.sn-5hnekn7k.c.youtube.com
 r4.sn-5ualdn7y.c.pack.google.com
@@ -144746,6 +144751,7 @@ rapid636.ihi.gq1.yahoo.com
 rapid655.ihi.gq1.yahoo.com
 rapid7.bamboostage.com
 rapid7.sharepoint.com
+rapid7.slack.com
 rapid7.zoom.us
 rapid705.ihi.gq1.yahoo.com
 rapid709.ihi.gq1.yahoo.com
@@ -149077,3 +149083,6 @@ rate-limited-proxy-209-85-238-104.google.com
 rate-limited-proxy-209-85-238-105.google.com
 rate-limited-proxy-209-85-238-106.google.com
 rate-limited-proxy-209-85-238-107.google.com
+rate-limited-proxy-209-85-238-108.google.com
+rate-limited-proxy-209-85-238-109.google.com
+rate-limited-proxy-209-85-238-11.google.com
