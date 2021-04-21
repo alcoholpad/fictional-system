@@ -1,19 +1,3 @@
-antivirus-yildirim.api.opsgeni.us
-antivirus-z.github.com
-antivirus-z.goodrx.com
-antivirus-z.slack.com
-antivirus-z.snappublisher.snapchat.com
-antivirus-zhenjiu.ke.qq.com
-antivirus-zhiwang.ke.qq.com
-antivirus.0.cs67.banana.kiwi.com
-antivirus.0.dyson.com
-antivirus.020959.fm.alibaba.com
-antivirus.0523xd.cn.alibaba.com
-antivirus.086086.cn.alibaba.com
-antivirus.09led.en.alibaba.com
-antivirus.1.github.com
-antivirus.1.goodrx.com
-antivirus.1.snappublisher.snapchat.com
 antivirus.10.github.com
 antivirus.10.goodrx.com
 antivirus.1000.www-dev.admin.alumni.dev.soundtrap.com
@@ -6496,6 +6480,7 @@ apac.api.tenantuser.records.infra.teams.microsoft.com
 apac.betfair.com
 apac.binance.com
 apac.bluejeans.com
+apac.business.samsung.com
 apac.centrify.com
 apac.docret.wh.records.infra.teams.microsoft.com
 apac.gmevpn.microsoft.com
@@ -9008,6 +8993,7 @@ api.ccit.cisco.com
 api.ccp.pulsarx-int.microsoft.com
 api.ccp.pulsarx.microsoft.com
 api.cd.segment.com
+api.cdc-material.qq.com
 api.cdn-pci.optimizely.com
 api.cdn.optimizely.com
 api.cdo.oppomobile.com
@@ -9455,6 +9441,7 @@ api.edp.yeloplay.be
 api.edu.apple.com
 api.education.github.com
 api.educationresources.microsoft.com
+api.effect.qq.com
 api.egifting.starbucks.com.cn
 api.egifting.stg.starbucks.com.cn
 api.elvenar.com
@@ -9906,6 +9893,7 @@ api.little.demo.vkpay.io
 api.live.com
 api.live.net
 api.livetalk.mi.com
+api.lkfz.qq.com
 api.lnpdmz.stage.paypal.com
 api.lnx.my.auvik.com
 api.loadtest.venmo.com
@@ -10467,6 +10455,7 @@ api.showmax.com
 api.si.adcenter.microsoft.com
 api.si.bingads.glbdns2.microsoft.com
 api.si.bingads.microsoft.com
+api.si.edgeoffer.microsoft.com
 api.si.yahoo.adcenterapi.microsoft.com
 api.sif.qq.com
 api.sigmavirus24.github.com
@@ -10770,6 +10759,7 @@ api.stage2du61.stage.paypal.com
 api.stage2du63.stage.paypal.com
 api.stage2du66.stage.paypal.com
 api.stage2du70.stage.paypal.com
+api.stage2du74.stage.paypal.com
 api.stage2du80.stage.paypal.com
 api.stage2du82.stage.paypal.com
 api.stage2du85.stage.paypal.com
@@ -15073,6 +15063,7 @@ approvalmax.zoom.us
 approvals-dev.cisco.com
 approvals-prod-alln.cisco.com
 approvals-prod-rcdn.cisco.com
+approvals-prodc.licensing.microsoft.com
 approvals-services.cisco.com
 approvals-stage.cisco.com
 approvals.amazon.com
@@ -26943,7 +26934,9 @@ assets.app.slack.com
 assets.apps.wellness.dev.lifeomic.com
 assets.artists.amazon.com
 assets.atlassian.net
+assets.auth.dev.magic.link
 assets.auth.magic.link
+assets.auth.stagef.magic.link
 assets.avanihotels.com.san.cloudinary.com
 assets.betfair.com
 assets.betfair.it
@@ -31547,6 +31540,7 @@ attinadsoftware.atlassian.net
 attinsight.bitdefender.com
 attiq_ur_rehman.live.com
 attirantshop.bigcartel.com
+attire-zilla.myshopify.com
 attirons.tmall.com
 attitudeandgratitude.etsy.com
 attitudegirlwins.spaces.live.com
@@ -34390,6 +34384,7 @@ authdl.my.games
 authentea.en.alibaba.com
 authentea.tmall.com
 authentic-brewers-store.myshopify.com
+authentic-collectors.myshopify.com
 authentic4d-my.sharepoint.com
 authentic4d.sharepoint.com
 authentic8.zoom.us
@@ -43141,6 +43136,7 @@ axiscapital.onedrive.com
 axiscapitalgrp.quora.com
 axisclinicalsoftwareinc.sharepoint.com
 axisdr.dev.serviceshub.microsoft.com
+axisdr.serviceshub.microsoft.com
 axishcl.quora.com
 axisneuro.sharepoint.com
 axisng.microsoft.com
@@ -48964,6 +48960,7 @@ baby-alina.dev.pyszne.pl
 baby-amy-store.myshopify.com
 baby-art-mart.myshopify.com
 baby-booq.myshopify.com
+baby-byrd-club.myshopify.com
 baby-dark95.spaces.live.com
 baby-diaper.en.alibaba.com
 baby-ecobean-cloth-diapers.myshopify.com
@@ -49219,6 +49216,7 @@ babypdesigns.etsy.com
 babypet1984.spaces.live.com
 babypop.etsy.com
 babypretty.en.alibaba.com
+babyproducthacks.myshopify.com
 babypuffa1995.spaces.live.com
 babyqingqing007.spaces.live.com
 babyra.stanford.edu
@@ -50628,6 +50626,7 @@ baguguhua.1688.com
 baguiogrp-my.sharepoint.com
 baguiogrp.sharepoint.com
 baguxie.1688.com
+baguys.myshopify.com
 bagworldfactory.en.alibaba.com
 bagwx.1688.com
 bagxboy.bigcartel.com
@@ -62697,6 +62696,7 @@ beko_2707.mail.ru
 bekoag.atlassian.net
 bekocd.tmall.com
 bekochan.etsy.com
+bekoti-norway.myshopify.com
 bekpasov.mail.ru
 bekseitov.mail.ru
 bekspirt.mail.ru
@@ -62762,6 +62762,7 @@ bel.eu.gateway.mastercard.com
 bel.services.mastercard.com
 bel77.mail.ru
 bel_dee.mail.ru
+bela-moda-fashions.myshopify.com
 belababy-boygirl.aliexpress.com
 belababy.aliexpress.com
 belabraziliandesigns.etsy.com
@@ -63744,6 +63745,7 @@ bendangwuren.spaces.live.com
 bendavid.innocraft.cloud
 bendbeanies.etsy.com
 bendbulletin.innocraft.cloud
+benden.ca.planethoster.net
 bender-auth.tesla.com
 bender-uat.apple.com
 bender.1688.com
@@ -65498,6 +65500,7 @@ best-java-training-in-chennai.quora.com
 best-lcd.en.alibaba.com
 best-mac-anti-virus-software.vivy.com
 best-manuals.myshopify.com
+best-mens-swimwear.myshopify.com
 best-metal.en.alibaba.com
 best-mo.spaces.live.com
 best-of-9gag.quora.com
@@ -76312,6 +76315,7 @@ binbinxiaoshu.tmall.com
 binbo.en.alibaba.com
 binbo.tmall.com
 binbosm.tmall.com
+binbrook-boutique.myshopify.com
 bincatrade.cn.alibaba.com
 bincavidou.tmall.com
 binchotanvn.trustpass.alibaba.com
@@ -76735,6 +76739,7 @@ bio-gy1rsr1.stanford.edu
 bio-h4tmkb2.stanford.edu
 bio-h6x5q13.stanford.edu
 bio-h8k0dp1.stanford.edu
+bio-hacker-company.myshopify.com
 bio-hbf12.stanford.edu
 bio-hch03.stanford.edu
 bio-hch05.stanford.edu
@@ -82307,6 +82312,7 @@ blendandbrewteaco.bigcartel.com
 blendbodyandskincare.bigcartel.com
 blendbydk.bigcartel.com
 blendcute.myshopify.com
+blended-organic.myshopify.com
 blendedartistry.bigcartel.com
 blendedsplendid.etsy.com
 blender-house.spaces.live.com
@@ -89292,6 +89298,7 @@ boacleanup.synaptic.att.com
 boacompra-1.myshopify.com
 boaimix.cn.alibaba.com
 boalinxi.spaces.live.com
+boaltgallery-com.myshopify.com
 boaltgallery-com.shopify.com
 boamaod.github.com
 boamaodvirus.github.com
@@ -92269,6 +92276,7 @@ boothfabricatorsindelhi.quora.com
 boothorn.sf.net
 bootiemcgee.imgur.com
 bootiesinabox.etsy.com
+bootiful-active-wear.myshopify.com
 bootlegchocolates.foxycart.com
 bootletreebob.etsy.com
 bootmaker.etsy.com
@@ -97858,6 +97866,7 @@ brazilopen-covid19.slack.com
 brazilsars-cov-2covid-19.slack.com
 brazilsecure.antivirus.goodrx.com
 brazilsmtp3.shopify.com
+brazilsouth.api.cognitive.microsoft.com
 brazilsouth.dev.cognitive.microsoft.com
 brazilsouth.prod.powerquery.microsoft.com
 brazilsouth.vnet.powerplatform.microsoft.com
@@ -103505,6 +103514,7 @@ build-mras.dev.mail.ru
 build-testbed.cisco.com
 build-to-fix-production.mapbox.com
 build-web.cisco.com
+build-your-neon.myshopify.com
 build.1.xb.sf.net
 build.10.xb.sf.net
 build.11.xb.sf.net
@@ -106069,6 +106079,7 @@ buy-gz-ft1.geico.com
 buy-gz-in1.geico.com
 buy-gz-lt1.geico.com
 buy-gz-ut1.geico.com
+buy-in-new.myshopify.com
 buy-int.geico.com
 buy-int.mpgsc.glbdns2.microsoft.com
 buy-intl.aliyun.com
@@ -124328,6 +124339,7 @@ canvas.udemy.com
 canvas.yelp.com
 canvasandjoy.etsy.com
 canvasandslate.etsy.com
+canvasanimals.myshopify.com
 canvasceo.etsy.com
 canvasdevgsb.gsb.stanford.edu
 canvasgsb.gsb.stanford.edu
@@ -128081,6 +128093,7 @@ casepixel.myshopify.com
 casereviewuat.microsoft.com
 cases-china.en.alibaba.com
 cases-for-your-phone.myshopify.com
+cases-prod.serviceshub.microsoft.com
 cases.corp.google.com
 cases.feedzai-sandbox.spotify.net
 cases.feedzai.spotify.net
@@ -128742,6 +128755,7 @@ castawayvintage.etsy.com
 castechcorp.fm.alibaba.com
 casteeld.github.com
 castelfocognano.spaces.live.com
+castelfortecr.myshopify.com
 castellanolaw.sharepoint.com
 castellarnau.sharepoint.com
 castellerloprado.spaces.live.com
@@ -129730,6 +129744,7 @@ caulfieldgs-my.sharepoint.com
 caulfieldgs.sharepoint.com
 cauliflowerkids.etsy.com
 caulkmeat.imgur.com
+caulktool.myshopify.com
 cauonline.zoom.us
 caupe-care.myshopify.com
 cauryoga.vhx.tv
@@ -147351,6 +147366,7 @@ charentaisdecoeur.spaces.live.com
 charetec.1688.com
 charfenfs.tmall.com
 chargar.aliexpress.com
+charge-from-home.myshopify.com
 charge-readout-rio.stanford.edu
 charge.1688.com
 charge.atlassian.net
@@ -148153,3 +148169,17 @@ chat-gateway-prod.chat.snapchat.com
 chat-grudge-pandemic.my.com
 chat-k01a-rdr1.blue.icq.net
 chat-k01a.blue.icq.net
+chat-k01b-rdr1.blue.icq.net
+chat-k01b.blue.icq.net
+chat-k01c-rdr1.blue.icq.net
+chat-k01c.blue.icq.net
+chat-k01d.blue.icq.net
+chat-k01e.blue.icq.net
+chat-k02a-rdr1.blue.icq.net
+chat-k02a.blue.icq.net
+chat-k02b-rdr1.blue.icq.net
+chat-k02b.blue.icq.net
+chat-k02c-rdr1.blue.icq.net
+chat-k02c.blue.icq.net
+chat-k02d.blue.icq.net
+chat-k02e.blue.icq.net
