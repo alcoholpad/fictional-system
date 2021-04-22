@@ -1,3 +1,11 @@
+antivirus.0.dyson.com
+antivirus.020959.fm.alibaba.com
+antivirus.0523xd.cn.alibaba.com
+antivirus.086086.cn.alibaba.com
+antivirus.09led.en.alibaba.com
+antivirus.1.github.com
+antivirus.1.goodrx.com
+antivirus.1.snappublisher.snapchat.com
 antivirus.10.github.com
 antivirus.10.goodrx.com
 antivirus.1000.www-dev.admin.alumni.dev.soundtrap.com
@@ -32424,6 +32432,7 @@ audience.adcenter.microsoft.com
 audience.att.com
 audience.bingads.microsoft.com
 audience.fb.com
+audience.visma.com
 audiencenetwork.att.com
 audienceplanning-eu.corp.amazon.com
 audienceplanning-fe.corp.amazon.com
@@ -33735,10 +33744,14 @@ auth-test-a-cloudstation-eu-central-1.qa.hydra.sophos.com
 auth-test-a-cloudstation-eu-west-1.dev.hydra.sophos.com
 auth-test-a-cloudstation-eu-west-1.inf.hydra.sophos.com
 auth-test-a-cloudstation-us-west-2.qa.hydra.sophos.com
+auth-test-a-station-us-east-1.stn000iad.ctr.sophos.com
+auth-test-a-station-us-east-2.stn000cmh.ctr.sophos.com
 auth-test-a.cloudstation.eu-central-1.qa.hydra.sophos.com
 auth-test-a.cloudstation.eu-west-1.dev.hydra.sophos.com
 auth-test-a.cloudstation.eu-west-1.inf.hydra.sophos.com
 auth-test-a.cloudstation.us-west-2.qa.hydra.sophos.com
+auth-test-a.station.us-east-1.stn000iad.ctr.sophos.com
+auth-test-a.station.us-east-2.stn000cmh.ctr.sophos.com
 auth-test-b-cloudstation-eu-central-1.qa.hydra.sophos.com
 auth-test-b-cloudstation-eu-west-1.dev.hydra.sophos.com
 auth-test-b-cloudstation-eu-west-1.inf.hydra.sophos.com
@@ -33760,7 +33773,9 @@ auth-test-c.station.us-east-2.stn000cmh.ctr.sophos.com
 auth-test-c.stn000cmh.ctr.sophos.com
 auth-test-c.stn000iad.ctr.sophos.com
 auth-test-s-cloudstation-eu-west-1.inf.hydra.sophos.com
+auth-test-s-station-us-east-2.stn000cmh.ctr.sophos.com
 auth-test-s.cloudstation.eu-west-1.inf.hydra.sophos.com
+auth-test-s.station.us-east-2.stn000cmh.ctr.sophos.com
 auth-test.dev.insolar.io
 auth-test.globalpay.westernunion.com
 auth-test.stanford.edu
@@ -42907,6 +42922,7 @@ axb72s49.cloudstation.eu-west-1.inf.hydra.sophos.com
 axbearing.en.alibaba.com
 axbety.aliexpress.com
 axbg.tmall.com
+axbiz.tmall.com
 axbo-world.myshopify.com
 axbuildingmaterial.en.alibaba.com
 axc-macbook-pro-8-3.apollo.smartsheet.com
@@ -61234,6 +61250,8 @@ beaverbuilders.slack.com
 beavercreek.hyatt.com
 beavercreek.park.hyatt.com
 beavercreekresidences.hyatt.com
+beavercreektownshiporg-my.sharepoint.com
+beavercreektownshiporg.sharepoint.com
 beaverhunter120.imgur.com
 beaverislandarts.etsy.com
 beaversbrothers.slack.com
@@ -85438,6 +85456,7 @@ blueforce.sharepoint.com
 blueforestjewellery.etsy.com
 bluefox1112.spaces.live.com
 bluefoxgaskets.fm.alibaba.com
+bluefoxwealth-my.sharepoint.com
 bluefoxwillow.etsy.com
 bluefrog.imgur.com
 bluefront-ds-eu-gamma.amazon.com
@@ -89011,6 +89030,7 @@ bnkems.atlassian.net
 bnkeyes.imgur.com
 bnklrtou.tmall.com
 bnklsp.tmall.com
+bnkp1do8.cloudstation.eu-west-1.inf.hydra.sophos.com
 bnlband.spaces.live.com
 bnldzxms.cloudstation.eu-west-1.inf.hydra.sophos.com
 bnled.spaces.live.com
@@ -125457,6 +125477,7 @@ carbonfilter.en.alibaba.com
 carbonfive.github.com
 carbonfivehacknights.slack.com
 carbonfootprint.gsa.gov
+carbonfreeliving.stanford.edu
 carbonholdings.sharepoint.com
 carbonite-my.sharepoint.com
 carbonite.sharepoint.com
@@ -125695,6 +125716,7 @@ cardinalatwork.stanford.edu
 cardinalb2b.customdomains.oktapreview.com
 cardinalb2e.customdomains.oktapreview.com
 cardinalcarryor.sharepoint.com
+cardinalclean.stanford.edu
 cardinalcloud.stanford.edu
 cardinalcomets.edmodo.com
 cardinalcommercecorporation.statuspage.io
@@ -126237,6 +126259,8 @@ caressedcurves.bigcartel.com
 carestar-my.sharepoint.com
 carestar.en.alibaba.com
 carestar.sharepoint.com
+carestation-my.sharepoint.com
+carestation.sharepoint.com
 caresumables.slack.com
 careswitch-my.sharepoint.com
 careswitch.sharepoint.com
@@ -148177,9 +148201,3 @@ chat-k01d.blue.icq.net
 chat-k01e.blue.icq.net
 chat-k02a-rdr1.blue.icq.net
 chat-k02a.blue.icq.net
-chat-k02b-rdr1.blue.icq.net
-chat-k02b.blue.icq.net
-chat-k02c-rdr1.blue.icq.net
-chat-k02c.blue.icq.net
-chat-k02d.blue.icq.net
-chat-k02e.blue.icq.net
