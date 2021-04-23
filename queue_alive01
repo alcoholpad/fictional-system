@@ -1,3 +1,11 @@
+antivirus.086086.cn.alibaba.com
+antivirus.09led.en.alibaba.com
+antivirus.1.github.com
+antivirus.1.goodrx.com
+antivirus.1.snappublisher.snapchat.com
+antivirus.10.github.com
+antivirus.10.goodrx.com
+antivirus.1000.www-dev.admin.alumni.dev.soundtrap.com
 antivirus.100trading.en.alibaba.com
 antivirus.1017.openvpn.stg.bomgar-invoice.www.starbucks.com.cn
 antivirus.11-dentalplans.goodrx.com
@@ -8922,6 +8930,7 @@ api.bitmoji.com
 api.biz.yelp.com
 api.bizapps-stage.cisco.com
 api.bizapps.cisco.com
+api.biztools.cp.microsoft.com
 api.blizzard.com
 api.blockchain.com
 api.blockchain.info
@@ -8983,6 +8992,8 @@ api.canva.cn
 api.canva.com
 api.car-line.yelp.com
 api.cardinal.stage.paypal.com
+api.careercoach-bvt.microsoft.com
+api.careercoach-uat.microsoft.com
 api.cat.feeds.yahoo.com
 api.catalog.cp.microsoft.com
 api.cayman.microsoft.com
@@ -9287,6 +9298,7 @@ api.dev.imgur.com
 api.dev.lifeomic.com
 api.dev.magic.link
 api.dev.mobile.investments.ing.nl
+api.dev.mop.apps.samsung.com
 api.dev.mptse.mastercard.com
 api.dev.optimizely.com
 api.dev.paytmmoney.com
@@ -10019,6 +10031,7 @@ api.mobiledirect.earlywarning.com
 api.monet.netflix.com
 api.monet.test.netflix.com
 api.moneytree.jp
+api.mop.apps.samsung.com
 api.mosaicorigin.gs.com
 api.movies.vip.in.yahoo.com
 api.mp.tesla.services
@@ -11022,6 +11035,7 @@ api.statuspage.io
 api.steampowered.com
 api.stg.atlassian.com
 api.stg.dco.cloud.att.com
+api.stg.mop.apps.samsung.com
 api.stg.pi.microsoft.com
 api.stg1.ww.com
 api.stn000cmh.ctr.sophos.com
@@ -11160,6 +11174,7 @@ api.test32.stage.paypal.com
 api.test33.stage.paypal.com
 api.test34.stage.paypal.com
 api.test35.stage.paypal.com
+api.test36.stage.paypal.com
 api.test37.stage.paypal.com
 api.test38.stage.paypal.com
 api.test98.stage.paypal.com
@@ -11754,6 +11769,7 @@ api2.vmall.com
 api2.weixin.qq.com
 api2.wii.qq.com
 api2.yelp.com
+api2.zilliqa.com
 api20.apps.cb.gq1.yahoo.com
 api20.binance.com
 api2019-ncov-hackathon.slack.com
@@ -12212,6 +12228,7 @@ apim.cainiao.com
 apim.us-east-1.aws.amazon.com
 apimail.zomato.com
 apimanagement-poc.geico.com
+apimanagement.prod.esi.microsoft.com
 apimanagement.uat.esi.microsoft.com
 apimanager-lt.geico.com
 apimanager.geico.com
@@ -21461,6 +21478,7 @@ art-service-schedule-beta.integ.amazon.com
 art-service-schedule-gamma.corp.amazon.com
 art-service-schedule.corp.amazon.com
 art-service.amazon.com
+art-shades.myshopify.com
 art-st-philips.stanford.edu
 art-tehnik.mail.ru
 art-to-aid.myshopify.com
@@ -21737,6 +21755,7 @@ artdje.bigcartel.com
 artdoodads.etsy.com
 artdornments.etsy.com
 artdownunder.etsy.com
+arte-a-la-moda.myshopify.com
 arte-master.mail.ru
 arte.1688.com
 arte.atlassian.net
@@ -26079,6 +26098,8 @@ asli898.cn.alibaba.com
 aslibinal.etsy.com
 aslice42.imgur.com
 aslika.fm.alibaba.com
+aslike.taobao.com
+aslike.world.taobao.com
 aslikemusic.booth.pm
 aslitest.en.alibaba.com
 aslkjgkj2512.myshopify.com
@@ -26966,6 +26987,8 @@ assets.butternutbox.com.san.cloudinary.com
 assets.caffeine.tv
 assets.cainiao.com
 assets.car-line.yelp.com
+assets.careercoach-bvt.microsoft.com
+assets.careercoach-uat.microsoft.com
 assets.cashforyourmac.com.san.cloudinary.com
 assets.cdn-pci.optimizely.com
 assets.cdn.optimizely.com
@@ -30147,6 +30170,7 @@ atlabreplica1.wireless.labs.att.com
 atlabtools01.wireless.labs.att.com
 atlabvctr.wireless.labs.att.com
 atlabvpn.wireless.labs.att.com
+atlan.plaid.com
 atlanab.statuspage.io
 atlanskz.mail.ru
 atlant-azia.mail.ru
@@ -31922,6 +31946,7 @@ au.trustpilot.com
 au.tv.m.yahoo.com
 au.tv.yahoo.com
 au.udemy.com
+au.us.biz.yahoo.com
 au.viator.com
 au.video.yahoo.com
 au.virussite.sports.www5.betfair.com
@@ -33753,6 +33778,7 @@ auth-test-a.cloudstation.eu-west-1.inf.hydra.sophos.com
 auth-test-a.cloudstation.us-west-2.qa.hydra.sophos.com
 auth-test-a.station.us-east-1.stn000iad.ctr.sophos.com
 auth-test-a.station.us-east-2.stn000cmh.ctr.sophos.com
+auth-test-b-alt.stn000iad.ctr.sophos.com
 auth-test-b-cloudstation-eu-central-1.qa.hydra.sophos.com
 auth-test-b-cloudstation-eu-west-1.dev.hydra.sophos.com
 auth-test-b-cloudstation-eu-west-1.inf.hydra.sophos.com
@@ -33761,6 +33787,7 @@ auth-test-b.cloudstation.eu-central-1.qa.hydra.sophos.com
 auth-test-b.cloudstation.eu-west-1.dev.hydra.sophos.com
 auth-test-b.cloudstation.eu-west-1.inf.hydra.sophos.com
 auth-test-b.cloudstation.us-west-2.qa.hydra.sophos.com
+auth-test-b.stn000iad.ctr.sophos.com
 auth-test-c-alt.stn000cmh.ctr.sophos.com
 auth-test-c-alt.stn000iad.ctr.sophos.com
 auth-test-c-cloudstation-eu-west-1.dev.hydra.sophos.com
@@ -33773,10 +33800,12 @@ auth-test-c.station.us-east-1.stn000iad.ctr.sophos.com
 auth-test-c.station.us-east-2.stn000cmh.ctr.sophos.com
 auth-test-c.stn000cmh.ctr.sophos.com
 auth-test-c.stn000iad.ctr.sophos.com
+auth-test-s-alt.stn000cmh.ctr.sophos.com
 auth-test-s-cloudstation-eu-west-1.inf.hydra.sophos.com
 auth-test-s-station-us-east-2.stn000cmh.ctr.sophos.com
 auth-test-s.cloudstation.eu-west-1.inf.hydra.sophos.com
 auth-test-s.station.us-east-2.stn000cmh.ctr.sophos.com
+auth-test-s.stn000cmh.ctr.sophos.com
 auth-test.dev.insolar.io
 auth-test.globalpay.westernunion.com
 auth-test.stanford.edu
@@ -34647,6 +34676,8 @@ authy.qa2.braintreepayments.com
 authy.sand.braintreepayments.com
 authy.vimeo.com
 authyellowfevervaccine.lieferando.at
+authz-alt.stn000cmh.ctr.sophos.com
+authz-alt.stn000iad.ctr.sophos.com
 authz-cloudhub-eu-west-1.dev.hydra.sophos.com
 authz-cloudhub-eu-west-1.qa.hydra.sophos.com
 authz-cloudstation-eu-central-1.qa.hydra.sophos.com
@@ -34715,6 +34746,8 @@ authz.pi.dps.microsoft.com
 authz.stanford.edu
 authz.station.us-east-1.stn000iad.ctr.sophos.com
 authz.station.us-east-2.stn000cmh.ctr.sophos.com
+authz.stn000cmh.ctr.sophos.com
+authz.stn000iad.ctr.sophos.com
 authz.workbox.dk
 authz01.stanford.edu
 authz02.stanford.edu
@@ -48983,6 +49016,7 @@ baby-byrd-club.myshopify.com
 baby-dark95.spaces.live.com
 baby-diaper.en.alibaba.com
 baby-ecobean-cloth-diapers.myshopify.com
+baby-falimey.myshopify.com
 baby-feetz.myshopify.com
 baby-frecklebox-com.myshopify.com
 baby-girl-halos.myshopify.com
@@ -56442,6 +56476,7 @@ bazaar.udemy.com
 bazaar.yelp.com
 bazaar247.myshopify.com
 bazaarglass.etsy.com
+bazaaril.myshopify.com
 bazaarjewelrychina-brand.tmall.com
 bazaarvoice.github.com
 bazadedyha.mail.ru
@@ -61080,11 +61115,13 @@ beauty-by-true.myshopify.com
 beauty-care24.myshopify.com
 beauty-center.taobao.com
 beauty-center.world.taobao.com
+beauty-discount-e-co.myshopify.com
 beauty-divine.shopify.com
 beauty-empire.myshopify.com
 beauty-faster.myshopify.com
 beauty-flakes.myshopify.com
 beauty-health-business.spaces.live.com
+beauty-health-zone.myshopify.com
 beauty-intl.en.alibaba.com
 beauty-jubilee.myshopify.com
 beauty-led-evo.myshopify.com
@@ -61094,6 +61131,7 @@ beauty-mirrors-world.myshopify.com
 beauty-of-nature.spaces.live.com
 beauty-penza.mail.ru
 beauty-review-beauty-box.myshopify.com
+beauty-s-farm.myshopify.com
 beauty-scarf.taobao.com
 beauty-sides.myshopify.com
 beauty-so-fly.myshopify.com
@@ -62848,6 +62886,7 @@ belchusov.mail.ru
 belcom-co.mail.ru
 belcrom.myshopify.com
 beldar.slac.stanford.edu
+beldgym.myshopify.com
 beldisegno.etsy.com
 beldt-labs.myshopify.com
 belebereh.imgur.com
@@ -62925,6 +62964,7 @@ belgrade.regency.hyatt.com
 belgradechristian.slack.com
 belgravestbartholomews.sharepoint.com
 belgravia-wines.myshopify.com
+belhairbox.myshopify.com
 belhamco.etsy.com
 belhamherbals.etsy.com
 belhosting.mail.ru
@@ -79267,6 +79307,7 @@ biztechltd-my.sharepoint.com
 biztechltd.sharepoint.com
 biztechsol-my.sharepoint.com
 biztechsol.sharepoint.com
+biztools.cp.microsoft.com
 biztopsus-public.sharepoint.com
 biztopsus.sharepoint.com
 bizuteria.spaces.live.com
@@ -82384,6 +82425,7 @@ blessed2cut.bigcartel.com
 blessedannouncements.etsy.com
 blessedarethegeek.etsy.com
 blessedbeadjewelry.etsy.com
+blessedbeautymakeup.myshopify.com
 blessedbundless.bigcartel.com
 blessedbyyou.bigcartel.com
 blessedcountrymommie.etsy.com
@@ -85153,6 +85195,7 @@ blue-moon.accounts.binance.com
 blue-oil.slack.com
 blue-old.cisco.com
 blue-owl-workshop.myshopify.com
+blue-perfumeria.myshopify.com
 blue-prince.spaces.live.com
 blue-sail.en.alibaba.com
 blue-sand-us-westages.venmo.com
@@ -85928,6 +85971,7 @@ bluetooth-wifi.en.alibaba.com
 bluetooth-wireless-led-lights.myshopify.com
 bluetoothbluecorona.harvestapp.com
 bluetoothcnc.1688.com
+bluetoothled-lights.myshopify.com
 bluetpt1023.spaces.live.com
 bluetradeinvest.pipedrive.com
 bluetradesys.atlassian.net
@@ -104850,6 +104894,7 @@ bundlemeboutique.etsy.com
 bundleofjoydesigns.etsy.com
 bundler.rubygems.org
 bundler.slack.com
+bundles-of-joy-2021.myshopify.com
 bundles.stanford.edu
 bundlesbug.slack.com
 bundlesofjoygloss.bigcartel.com
@@ -108596,6 +108641,7 @@ by-healthsjs.tmall.com
 by-homee.myshopify.com
 by-knitgoods.en.alibaba.com
 by-lilou-jewellery-2.myshopify.com
+by-millie-hannah.myshopify.com
 by-mouse.taobao.com
 by-simplelife.taobao.com
 by-tara-hg.myshopify.com
@@ -112556,6 +112602,7 @@ c1pclncdn.qaa.priceline.com
 c1ph04store.myshopify.com
 c1pher.spaces.live.com
 c1sit.microsoft.com
+c1st1kun.cloudstation.eu-west-1.inf.hydra.sophos.com
 c1t6pm8vrjmsl1iproe4at20650rv6no.waf.aliyun.com
 c1t6pm8vrjmsl1iproe4at20650rv6no.waf.taobao.com
 c1uat.microsoft.com
@@ -121976,6 +122023,7 @@ callisteelixirs.etsy.com
 callisto-inna_odincova.mail.ru
 callisto-virusreutovmailru.mail.ru
 callisto.1688.com
+callisto.a11y.box.lab.smartsheet.com
 callisto.atlassian.net
 callisto.chaturbate.com
 callisto.github.com
@@ -122878,6 +122926,7 @@ camp-eu.corp.amazon.com
 camp-gamma.corp.amazon.com
 camp-image.current.adcenter-pace.microsoft.com
 camp-test.corp.amazon.com
+camp-tuff.myshopify.com
 camp.1688.com
 camp.astrogaming.com
 camp.atlassian.net
@@ -123600,6 +123649,7 @@ canaryclient.fitbit.com
 canaryctr-hummingbird.stanford.edu
 canaryesrs.stanford.edu
 canarymarketingcloud.sharepoint.com
+canarymarvel-k8s.xobni.yahoo.com
 canarymgmt.fitbit.com
 canaryppe.storeedgefd.dsx.mp.microsoft.com
 canarysystems.sharepoint.com
@@ -128106,6 +128156,7 @@ caseamore.etsy.com
 caseassignmentvpilot.microsoft.com
 casebe.myshopify.com
 casecolpwe.spaces.live.com
+cased-up-accessories.myshopify.com
 caseeasier.cn.alibaba.com
 casefile.robinhood.com
 casefloral-custom.myshopify.com
@@ -129766,6 +129817,7 @@ catznip.atlassian.net
 catzproxy.shop.corp.yahoo.com
 cau-imqprevencion.atlassian.net
 cau.zoom.us
+cau21.sharepoint.com
 caublestone.quora.com
 cauce-covid-antiabuse.slack.com
 cauceducn-my.sharepoint.com
@@ -136295,6 +136347,7 @@ cdntwks11.slac.stanford.edu
 cdntwks26.slac.stanford.edu
 cdnvi.antivirus.goodrx.com
 cdnvideo.files.com
+cdnvt.sgp.telekom.de
 cdnw3.antivirus.goodrx.com
 cdnwebapp.antivirus.goodrx.com
 cdnwesteurope.antivirus.goodrx.com
@@ -138417,6 +138470,7 @@ centralhardwareloan.software.eu.playstation.com
 centralia-my.sharepoint.com
 centralia.sharepoint.com
 centralindia-speech0-prod7-dpp-frontend.dpp.speech.microsoft.com
+centralindia.api.cognitive.microsoft.com
 centralindia.commands.runtime.speech.microsoft.com
 centralindia.commands.speech.microsoft.com
 centralindia.convai.speech.microsoft.com
@@ -138497,8 +138551,10 @@ centralus-dpp-frontend.dpp.speech.microsoft.com
 centralus-prod.notifications.teams.microsoft.com
 centralus-speech0-prod7-dpp-frontend.dpp.speech.microsoft.com
 centralus.aadbridge.mcapiaadbridge.commerce.microsoft.com
+centralus.api.cognitive.microsoft.com
 centralus.cbsl-int.mp.microsoft.com
 centralus.cbsl.mp.microsoft.com
+centralus.dev.cognitive.microsoft.com
 centralus.dgs-frontend.speech.microsoft.com
 centralus.dgs.speech.microsoft.com
 centralus.disposition.mcapifulfillment-commercial.commerce.microsoft.com
@@ -139921,6 +139977,7 @@ certificate.vhx.tv
 certificate.videocdn.yelp.com
 certificate.vivy.com
 certificate.widget.cloudinary.com
+certificate.wns.qq.com
 certificate.www.files.com
 certificate.www.goodrx.com
 certificate.www.greenhouse.io
@@ -145470,6 +145527,7 @@ cguru.spaces.live.com
 cgvoo.ke.qq.com
 cgw.csigssd.tencent.com
 cgw.skype.com
+cgw01.b2b-app.telekom.de
 cgwell.ke.qq.com
 cgwhitfield.etsy.com
 cgwigc.en.alibaba.com
@@ -147769,6 +147827,7 @@ charlotteandjoseph-my.sharepoint.com
 charlotteandjoseph.sharepoint.com
 charlotteannette.etsy.com
 charlottearrowood.place.hyatt.com
+charlottebio.myshopify.com
 charlotteburkhart.etsy.com
 charlottecentercity.house.hyatt.com
 charlottechesnais.foxycart.com
@@ -148209,30 +148268,3 @@ chat-ext-mmap-xe04-rno.apple.com
 chat-ext-mmap-xe05-rno.apple.com
 chat-ext-mmap-xe06-rno.apple.com
 chat-gateway-prod.chat.snapchat.com
-chat-grudge-pandemic.my.com
-chat-k01a-rdr1.blue.icq.net
-chat-k01a.blue.icq.net
-chat-k01b-rdr1.blue.icq.net
-chat-k01b.blue.icq.net
-chat-k01c-rdr1.blue.icq.net
-chat-k01c.blue.icq.net
-chat-k01d.blue.icq.net
-chat-k01e.blue.icq.net
-chat-k02a-rdr1.blue.icq.net
-chat-k02a.blue.icq.net
-chat-k02b-rdr1.blue.icq.net
-chat-k02b.blue.icq.net
-chat-k02c-rdr1.blue.icq.net
-chat-k02c.blue.icq.net
-chat-k02d.blue.icq.net
-chat-k02e.blue.icq.net
-chat-m01a-rdr1.blue.icq.net
-chat-m01a.blue.icq.net
-chat-m01b-rdr1.blue.icq.net
-chat-m01b.blue.icq.net
-chat-m01c-rdr1.blue.icq.net
-chat-m01c.blue.icq.net
-chat-m01d.blue.icq.net
-chat-m01e.blue.icq.net
-chat-m02a-rdr1.blue.icq.net
-chat-m02a.blue.icq.net
