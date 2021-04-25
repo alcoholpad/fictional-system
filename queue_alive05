@@ -1,3 +1,10 @@
+ifm-dev-164.cisco.com
+ifm-dev-165.cisco.com
+ifm-dev-168.cisco.com
+ifm-dev-169.cisco.com
+ifm-dev-176.cisco.com
+ifm-dev-177.cisco.com
+ifm-dev-178.cisco.com
 ifm-dev-179.cisco.com
 ifm-dev-180.cisco.com
 ifm-dev-181.cisco.com
@@ -1364,6 +1371,7 @@ ihmlibby-dub-gamma-dub.dub.proxy.amazon.com
 ihmlibby-dub-regional-dub.dub.proxy.amazon.com
 ihmlibby-gamma.amazon.com
 ihmlibby-iad.iad.proxy.amazon.com
+ihmlibby-ihm-dub1-dub.dub.proxy.amazon.com
 ihmlibby-ihm-iad2-iad.iad.proxy.amazon.com
 ihmlibby-ihm-pdx3-pdx.pdx.proxy.amazon.com
 ihmlibby-jane-dub1-dub.dub.proxy.amazon.com
@@ -1502,10 +1510,12 @@ ihmsputnik.integ.amazon.com
 ihmspyglass-d-eu-west-1.amazon.com
 ihmspyglass-us-east-1.amazon.com
 ihmspyglass.integ.amazon.com
+ihmstoreconfigvalidation-alpha.integ.amazon.com
 ihmstoreconfigvalidation-dub-gamma-dub.dub.proxy.amazon.com
 ihmstoreconfigvalidation-dub.dub.proxy.amazon.com
 ihmstoreconfigvalidation-gamma-pdx.pdx.proxy.amazon.com
 ihmstoreconfigvalidation-iad.iad.proxy.amazon.com
+ihmstoreconfigvalidation-pdx.pdx.proxy.amazon.com
 ihmstoreconfigvalidation.integ.amazon.com
 ihmstoretipservice-pdx.integ.amazon.com
 ihmstraume-alpha.integ.amazon.com
@@ -7592,6 +7602,7 @@ imodelhubapi-uks.bentley.com
 imodelhubapi.bentley.com
 imodelplugin.bentley.com
 imodelschemaeditor.bentley.com
+imodeltransformations-eus.bentley.com
 imodou.ke.qq.com
 imofang.taobao.com
 imogen.etsy.com
@@ -11068,6 +11079,7 @@ indiewebconsulting.slack.com
 indiewolf.etsy.com
 indiewonder.slack.com
 indiewriter.quora.com
+indigenousglass.bigcartel.com
 indigente.sf.net
 indigo-api.bluejeans.com
 indigo-apparel-ny.myshopify.com
@@ -17642,6 +17654,7 @@ intl-education-en.huaweicloud.com
 intl-feedback.oppomobile.com
 intl-fp-td-app-yahoo.fp.yahoo.com
 intl-global-adns.alibabacloud.com
+intl-global-ga-adns.alibabacloud.com
 intl-global-include-china-adns.alibabacloud.com
 intl-overseas-adns.alibabacloud.com
 intl.1688.com
@@ -42062,6 +42075,7 @@ jackpot.yelp.com
 jackpotcom-res.cloudinary.com
 jackpotjoygroup.innocraft.cloud
 jackpots.etsy.com
+jackpotspot.bigcartel.com
 jackpotspottery.etsy.com
 jackpower.en.alibaba.com
 jackrabbot2-dispatcher-laptop.stanford.edu
@@ -44428,6 +44442,7 @@ jasperconnectkb-prod-alln.cisco.com
 jasperconnectkb-prod-rcdn.cisco.com
 jaspercountyschooldist-my.sharepoint.com
 jaspercountyschooldist.sharepoint.com
+jaspercrafts.bigcartel.com
 jasperema.sharepoint.com
 jasperhillfarm.foxycart.com
 jasperinjune.etsy.com
@@ -48550,6 +48565,7 @@ jewelrybyjeanyang.etsy.com
 jewelrybyjohan.etsy.com
 jewelrybyjuliann.etsy.com
 jewelrybykimiko.etsy.com
+jewelrybyleo.bigcartel.com
 jewelrybylindsay.etsy.com
 jewelrybylori.etsy.com
 jewelrybymaria.etsy.com
@@ -57801,6 +57817,7 @@ joinsg.slack.com
 joinshapes.slack.com
 joinshine.en.alibaba.com
 joinslack-0-1.binance.com
+joinslack-01.binance.com
 joinslack-09-0.binance.com
 joinslack-1-2.binance.com
 joinslack-1-9.binance.com
@@ -69313,6 +69330,7 @@ kandakoval.mail.ru
 kandao.tmall.com
 kandarshop.myshopify.com
 kandasheikte.mail.ru
+kandbheart.bigcartel.com
 kande.etsy.com
 kanded.live.com
 kandejing.cn.alibaba.com
@@ -80355,6 +80373,7 @@ kjkydgin.imgur.com
 kjkzopkv.apple.com
 kjl.en.alibaba.com
 kjlbrush.en.alibaba.com
+kjlcosmetics.bigcartel.com
 kjlight.en.alibaba.com
 kjlpkjlp.cn.alibaba.com
 kjlygz3kaw.quora.com
@@ -85942,6 +85961,7 @@ kraftsamling.sharepoint.com
 kraftsbykruger.etsy.com
 kraftsbyyvonne.etsy.com
 kraftsunglasses.bigcartel.com
+kraftswithkaas.bigcartel.com
 kraftwelle.1688.com
 kraftykambri.bigcartel.com
 kraftykatcreations.etsy.com
@@ -98181,6 +98201,7 @@ lattepress.slack.com
 lattesa.vhx.tv
 lattewithlinky.etsy.com
 lattice-officer.slack.com
+lattice.bigcartel.com
 lattice.github.com
 latticegear.comlattice.github.com
 lattis.sf.net
@@ -115775,6 +115796,7 @@ littleseason.etsy.com
 littleseeddiaries.myshopify.com
 littleshang.spaces.live.com
 littleshopofbaubles.etsy.com
+littleshopofcreatives.bigcartel.com
 littleshopofellesee.etsy.com
 littleshopostitches.etsy.com
 littleshortie21.spaces.live.com
@@ -141274,6 +141296,7 @@ lsdtools.en.alibaba.com
 lsdyk.cn.alibaba.com
 lsdzw.tmall.com
 lsdzw.world.tmall.com
+lse-aea-beta.amazon.com
 lse.amazon.com
 lse.sf.net
 lse.zoom.us
@@ -149530,16 +149553,3 @@ m.cs000000000.vk.com
 m.cs7777.vk.com
 m.da-dk.lite.facebook.com
 m.dailymotion.com
-m.daoju.qq.com
-m.daoju.tc.qq.com
-m.daoju.tcdn.qq.com
-m.data.aliyun.com
-m.data.antivirus-smartrx.goodrx.com
-m.db.house.qq.com
-m.dc.avira-free-antivirus-test.staging.pyszne.pl
-m.de-de.ms-my.upps.lite.facebook.com
-m.de.aliexpress.com
-m.de.youtube.com
-m.dec-antivirus-applebees.goodrx.com
-m.dec.antivirushchrxduncan.goodrx.com
-m.delivery-club.ru
